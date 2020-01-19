@@ -1,0 +1,96 @@
+// Copyright (c) 2009-2018  Egon Willighagen <egon.willighagen@gmail.com>
+//
+// GPL v3
+
+import java.io.*;
+import java.util.*;
+
+runSuffix = ".rq";
+srcSuffix = runSuffix;
+
+inFile = args[0];
+
+runClass = inFile.substring(0,inFile.indexOf(runSuffix));
+runExt = runSuffix.substring(1)
+srcExt = srcSuffix.substring(1)
+runFile = runClass + runSuffix;
+srcFile = runClass + srcSuffix
+
+// create Markdown files
+md = new StringBuffer();
+
+// read the input
+reader = new BufferedReader(
+  new FileReader(srcFile)
+);
+line = reader.readLine();
+while (line != null) {
+  if (line.trim().length() > 0) {
+    if (line.charAt(0) == '#') {
+    } else if (line.charAt(0) == '%') {
+      md.append(line.substring(1)+"\n");
+    } else {
+      md.append(line+"\n");
+    }
+  }  
+  line = reader.readLine();
+}
+
+mdTypes = new ArrayList();
+mdTypes.add("verbatim");
+mdTypes.add("code");
+
+def srcLines = new File(srcFile).readLines()
+unencodedSPARQL = ""
+srcLines.each { String srcLine -> unencodedSPARQL += srcLine + "\n" }
+encodedSPARQL = java.net.URLEncoder.encode(unencodedSPARQL, "UTF-8")
+runURL = "https://query.wikidata.org/" + encodedSPARQL
+editURL = "https://query.wikidata.org/embed.html#" + encodedSPARQL // Virtuoso specific?
+
+for (int type=0; type<mdTypes.size(); type++) {
+  mdFile = runClass + "." + mdTypes.get(type) + ".md";
+  mdWriter = new FileWriter(
+    new File(mdFile)
+  );
+  template = new BufferedReader(
+    new FileReader(new File("md." + mdTypes.get(type) + ".template"))
+  );
+  line = template.readLine();
+  while (line != null) {
+    if (line.length() > 0) {
+      if (line.contains("%MD%")) {
+        line = line.replace("%MD%", md.toString());
+      } else if (line.contains("%STEM%")) {
+        line = line.replace("%STEM%", runClass);
+        line = line.replace("%EXT%", srcExt);
+        if (line.contains("%RUNURL%")) line = line.replace("%RUNURL%", runURL);
+        line = line + "\n";
+      } else if (line.contains("%SYNTAX%")) {
+        line = line.replace("%SYNTAX%", srcExt);
+        line = line + "\n";
+      } else if (line.contains("%SOURCECODE%")) {
+        srcLines = new File(srcFile).readLines()
+        srcLines.each { String srcLine -> mdWriter.write(srcLine + "\n") }
+        line = ""
+      } else if (line.contains("%OUT%")) {
+        srcLines = new File(runClass + ".out").readLines()
+        srcLines.each { String srcLine -> mdWriter.write(srcLine + "\n") }
+        line = ""
+      } else {
+        line = line + "\n";
+      }
+      if (line.contains("%RUNURL%")) {
+        line = line.replace("%RUNURL%", runURL);
+        line = line + "\n";
+      }
+      if (line.contains("%EDITURL%")) {
+        line = line.replace("%EDITURL%", editURL);
+        line = line + "\n";
+      }
+      mdWriter.write(line);
+    }
+    line = template.readLine();
+  }
+  mdWriter.close();
+}
+

@@ -1,0 +1,41 @@
+// Copyright (c) 2019  Egon Willighagen <egon.willighagen@gmail.com>
+//
+// GPL v3
+
+@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.0.10')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.0.10')
+
+bioclipse = new net.bioclipse.managers.BioclipseManager(".");
+rdf = new net.bioclipse.managers.RDFManager(".");
+
+inFile = args[0];
+
+sparql = new File(inFile).text
+
+if (bioclipse.isOnline()) {
+  resultsData = bioclipse.sparqlRemote(
+    "https://query.wikidata.org/bigdata/namespace/wdq/sparql", sparql
+  )
+  results = rdf.processSPARQLXML(resultsData, sparql)
+}
+
+// make output
+colNames = results.columnNames
+colCount = colNames.size()
+
+println "<table>"
+println "  <tr>"
+for (i=0; i<colCount; i++) {
+  println "    <td><b>${colNames.get(i)}</b></td>"
+}
+println "  </tr>"
+
+for (i=1;i<=results.rowCount;i++) {
+  rowVals = results.getRow(i)
+  println "  <tr>"
+  for (j=0; j<rowVals.size(); j++) {
+    println "    <td>${rowVals[j]}</td>"
+  }
+  println "  </tr>"
+}
+println "</table>"

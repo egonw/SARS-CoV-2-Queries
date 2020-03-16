@@ -1,0 +1,4 @@
+SELECT ?virus ?virusLabel  WHERE {
+  ?virus wdt:P171+ wd:Q278567 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

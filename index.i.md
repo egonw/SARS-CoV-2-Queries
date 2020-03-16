@@ -1,4 +1,4 @@
-# Useful Queries for Journal Editors
+# Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
 
 **Egon L. Willighagen**

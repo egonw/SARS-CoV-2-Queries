@@ -44,8 +44,9 @@ def srcLines = new File(srcFile).readLines()
 unencodedSPARQL = ""
 srcLines.each { String srcLine -> unencodedSPARQL += srcLine + "\n" }
 encodedSPARQL = java.net.URLEncoder.encode(unencodedSPARQL, "UTF-8")
-runURL = "https://query.wikidata.org/" + encodedSPARQL
-editURL = "https://query.wikidata.org/embed.html#" + encodedSPARQL // Virtuoso specific?
+runURL = "https://query.wikidata.org/embed.html#" + encodedSPARQL
+encodedSPARQL = encodedSPARQL.replace("+","%20");
+editURL = "https://query.wikidata.org/#" + encodedSPARQL
 
 for (int type=0; type<mdTypes.size(); type++) {
   mdFile = runClass + "." + mdTypes.get(type) + ".md";

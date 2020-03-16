@@ -1,0 +1,5 @@
+SELECT ?genome WHERE {
+  wd:Q82069695 wdt:P6800 ?genome .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+

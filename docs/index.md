@@ -7,17 +7,17 @@
 
 License: CC-BY-SA 4.0 International
 
-This book is written in Markdown with additional instructions that are preprocessed.
+This book is written in Markdown, with additional instructions that are preprocessed.
 This [README](https://github.com/egonw/SARS-CoV-2-Queries/blob/master/README.md)
 contains more information.
 
-Wishes, comments, and pull requests can be send to
+Wishes, comments, and pull requests can be sent to
 [this GitHub repository](https://github.com/egonw/SARS-CoV-2-Queries/).
 
 ## Contents
 
 1. [Introduction](intro.md) <br />
-2. [Virusses](virusses.md) <br />
+2. [Viruses](viruses.md) <br />
 3. [The pandemic](pandemic.md) <br />
 3.1. [Progression](pandemic.md#progression) <br />
 4. [Genes](genes.md) <br />

@@ -22,6 +22,6 @@ SELECT ?numberOfCases  WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -o earthAllCasesToday.rq https://raw.githubusercontent.com/jcheminform/useful-queries/master/sparql/earthAllCasesToday.rq
+curl -o earthAllCasesToday.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/earthAllCasesToday.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@earthAllCasesToday.rq
 ```

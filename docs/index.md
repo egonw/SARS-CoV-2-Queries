@@ -21,6 +21,8 @@ Wishes, comments, and pull requests can be send to
 3. [The pandemic](pandemic.md) <br />
 3.1. [Progression](pandemic.md#progression) <br />
 3.2. [Regional progression](pandemic.md#regional-progression) <br />
+3.2.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
+3.2.2. [Progression in Italy](pandemic.md#progression-in-italy) <br />
 4. [Genes](genes.md) <br />
 
 [Index](indexList.md) <br />

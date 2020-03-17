@@ -941,3 +941,126 @@ It gives, sadly, a long list:
     <td>2020 coronavirus pandemic in the Dominican Republic</td>
   </tr>
 </table>
+
+### Progression in The Netherlands
+
+These facets can be used to look at just the progression on one region,
+for example, just <a name="tp1">The Netherlands</a>:
+
+**SPARQL** [sparql/progressionNL.rq](sparql/progressionNL.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A))
+
+```sparql
+SELECT ?date ?numberOfCases WHERE {
+  wd:Q86756826 p:P1603 ?numberOfCasesStat .
+  ?numberOfCasesStat ps:P1603 ?numberOfCases ;
+                     pq:P585 ?date .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?date)
+```
+
+This tells us the following:
+
+<table>
+  <tr>
+    <td><b>date</b></td>
+    <td><b>numberOfCases</b></td>
+  </tr>
+  <tr>
+    <td>2020-02-27T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>82</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>804</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>959</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>1413</td>
+  </tr>
+</table>
+
+### Progression in Italy
+
+Of course, for Europeans the situation in <a name="tp2">Italy</a> is is burned
+into our memory. We just change the Q-identifier for The Netherlands into that
+of Italy:
+
+**SPARQL** [sparql/progressionIT.rq](sparql/progressionIT.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A))
+
+```sparql
+SELECT ?date ?numberOfCases WHERE {
+  wd:Q84104992 p:P1603 ?numberOfCasesStat .
+  ?numberOfCasesStat ps:P1603 ?numberOfCases ;
+                     pq:P585 ?date .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?date)
+```
+
+This tells us the following:
+
+<table>
+  <tr>
+    <td><b>date</b></td>
+    <td><b>numberOfCases</b></td>
+  </tr>
+  <tr>
+    <td>2020-01-31T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-01T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-02T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-03T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-04T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-05T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-07T00:00:00Z</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2020-02-21T00:00:00Z</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>2020-02-22T00:00:00Z</td>
+    <td>79</td>
+  </tr>
+  <tr>
+    <td>2020-02-23T00:00:00Z</td>
+    <td>155</td>
+  </tr>
+  <tr>
+    <td>2020-02-24T00:00:00Z</td>
+    <td>229</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>888</td>
+  </tr>
+</table>

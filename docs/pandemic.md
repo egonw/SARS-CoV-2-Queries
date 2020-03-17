@@ -1,6 +1,6 @@
 # The pandemic
 
-The total number of cases of the pandemic found with this query:
+The total number of cases of the <a name="tp1">pandemic</a> found with this query:
 
 **SPARQL** [sparql/earthAllCasesToday.rq](sparql/earthAllCasesToday.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3FnumberOfCases%20%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20wdt%3AP1603%20%3FnumberOfCases%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3FnumberOfCases%20%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20wdt%3AP1603%20%3FnumberOfCases%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -18,7 +18,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>153517</td>
+    <td>167511</td>
   </tr>
 </table>
 
@@ -281,6 +281,10 @@ This gives us this time series:
     <td>2020-03-15T00:00:00Z</td>
     <td>153517</td>
   </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>167511</td>
+  </tr>
 </table>
 
 ## Regional progression
@@ -303,242 +307,6 @@ It gives, sadly, a long list:
   <tr>
     <td><b>facet</b></td>
     <td><b>facetLabel</b></td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87580938</td>
-    <td>2020 coronavirus pandemic in Cyprus</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87587760</td>
-    <td>2020 coronavirus pandemic in Malta</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87587763</td>
-    <td>2020 coronavirus pandemic in Peru</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87589123</td>
-    <td>2020 coronavirus pandemic in Paraguay</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87589148</td>
-    <td>2020 coronavirus pandemic in Jordan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87589392</td>
-    <td>2020 coronavirus pandemic in Honduras</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87590993</td>
-    <td>2020 coronavirus pandemic in Cuba</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87592982</td>
-    <td>2020 coronavirus pandemic in Moldova</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87610822</td>
-    <td>2020 coronavirus pandemic in Jamaica</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87625383</td>
-    <td>Impact of the 2019–20 coronavirus pandemic on aviation</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87625385</td>
-    <td>Impact of the 2019–20 coronavirus pandemic on cinema</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87648634</td>
-    <td>2020 coronavirus pandemic in Armenia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87651970</td>
-    <td>2020 coronavirus pandemic in Guinea</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87651995</td>
-    <td>2020 coronavirus pandemic in Kazakhstan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87652000</td>
-    <td>2020 coronavirus pandemic in Pakistan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87652010</td>
-    <td>2020 coronavirus pandemic in Venezuela</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87655119</td>
-    <td>2020 coronavirus pandemic in Kosovo</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87655120</td>
-    <td>2019–20 coronavirus outbreak in the Community of Madrid</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87657486</td>
-    <td>2020 coronavirus pandemic in Sudan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87659698</td>
-    <td>2020 coronavirus pandemic in Guyana</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87660365</td>
-    <td>2020 coronavirus pandemic in Uruguay</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87662819</td>
-    <td>2020 coronavirus pandemic in Togo</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87662895</td>
-    <td>2020 coronavirus pandemic in the Maldives</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87664046</td>
-    <td>2020 coronavirus pandemic in Suriname</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87665038</td>
-    <td>2020 coronavirus pandemic in Ethiopia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87665364</td>
-    <td>2020 coronavirus pandemic in Burkina Faso</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87666042</td>
-    <td>2020 coronavirus pandemic in Gabon</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87666247</td>
-    <td>2020 coronavirus pandemic in Ghana</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87669612</td>
-    <td>2020 coronavirus pandemic in Guatemala</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87687648</td>
-    <td>2020 coronavirus pandemic in Saint Vincent and the Grenadines</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87694131</td>
-    <td>2020 coronavirus pandemic in Trinidad and Tobago</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87704267</td>
-    <td>2020 coronavirus pandemic in Ivory Coast</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87705884</td>
-    <td>2020 coronavirus pandemic in Kenya</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87706558</td>
-    <td>2020 coronavirus pandemic in the Democratic Republic of the Congo</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87707727</td>
-    <td>2020 coronavirus pandemic in Saint Lucia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87708331</td>
-    <td>2020 coronavirus pandemic in Antigua and Barbuda</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87708719</td>
-    <td>2020 coronavirus pandemic in Aruba</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87708832</td>
-    <td>2020 coronavirus pandemic in Mongolia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87709760</td>
-    <td>2020 coronavirus pandemic in Curaçao</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87709900</td>
-    <td>2020 coronavirus pandemic in Mauritania</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87709973</td>
-    <td>2020 coronavirus pandemic in Eswatini</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87714704</td>
-    <td>2020 coronavirus pandemic in Rwanda</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87715166</td>
-    <td>2020 coronavirus pandemic in Bhutan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87715843</td>
-    <td>2020 coronavirus pandemic in Andorra</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87718451</td>
-    <td>2020 coronavirus pandemic in Nigeria</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87719499</td>
-    <td>Impact of the 2019–20 coronavirus pandemic on television</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87722485</td>
-    <td>2020 coronavirus pandemic in Azerbaijan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87729500</td>
-    <td>2020 coronavirus pandemic in Seychelles</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87729501</td>
-    <td>2020 coronavirus pandemic in Namibia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87733671</td>
-    <td>2020 coronavirus pandemic in Qatar</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87742064</td>
-    <td>2020 coronavirus pandemic in Equatorial Guinea</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87742085</td>
-    <td>2020 coronavirus pandemic in the Central African Republic</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87742114</td>
-    <td>2020 coronavirus pandemic in the Republic of the Congo</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87743173</td>
-    <td>2020 coronavirus pandemic in Northern Cyprus</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87745903</td>
-    <td>2020 coronavirus pandemic in Senegal</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87755488</td>
-    <td>2020 coronavirus pandemic in the Bahamas</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87760968</td>
-    <td>Impact of the 2019–20 coronavirus pandemic on education</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87768605</td>
-    <td>2020 coronavirus pandemic in Afghanistan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87770645</td>
-    <td>2020 coronavirus pandemic in Somalia</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q83493517</td>
@@ -940,12 +708,248 @@ It gives, sadly, a long list:
     <td>http://www.wikidata.org/entity/Q87563855</td>
     <td>2020 coronavirus pandemic in the Dominican Republic</td>
   </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87580938</td>
+    <td>2020 coronavirus pandemic in Cyprus</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87587760</td>
+    <td>2020 coronavirus pandemic in Malta</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87587763</td>
+    <td>2020 coronavirus pandemic in Peru</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87589123</td>
+    <td>2020 coronavirus pandemic in Paraguay</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87589148</td>
+    <td>2020 coronavirus pandemic in Jordan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87589392</td>
+    <td>2020 coronavirus pandemic in Honduras</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87590993</td>
+    <td>2020 coronavirus pandemic in Cuba</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87592982</td>
+    <td>2020 coronavirus pandemic in Moldova</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87610822</td>
+    <td>2020 coronavirus pandemic in Jamaica</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87625383</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on aviation</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87625385</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on cinema</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87648634</td>
+    <td>2020 coronavirus pandemic in Armenia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87651970</td>
+    <td>2020 coronavirus pandemic in Guinea</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87651995</td>
+    <td>2020 coronavirus pandemic in Kazakhstan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87652000</td>
+    <td>2020 coronavirus pandemic in Pakistan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87652010</td>
+    <td>2020 coronavirus pandemic in Venezuela</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87655119</td>
+    <td>2020 coronavirus pandemic in Kosovo</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87655120</td>
+    <td>2019–20 coronavirus outbreak in the Community of Madrid</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87657486</td>
+    <td>2020 coronavirus pandemic in Sudan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87659698</td>
+    <td>2020 coronavirus pandemic in Guyana</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87660365</td>
+    <td>2020 coronavirus pandemic in Uruguay</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87662819</td>
+    <td>2020 coronavirus pandemic in Togo</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87662895</td>
+    <td>2020 coronavirus pandemic in the Maldives</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87664046</td>
+    <td>2020 coronavirus pandemic in Suriname</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87665038</td>
+    <td>2020 coronavirus pandemic in Ethiopia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87665364</td>
+    <td>2020 coronavirus pandemic in Burkina Faso</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87666042</td>
+    <td>2020 coronavirus pandemic in Gabon</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87666247</td>
+    <td>2020 coronavirus pandemic in Ghana</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87669612</td>
+    <td>2020 coronavirus pandemic in Guatemala</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87687648</td>
+    <td>2020 coronavirus pandemic in Saint Vincent and the Grenadines</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87694131</td>
+    <td>2020 coronavirus pandemic in Trinidad and Tobago</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87704267</td>
+    <td>2020 coronavirus pandemic in Ivory Coast</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87705884</td>
+    <td>2020 coronavirus pandemic in Kenya</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87706558</td>
+    <td>2020 coronavirus pandemic in the Democratic Republic of the Congo</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87707727</td>
+    <td>2020 coronavirus pandemic in Saint Lucia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87708331</td>
+    <td>2020 coronavirus pandemic in Antigua and Barbuda</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87708719</td>
+    <td>2020 coronavirus pandemic in Aruba</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87708832</td>
+    <td>2020 coronavirus pandemic in Mongolia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87709760</td>
+    <td>2020 coronavirus pandemic in Curaçao</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87709900</td>
+    <td>2020 coronavirus pandemic in Mauritania</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87709973</td>
+    <td>2020 coronavirus pandemic in Eswatini</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87714704</td>
+    <td>2020 coronavirus pandemic in Rwanda</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87715166</td>
+    <td>2020 coronavirus pandemic in Bhutan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87715843</td>
+    <td>2020 coronavirus pandemic in Andorra</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87718451</td>
+    <td>2020 coronavirus pandemic in Nigeria</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87719499</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on television</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87722485</td>
+    <td>2020 coronavirus pandemic in Azerbaijan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87729500</td>
+    <td>2020 coronavirus pandemic in Seychelles</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87729501</td>
+    <td>2020 coronavirus pandemic in Namibia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87733671</td>
+    <td>2020 coronavirus pandemic in Qatar</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87742064</td>
+    <td>2020 coronavirus pandemic in Equatorial Guinea</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87742085</td>
+    <td>2020 coronavirus pandemic in the Central African Republic</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87742114</td>
+    <td>2020 coronavirus pandemic in the Republic of the Congo</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87743173</td>
+    <td>2020 coronavirus pandemic in Northern Cyprus</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87745903</td>
+    <td>2020 coronavirus pandemic in Senegal</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87755488</td>
+    <td>2020 coronavirus pandemic in the Bahamas</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87760968</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on education</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87768605</td>
+    <td>2020 coronavirus pandemic in Afghanistan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87770645</td>
+    <td>2020 coronavirus pandemic in Somalia</td>
+  </tr>
 </table>
 
 ### Progression in The Netherlands
 
-These facets can be used to look at just the progression on one region,
-for example, just <a name="tp1">The Netherlands</a>:
+These facets can be used to look at just the <a name="tp2">progression</a> on one region,
+for example, just <a name="tp3">The Netherlands</a>:
 
 **SPARQL** [sparql/progressionNL.rq](sparql/progressionNL.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A))
 
@@ -978,6 +982,30 @@ This tells us the following:
     <td>82</td>
   </tr>
   <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>188</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>265</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>321</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>382</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>503</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>614</td>
+  </tr>
+  <tr>
     <td>2020-03-13T00:00:00Z</td>
     <td>804</td>
   </tr>
@@ -993,7 +1021,7 @@ This tells us the following:
 
 ### Progression in Italy
 
-Of course, for Europeans the situation in <a name="tp2">Italy</a> is is burned
+Of course, for Europeans the situation in <a name="tp4">Italy</a> is is burned
 into our memory. We just change the Q-identifier for The Netherlands into that
 of Italy:
 

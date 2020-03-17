@@ -1,19 +1,19 @@
-# Virusses
+# Viruses
 
 The SARS-CoV-2 virus is not the first coronavirus. In fact, quite a few are known.
 
-We first list the SARS-CoV virusses:
+We first list the SARS-CoV viruses:
 
-<sparql>allSARSCoVVirusses</sparql>
+<sparql>allSARSCoVViruses</sparql>
 
 This gives us:
 
-<out>allSARSCoVVirusses</out>
+<out>allSARSCoVViruses</out>
 
-But the full list of coronavirusses looks like this:
+But the full list of coronaviruses looks like this:
 
-<sparql>allCoronaVirusses</sparql>
+<sparql>allCoronaViruses</sparql>
 
 Which gives us:
 
-<out>allCoronaVirusses</out>
+<out>allCoronaViruses</out>

@@ -31,6 +31,30 @@ SELECT ?date ?numberOfCases WHERE {
     <td>82</td>
   </tr>
   <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>188</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>265</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>321</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>382</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>503</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>614</td>
+  </tr>
+  <tr>
     <td>2020-03-13T00:00:00Z</td>
     <td>804</td>
   </tr>

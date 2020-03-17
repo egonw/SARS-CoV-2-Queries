@@ -20,6 +20,7 @@ Wishes, comments, and pull requests can be send to
 2. [Virusses](virusses.md) <br />
 3. [The pandemic](pandemic.md) <br />
 3.1. [Progression](pandemic.md#progression) <br />
+3.2. [Regional progression](pandemic.md#regional-progression) <br />
 4. [Genes](genes.md) <br />
 
 [Index](indexList.md) <br />

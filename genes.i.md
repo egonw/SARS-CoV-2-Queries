@@ -1,6 +1,6 @@
 # Genes
 
-Perhaps the first question should be, which genomes have been measured for the SARS-CoV-2 virus:
+Perhaps the first question should be, which <topic>genomes</topic> have been measured for the SARS-CoV-2 virus:
 
 <sparql>genomes</sparql>
 

@@ -1,6 +1,6 @@
 # Viruses
 
-The SARS-CoV-2 virus is not the first coronavirus. In fact, quite a few are known.
+The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic>. In fact, quite a few are known.
 
 We first list the SARS-CoV viruses:
 

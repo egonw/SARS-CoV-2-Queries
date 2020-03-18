@@ -27,6 +27,9 @@ and hopes to contribute to [Wikidata:WikiProject COVID-19](https://www.wikidata.
 3.2. [Regional progression](pandemic.md#regional-progression) <br />
 3.2.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
 3.2.2. [Progression in Italy](pandemic.md#progression-in-italy) <br />
+3.3. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
+3.3.1. [Cases](pandemic.md#cases) <br />
+3.3.2. [Deaths](pandemic.md#deaths) <br />
 4. [Genes](genes.md) <br />
 
 [Index](indexList.md) <br />
@@ -35,3 +38,4 @@ and hopes to contribute to [Wikidata:WikiProject COVID-19](https://www.wikidata.
 
 * Egon Willighagen
 * Daniel Mietchen
+* Addshore

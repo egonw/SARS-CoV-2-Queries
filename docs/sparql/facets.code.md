@@ -18,6 +18,410 @@ SELECT ?facet ?facetLabel WHERE {
     <td><b>facetLabel</b></td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q83493517</td>
+    <td>timeline of the 2019–20 coronavirus outbreak</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83741704</td>
+    <td>2019–20 COVID-19 pandemic by country and territory</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83872271</td>
+    <td>2019–20 coronavirus pandemic in mainland China</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83872291</td>
+    <td>2019–20 coronavirus outbreak in Japan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83872398</td>
+    <td>2019–20 COVID-19 outbreak in South Korea</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873057</td>
+    <td>2019–20 coronavirus outbreak in Vietnam</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873387</td>
+    <td>2019–20 coronavirus outbreak in Singapore</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873548</td>
+    <td>2019–20 coronavirus outbreak in Australia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873556</td>
+    <td>2019–20 coronavirus outbreak in Malaysia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873566</td>
+    <td>2019–20 coronavirus outbreak in Thailand</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873573</td>
+    <td>2019–20 coronavirus outbreak in Nepal</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873577</td>
+    <td>2020 COVID-19 pandemic in the United States</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873580</td>
+    <td>2019–20 coronavirus outbreak in Canada</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83873593</td>
+    <td>2020 coronavirus outbreak in France</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83888864</td>
+    <td>2019–20 coronavirus outbreak in Cambodia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83889114</td>
+    <td>2019–20 coronavirus outbreak in Sri Lanka</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q83889294</td>
+    <td>2019–20 coronavirus outbreak in Germany</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84030045</td>
+    <td>2019–20 coronavirus outbreak in the United Arab Emirates</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84055415</td>
+    <td>2019–20 coronavirus outbreak in Finland</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84055514</td>
+    <td>2020 coronavirus pandemic in India</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84055544</td>
+    <td>2019–20 coronavirus outbreak in the Philippines</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84056433</td>
+    <td>controversy surrounding the 2019–20 Wuhan coronavirus outbreak</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84081307</td>
+    <td>2019–20 coronavirus outbreak in Taiwan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84081576</td>
+    <td>2020 coronavirus pandemic in Sweden</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84098939</td>
+    <td>2019–20 coronavirus outbreak in Russia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84104992</td>
+    <td>2020 COVID-19 outbreak in Italy</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84166704</td>
+    <td>2019–20 COVID-19 outbreak in Spain</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84167106</td>
+    <td>2020 coronavirus pandemic in the United Kingdom</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84318312</td>
+    <td>xenophobia and racism related to the 2019–20 Wuhan coronavirus outbreak</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84446340</td>
+    <td>2019–20 coronavirus outbreak in Belgium</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q84897850</td>
+    <td>Timeline of the 2019–20 Wuhan coronavirus outbreak in November 2019 – January 2020</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q85853067</td>
+    <td>list of medical professionals who died during the 2019–20 coronavirus outbreak</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q85876114</td>
+    <td>2020 coronavirus outbreak in Iran</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86597685</td>
+    <td>2020 coronavirus outbreak in Denmark</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86597695</td>
+    <td>2020 COVID-19 outbreak in Brazil</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86628344</td>
+    <td>2020 coronavirus outbreak in Mexico</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86675924</td>
+    <td>2019–20 coronavirus outbreak in North Korea</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86717788</td>
+    <td>2020 coronavirus outbreak in Switzerland</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86733728</td>
+    <td>2020 coronavirus outbreak in Iraq</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86756826</td>
+    <td>2020 coronavirus outbreak in the Netherlands</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86847911</td>
+    <td>2020 coronavirus outbreak in Austria</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86886544</td>
+    <td>2020 coronavirus pandemic in Norway</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86901049</td>
+    <td>COVID-19 testing</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86913546</td>
+    <td>2020 coronavirus outbreak in Indonesia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86919406</td>
+    <td>2020 coronavirus outbreak in the Czech Republic</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86926476</td>
+    <td>2020 coronavirus outbreak in Girona</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q86948603</td>
+    <td>2020 COVID-19 outbreak in Portugal</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87058723</td>
+    <td>2020 coronavirus outbreak in Morocco</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87066621</td>
+    <td>2020 coronavirus outbreak in Latvia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87068864</td>
+    <td>2020 coronavirus pandemic in Greece</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87070975</td>
+    <td>2020 coronavirus pandemic in Israel</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87070999</td>
+    <td>2020 coronavirus outbreak in Bahrain</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87073833</td>
+    <td>Travel restrictions related to the 2019–20 coronavirus outbreak</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87116829</td>
+    <td>2020 coronavirus outbreak in Egypt</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87119811</td>
+    <td>2020 coronavirus pandemic in Hungary</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87121993</td>
+    <td>2020 coronavirus outbreak in Iceland</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87123561</td>
+    <td>2020 coronavirus outbreak in San Marino</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87186117</td>
+    <td>2020 coronavirus outbreak in Saudi Arabia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87186365</td>
+    <td>2020 coronavirus outbreak in the Republic of Ireland</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87191204</td>
+    <td>2020 coronavirus outbreak in Chile</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87193778</td>
+    <td>2020 coronavirus outbreak in Serbia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87199320</td>
+    <td>2020 coronavirus outbreak in Palestine</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87200954</td>
+    <td>2020 coronavirus outbreak in Slovakia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87202921</td>
+    <td>2020 coronavirus outbreak in Algeria</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87204911</td>
+    <td>2020 coronavirus outbreak in Estonia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87222526</td>
+    <td>2020 coronavirus outbreak in Vatican City</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87235137</td>
+    <td>2020 coronavirus outbreak in Argentina</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87235177</td>
+    <td>2020 coronavirus outbreak in Ukraine</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87243915</td>
+    <td>2020 coronavirus outbreak in South Africa</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87245450</td>
+    <td>2020 coronavirus outbreak in Lebanon</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250691</td>
+    <td>2020 coronavirus outbreak in Kuwait</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250695</td>
+    <td>2020 coronavirus pandemic in Poland</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250713</td>
+    <td>2020 coronavirus outbreak in Ecuador</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250732</td>
+    <td>2020 coronavirus outbreak in Croatia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250752</td>
+    <td>2020 coronavirus pandemic in Romania</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250770</td>
+    <td>2020 coronavirus outbreak in Bosnia and Herzegovina</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250788</td>
+    <td>2020 coronavirus outbreak in Belarus</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250803</td>
+    <td>2020 coronavirus outbreak in New Zealand</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250819</td>
+    <td>2020 coronavirus outbreak in Liechtenstein</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250838</td>
+    <td>2020 coronavirus outbreak in Lithuania</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250860</td>
+    <td>2020 coronavirus outbreak in Luxembourg</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250877</td>
+    <td>2020 coronavirus outbreak in Monaco</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250897</td>
+    <td>2020 coronavirus outbreak in North Macedonia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250913</td>
+    <td>2020 coronavirus outbreak in Georgia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250930</td>
+    <td>2020 coronavirus outbreak in Cameroon</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87250948</td>
+    <td>2020 coronavirus pandemic in Slovenia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87343682</td>
+    <td>2020 coronavirus outbreak in Tunisia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87412028</td>
+    <td>2020 coronavirus outbreak in Brunei</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87450756</td>
+    <td>2020 coronavirus outbreak in Albania</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87452683</td>
+    <td>2020 coronavirus pandemic in Basque Country</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87454162</td>
+    <td>2020 coronavirus outbreak in Oman</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87468681</td>
+    <td>Q87468681</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87473205</td>
+    <td>2020 coronavirus outbreak in Turkey</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87477462</td>
+    <td>2020 coronavirus outbreak in Costa Rica</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87477841</td>
+    <td>2020 coronavirus outbreak in Panama</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87480220</td>
+    <td>2020 coronavirus outbreak in Bolivia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87483673</td>
+    <td>2020 coronavirus pandemic in Colombia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87486535</td>
+    <td>2020 coronavirus pandemic in Bulgaria</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87491759</td>
+    <td>domestic responses to the 2019–20 coronavirus pandemic</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87540454</td>
+    <td>2020 coronavirus pandemic in Bangladesh</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87563855</td>
+    <td>2020 coronavirus pandemic in the Dominican Republic</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87580938</td>
     <td>2020 coronavirus pandemic in Cyprus</td>
   </tr>
@@ -246,6 +650,10 @@ SELECT ?facet ?facetLabel WHERE {
     <td>Impact of the 2019–20 coronavirus pandemic on education</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87766242</td>
+    <td>2020 coronavirus pandemic in Liberia</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87768605</td>
     <td>2020 coronavirus pandemic in Afghanistan</td>
   </tr>
@@ -254,404 +662,40 @@ SELECT ?facet ?facetLabel WHERE {
     <td>2020 coronavirus pandemic in Somalia</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83493517</td>
-    <td>timeline of the 2019–20 coronavirus outbreak</td>
+    <td>http://www.wikidata.org/entity/Q87770827</td>
+    <td>2020 coronavirus pandemic in Tanzania</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83741704</td>
-    <td>2019–20 COVID-19 pandemic by country and territory</td>
+    <td>http://www.wikidata.org/entity/Q87774378</td>
+    <td>Timeline of the 2019–20 coronavirus pandemic in March 2020</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83872271</td>
-    <td>2019–20 coronavirus pandemic in mainland China</td>
+    <td>http://www.wikidata.org/entity/Q87785296</td>
+    <td>2020 coronavirus pandemic in Greenland</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83872291</td>
-    <td>2019–20 coronavirus outbreak in Japan</td>
+    <td>http://www.wikidata.org/entity/Q87796964</td>
+    <td>Human rights issues during the 2019–20 coronavirus pandemic</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83872398</td>
-    <td>2019–20 COVID-19 outbreak in South Korea</td>
+    <td>http://www.wikidata.org/entity/Q87814953</td>
+    <td>2020 coronavirus pandemic in Syria</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83873057</td>
-    <td>2019–20 coronavirus outbreak in Vietnam</td>
+    <td>http://www.wikidata.org/entity/Q87887813</td>
+    <td>2020 coronavirus pandemic in Montenegro</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83873387</td>
-    <td>2019–20 coronavirus outbreak in Singapore</td>
+    <td>http://www.wikidata.org/entity/Q87897344</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on politics</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83873548</td>
-    <td>2019–20 coronavirus outbreak in Australia</td>
+    <td>http://www.wikidata.org/entity/Q87898060</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on religion</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q83873556</td>
-    <td>2019–20 coronavirus outbreak in Malaysia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83873566</td>
-    <td>2019–20 coronavirus outbreak in Thailand</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83873573</td>
-    <td>2019–20 coronavirus outbreak in Nepal</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83873577</td>
-    <td>2020 COVID-19 pandemic in the United States</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83873580</td>
-    <td>2019–20 coronavirus outbreak in Canada</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83873593</td>
-    <td>2020 coronavirus outbreak in France</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83888864</td>
-    <td>2019–20 coronavirus outbreak in Cambodia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83889114</td>
-    <td>2019–20 coronavirus outbreak in Sri Lanka</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q83889294</td>
-    <td>2019–20 coronavirus outbreak in Germany</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84030045</td>
-    <td>2019–20 coronavirus outbreak in the United Arab Emirates</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84055415</td>
-    <td>2019–20 coronavirus outbreak in Finland</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84055514</td>
-    <td>2020 coronavirus pandemic in India</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84055544</td>
-    <td>2019–20 coronavirus outbreak in the Philippines</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84056433</td>
-    <td>controversy surrounding the 2019–20 Wuhan coronavirus outbreak</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84081307</td>
-    <td>2019–20 coronavirus outbreak in Taiwan</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84081576</td>
-    <td>2020 coronavirus pandemic in Sweden</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84098939</td>
-    <td>2019–20 coronavirus outbreak in Russia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84104992</td>
-    <td>2020 COVID-19 outbreak in Italy</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84166704</td>
-    <td>2019–20 COVID-19 outbreak in Spain</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84167106</td>
-    <td>2020 coronavirus pandemic in the United Kingdom</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84318312</td>
-    <td>xenophobia and racism related to the 2019–20 Wuhan coronavirus outbreak</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q84446340</td>
-    <td>2019–20 coronavirus outbreak in Belgium</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q85853067</td>
-    <td>list of medical professionals who died during the 2019–20 coronavirus outbreak</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q85876114</td>
-    <td>2020 coronavirus outbreak in Iran</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86597685</td>
-    <td>2020 coronavirus outbreak in Denmark</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86597695</td>
-    <td>2020 COVID-19 outbreak in Brazil</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86628344</td>
-    <td>2020 coronavirus outbreak in Mexico</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86675924</td>
-    <td>2019–20 coronavirus outbreak in North Korea</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86717788</td>
-    <td>2020 coronavirus outbreak in Switzerland</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86733728</td>
-    <td>2020 coronavirus outbreak in Iraq</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86756826</td>
-    <td>2020 coronavirus outbreak in the Netherlands</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86847911</td>
-    <td>2020 coronavirus outbreak in Austria</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86886544</td>
-    <td>2020 coronavirus pandemic in Norway</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86901049</td>
-    <td>COVID-19 testing</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86913546</td>
-    <td>2020 coronavirus outbreak in Indonesia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86919406</td>
-    <td>2020 coronavirus outbreak in the Czech Republic</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86926476</td>
-    <td>2020 coronavirus outbreak in Girona</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q86948603</td>
-    <td>2020 COVID-19 outbreak in Portugal</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87058723</td>
-    <td>2020 coronavirus outbreak in Morocco</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87066621</td>
-    <td>2020 coronavirus outbreak in Latvia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87068864</td>
-    <td>2020 coronavirus pandemic in Greece</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87070975</td>
-    <td>2020 coronavirus pandemic in Israel</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87070999</td>
-    <td>2020 coronavirus outbreak in Bahrain</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87073833</td>
-    <td>Travel restrictions related to the 2019–20 coronavirus outbreak</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87116829</td>
-    <td>2020 coronavirus outbreak in Egypt</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87119811</td>
-    <td>2020 coronavirus pandemic in Hungary</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87121993</td>
-    <td>2020 coronavirus outbreak in Iceland</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87123561</td>
-    <td>2020 coronavirus outbreak in San Marino</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87186117</td>
-    <td>2020 coronavirus outbreak in Saudi Arabia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87186365</td>
-    <td>2020 coronavirus outbreak in the Republic of Ireland</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87191204</td>
-    <td>2020 coronavirus outbreak in Chile</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87193778</td>
-    <td>2020 coronavirus outbreak in Serbia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87199320</td>
-    <td>2020 coronavirus outbreak in Palestine</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87200954</td>
-    <td>2020 coronavirus outbreak in Slovakia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87202921</td>
-    <td>2020 coronavirus outbreak in Algeria</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87204911</td>
-    <td>2020 coronavirus outbreak in Estonia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87222526</td>
-    <td>2020 coronavirus outbreak in Vatican City</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87235137</td>
-    <td>2020 coronavirus outbreak in Argentina</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87235177</td>
-    <td>2020 coronavirus outbreak in Ukraine</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87243915</td>
-    <td>2020 coronavirus outbreak in South Africa</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87245450</td>
-    <td>2020 coronavirus outbreak in Lebanon</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250691</td>
-    <td>2020 coronavirus outbreak in Kuwait</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250695</td>
-    <td>2020 coronavirus pandemic in Poland</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250713</td>
-    <td>2020 coronavirus outbreak in Ecuador</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250732</td>
-    <td>2020 coronavirus outbreak in Croatia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250752</td>
-    <td>2020 coronavirus outbreak in Romania</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250770</td>
-    <td>2020 coronavirus outbreak in Bosnia and Herzegovina</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250788</td>
-    <td>2020 coronavirus outbreak in Belarus</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250803</td>
-    <td>2020 coronavirus outbreak in New Zealand</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250819</td>
-    <td>2020 coronavirus outbreak in Liechtenstein</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250838</td>
-    <td>2020 coronavirus outbreak in Lithuania</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250860</td>
-    <td>2020 coronavirus outbreak in Luxembourg</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250877</td>
-    <td>2020 coronavirus outbreak in Monaco</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250897</td>
-    <td>2020 coronavirus outbreak in North Macedonia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250913</td>
-    <td>2020 coronavirus outbreak in Georgia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250930</td>
-    <td>2020 coronavirus outbreak in Cameroon</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87250948</td>
-    <td>2020 coronavirus pandemic in Slovenia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87343682</td>
-    <td>2020 coronavirus outbreak in Tunisia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87412028</td>
-    <td>2020 coronavirus outbreak in Brunei</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87450756</td>
-    <td>2020 coronavirus outbreak in Albania</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87452683</td>
-    <td>2020 coronavirus pandemic in Basque Country</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87454162</td>
-    <td>2020 coronavirus outbreak in Oman</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87468681</td>
-    <td>Q87468681</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87473205</td>
-    <td>2020 coronavirus outbreak in Turkey</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87477462</td>
-    <td>2020 coronavirus outbreak in Costa Rica</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87477841</td>
-    <td>2020 coronavirus outbreak in Panama</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87480220</td>
-    <td>2020 coronavirus outbreak in Bolivia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87483673</td>
-    <td>2020 coronavirus pandemic in Colombia</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87486535</td>
-    <td>2020 coronavirus pandemic in Bulgaria</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87491759</td>
-    <td>domestic responses to the 2019–20 coronavirus pandemic</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87540454</td>
-    <td>2020 coronavirus pandemic in Bangladesh</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q87563855</td>
-    <td>2020 coronavirus pandemic in the Dominican Republic</td>
+    <td>http://www.wikidata.org/entity/Q87901408</td>
+    <td>2020 coronavirus pandemic in Alberta</td>
   </tr>
 </table>
 ## Code examples

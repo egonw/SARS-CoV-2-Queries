@@ -27,3 +27,4 @@ and hopes to contribute to [Wikidata:WikiProject COVID-19](https://www.wikidata.
 
 * Egon Willighagen
 * Daniel Mietchen
+* Addshore

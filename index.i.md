@@ -1,7 +1,7 @@
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
 
-**Egon L. Willighagen**
+Editor: **Egon L. Willighagen**
 
 © 2020 The Authors
 

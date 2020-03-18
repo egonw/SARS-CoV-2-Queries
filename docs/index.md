@@ -21,6 +21,7 @@ and hopes to contribute to [Wikidata:WikiProject COVID-19](https://www.wikidata.
 
 1. [Introduction](intro.md) <br />
 2. [Viruses](viruses.md) <br />
+2.1. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [The pandemic](pandemic.md) <br />
 3.1. [Progression](pandemic.md#progression) <br />
 3.2. [Regional progression](pandemic.md#regional-progression) <br />

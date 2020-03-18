@@ -17,3 +17,18 @@ But the full list of coronaviruses looks like this:
 Which gives us:
 
 <out>allCoronaViruses</out>
+
+## NCBI Taxonomy IDs
+
+For the coronaviruses we can list the <topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>] identifiers with:
+
+<sparql>allSARSCoVVirusesTaxonomy</sparql>
+
+This gives us:
+
+<out>allSARSCoVVirusesTaxonomy</out>
+
+## References
+
+<references/>
+

@@ -27,6 +27,8 @@ line = reader.readLine();
 while (line != null) {
   if (line.trim().length() > 0) {
     if (line.charAt(0) == '#') {
+      if (line.startsWith("#defaultView"))
+        md.append(line+"\n");
     } else if (line.charAt(0) == '%') {
       md.append(line.substring(1)+"\n");
     } else {

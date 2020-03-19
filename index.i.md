@@ -25,6 +25,6 @@ and hopes to contribute to [Wikidata:WikiProject COVID-19](https://www.wikidata.
 
 ## Authors and contributors
 
-* Egon Willighagen
-* Daniel Mietchen
 * Addshore
+* Daniel Mietchen
+* Egon Willighagen

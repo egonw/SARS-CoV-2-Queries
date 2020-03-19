@@ -1161,20 +1161,20 @@ This tells us the following:
 
 ### Cases
 
-**SPARQL** [sparql/graphCases.rq](sparql/graphCases.code.html) ([run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0A%23%20COVID-19%20Cases%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%3Fvalue%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1603%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1603%20%3Fvalue.%0A%20%20FILTER%28%3Fvalue%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D), [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0A%23%20COVID-19%20Cases%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%3Fvalue%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1603%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1603%20%3Fvalue.%0A%20%20FILTER%28%3Fvalue%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D))
+**SPARQL** [sparql/graphCases.rq](sparql/graphCases.code.html) ([run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0A%23%20COVID-19%20Cases%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%28MAX%28%3Fvalue_%29%20AS%20%3Fvalue%29%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1603%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1603%20%3Fvalue_.%0A%20%20FILTER%28%3Fvalue_%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D%0AGROUP%20BY%20%3FvaluePointInTime%20%3FcountryLabel), [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0A%23%20COVID-19%20Cases%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%28MAX%28%3Fvalue_%29%20AS%20%3Fvalue%29%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1603%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1603%20%3Fvalue_.%0A%20%20FILTER%28%3Fvalue_%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D%0AGROUP%20BY%20%3FvaluePointInTime%20%3FcountryLabel))
 
 ```sparql
 #defaultView:LineChart
 # COVID-19 Cases through time by country according to WHO reports in Wikidata
 SELECT
-?valuePointInTime ?value
+?valuePointInTime (MAX(?value_) AS ?value)
 ?countryLabel
 WHERE {
   ?item wdt:P31 wd:Q3241045.
   ?item wdt:P17 ?country.
   ?item p:P1603 ?valueStatement.
-  ?valueStatement ps:P1603 ?value.
-  FILTER(?value > 0)
+  ?valueStatement ps:P1603 ?value_.
+  FILTER(?value_ > 0)
   ?valueStatement pq:P585 ?valuePointInTime.
   ?valueStatement prov:wasDerivedFrom/pr:P248 [
     wdt:P31 wd:Q10870555;
@@ -1184,24 +1184,25 @@ WHERE {
   { ?item wdt:P361 wd:Q83741704. }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
+GROUP BY ?valuePointInTime ?countryLabel
 ```
 
 ### Deaths
 
-**SPARQL** [sparql/graphDeaths.rq](sparql/graphDeaths.code.html) ([run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0A%23%20COVID-19%20Deaths%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%3Fvalue%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1120%20%3Fvalue.%0A%20%20FILTER%28%3Fvalue%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D), [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0A%23%20COVID-19%20Deaths%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%3Fvalue%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1120%20%3Fvalue.%0A%20%20FILTER%28%3Fvalue%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D))
+**SPARQL** [sparql/graphDeaths.rq](sparql/graphDeaths.code.html) ([run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0A%23%20COVID-19%20Deaths%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%28MAX%28%3Fvalue_%29%20AS%20%3Fvalue%29%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1120%20%3Fvalue_.%0A%20%20FILTER%28%3Fvalue_%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D%0AGROUP%20BY%20%3FvaluePointInTime%20%3FcountryLabel), [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0A%23%20COVID-19%20Deaths%20through%20time%20by%20country%20according%20to%20WHO%20reports%20in%20Wikidata%0ASELECT%0A%3FvaluePointInTime%20%28MAX%28%3Fvalue_%29%20AS%20%3Fvalue%29%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FvalueStatement.%0A%20%20%3FvalueStatement%20ps%3AP1120%20%3Fvalue_.%0A%20%20FILTER%28%3Fvalue_%20>%200%29%0A%20%20%3FvalueStatement%20pq%3AP585%20%3FvaluePointInTime.%0A%20%20%3FvalueStatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%5B%0A%20%20%20%20wdt%3AP31%20wd%3AQ10870555%3B%0A%20%20%20%20wdt%3AP50%20wd%3AQ7817%0A%20%20%5D.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen".%20%7D%0A%7D%0AGROUP%20BY%20%3FvaluePointInTime%20%3FcountryLabel))
 
 ```sparql
 #defaultView:LineChart
 # COVID-19 Deaths through time by country according to WHO reports in Wikidata
 SELECT
-?valuePointInTime ?value
+?valuePointInTime (MAX(?value_) AS ?value)
 ?countryLabel
 WHERE {
   ?item wdt:P31 wd:Q3241045.
   ?item wdt:P17 ?country.
   ?item p:P1120 ?valueStatement.
-  ?valueStatement ps:P1120 ?value.
-  FILTER(?value > 0)
+  ?valueStatement ps:P1120 ?value_.
+  FILTER(?value_ > 0)
   ?valueStatement pq:P585 ?valuePointInTime.
   ?valueStatement prov:wasDerivedFrom/pr:P248 [
     wdt:P31 wd:Q10870555;
@@ -1211,4 +1212,5 @@ WHERE {
   { ?item wdt:P361 wd:Q83741704. }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
+GROUP BY ?valuePointInTime ?countryLabel
 ```

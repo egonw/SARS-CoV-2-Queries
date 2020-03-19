@@ -1,7 +1,7 @@
 # Literature
 
 These queries list the latest 10 <a name="tp1">articles</a> about a number of topics. It is
-no replacement for [Scholia]() [<a href="#citeref1">1</a>],
+no replacement for [Scholia](https://tools.wmflabs.org/scholia/) [<a href="#citeref1">1</a>],
 which has a much richer overview of <a name="tp2">literature</a> on the topic. Each section
 includes a link to the Scholia page for that topic. The queries used here
 are very basic, and only use the 'main subject' property.
@@ -109,4 +109,8 @@ This gives these 10 papers:
     <td>[Recommendations for critically ill patients with COVID-19]</td>
   </tr>
 </table>
+
+## References
+
+1. <a name="citeref1"></a>Rasberry L, Willighagen E, Nielsen FÅ, Mietchen D. Robustifying Scholia: paving the way for knowledge discovery and research assessment through Wikidata [Internet]. Vol. 5, Research Ideas and Outcomes. 2019. 16 p. Available from: https://riojournal.com/article/35820/ doi:[10.3897/RIO.5.E35820](https://doi.org/10.3897/RIO.5.E35820) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.3897/RIO.5.E35820))
 

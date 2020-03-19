@@ -1,9 +1,8 @@
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
+© 2020 Addshore, Daniel Mietchen, Egon Willighagen
 
 Editor: **Egon L. Willighagen**
-
-© 2020 The Authors
 
 License: CC-BY-SA 4.0 International
 
@@ -26,3 +25,4 @@ star this GitHub repository!
 * Addshore
 * Daniel Mietchen
 * Egon Willighagen
+

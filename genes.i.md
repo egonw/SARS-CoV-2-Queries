@@ -10,6 +10,17 @@ Which lists these genome URLs:
 
 <out>genomes</out>
 
+## Genes
+
+The RNA of SARS-CoV-2 has been sequenced. Therefore, the open reading frames are known and identified.
+We can query for the gene information in Wikidata with thie query:
+
+<sparql>virusGenes</sparql>
+
+Which gives us these genes:
+
+<out>virusGenes</out>
+
 ## Proteins
 
 Alternatively, we may be interested in the proteins of the coronaviruses.

@@ -20,7 +20,8 @@ star this GitHub repository!
 2. [Viruses](viruses.md) <br />
 2.1. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
-3.1. [Clinical trials](covid.md#clinical-trials) <br />
+3.1. [Symptoms](covid.md#symptoms) <br />
+3.2. [Clinical trials](covid.md#clinical-trials) <br />
 4. [The pandemic](pandemic.md) <br />
 4.1. [Progression](pandemic.md#progression) <br />
 4.2. [Regional progression](pandemic.md#regional-progression) <br />

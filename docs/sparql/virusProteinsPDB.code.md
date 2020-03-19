@@ -154,3 +154,4 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?pdb WHERE {
 curl -o virusProteinsPDB.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/virusProteinsPDB.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@virusProteinsPDB.rq
 ```
+This SPARQL query is available under CCZero.

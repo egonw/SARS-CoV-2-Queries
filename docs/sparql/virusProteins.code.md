@@ -69,3 +69,4 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel  WHERE {
 curl -o virusProteins.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/virusProteins.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@virusProteins.rq
 ```
+This SPARQL query is available under CCZero.

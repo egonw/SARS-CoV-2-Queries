@@ -16,7 +16,7 @@ SELECT ?numberOfCases  WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>179112</td>
+    <td>191127</td>
   </tr>
 </table>
 ## Code examples
@@ -25,3 +25,4 @@ SELECT ?numberOfCases  WHERE {
 curl -o earthAllCasesToday.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/earthAllCasesToday.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@earthAllCasesToday.rq
 ```
+This SPARQL query is available under CCZero.

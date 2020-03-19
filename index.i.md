@@ -14,6 +14,8 @@ Wishes, comments, and pull requests can be send to
 [this GitHub repository](https://github.com/egonw/SARS-CoV-2-Queries/). If you like this effort, please
 star this GitHub repository!
 
+While the book itself has the CC-BY-SA, all SPARQL queries in this book can be used under the CCZero license/waiver.
+
 ## Contents
 
 <toc>toc.txt</toc>

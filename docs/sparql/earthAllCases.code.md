@@ -262,6 +262,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2020-03-17T00:00:00Z</td>
     <td>179112</td>
   </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>191127</td>
+  </tr>
 </table>
 ## Code examples
 ### curl
@@ -269,3 +273,4 @@ SELECT ?date ?numberOfCases WHERE {
 curl -o earthAllCases.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/earthAllCases.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@earthAllCases.rq
 ```
+This SPARQL query is available under CCZero.

@@ -83,3 +83,4 @@ SELECT ?symptom ?symptomLabel WHERE {
 curl -o symptoms.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/symptoms.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@symptoms.rq
 ```
+This SPARQL query is available under CCZero.

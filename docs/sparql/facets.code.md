@@ -67,7 +67,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q83873580</td>
-    <td>2019–20 coronavirus outbreak in Canada</td>
+    <td>2020 coronavirus pandemic in Canada</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q83873593</td>
@@ -83,7 +83,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q83889294</td>
-    <td>2019–20 coronavirus outbreak in Germany</td>
+    <td>2020 coronavirus pandemic in Germany</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84030045</td>
@@ -135,11 +135,15 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84446340</td>
-    <td>2019–20 coronavirus outbreak in Belgium</td>
+    <td>2020 coronavirus pandemic in Belgium</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84897850</td>
     <td>Timeline of the 2019–20 Wuhan coronavirus outbreak in November 2019 – January 2020</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q85173855</td>
+    <td>2019–20 coronavirus outbreak data tables</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q85853067</td>
@@ -167,7 +171,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q86717788</td>
-    <td>2020 coronavirus outbreak in Switzerland</td>
+    <td>2020 coronavirus pandemic in Switzerland</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q86733728</td>
@@ -203,7 +207,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q86948603</td>
-    <td>2020 COVID-19 outbreak in Portugal</td>
+    <td>2020 coronavirus pandemic in Portugal</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87058723</td>
@@ -263,7 +267,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87199320</td>
-    <td>2020 coronavirus outbreak in Palestine</td>
+    <td>2020 coronavirus pandemic in the State of Palestine</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87200954</td>
@@ -331,7 +335,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87250819</td>
-    <td>2020 coronavirus outbreak in Liechtenstein</td>
+    <td>2020 coronavirus pandemic in Liechtenstein</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87250838</td>
@@ -446,6 +450,10 @@ SELECT ?facet ?facetLabel WHERE {
     <td>2020 coronavirus pandemic in Honduras</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87589400</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on sports</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87590993</td>
     <td>2020 coronavirus pandemic in Cuba</td>
   </tr>
@@ -491,7 +499,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87655120</td>
-    <td>2019–20 coronavirus outbreak in the Community of Madrid</td>
+    <td>2020 coronavirus pandemic in the Community of Madrid</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87657486</td>
@@ -694,8 +702,44 @@ SELECT ?facet ?facetLabel WHERE {
     <td>Impact of the 2019–20 coronavirus pandemic on religion</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87899016</td>
+    <td>2020 coronavirus pandemic in the Gambia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87899022</td>
+    <td>2020 coronavirus pandemic in Djibouti</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87901408</td>
     <td>2020 coronavirus pandemic in Alberta</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87902950</td>
+    <td>2020 coronavirus pandemic in Kyrgyzstan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87975745</td>
+    <td>2020 coronavirus pandemic in Fiji</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87976489</td>
+    <td>2020 coronavirus pandemic in El Salvador</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87976629</td>
+    <td>2020 coronavirus pandemic in Zambia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87976701</td>
+    <td>2020 coronavirus pandemic in Nicaragua</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87979033</td>
+    <td>2020 coronavirus pandemic in Mauritius</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87985395</td>
+    <td>COVID-19 pandemic/statistic</td>
   </tr>
 </table>
 ## Code examples
@@ -704,3 +748,4 @@ SELECT ?facet ?facetLabel WHERE {
 curl -o facets.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/facets.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@facets.rq
 ```
+This SPARQL query is available under CCZero.

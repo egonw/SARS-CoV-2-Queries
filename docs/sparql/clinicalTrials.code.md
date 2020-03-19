@@ -64,3 +64,4 @@ SELECT ?trial ?trialLabel ?phase ?phaseLabel ?identifier WHERE {
 curl -o clinicalTrials.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/clinicalTrials.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@clinicalTrials.rq
 ```
+This SPARQL query is available under CCZero.

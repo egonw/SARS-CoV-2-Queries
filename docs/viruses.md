@@ -77,10 +77,6 @@ Which gives us:
     <td>Gammacoronavirus</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q278567</td>
-    <td>severe acute respiratory syndrome-related coronavirus</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q2117529</td>
     <td>Puffinosis coronavirus</td>
   </tr>
@@ -317,22 +313,6 @@ Which gives us:
     <td>Igacovirus</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q34967815</td>
-    <td>SARS coronavirus</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q85438966</td>
-    <td>severe acute respiratory syndrome coronavirus</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q85939995</td>
-    <td>SL-CoV</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q6926073</td>
     <td>Mouse hepatitis virus</td>
   </tr>
@@ -395,6 +375,26 @@ Which gives us:
   <tr>
     <td>http://www.wikidata.org/entity/Q57879935</td>
     <td>Rousettus bat coronavirus GCCDC1</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q278567</td>
+    <td>severe acute respiratory syndrome-related coronavirus</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q34967815</td>
+    <td>SARS coronavirus</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q82069695</td>
+    <td>SARS-CoV-2</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q85438966</td>
+    <td>severe acute respiratory syndrome coronavirus</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q85939995</td>
+    <td>SL-CoV</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q16000326</td>

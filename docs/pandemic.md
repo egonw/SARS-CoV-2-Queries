@@ -18,7 +18,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>179112</td>
+    <td>191127</td>
   </tr>
 </table>
 
@@ -289,6 +289,10 @@ This gives us this time series:
     <td>2020-03-17T00:00:00Z</td>
     <td>179112</td>
   </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>191127</td>
+  </tr>
 </table>
 
 ## Regional progression
@@ -362,7 +366,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q83873580</td>
-    <td>2019–20 coronavirus outbreak in Canada</td>
+    <td>2020 coronavirus pandemic in Canada</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q83873593</td>
@@ -378,7 +382,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q83889294</td>
-    <td>2019–20 coronavirus outbreak in Germany</td>
+    <td>2020 coronavirus pandemic in Germany</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84030045</td>
@@ -430,11 +434,15 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84446340</td>
-    <td>2019–20 coronavirus outbreak in Belgium</td>
+    <td>2020 coronavirus pandemic in Belgium</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84897850</td>
     <td>Timeline of the 2019–20 Wuhan coronavirus outbreak in November 2019 – January 2020</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q85173855</td>
+    <td>2019–20 coronavirus outbreak data tables</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q85853067</td>
@@ -462,7 +470,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q86717788</td>
-    <td>2020 coronavirus outbreak in Switzerland</td>
+    <td>2020 coronavirus pandemic in Switzerland</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q86733728</td>
@@ -498,7 +506,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q86948603</td>
-    <td>2020 COVID-19 outbreak in Portugal</td>
+    <td>2020 coronavirus pandemic in Portugal</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87058723</td>
@@ -558,7 +566,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87199320</td>
-    <td>2020 coronavirus outbreak in Palestine</td>
+    <td>2020 coronavirus pandemic in the State of Palestine</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87200954</td>
@@ -626,7 +634,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87250819</td>
-    <td>2020 coronavirus outbreak in Liechtenstein</td>
+    <td>2020 coronavirus pandemic in Liechtenstein</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87250838</td>
@@ -741,6 +749,10 @@ It gives, sadly, a long list:
     <td>2020 coronavirus pandemic in Honduras</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87589400</td>
+    <td>Impact of the 2019–20 coronavirus pandemic on sports</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87590993</td>
     <td>2020 coronavirus pandemic in Cuba</td>
   </tr>
@@ -786,7 +798,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87655120</td>
-    <td>2019–20 coronavirus outbreak in the Community of Madrid</td>
+    <td>2020 coronavirus pandemic in the Community of Madrid</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q87657486</td>
@@ -989,8 +1001,44 @@ It gives, sadly, a long list:
     <td>Impact of the 2019–20 coronavirus pandemic on religion</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87899016</td>
+    <td>2020 coronavirus pandemic in the Gambia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87899022</td>
+    <td>2020 coronavirus pandemic in Djibouti</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87901408</td>
     <td>2020 coronavirus pandemic in Alberta</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87902950</td>
+    <td>2020 coronavirus pandemic in Kyrgyzstan</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87975745</td>
+    <td>2020 coronavirus pandemic in Fiji</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87976489</td>
+    <td>2020 coronavirus pandemic in El Salvador</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87976629</td>
+    <td>2020 coronavirus pandemic in Zambia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87976701</td>
+    <td>2020 coronavirus pandemic in Nicaragua</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87979033</td>
+    <td>2020 coronavirus pandemic in Mauritius</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q87985395</td>
+    <td>COVID-19 pandemic/statistic</td>
   </tr>
 </table>
 
@@ -1024,6 +1072,22 @@ This tells us the following:
   <tr>
     <td>2020-02-28T00:00:00Z</td>
     <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>2020-03-02T00:00:00Z</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>2020-03-05T00:00:00Z</td>
@@ -1076,6 +1140,14 @@ This tells us the following:
   <tr>
     <td>2020-03-18T00:00:00Z</td>
     <td>2051</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1705</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2460</td>
   </tr>
 </table>
 
@@ -1152,8 +1224,20 @@ This tells us the following:
     <td>888</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
+    <td>2020-03-16T00:00:00Z</td>
     <td>27980</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>31506</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>35713</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>41035</td>
   </tr>
 </table>
 

@@ -45,6 +45,12 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>10.1016/S2468-1253(20)30048-0</td>
   </tr>
   <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>http://www.wikidata.org/entity/Q87995005</td>
+    <td>1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</td>
+    <td>10.2210/PDB6W4H/PDB</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>http://www.wikidata.org/entity/Q87830056</td>
     <td>The proximal origin of SARS-CoV-2</td>
@@ -74,12 +80,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>Coronavirus latest: global infections surge past 30,000</td>
     <td>10.1038/D41586-020-00154-W</td>
   </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>http://www.wikidata.org/entity/Q87675797</td>
-    <td>[Recommendations for critically ill patients with COVID-19]</td>
-    <td>10.1007/S00063-020-00674-3</td>
-  </tr>
 </table>
 ## Code examples
 ### curl
@@ -87,3 +87,4 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 curl -o litSARSCoV2.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litSARSCoV2.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@litSARSCoV2.rq
 ```
+This SPARQL query is available under CCZero.

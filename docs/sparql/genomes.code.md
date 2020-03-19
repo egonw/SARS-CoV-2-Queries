@@ -14,19 +14,6 @@ SELECT ?genome WHERE {
 ### Output
 <table>
   <tr>
-    <td><b>genome</b></td>
-  </tr>
-  <tr>
-    <td>https://gisaid.org/CoV2020</td>
-  </tr>
-  <tr>
-    <td>https://www.ncbi.nlm.nih.gov/genome/86693</td>
-  </tr>
-  <tr>
-    <td>https://www.ncbi.nlm.nih.gov/assembly/GCF_009858895.2</td>
-  </tr>
-  <tr>
-    <td>https://www.ncbi.nlm.nih.gov/nuccore/1798174254</td>
   </tr>
 </table>
 ## Code examples
@@ -35,3 +22,4 @@ SELECT ?genome WHERE {
 curl -o genomes.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/genomes.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@genomes.rq
 ```
+This SPARQL query is available under CCZero.

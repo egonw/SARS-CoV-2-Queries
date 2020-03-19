@@ -1,7 +1,7 @@
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
 
-**Egon L. Willighagen**
+Editor: **Egon L. Willighagen**
 
 © 2020 The Authors
 
@@ -31,11 +31,14 @@ and hopes to contribute to [Wikidata:WikiProject COVID-19](https://www.wikidata.
 3.3.1. [Cases](pandemic.md#cases) <br />
 3.3.2. [Deaths](pandemic.md#deaths) <br />
 4. [Genes](genes.md) <br />
+5. [Literature](literature.md) <br />
+5.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
+5.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
 
 [Index](indexList.md) <br />
 
 ## Authors and contributors
 
-* Egon Willighagen
-* Daniel Mietchen
 * Addshore
+* Daniel Mietchen
+* Egon Willighagen

@@ -28,7 +28,10 @@ star this GitHub repository!
 3.3. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
 3.3.1. [Cases](pandemic.md#cases) <br />
 3.3.2. [Deaths](pandemic.md#deaths) <br />
-4. [Genes](genes.md) <br />
+4. [Genomes, Genes, and Proteins](genes.md) <br />
+4.1. [Genomes](genes.md#genomes) <br />
+4.2. [Proteins](genes.md#proteins) <br />
+4.2.1. [PDB structures](genes.md#pdb-structures) <br />
 5. [Literature](literature.md) <br />
 5.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
 5.2. [about coronaviruses](literature.md#about-coronaviruses) <br />

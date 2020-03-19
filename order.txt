@@ -1,5 +1,6 @@
 intro
 viruses
+covid
 pandemic
 genes
 literature

@@ -19,22 +19,24 @@ star this GitHub repository!
 1. [Introduction](intro.md) <br />
 2. [Viruses](viruses.md) <br />
 2.1. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
-3. [The pandemic](pandemic.md) <br />
-3.1. [Progression](pandemic.md#progression) <br />
-3.2. [Regional progression](pandemic.md#regional-progression) <br />
-3.2.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
-3.2.2. [Progression in Italy](pandemic.md#progression-in-italy) <br />
-3.3. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
-3.3.1. [Cases](pandemic.md#cases) <br />
-3.3.2. [Deaths](pandemic.md#deaths) <br />
-4. [Genomes, Genes, and Proteins](genes.md) <br />
-4.1. [Genomes](genes.md#genomes) <br />
-4.2. [Genes](genes.md#genes) <br />
-4.3. [Proteins](genes.md#proteins) <br />
-4.3.1. [PDB structures](genes.md#pdb-structures) <br />
-5. [Literature](literature.md) <br />
-5.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
-5.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
+3. [COVID-19](covid.md) <br />
+3.1. [Clinical trials](covid.md#clinical-trials) <br />
+4. [The pandemic](pandemic.md) <br />
+4.1. [Progression](pandemic.md#progression) <br />
+4.2. [Regional progression](pandemic.md#regional-progression) <br />
+4.2.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
+4.2.2. [Progression in Italy](pandemic.md#progression-in-italy) <br />
+4.3. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
+4.3.1. [Cases](pandemic.md#cases) <br />
+4.3.2. [Deaths](pandemic.md#deaths) <br />
+5. [Genomes, Genes, and Proteins](genes.md) <br />
+5.1. [Genomes](genes.md#genomes) <br />
+5.2. [Genes](genes.md#genes) <br />
+5.3. [Proteins](genes.md#proteins) <br />
+5.3.1. [PDB structures](genes.md#pdb-structures) <br />
+6. [Literature](literature.md) <br />
+6.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
+6.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
 
 [Index](indexList.md) <br />
 

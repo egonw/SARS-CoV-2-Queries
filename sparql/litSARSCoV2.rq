@@ -1,5 +1,6 @@
-SELECT (MAX(?dates) as ?date) ?work ?workLabel WHERE {
+SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   ?work wdt:P921 wd:Q82069695 .
   OPTIONAL { ?work wdt:P577 ?dates . }
+  OPTIONAL { ?work wdt:P356 ?doi . }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,nl,no,ru,sv,zh". }
-} GROUP BY ?work ?workLabel ORDER BY DESC(?date) LIMIT 10
+} GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10

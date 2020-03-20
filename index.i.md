@@ -2,7 +2,7 @@
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen
 
-Editor: **Egon L. Willighagen**
+Editor: Egon L. Willighagen
 
 License: CC-BY-SA 4.0 International
 

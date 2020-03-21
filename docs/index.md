@@ -43,6 +43,7 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 6.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
 6.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
 6.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
+6.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
 
 [Index](indexList.md) <br />
 

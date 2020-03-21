@@ -47,6 +47,15 @@ This gives these 10 papers:
 
 <out>litCoronaviruses</out>
 
+### about human coronaviruses
+
+The seven human coronaviruses have more than 6000 thousand articles about
+them in Wikidata. The following query therefore is a bit tuned for performance
+and more complex. Also, the list is quite long, and not given on this page.
+To see the output, click below in the name of the `` file:
+
+<sparql>litHumanCoronaviruses</sparql>
+
 ## References
 
 <references/>

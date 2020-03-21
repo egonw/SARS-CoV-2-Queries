@@ -31,52 +31,52 @@ This gives these 10 papers:
   </tr>
   <tr>
     <td>2020-12-01T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87461271">Timely development of vaccines against SARS-CoV-2</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461271">Timely development of vaccines against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87461271">edit</a>)</td>
     <td>10.1080/22221751.2020.1737580</td>
   </tr>
   <tr>
     <td>2020-06-01T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87461293">The novel Coronavirus (SARS-CoV-2) is a one health issue</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461293">The novel Coronavirus (SARS-CoV-2) is a one health issue</a> (<a href="http://www.wikidata.org/entity/Q87461293">edit</a>)</td>
     <td>10.1016/J.ONEHLT.2020.100123</td>
   </tr>
   <tr>
     <td>2020-05-17T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87461449">Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461449">Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020</a> (<a href="http://www.wikidata.org/entity/Q87461449">edit</a>)</td>
     <td>null</td>
   </tr>
   <tr>
     <td>2020-05-17T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87461585">Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461585">Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China</a> (<a href="http://www.wikidata.org/entity/Q87461585">edit</a>)</td>
     <td>null</td>
   </tr>
   <tr>
     <td>2020-04-01T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87461794">CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461794">CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q87461794">edit</a>)</td>
     <td>10.1148/RADIOL.2020200236</td>
   </tr>
   <tr>
     <td>2020-04-01T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87945074">Enteric involvement of coronaviruses: is faecal–oral transmission of SARS-CoV-2 possible?</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87945074">Enteric involvement of coronaviruses: is faecal–oral transmission of SARS-CoV-2 possible?</a> (<a href="http://www.wikidata.org/entity/Q87945074">edit</a>)</td>
     <td>10.1016/S2468-1253(20)30048-0</td>
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q88094851">Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88094851">Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China</a> (<a href="http://www.wikidata.org/entity/Q88094851">edit</a>)</td>
     <td>10.1038/S41591-020-0822-7</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87995005">1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87995005">1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995005">edit</a>)</td>
     <td>10.2210/PDB6W4H/PDB</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q88048219">Crystal structure of SARS-CoV-2 nucleocapsid protein N-terminal RNA binding domain</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88048219">Crystal structure of SARS-CoV-2 nucleocapsid protein N-terminal RNA binding domain</a> (<a href="http://www.wikidata.org/entity/Q88048219">edit</a>)</td>
     <td>10.2210/PDB6M3M/PDB</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87830056">The proximal origin of SARS-CoV-2</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87830056">The proximal origin of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87830056">edit</a>)</td>
     <td>10.1038/S41591-020-0820-9</td>
   </tr>
 </table>
@@ -107,8 +107,13 @@ This gives these 10 papers:
   </tr>
   <tr>
     <td>2020-03-12T00:00:00Z</td>
-    <td><a href="http://www.wikidata.org/entity/Q87675797">[Recommendations for critically ill patients with COVID-19]</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87675797">[Recommendations for critically ill patients with COVID-19]</a> (<a href="http://www.wikidata.org/entity/Q87675797">edit</a>)</td>
     <td>10.1007/S00063-020-00674-3</td>
+  </tr>
+  <tr>
+    <td>2020-02-26T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
+    <td>10.3390/JCM9030623</td>
   </tr>
 </table>
 

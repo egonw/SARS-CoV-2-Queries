@@ -20,8 +20,8 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?pdb WHERE {
     <td><b>pdb</b></td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q87917580">2'-O-methyltransferase</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
     <td>6W4H</td>
   </tr>
 </table>

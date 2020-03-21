@@ -114,6 +114,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2020-03-20T00:00:00Z</td>
     <td>2994</td>
   </tr>
+  <tr>
+    <td>2020-03-21T00:00:00Z</td>
+    <td>3631</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

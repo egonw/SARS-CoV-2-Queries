@@ -26,49 +26,49 @@ Listing these symptoms:
     <td><b>symptom</b></td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q86">headache</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86">headache</a> (<a href="http://www.wikidata.org/entity/Q86">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q5445">anemia</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q5445">anemia</a> (<a href="http://www.wikidata.org/entity/Q5445">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q9690">fatigue</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q9690">fatigue</a> (<a href="http://www.wikidata.org/entity/Q9690">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q35805">cough</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35805">cough</a> (<a href="http://www.wikidata.org/entity/Q35805">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q38933">fever</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q38933">fever</a> (<a href="http://www.wikidata.org/entity/Q38933">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q40878">diarrhea</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40878">diarrhea</a> (<a href="http://www.wikidata.org/entity/Q40878">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q114085">rhinitis</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q114085">rhinitis</a> (<a href="http://www.wikidata.org/entity/Q114085">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q188008">dyspnea</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q188008">dyspnea</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q344873">adult respiratory distress syndrome</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q344873">adult respiratory distress syndrome</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q474959">myalgia</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q474959">myalgia</a> (<a href="http://www.wikidata.org/entity/Q474959">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q485831">lymphopenia</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q485831">lymphopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q647099">hemoptysis</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q647099">hemoptysis</a> (<a href="http://www.wikidata.org/entity/Q647099">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q767485">respiratory failure</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q767485">respiratory failure</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q1076369">cytokine storm</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q1076369">cytokine storm</a> (<a href="http://www.wikidata.org/entity/Q1076369">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q3508755">influenza like illness</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q3508755">influenza like illness</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
   </tr>
 </table>
 
@@ -99,28 +99,28 @@ This lists these trials:
     <td><b>identifier</b></td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q87775009">Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q42824069">phase I clinical trial</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87775009">Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q87775009">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04283461</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q86278951">Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86278951">Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86278951">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04264533</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q87076423">Immunoregulatory Therapy for 2019-nCoV</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87076423">Immunoregulatory Therapy for 2019-nCoV</a> (<a href="http://www.wikidata.org/entity/Q87076423">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04268537</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87078691">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04291053</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q42824827">phase III clinical trial</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87078691">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04291053</td>
   </tr>
 </table>

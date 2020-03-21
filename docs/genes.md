@@ -56,48 +56,48 @@ Which gives us these genes:
     <td><b>gene</b></td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88000922">S surface glycoprotein of SARS-CoV-2</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88000922">S surface glycoprotein of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88088053">orf1a polyprotein;orf1ab polyprotein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088053">orf1a polyprotein;orf1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88088595">ORF3a protein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88088888">envelope protein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088888">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88088888">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88089048">membrane glycoprotein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089048">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089048">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88089203">ORF6 protein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089203">ORF6 protein</a> (<a href="http://www.wikidata.org/entity/Q88089203">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88089283">ORF7a protein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88089438">ORF7b</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88089552">ORF8 protein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88089689">nucleocapsid phosphoprotein</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089689">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089689">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; Human coronavirus 2019; Wuhan coronavirus; Wuhan seafood market pneumonia virus).</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; Human coronavirus 2019; Wuhan coronavirus; Wuhan seafood market pneumonia virus).</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
   </tr>
 </table>
 
@@ -124,8 +124,8 @@ Which gives us these proteins:
     <td><b>gene</b></td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q87917580">2'-O-methyltransferase</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
   </tr>
 </table>
 
@@ -153,8 +153,8 @@ Which gives us:
     <td><b>pdb</b></td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
-    <td><a href="http://www.wikidata.org/entity/Q87917580">2'-O-methyltransferase</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
     <td>6W4H</td>
   </tr>
 </table>

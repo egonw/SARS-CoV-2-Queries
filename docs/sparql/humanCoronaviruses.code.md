@@ -26,31 +26,31 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q278567">severe acute respiratory syndrome-related coronavirus</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td>694009</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q4902157">Middle East respiratory syndrome coronavirus</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td>1335626</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q8351095">Human Coronavirus NL63</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td>277944</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q16983356">Human coronavirus 229E</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td>11137</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q16983360">Human coronavirus HKU1</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td>290028</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q16991954">Human coronavirus OC43</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
     <td>31631</td>
   </tr>
   <tr>
-    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td>2697049</td>
   </tr>
 </table>

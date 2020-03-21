@@ -1,0 +1,7 @@
+SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
+  ?protein wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q8054 .
+  ?work wdt:P921 ?protein .
+  OPTIONAL { ?work wdt:P577 ?dates . }
+  OPTIONAL { ?work wdt:P356 ?doi . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,nl,no,ru,sv,zh". }
+} GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10

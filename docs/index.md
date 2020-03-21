@@ -40,6 +40,8 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 5.2.2. [Proteins](genes.md#proteins) <br />
 6. [Literature](literature.md) <br />
 6.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
+6.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
+6.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
 6.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
 
 [Index](indexList.md) <br />

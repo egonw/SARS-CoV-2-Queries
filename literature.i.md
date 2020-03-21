@@ -16,6 +16,26 @@ This gives these 10 papers:
 
 <out>litSARSCoV2</out>
 
+### about SARS-CoV-2 genes
+
+We can also query for articles about the genes:
+
+<sparql>litSARSCoV2Genes</sparql>
+
+Which currently returns:
+
+<out>litSARSCoV2Genes</out>
+
+### about SARS-CoV-2 proteins
+
+And about the virus proteins:
+
+<sparql>litSARSCoV2Proteins</sparql>
+
+Which currently returns:
+
+<out>litSARSCoV2Proteins</out>
+
 ## about coronaviruses
 
 As outlined in Chapter X, SARS-Cov-2 is one of the coronaviruses that

@@ -1,5 +1,5 @@
-SELECT ?virus ?virusLabel ?protein ?proteinLabel WHERE {
+SELECT ?virus ?virusLabel ?gene ?geneLabel WHERE {
   ?virus wdt:P171+ wd:Q278567 .
-  ?protein wdt:P703 ?virus ; wdt:P31 wd:Q7187 .
+  ?gene wdt:P703 ?virus ; wdt:P31 wd:Q7187 .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }

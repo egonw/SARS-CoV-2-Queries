@@ -23,18 +23,37 @@ if (bioclipse.isOnline()) {
 colNames = results.columnNames
 colCount = colNames.size()
 
+columnLabels = new ArrayList<String>()
+labelCols = new HashMap<String,String>()
+for (String name : colNames) {
+  if (name.endsWith("Label")) {
+    label = name.substring(0,name.indexOf("Label"))
+    if (columnLabels.contains(label)) {
+      labelCols.put(label, name)
+    }
+  } else {
+    columnLabels.add(name)
+  }
+}
+
 println "<table>"
 println "  <tr>"
-for (i=0; i<colCount; i++) {
-  println "    <td><b>${colNames.get(i)}</b></td>"
+for (String label : columnLabels) {
+  println "    <td><b>${label}</b></td>"
 }
 println "  </tr>"
 
 for (i=1;i<=results.rowCount;i++) {
-  rowVals = results.getRow(i)
   println "  <tr>"
-  for (j=0; j<rowVals.size(); j++) {
-    println "    <td>${rowVals[j]}</td>"
+  for (String label : columnLabels) {
+    if (labelCols.containsKey(label)) {
+      // okay, we have a label, use that
+      wikidata = label
+      label = labelCols.get(label)
+      println "    <td><a href=\"${results.get(i, wikidata)}\">${results.get(i, label)}</a></td>"
+    } else {
+      println "    <td>${results.get(i, label)}</td>"
+    }
   }
   println "  </tr>"
 }

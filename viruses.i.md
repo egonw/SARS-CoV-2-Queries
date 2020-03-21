@@ -18,6 +18,17 @@ Which gives us:
 
 <out>allCoronaViruses</out>
 
+## The seven coronaviruses that infect human
+
+However, for the current pandemic, the seven human corona viruses may be of particular interest [<cite>Q86729469</cite>].
+We can use this query to just list these:
+
+<sparql>humanCoronaviruses</sparql>
+
+This gives us a good starting point to study the virus in more detail:
+
+<out>humanCoronaviruses</out>
+
 ## NCBI Taxonomy IDs
 
 For the coronaviruses we can list the <topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>] identifiers with:

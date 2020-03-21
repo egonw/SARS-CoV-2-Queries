@@ -20,7 +20,8 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 
 1. [Introduction](intro.md) <br />
 2. [Viruses](viruses.md) <br />
-2.1. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
+2.1. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
+2.2. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
 3.1. [Symptoms](covid.md#symptoms) <br />
 3.2. [Clinical trials](covid.md#clinical-trials) <br />

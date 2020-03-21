@@ -356,6 +356,10 @@ SELECT ?virus ?virusLabel  WHERE {
     <td>http://www.wikidata.org/entity/Q16000326</td>
     <td>SL-CoV-WIV1</td>
   </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88162038</td>
+    <td>Bat SARS coronavirus Rp1</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

@@ -40,6 +40,10 @@ This gives us:
     <td>http://www.wikidata.org/entity/Q16000326</td>
     <td>SL-CoV-WIV1</td>
   </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88162038</td>
+    <td>Bat SARS coronavirus Rp1</td>
+  </tr>
 </table>
 
 But the full list of coronaviruses looks like this:
@@ -400,6 +404,10 @@ Which gives us:
     <td>http://www.wikidata.org/entity/Q16000326</td>
     <td>SL-CoV-WIV1</td>
   </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88162038</td>
+    <td>Bat SARS coronavirus Rp1</td>
+  </tr>
 </table>
 
 ## NCBI Taxonomy IDs
@@ -448,6 +456,11 @@ This gives us:
     <td>http://www.wikidata.org/entity/Q85939995</td>
     <td>SL-CoV</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88162038</td>
+    <td>Bat SARS coronavirus Rp1</td>
+    <td>349342</td>
   </tr>
 </table>
 

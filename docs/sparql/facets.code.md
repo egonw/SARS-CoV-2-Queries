@@ -119,7 +119,7 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84104992</td>
-    <td>2020 COVID-19 outbreak in Italy</td>
+    <td>2020 coronavirus pandemic in Italy</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84166704</td>
@@ -402,6 +402,10 @@ SELECT ?facet ?facetLabel WHERE {
     <td>2020 coronavirus outbreak in Panama</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87479384</td>
+    <td>cancelled event due to the 2019–20 coronavirus pandemic</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87480220</td>
     <td>2020 coronavirus outbreak in Bolivia</td>
   </tr>
@@ -678,6 +682,10 @@ SELECT ?facet ?facetLabel WHERE {
     <td>Timeline of the 2019–20 coronavirus pandemic in March 2020</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87781572</td>
+    <td>2020 coronavirus pandemic in Benin</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87785296</td>
     <td>2020 coronavirus pandemic in Greenland</td>
   </tr>
@@ -740,6 +748,74 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td>http://www.wikidata.org/entity/Q87985395</td>
     <td>COVID-19 pandemic/statistic</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88024576</td>
+    <td>2020 coronavirus pandemic in Quebec</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082409</td>
+    <td>2020 coronavirus pandemic in Akrotiri and Dhekelia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082534</td>
+    <td>2020 coronavirus pandemic in Angola</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082556</td>
+    <td>2020 coronavirus pandemic in Bermuda</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082587</td>
+    <td>2020 coronavirus pandemic in British Columbia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082622</td>
+    <td>2020 coronavirus pandemic in Canary Islands</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082639</td>
+    <td>2020 coronavirus pandemic in Cape Verde</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082670</td>
+    <td>2020 coronavirus pandemic in Chad</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082693</td>
+    <td>2020 coronavirus pandemic in Haiti</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082727</td>
+    <td>2020 coronavirus pandemic in Klang Valley</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082758</td>
+    <td>2020 coronavirus pandemic in Metro Manila</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082786</td>
+    <td>2020 coronavirus pandemic in New Brunswick</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082809</td>
+    <td>2020 coronavirus pandemic in Niger</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082830</td>
+    <td>2020 coronavirus pandemic in Ontario</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082857</td>
+    <td>2020 coronavirus pandemic in Sabah</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082922</td>
+    <td>2020 coronavirus pandemic in Sint Maarten</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082994</td>
+    <td>2020 coronavirus pandemic in the Isle of Man</td>
   </tr>
 </table>
 ## Code examples

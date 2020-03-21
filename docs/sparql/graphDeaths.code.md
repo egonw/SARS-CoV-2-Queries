@@ -30,6 +30,846 @@ WHERE {
     <td><b>countryLabel</b></td>
   </tr>
   <tr>
+    <td>2020-02-26T00:00:00Z</td>
+    <td>2</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>3</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-03T00:00:00Z</td>
+    <td>4</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>7</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>9</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>11</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>16</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>19</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>21</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>25</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>30</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>33</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>48</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>61</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>79</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>91</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>127</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>148</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>175</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>244</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>244</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>264</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>372</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>10</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>6</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>30</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>48</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>79</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>450</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>6</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>12</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>8</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>13</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>13</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>17</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>2</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>3</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>20</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>2</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-02-05T00:00:00Z</td>
+    <td>1</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>11</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>12</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>12</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>14</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>6</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>2</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>17</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>2158</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3405</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>1268</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>827</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>631</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1016</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>463</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>197</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>234</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>366</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1441</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3405</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>2503</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2978</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>148</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3407</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>288</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>309</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>3</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>491</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1002</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>598</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>5</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>28</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>10</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>48</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>36</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>120</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>136</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>84</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>767</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-02-26T00:00:00Z</td>
+    <td>2</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>3</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-03T00:00:00Z</td>
+    <td>4</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>7</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>9</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>11</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>16</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>19</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>21</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>25</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>30</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>33</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>48</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>61</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>79</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>91</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>127</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>148</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>175</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>244</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>244</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>264</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>372</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>10</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>6</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>30</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>48</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>79</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>450</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>6</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>12</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>8</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>13</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>13</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>17</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>2</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>3</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>20</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>2</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>2020-02-05T00:00:00Z</td>
+    <td>1</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>11</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>12</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>12</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>14</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>6</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>2</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>17</td>
+    <td>Philippines</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>2158</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3405</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>1268</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>827</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>631</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1016</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>463</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>197</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>234</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>366</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1441</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3405</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>2503</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2978</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>148</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3407</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>288</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>309</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>3</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>491</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1002</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>598</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>5</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>28</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>10</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>48</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>36</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>120</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>136</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>84</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>767</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
     <td>2020-01-20T00:00:00Z</td>
     <td>6</td>
     <td>People's Republic of China</td>
@@ -140,8 +980,33 @@ WHERE {
     <td>People's Republic of China</td>
   </tr>
   <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>3218</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>3231</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3242</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-02-20T00:00:00Z</td>
+    <td>2121</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2838</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3253</td>
     <td>People's Republic of China</td>
   </tr>
   <tr>
@@ -152,6 +1017,61 @@ WHERE {
   <tr>
     <td>2020-03-18T00:00:00Z</td>
     <td>28</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>29</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>24</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>19</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>15</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>22</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>21</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>12</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>7</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>9</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>6</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>33</td>
     <td>Japan</td>
   </tr>
   <tr>
@@ -296,7 +1216,17 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
+    <td>84</td>
+    <td>South Korea</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>91</td>
+    <td>South Korea</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>94</td>
     <td>South Korea</td>
   </tr>
   <tr>
@@ -310,12 +1240,32 @@ WHERE {
     <td>Australia</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+    <td>Australia</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>3</td>
+    <td>Australia</td>
+  </tr>
+  <tr>
     <td>2020-03-18T00:00:00Z</td>
     <td>2</td>
     <td>Malaysia</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Malaysia</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Thailand</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>1</td>
     <td>Thailand</td>
   </tr>
@@ -351,6 +1301,31 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-08T00:00:00Z</td>
+    <td>11</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>25</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>29</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>41</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>36</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
     <td>1</td>
     <td>Canada</td>
   </tr>
@@ -361,128 +1336,23 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
-    <td>10</td>
+    <td>12</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>8</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>9</td>
     <td>Canada</td>
   </tr>
   <tr>
     <td>2020-02-14T00:00:00Z</td>
     <td>1</td>
     <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-02-26T00:00:00Z</td>
-    <td>2</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>3</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-03T00:00:00Z</td>
-    <td>4</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-04T00:00:00Z</td>
-    <td>7</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>9</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-06T00:00:00Z</td>
-    <td>11</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>16</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>19</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>21</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>25</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>30</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-10T00:00:00Z</td>
-    <td>33</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>48</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>61</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>79</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>91</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>127</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>148</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>175</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>244</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>372</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>6</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>12</td>
-    <td>Germany</td>
   </tr>
   <tr>
     <td>2020-01-20T00:00:00Z</td>
@@ -595,8 +1465,33 @@ WHERE {
     <td>People's Republic of China</td>
   </tr>
   <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>3218</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>3231</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3242</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-02-20T00:00:00Z</td>
+    <td>2121</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2838</td>
+    <td>People's Republic of China</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3253</td>
     <td>People's Republic of China</td>
   </tr>
   <tr>
@@ -607,6 +1502,61 @@ WHERE {
   <tr>
     <td>2020-03-18T00:00:00Z</td>
     <td>28</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>29</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>24</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>19</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>15</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>22</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>21</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>12</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>7</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>9</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>6</td>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>33</td>
     <td>Japan</td>
   </tr>
   <tr>
@@ -751,7 +1701,17 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
+    <td>84</td>
+    <td>South Korea</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>91</td>
+    <td>South Korea</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>94</td>
     <td>South Korea</td>
   </tr>
   <tr>
@@ -765,12 +1725,32 @@ WHERE {
     <td>Australia</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+    <td>Australia</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>3</td>
+    <td>Australia</td>
+  </tr>
+  <tr>
     <td>2020-03-18T00:00:00Z</td>
     <td>2</td>
     <td>Malaysia</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Malaysia</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Thailand</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>1</td>
     <td>Thailand</td>
   </tr>
@@ -806,6 +1786,31 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-08T00:00:00Z</td>
+    <td>11</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>25</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>29</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>41</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>36</td>
+    <td>United States of America</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
     <td>1</td>
     <td>Canada</td>
   </tr>
@@ -816,7 +1821,17 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
-    <td>10</td>
+    <td>12</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>8</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>9</td>
     <td>Canada</td>
   </tr>
   <tr>
@@ -825,156 +1840,6 @@ WHERE {
     <td>France</td>
   </tr>
   <tr>
-    <td>2020-02-26T00:00:00Z</td>
-    <td>2</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>3</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-03T00:00:00Z</td>
-    <td>4</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-04T00:00:00Z</td>
-    <td>7</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>9</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-06T00:00:00Z</td>
-    <td>11</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>16</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>19</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>21</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>25</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>30</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-10T00:00:00Z</td>
-    <td>33</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>48</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>61</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>79</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>91</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>127</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>148</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>175</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>244</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>372</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>6</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>12</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>1</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>1</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>1</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>1</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>21</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>21</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>21</td>
-    <td>United Kingdom</td>
-  </tr>
-  <tr>
     <td>2020-03-14T00:00:00Z</td>
     <td>21</td>
     <td>United Kingdom</td>
@@ -985,19 +1850,39 @@ WHERE {
     <td>United Kingdom</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>10</td>
-    <td>Belgium</td>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>1</td>
+    <td>United Kingdom</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>10</td>
-    <td>Belgium</td>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>3</td>
+    <td>United Kingdom</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>10</td>
-    <td>Belgium</td>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>2</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>6</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>8</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>35</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>103</td>
+    <td>United Kingdom</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -1015,19 +1900,9 @@ WHERE {
     <td>Belgium</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>853</td>
-    <td>Iran</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>853</td>
-    <td>Iran</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>853</td>
-    <td>Iran</td>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>14</td>
+    <td>Belgium</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -1038,6 +1913,66 @@ WHERE {
     <td>2020-03-07T00:00:00Z</td>
     <td>124</td>
     <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>988</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>429</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>608</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>354</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>514</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>237</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>291</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>145</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>194</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>107</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1135</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>1</td>
+    <td>Denmark</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -1057,36 +1992,6 @@ WHERE {
   <tr>
     <td>2020-03-05T00:00:00Z</td>
     <td>1</td>
-    <td>Switzerland</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>1</td>
-    <td>Switzerland</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>1</td>
-    <td>Switzerland</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>1</td>
-    <td>Switzerland</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>2</td>
-    <td>Switzerland</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>2</td>
-    <td>Switzerland</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>2</td>
     <td>Switzerland</td>
   </tr>
   <tr>
@@ -1105,8 +2010,43 @@ WHERE {
     <td>Switzerland</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>21</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>4</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>6</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>11</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>3</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>9</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>12</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>6</td>
     <td>Iraq</td>
   </tr>
   <tr>
@@ -1145,98 +2085,43 @@ WHERE {
     <td>Netherlands</td>
   </tr>
   <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>106</td>
+    <td>Netherlands</td>
   </tr>
   <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>76</td>
+    <td>Netherlands</td>
   </tr>
   <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>4</td>
+    <td>Netherlands</td>
   </tr>
   <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
+    <td>2020-03-09T00:00:00Z</td>
     <td>3</td>
+    <td>Netherlands</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>1</td>
     <td>Austria</td>
   </tr>
   <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>3</td>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1</td>
     <td>Austria</td>
   </tr>
   <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>3</td>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>1</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1</td>
     <td>Austria</td>
   </tr>
   <tr>
@@ -1256,6 +2141,11 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>6</td>
     <td>Austria</td>
   </tr>
@@ -1265,37 +2155,12 @@ WHERE {
     <td>Norway</td>
   </tr>
   <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-    <td>Norway</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-    <td>Norway</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-    <td>Norway</td>
-  </tr>
-  <tr>
     <td>2020-03-14T00:00:00Z</td>
     <td>3</td>
     <td>Norway</td>
   </tr>
   <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>3</td>
-    <td>Norway</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>3</td>
-    <td>Norway</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
+    <td>2020-03-19T00:00:00Z</td>
     <td>3</td>
     <td>Norway</td>
   </tr>
@@ -1315,29 +2180,19 @@ WHERE {
     <td>Indonesia</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-    <td>Indonesia</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-    <td>Indonesia</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-    <td>Indonesia</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
     <td>2020-03-19T00:00:00Z</td>
-    <td>2</td>
-    <td>Spain</td>
+    <td>19</td>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>1</td>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>3</td>
+    <td>Indonesia</td>
   </tr>
   <tr>
     <td>2020-03-16T00:00:00Z</td>
@@ -1355,24 +2210,19 @@ WHERE {
     <td>Portugal</td>
   </tr>
   <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>6</td>
+    <td>Portugal</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>2</td>
     <td>Morocco</td>
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
-    <td>6</td>
-    <td>Greece</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>6</td>
-    <td>Greece</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>6</td>
-    <td>Greece</td>
+    <td>2</td>
+    <td>Morocco</td>
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
@@ -1390,14 +2240,9 @@ WHERE {
     <td>Bahrain</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>4</td>
-    <td>Egypt</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>4</td>
-    <td>Egypt</td>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Bahrain</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -1405,259 +2250,9 @@ WHERE {
     <td>Egypt</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>4</td>
-    <td>Egypt</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Hungary</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>1</td>
-    <td>San Marino</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>1</td>
-    <td>San Marino</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>1</td>
-    <td>San Marino</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>1</td>
-    <td>San Marino</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>9</td>
-    <td>San Marino</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
+    <td>2020-03-19T00:00:00Z</td>
     <td>2</td>
-    <td>Ireland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>2</td>
-    <td>Argentina</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Ukraine</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Ukraine</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Ukraine</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Ukraine</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>Lebanon</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>2</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>2</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>2</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>2</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>2</td>
-    <td>Ecuador</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>1</td>
-    <td>Luxembourg</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>1</td>
-    <td>Luxembourg</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>1</td>
-    <td>Luxembourg</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>1</td>
-    <td>Luxembourg</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>1</td>
-    <td>Luxembourg</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Luxembourg</td>
+    <td>Turkey</td>
   </tr>
   <tr>
     <td>2020-03-11T00:00:00Z</td>
@@ -1670,7 +2265,17 @@ WHERE {
     <td>Panama</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Panama</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Bulgaria</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>2</td>
     <td>Bulgaria</td>
   </tr>
@@ -1685,357 +2290,27 @@ WHERE {
     <td>Dominican Republic</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Sudan</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Guyana</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Guatemala</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>8</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>13</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>17</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>2</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>India</td>
-  </tr>
-  <tr>
     <td>2020-03-19T00:00:00Z</td>
-    <td>4</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>2020-02-05T00:00:00Z</td>
-    <td>1</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>11</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>12</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>12</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>Sweden</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>1</td>
-    <td>Russia</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>2158</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>3405</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>1268</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>827</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>631</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1016</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-10T00:00:00Z</td>
-    <td>463</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>197</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>234</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>366</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1441</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>3405</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>2503</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>288</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>309</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>25</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-06T00:00:00Z</td>
-    <td>257</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>491</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>8</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>13</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>17</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>2</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>4</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>2020-02-05T00:00:00Z</td>
-    <td>1</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>11</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>12</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>12</td>
-    <td>Philippines</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>3</td>
-    <td>Sweden</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>1</td>
-    <td>Russia</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>2158</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>3405</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>1268</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>827</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>631</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1016</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-10T00:00:00Z</td>
-    <td>463</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>197</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>234</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>366</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1441</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>3405</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>2503</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>288</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>309</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>25</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-06T00:00:00Z</td>
-    <td>257</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>491</td>
-    <td>Spain</td>
-  </tr>
-  <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>1</td>
-    <td>Panama</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-    <td>Panama</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>2</td>
-    <td>Bulgaria</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>1</td>
-    <td>Bangladesh</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
     <td>1</td>
     <td>Dominican Republic</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>Peru</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Cuba</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Sudan</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>1</td>
     <td>Sudan</td>
   </tr>
@@ -2045,14 +2320,79 @@ WHERE {
     <td>Guyana</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Guyana</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>1</td>
     <td>Guatemala</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Guatemala</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Azerbaijan</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>21</td>
+    <td>United Kingdom</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
     <td>55</td>
     <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>1</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>3</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>2</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>6</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>8</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>35</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>103</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>144</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>10</td>
+    <td>Belgium</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -2065,9 +2405,99 @@ WHERE {
     <td>Belgium</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>14</td>
+    <td>Belgium</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>853</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
     <td>2020-03-07T00:00:00Z</td>
     <td>124</td>
     <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>988</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>429</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>608</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>354</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>514</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>237</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>291</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>145</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>194</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>107</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1135</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>1284</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>1284</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>1284</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>1284</td>
+    <td>Iran</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>1</td>
+    <td>Denmark</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -2085,6 +2515,41 @@ WHERE {
     <td>Denmark</td>
   </tr>
   <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>9</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>9</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>9</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>9</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Brazil</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>1</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>2</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>14</td>
     <td>Switzerland</td>
@@ -2095,8 +2560,53 @@ WHERE {
     <td>Switzerland</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>21</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>4</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>6</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>11</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>3</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>9</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>12</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>6</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>4</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>7</td>
     <td>Iraq</td>
   </tr>
   <tr>
@@ -2135,6 +2645,51 @@ WHERE {
     <td>Netherlands</td>
   </tr>
   <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>106</td>
+    <td>Netherlands</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>76</td>
+    <td>Netherlands</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>4</td>
+    <td>Netherlands</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>3</td>
+    <td>Netherlands</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>1</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>1</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>3</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>3</td>
     <td>Austria</td>
@@ -2146,8 +2701,33 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>6</td>
     <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>6</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>1</td>
+    <td>Norway</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>3</td>
+    <td>Norway</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>Norway</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
@@ -2158,6 +2738,41 @@ WHERE {
     <td>2020-03-19T00:00:00Z</td>
     <td>7</td>
     <td>Norway</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>5</td>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>19</td>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>1</td>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>3</td>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>4</td>
+    <td>Spain</td>
   </tr>
   <tr>
     <td>2020-03-16T00:00:00Z</td>
@@ -2175,9 +2790,24 @@ WHERE {
     <td>Portugal</td>
   </tr>
   <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>6</td>
+    <td>Portugal</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>2</td>
     <td>Morocco</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Morocco</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+    <td>Greece</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -2185,13 +2815,248 @@ WHERE {
     <td>Greece</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>5</td>
+    <td>Greece</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>1</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>Ukraine</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>2</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>2</td>
+    <td>Ecuador</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>1</td>
     <td>Bahrain</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Bahrain</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>4</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>1</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>1</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>1</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>1</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>8</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>8</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>8</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>8</td>
+    <td>Egypt</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>3</td>
+    <td>Hungary</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>1</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>9</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>9</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>9</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>9</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>2</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>2</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>2</td>
+    <td>San Marino</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>2</td>
     <td>San Marino</td>
   </tr>
   <tr>
@@ -2202,12 +3067,242 @@ WHERE {
   <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>2</td>
+    <td>Ireland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Ireland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Ireland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ireland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ireland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ireland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ireland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
     <td>Argentina</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Argentina</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Argentina</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Argentina</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Argentina</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Argentina</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Argentina</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Argentina</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>3</td>
+    <td>Ukraine</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ukraine</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ukraine</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ukraine</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ukraine</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
     <td>Lebanon</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Lebanon</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Lebanon</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Lebanon</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>2</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>3</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>5</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>2</td>
+    <td>Ecuador</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Ecuador</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ecuador</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>1</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Luxembourg</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
@@ -2222,7 +3317,207 @@ WHERE {
   <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>1</td>
-    <td>Albania</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Turkey</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>1</td>
+    <td>Panama</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Panama</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Panama</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Bulgaria</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Bulgaria</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+    <td>Bangladesh</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Dominican Republic</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Dominican Republic</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+    <td>Peru</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Cuba</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Sudan</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Sudan</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Guyana</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Guyana</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Guatemala</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Guatemala</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Azerbaijan</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>144</td>
+    <td>United Kingdom</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Brazil</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>4</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>7</td>
+    <td>Iraq</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>6</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>5</td>
+    <td>Greece</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+    <td>Denmark</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>2</td>
+    <td>Ecuador</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Ecuador</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>1</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Slovenia</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Luxembourg</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+    <td>Slovenia</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -2238,6 +3533,101 @@ WHERE {
     <td>2020-03-17T00:00:00Z</td>
     <td>1</td>
     <td>Albania</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+    <td>Albania</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Albania</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Albania</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Albania</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2</td>
+    <td>Albania</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>9</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>19</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>23</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>38</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>39</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>58</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>44</td>
+    <td>Spain</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>9</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>19</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>23</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>38</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>39</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>58</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>44</td>
+    <td>France</td>
   </tr>
 </table>
 ## Code examples

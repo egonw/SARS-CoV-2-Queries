@@ -18,7 +18,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>191127</td>
+    <td>209839</td>
   </tr>
 </table>
 
@@ -293,6 +293,10 @@ This gives us this time series:
     <td>2020-03-18T00:00:00Z</td>
     <td>191127</td>
   </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>209839</td>
+  </tr>
 </table>
 
 ## Regional progression
@@ -418,7 +422,7 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84104992</td>
-    <td>2020 COVID-19 outbreak in Italy</td>
+    <td>2020 coronavirus pandemic in Italy</td>
   </tr>
   <tr>
     <td>http://www.wikidata.org/entity/Q84166704</td>
@@ -701,6 +705,10 @@ It gives, sadly, a long list:
     <td>2020 coronavirus outbreak in Panama</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87479384</td>
+    <td>cancelled event due to the 2019–20 coronavirus pandemic</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87480220</td>
     <td>2020 coronavirus outbreak in Bolivia</td>
   </tr>
@@ -977,6 +985,10 @@ It gives, sadly, a long list:
     <td>Timeline of the 2019–20 coronavirus pandemic in March 2020</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q87781572</td>
+    <td>2020 coronavirus pandemic in Benin</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q87785296</td>
     <td>2020 coronavirus pandemic in Greenland</td>
   </tr>
@@ -1040,6 +1052,74 @@ It gives, sadly, a long list:
     <td>http://www.wikidata.org/entity/Q87985395</td>
     <td>COVID-19 pandemic/statistic</td>
   </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88024576</td>
+    <td>2020 coronavirus pandemic in Quebec</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082409</td>
+    <td>2020 coronavirus pandemic in Akrotiri and Dhekelia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082534</td>
+    <td>2020 coronavirus pandemic in Angola</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082556</td>
+    <td>2020 coronavirus pandemic in Bermuda</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082587</td>
+    <td>2020 coronavirus pandemic in British Columbia</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082622</td>
+    <td>2020 coronavirus pandemic in Canary Islands</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082639</td>
+    <td>2020 coronavirus pandemic in Cape Verde</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082670</td>
+    <td>2020 coronavirus pandemic in Chad</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082693</td>
+    <td>2020 coronavirus pandemic in Haiti</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082727</td>
+    <td>2020 coronavirus pandemic in Klang Valley</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082758</td>
+    <td>2020 coronavirus pandemic in Metro Manila</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082786</td>
+    <td>2020 coronavirus pandemic in New Brunswick</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082809</td>
+    <td>2020 coronavirus pandemic in Niger</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082830</td>
+    <td>2020 coronavirus pandemic in Ontario</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082857</td>
+    <td>2020 coronavirus pandemic in Sabah</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082922</td>
+    <td>2020 coronavirus pandemic in Sint Maarten</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88082994</td>
+    <td>2020 coronavirus pandemic in the Isle of Man</td>
+  </tr>
 </table>
 
 ### Progression in The Netherlands
@@ -1098,6 +1178,10 @@ This tells us the following:
     <td>188</td>
   </tr>
   <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>128</td>
+  </tr>
+  <tr>
     <td>2020-03-08T00:00:00Z</td>
     <td>265</td>
   </tr>
@@ -1134,6 +1218,10 @@ This tells us the following:
     <td>1413</td>
   </tr>
   <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>11</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>1705</td>
   </tr>
@@ -1148,6 +1236,10 @@ This tells us the following:
   <tr>
     <td>2020-03-19T00:00:00Z</td>
     <td>2460</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>2994</td>
   </tr>
 </table>
 
@@ -1224,15 +1316,59 @@ This tells us the following:
     <td>888</td>
   </tr>
   <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>27980</td>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>650</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>3858</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>4636</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>5883</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>7375</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>9172</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>10149</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>12462</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>15113</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>17660</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>21157</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
-    <td>31506</td>
+    <td>27980</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
+    <td>31506</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
     <td>35713</td>
   </tr>
   <tr>

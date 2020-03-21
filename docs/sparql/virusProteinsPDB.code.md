@@ -124,20 +124,6 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?pdb WHERE {
     <td>SARS-CoV-2</td>
     <td>http://www.wikidata.org/entity/Q87917585</td>
     <td>SARS-CoV-2 spike glycoprotein</td>
-    <td>6ACJ</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917585</td>
-    <td>SARS-CoV-2 spike glycoprotein</td>
-    <td>6NB7</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917585</td>
-    <td>SARS-CoV-2 spike glycoprotein</td>
     <td>6VXX</td>
   </tr>
   <tr>

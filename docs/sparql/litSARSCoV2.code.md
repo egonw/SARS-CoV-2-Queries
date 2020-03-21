@@ -21,15 +21,27 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
-    <td>2020-05-17T00:00:00Z</td>
-    <td>http://www.wikidata.org/entity/Q87461585</td>
-    <td>Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China</td>
-    <td></td>
+    <td>2020-12-01T00:00:00Z</td>
+    <td>http://www.wikidata.org/entity/Q87461271</td>
+    <td>Timely development of vaccines against SARS-CoV-2</td>
+    <td>10.1080/22221751.2020.1737580</td>
+  </tr>
+  <tr>
+    <td>2020-06-01T00:00:00Z</td>
+    <td>http://www.wikidata.org/entity/Q87461293</td>
+    <td>The novel Coronavirus (SARS-CoV-2) is a one health issue</td>
+    <td>10.1016/J.ONEHLT.2020.100123</td>
   </tr>
   <tr>
     <td>2020-05-17T00:00:00Z</td>
     <td>http://www.wikidata.org/entity/Q87461449</td>
     <td>Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-05-17T00:00:00Z</td>
+    <td>http://www.wikidata.org/entity/Q87461585</td>
+    <td>Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China</td>
     <td></td>
   </tr>
   <tr>
@@ -45,40 +57,28 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>10.1016/S2468-1253(20)30048-0</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>http://www.wikidata.org/entity/Q88094851</td>
+    <td>Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China</td>
+    <td>10.1038/S41591-020-0822-7</td>
+  </tr>
+  <tr>
     <td>2020-03-18T00:00:00Z</td>
     <td>http://www.wikidata.org/entity/Q87995005</td>
     <td>1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</td>
     <td>10.2210/PDB6W4H/PDB</td>
   </tr>
   <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>http://www.wikidata.org/entity/Q88048219</td>
+    <td>Crystal structure of SARS-CoV-2 nucleocapsid protein N-terminal RNA binding domain</td>
+    <td>10.2210/PDB6M3M/PDB</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>http://www.wikidata.org/entity/Q87830056</td>
     <td>The proximal origin of SARS-CoV-2</td>
     <td>10.1038/S41591-020-0820-9</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>http://www.wikidata.org/entity/Q87943251</td>
-    <td>Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1</td>
-    <td>10.1056/NEJMC2004973</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>http://www.wikidata.org/entity/Q87789617</td>
-    <td>Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)</td>
-    <td>10.1126/SCIENCE.ABB3221</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>http://www.wikidata.org/entity/Q87945075</td>
-    <td>SARS-CoV-2 and COVID-19: The most important research questions</td>
-    <td>10.1186/S13578-020-00404-4</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>http://www.wikidata.org/entity/Q83567432</td>
-    <td>Coronavirus latest: global infections surge past 30,000</td>
-    <td>10.1038/D41586-020-00154-W</td>
   </tr>
 </table>
 ## Code examples

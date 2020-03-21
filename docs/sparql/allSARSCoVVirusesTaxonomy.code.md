@@ -43,6 +43,11 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td>SL-CoV</td>
     <td></td>
   </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q88162038</td>
+    <td>Bat SARS coronavirus Rp1</td>
+    <td>349342</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

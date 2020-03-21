@@ -1,6 +1,5 @@
-SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbi WHERE {
-  ?virus wdt:P171+ wd:Q278567 .
-  ?gene wdt:P703 ?virus ; wdt:P31 wd:Q7187 .
+SELECT ?gene ?geneLabel ?ncbi WHERE {
+  ?gene wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q7187 .
   OPTIONAL { ?gene wdt:P351 ?ncbi }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }

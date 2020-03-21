@@ -15,75 +15,51 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel WHERE {
 <table>
   <tr>
     <td><b>virus</b></td>
-    <td><b>virusLabel</b></td>
     <td><b>gene</b></td>
-    <td><b>geneLabel</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88000922</td>
-    <td>S surface glycoprotein of SARS-CoV-2</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88000922">S surface glycoprotein of SARS-CoV-2</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88088053</td>
-    <td>orf1a polyprotein;orf1ab polyprotein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88088053">orf1a polyprotein;orf1ab polyprotein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88088595</td>
-    <td>ORF3a protein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88088595">ORF3a protein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88088888</td>
-    <td>envelope protein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88088888">envelope protein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88089048</td>
-    <td>membrane glycoprotein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88089048">membrane glycoprotein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88089203</td>
-    <td>ORF6 protein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88089203">ORF6 protein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88089283</td>
-    <td>ORF7a protein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88089283">ORF7a protein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88089438</td>
-    <td>ORF7b</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88089438">ORF7b</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88089552</td>
-    <td>ORF8 protein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88089552">ORF8 protein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88089689</td>
-    <td>nucleocapsid phosphoprotein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88089689">nucleocapsid phosphoprotein</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q88105063</td>
-    <td>Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; Human coronavirus 2019; Wuhan coronavirus; Wuhan seafood market pneumonia virus).</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; Human coronavirus 2019; Wuhan coronavirus; Wuhan seafood market pneumonia virus).</a></td>
   </tr>
 </table>
 ## Code examples

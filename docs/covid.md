@@ -24,67 +24,51 @@ Listing these symptoms:
 <table>
   <tr>
     <td><b>symptom</b></td>
-    <td><b>symptomLabel</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q86</td>
-    <td>headache</td>
+    <td><a href="http://www.wikidata.org/entity/Q86">headache</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q5445</td>
-    <td>anemia</td>
+    <td><a href="http://www.wikidata.org/entity/Q5445">anemia</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q9690</td>
-    <td>fatigue</td>
+    <td><a href="http://www.wikidata.org/entity/Q9690">fatigue</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q35805</td>
-    <td>cough</td>
+    <td><a href="http://www.wikidata.org/entity/Q35805">cough</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q38933</td>
-    <td>fever</td>
+    <td><a href="http://www.wikidata.org/entity/Q38933">fever</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q40878</td>
-    <td>diarrhea</td>
+    <td><a href="http://www.wikidata.org/entity/Q40878">diarrhea</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q114085</td>
-    <td>rhinitis</td>
+    <td><a href="http://www.wikidata.org/entity/Q114085">rhinitis</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q188008</td>
-    <td>dyspnea</td>
+    <td><a href="http://www.wikidata.org/entity/Q188008">dyspnea</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q344873</td>
-    <td>adult respiratory distress syndrome</td>
+    <td><a href="http://www.wikidata.org/entity/Q344873">adult respiratory distress syndrome</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q474959</td>
-    <td>myalgia</td>
+    <td><a href="http://www.wikidata.org/entity/Q474959">myalgia</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q485831</td>
-    <td>lymphopenia</td>
+    <td><a href="http://www.wikidata.org/entity/Q485831">lymphopenia</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q647099</td>
-    <td>hemoptysis</td>
+    <td><a href="http://www.wikidata.org/entity/Q647099">hemoptysis</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q767485</td>
-    <td>respiratory failure</td>
+    <td><a href="http://www.wikidata.org/entity/Q767485">respiratory failure</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q1076369</td>
-    <td>cytokine storm</td>
+    <td><a href="http://www.wikidata.org/entity/Q1076369">cytokine storm</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q3508755</td>
-    <td>influenza like illness</td>
+    <td><a href="http://www.wikidata.org/entity/Q3508755">influenza like illness</a></td>
   </tr>
 </table>
 
@@ -111,44 +95,32 @@ This lists these trials:
 <table>
   <tr>
     <td><b>trial</b></td>
-    <td><b>trialLabel</b></td>
     <td><b>phase</b></td>
-    <td><b>phaseLabel</b></td>
     <td><b>identifier</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87775009</td>
-    <td>Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</td>
-    <td>http://www.wikidata.org/entity/Q42824069</td>
-    <td>phase I clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87775009">Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824069">phase I clinical trial</a></td>
     <td>NCT04283461</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q86278951</td>
-    <td>Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</td>
-    <td>http://www.wikidata.org/entity/Q42824440</td>
-    <td>phase II clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q86278951">Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
     <td>NCT04264533</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87076423</td>
-    <td>Immunoregulatory Therapy for 2019-nCoV</td>
-    <td>http://www.wikidata.org/entity/Q42824440</td>
-    <td>phase II clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87076423">Immunoregulatory Therapy for 2019-nCoV</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
     <td>NCT04268537</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87078691</td>
-    <td>The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</td>
-    <td>http://www.wikidata.org/entity/Q42824440</td>
-    <td>phase II clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
     <td>NCT04291053</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87078691</td>
-    <td>The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</td>
-    <td>http://www.wikidata.org/entity/Q42824827</td>
-    <td>phase III clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824827">phase III clinical trial</a></td>
     <td>NCT04291053</td>
   </tr>
 </table>

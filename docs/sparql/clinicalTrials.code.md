@@ -17,44 +17,32 @@ SELECT ?trial ?trialLabel ?phase ?phaseLabel ?identifier WHERE {
 <table>
   <tr>
     <td><b>trial</b></td>
-    <td><b>trialLabel</b></td>
     <td><b>phase</b></td>
-    <td><b>phaseLabel</b></td>
     <td><b>identifier</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87775009</td>
-    <td>Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</td>
-    <td>http://www.wikidata.org/entity/Q42824069</td>
-    <td>phase I clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87775009">Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824069">phase I clinical trial</a></td>
     <td>NCT04283461</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q86278951</td>
-    <td>Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</td>
-    <td>http://www.wikidata.org/entity/Q42824440</td>
-    <td>phase II clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q86278951">Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
     <td>NCT04264533</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87076423</td>
-    <td>Immunoregulatory Therapy for 2019-nCoV</td>
-    <td>http://www.wikidata.org/entity/Q42824440</td>
-    <td>phase II clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87076423">Immunoregulatory Therapy for 2019-nCoV</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
     <td>NCT04268537</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87078691</td>
-    <td>The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</td>
-    <td>http://www.wikidata.org/entity/Q42824440</td>
-    <td>phase II clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824440">phase II clinical trial</a></td>
     <td>NCT04291053</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q87078691</td>
-    <td>The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</td>
-    <td>http://www.wikidata.org/entity/Q42824827</td>
-    <td>phase III clinical trial</td>
+    <td><a href="http://www.wikidata.org/entity/Q87078691">The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q42824827">phase III clinical trial</a></td>
     <td>NCT04291053</td>
   </tr>
 </table>

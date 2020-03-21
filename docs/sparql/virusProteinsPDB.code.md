@@ -16,122 +16,13 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?pdb WHERE {
 <table>
   <tr>
     <td><b>virus</b></td>
-    <td><b>virusLabel</b></td>
     <td><b>protein</b></td>
-    <td><b>proteinLabel</b></td>
     <td><b>pdb</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917572</td>
-    <td>NSP10 from SARS CoV-2</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q87917580">2'-O-methyltransferase</a></td>
     <td>6W4H</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917579</td>
-    <td>NSP15 Endoribonuclease from SARS CoV-2</td>
-    <td>6VWW</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917579</td>
-    <td>NSP15 Endoribonuclease from SARS CoV-2</td>
-    <td>6W01</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917580</td>
-    <td>NSP16 from SARS CoV-2</td>
-    <td>6W4H</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917581</td>
-    <td>NSP3 from SARS CoV-2</td>
-    <td>6VXS</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917581</td>
-    <td>NSP3 from SARS CoV-2</td>
-    <td>6W02</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-    <td>5R81</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-    <td>5R82</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-    <td>5R83</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-    <td>6M03</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-    <td>6Y2E</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-    <td>6Y2F</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-    <td>6Y84</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917584</td>
-    <td>SARS-CoV-2 nucleocapsid protein</td>
-    <td>6M3M</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917585</td>
-    <td>SARS-CoV-2 spike glycoprotein</td>
-    <td>6VXX</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917585</td>
-    <td>SARS-CoV-2 spike glycoprotein</td>
-    <td>6VYB</td>
   </tr>
 </table>
 ## Code examples

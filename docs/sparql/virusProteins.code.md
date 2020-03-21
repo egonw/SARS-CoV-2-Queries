@@ -16,51 +16,11 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel  WHERE {
 <table>
   <tr>
     <td><b>virus</b></td>
-    <td><b>virusLabel</b></td>
     <td><b>gene</b></td>
-    <td><b>geneLabel</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917572</td>
-    <td>NSP10 from SARS CoV-2</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917579</td>
-    <td>NSP15 Endoribonuclease from SARS CoV-2</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917580</td>
-    <td>NSP16 from SARS CoV-2</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917581</td>
-    <td>NSP3 from SARS CoV-2</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917582</td>
-    <td>SARS-CoV-2 main protease</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917584</td>
-    <td>SARS-CoV-2 nucleocapsid protein</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
-    <td>http://www.wikidata.org/entity/Q87917585</td>
-    <td>SARS-CoV-2 spike glycoprotein</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
+    <td><a href="http://www.wikidata.org/entity/Q87917580">2'-O-methyltransferase</a></td>
   </tr>
 </table>
 ## Code examples

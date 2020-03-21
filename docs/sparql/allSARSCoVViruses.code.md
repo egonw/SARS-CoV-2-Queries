@@ -14,31 +14,24 @@ SELECT ?virus ?virusLabel  WHERE {
 <table>
   <tr>
     <td><b>virus</b></td>
-    <td><b>virusLabel</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q34967815</td>
-    <td>SARS coronavirus</td>
+    <td><a href="http://www.wikidata.org/entity/Q34967815">SARS coronavirus</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q85438966</td>
-    <td>severe acute respiratory syndrome coronavirus</td>
+    <td><a href="http://www.wikidata.org/entity/Q85438966">severe acute respiratory syndrome coronavirus</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q85939995</td>
-    <td>SL-CoV</td>
+    <td><a href="http://www.wikidata.org/entity/Q85939995">SL-CoV</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q16000326</td>
-    <td>SL-CoV-WIV1</td>
+    <td><a href="http://www.wikidata.org/entity/Q16000326">SL-CoV-WIV1</a></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q88162038</td>
-    <td>Bat SARS coronavirus Rp1</td>
+    <td><a href="http://www.wikidata.org/entity/Q88162038">Bat SARS coronavirus Rp1</a></td>
   </tr>
 </table>
 ## Code examples

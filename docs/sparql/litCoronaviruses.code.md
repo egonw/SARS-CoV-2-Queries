@@ -17,13 +17,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td><b>date</b></td>
     <td><b>work</b></td>
-    <td><b>workLabel</b></td>
     <td><b>doi</b></td>
   </tr>
   <tr>
     <td>2020-03-12T00:00:00Z</td>
-    <td>http://www.wikidata.org/entity/Q87675797</td>
-    <td>[Recommendations for critically ill patients with COVID-19]</td>
+    <td><a href="http://www.wikidata.org/entity/Q87675797">[Recommendations for critically ill patients with COVID-19]</a></td>
     <td>10.1007/S00063-020-00674-3</td>
   </tr>
 </table>

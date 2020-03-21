@@ -23,42 +23,34 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 <table>
   <tr>
     <td><b>virus</b></td>
-    <td><b>virusLabel</b></td>
     <td><b>ncbi</b></td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q278567</td>
-    <td>severe acute respiratory syndrome-related coronavirus</td>
+    <td><a href="http://www.wikidata.org/entity/Q278567">severe acute respiratory syndrome-related coronavirus</a></td>
     <td>694009</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q4902157</td>
-    <td>Middle East respiratory syndrome coronavirus</td>
+    <td><a href="http://www.wikidata.org/entity/Q4902157">Middle East respiratory syndrome coronavirus</a></td>
     <td>1335626</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q8351095</td>
-    <td>Human Coronavirus NL63</td>
+    <td><a href="http://www.wikidata.org/entity/Q8351095">Human Coronavirus NL63</a></td>
     <td>277944</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q16983356</td>
-    <td>Human coronavirus 229E</td>
+    <td><a href="http://www.wikidata.org/entity/Q16983356">Human coronavirus 229E</a></td>
     <td>11137</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q16983360</td>
-    <td>Human coronavirus HKU1</td>
+    <td><a href="http://www.wikidata.org/entity/Q16983360">Human coronavirus HKU1</a></td>
     <td>290028</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q16991954</td>
-    <td>Human coronavirus OC43</td>
+    <td><a href="http://www.wikidata.org/entity/Q16991954">Human coronavirus OC43</a></td>
     <td>31631</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q82069695</td>
-    <td>SARS-CoV-2</td>
+    <td><a href="http://www.wikidata.org/entity/Q82069695">SARS-CoV-2</a></td>
     <td>2697049</td>
   </tr>
 </table>

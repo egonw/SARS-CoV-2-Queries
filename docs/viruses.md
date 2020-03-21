@@ -96,7 +96,7 @@ Which gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q7834605">Transmissible gastroenteritis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q7834605">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q7855142">Turkey coronavirus</a> (<a href="http://www.wikidata.org/entity/Q7855142">edit</a>)</td>
@@ -224,7 +224,7 @@ Which gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808943">Common moorhen coronavirus HKU21</a> (<a href="http://www.wikidata.org/entity/Q24808943">edit</a>)</td>
@@ -232,7 +232,7 @@ Which gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808944">Coronavirus HKU15</a> (<a href="http://www.wikidata.org/entity/Q24808944">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808946">Night heron coronavirus HKU19</a> (<a href="http://www.wikidata.org/entity/Q24808946">edit</a>)</td>
@@ -344,23 +344,23 @@ Which gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758320">Rhinolophus ferrumequinum alphacoronavirus HuB-2013</a> (<a href="http://www.wikidata.org/entity/Q57758320">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758326">Myotis ricketti alphacoronavirus Sax-2011</a> (<a href="http://www.wikidata.org/entity/Q57758326">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758332">Nyctalus velutinus alphacoronavirus SC-2013</a> (<a href="http://www.wikidata.org/entity/Q57758332">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758339">Bat Hp-betacoronavirus Zhejiang2013</a> (<a href="http://www.wikidata.org/entity/Q57758339">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773819">Lucheng Rn rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57773819">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773822">Ferret coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57773822">edit</a>)</td>
@@ -368,15 +368,15 @@ Which gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773827">NL63-related bat coronavirus strain BtKYNL63-9b</a> (<a href="http://www.wikidata.org/entity/Q57773827">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773834">China Rattus coronavirus HKU24</a> (<a href="http://www.wikidata.org/entity/Q57773834">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57879935">Rousettus bat coronavirus GCCDC1</a> (<a href="http://www.wikidata.org/entity/Q57879935">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -384,11 +384,11 @@ Which gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85939995">SL-CoV</a> (<a href="http://www.wikidata.org/entity/Q85939995">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88162038">Bat SARS coronavirus Rp1</a> (<a href="http://www.wikidata.org/entity/Q88162038">edit</a>)</td>
@@ -491,11 +491,11 @@ This gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85939995">SL-CoV</a> (<a href="http://www.wikidata.org/entity/Q85939995">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88162038">Bat SARS coronavirus Rp1</a> (<a href="http://www.wikidata.org/entity/Q88162038">edit</a>)</td>

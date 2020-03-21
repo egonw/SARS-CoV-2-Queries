@@ -31,11 +31,11 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85939995">SL-CoV</a> (<a href="http://www.wikidata.org/entity/Q85939995">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88162038">Bat SARS coronavirus Rp1</a> (<a href="http://www.wikidata.org/entity/Q88162038">edit</a>)</td>

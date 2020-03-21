@@ -32,12 +32,12 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2020-05-17T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461449">Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020</a> (<a href="http://www.wikidata.org/entity/Q87461449">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td>2020-05-17T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461585">Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China</a> (<a href="http://www.wikidata.org/entity/Q87461585">edit</a>)</td>
-    <td>null</td>
+    <td></td>
   </tr>
   <tr>
     <td>2020-04-01T00:00:00Z</td>

@@ -16,6 +16,14 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 ### Output
 <table>
   <tr>
+    <td><b>date</b></td>
+    <td><b>work</b></td>
+    <td><b>doi</b></td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88197712">Genetic evolution analysis of 2019 novel coronavirus and coronavirus from other species</a> (<a href="http://www.wikidata.org/entity/Q88197712">edit</a>)</td>
+    <td>10.1016/J.MEEGID.2020.104285</td>
   </tr>
 </table>
 ## Code examples

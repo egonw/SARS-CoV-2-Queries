@@ -20,7 +20,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q83493517">timeline of the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83741704">2019–20 COVID-19 pandemic by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q83741704">2019–20 coronavirus pandemic  by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q83872271">2019–20 coronavirus pandemic in mainland China</a> (<a href="http://www.wikidata.org/entity/Q83872271">edit</a>)</td>
@@ -56,7 +56,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q83873580">2020 coronavirus pandemic in Canada</a> (<a href="http://www.wikidata.org/entity/Q83873580">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83873593">2020 coronavirus outbreak in France</a> (<a href="http://www.wikidata.org/entity/Q83873593">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q83873593">2020 coronavirus pandemic in France</a> (<a href="http://www.wikidata.org/entity/Q83873593">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q83888864">2019–20 coronavirus outbreak in Cambodia</a> (<a href="http://www.wikidata.org/entity/Q83888864">edit</a>)</td>
@@ -95,7 +95,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q84104992">2020 coronavirus pandemic in Italy</a> (<a href="http://www.wikidata.org/entity/Q84104992">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84166704">2019–20 COVID-19 outbreak in Spain</a> (<a href="http://www.wikidata.org/entity/Q84166704">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q84166704">2020 coronavirus pandemic in Spain</a> (<a href="http://www.wikidata.org/entity/Q84166704">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q84167106">2020 coronavirus pandemic in the United Kingdom</a> (<a href="http://www.wikidata.org/entity/Q84167106">edit</a>)</td>
@@ -140,7 +140,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q86756826">2020 coronavirus outbreak in the Netherlands</a> (<a href="http://www.wikidata.org/entity/Q86756826">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86847911">2020 coronavirus outbreak in Austria</a> (<a href="http://www.wikidata.org/entity/Q86847911">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86847911">2020 coronavirus pandemic in Austria</a> (<a href="http://www.wikidata.org/entity/Q86847911">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q86886544">2020 coronavirus pandemic in Norway</a> (<a href="http://www.wikidata.org/entity/Q86886544">edit</a>)</td>
@@ -149,7 +149,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q86901049">COVID-19 testing</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86913546">2020 coronavirus outbreak in Indonesia</a> (<a href="http://www.wikidata.org/entity/Q86913546">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86913546">2020 coronavirus pandemic in Indonesia</a> (<a href="http://www.wikidata.org/entity/Q86913546">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q86919406">2020 coronavirus outbreak in the Czech Republic</a> (<a href="http://www.wikidata.org/entity/Q86919406">edit</a>)</td>
@@ -317,7 +317,19 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q87486535">2020 coronavirus pandemic in Bulgaria</a> (<a href="http://www.wikidata.org/entity/Q87486535">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88137634">2020 coronavirus pandemic in Papua New Guinea</a> (<a href="http://www.wikidata.org/entity/Q88137634">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88164033">2020 coronavirus pandemic in Zimbabwe</a> (<a href="http://www.wikidata.org/entity/Q88164033">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88177037">2020 coronavirus outbreak in Catalonia</a> (<a href="http://www.wikidata.org/entity/Q88177037">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88221447">non-pharmaceutical countermeasure</a> (<a href="http://www.wikidata.org/entity/Q88221447">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>

@@ -66,7 +66,7 @@ Which gives us these genes:
     <td>43740578</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088595">ORF3a gene</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
     <td>43740569</td>
   </tr>
   <tr>
@@ -146,6 +146,9 @@ Which gives us these proteins:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88174316">orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88200603">Viroporin 3a</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
   </tr>
 </table>
 

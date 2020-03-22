@@ -26,7 +26,7 @@ SELECT ?gene ?geneLabel ?ncbi WHERE {
     <td>43740578</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088595">ORF3a gene</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
     <td>43740569</td>
   </tr>
   <tr>

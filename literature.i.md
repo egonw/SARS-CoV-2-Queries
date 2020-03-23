@@ -65,6 +65,22 @@ Which tells us:
 
 <out>litHumanCoronavirusesCounts</out>
 
+#### and their genes
+
+<sparql>litHumanCoronavirusesGeneCounts</sparql>
+
+Which shows us:
+
+<out>litHumanCoronavirusesGeneCounts</out>
+
+#### and their proteins
+
+<sparql>litHumanCoronavirusesProteinCounts</sparql>
+
+Where the counts are:
+
+<out>litHumanCoronavirusesProteinCounts</out>
+
 ## References
 
 <references/>

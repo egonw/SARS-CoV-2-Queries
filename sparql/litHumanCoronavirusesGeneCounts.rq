@@ -1,0 +1,19 @@
+SELECT ?virus ?virusLabel ?gene ?geneLabel ?count WITH {
+  SELECT ?virus ?gene (COUNT(DISTINCT ?work) AS ?count) WHERE {
+    VALUES ?virus {
+      wd:Q82069695 # SARS-CoV-2
+      wd:Q16983360 # HKU1
+      wd:Q16991954 # OC43
+      wd:Q8351095  # NL63 
+      wd:Q16983356 # 229E 
+      wd:Q4902157  # MERS-CoV
+      wd:Q278567   # SARS-CoV
+    }
+    ?gene wdt:P703 ?virus ; wdt:P31 wd:Q7187 .
+    ?work wdt:P921 ?gene .
+  } GROUP BY ?virus ?gene
+} AS %ARTICLES WHERE {
+  INCLUDE %ARTICLES
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,nl,no,ru,sv,zh". }
+}
+ORDER BY DESC(?count)

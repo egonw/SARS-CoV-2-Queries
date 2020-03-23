@@ -965,7 +965,7 @@ It gives, sadly, a long list:
 These facets can be used to look at just the <a name="tp2">progression</a> on one region,
 for example, just <a name="tp3">The Netherlands</a>:
 
-**SPARQL** [sparql/progressionNL.rq](sparql/progressionNL.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A))
+**SPARQL** [sparql/progressionNL.rq](sparql/progressionNL.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A))
 
 ```sparql
 SELECT ?date ?numberOfCases WHERE {
@@ -973,7 +973,7 @@ SELECT ?date ?numberOfCases WHERE {
   ?numberOfCasesStat ps:P1603 ?numberOfCases ;
                      pq:P585 ?date .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-} ORDER BY ASC(?date)
+} ORDER BY DESC(?date)
 ```
 
 This tells us the following:
@@ -984,84 +984,24 @@ This tells us the following:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>2020-02-27T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-03-23T00:00:00Z</td>
+    <td>4749</td>
   </tr>
   <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>4204</td>
   </tr>
   <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-21T00:00:00Z</td>
+    <td>3631</td>
   </tr>
   <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>10</td>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>2994</td>
   </tr>
   <tr>
-    <td>2020-03-02T00:00:00Z</td>
-    <td>18</td>
-  </tr>
-  <tr>
-    <td>2020-03-04T00:00:00Z</td>
-    <td>38</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>82</td>
-  </tr>
-  <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>188</td>
-  </tr>
-  <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>128</td>
-  </tr>
-  <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>265</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>321</td>
-  </tr>
-  <tr>
-    <td>2020-03-10T00:00:00Z</td>
-    <td>382</td>
-  </tr>
-  <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>503</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>614</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>804</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>959</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1135</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>1413</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1705</td>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>2460</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
@@ -1072,20 +1012,84 @@ This tells us the following:
     <td>1705</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>2460</td>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1705</td>
   </tr>
   <tr>
-    <td>2020-03-20T00:00:00Z</td>
-    <td>2994</td>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>1413</td>
   </tr>
   <tr>
-    <td>2020-03-21T00:00:00Z</td>
-    <td>3631</td>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>11</td>
   </tr>
   <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>4204</td>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1135</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>959</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>804</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>614</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>503</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>382</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>321</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>265</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>188</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>128</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>82</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>38</td>
+  </tr>
+  <tr>
+    <td>2020-03-02T00:00:00Z</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-27T00:00:00Z</td>
+    <td>1</td>
   </tr>
 </table>
 
@@ -1095,7 +1099,7 @@ Of course, for Europeans the situation in <a name="tp4">Italy</a> is is burned
 into our memory. We just change the Q-identifier for The Netherlands into that
 of Italy:
 
-**SPARQL** [sparql/progressionIT.rq](sparql/progressionIT.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A))
+**SPARQL** [sparql/progressionIT.rq](sparql/progressionIT.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A))
 
 ```sparql
 SELECT ?date ?numberOfCases WHERE {
@@ -1103,7 +1107,7 @@ SELECT ?date ?numberOfCases WHERE {
   ?numberOfCasesStat ps:P1603 ?numberOfCases ;
                      pq:P585 ?date .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-} ORDER BY ASC(?date)
+} ORDER BY DESC(?date)
 ```
 
 This tells us the following:
@@ -1114,48 +1118,72 @@ This tells us the following:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>2020-01-31T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>53578</td>
   </tr>
   <tr>
-    <td>2020-02-01T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>46638</td>
   </tr>
   <tr>
-    <td>2020-02-02T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-21T00:00:00Z</td>
+    <td>47021</td>
   </tr>
   <tr>
-    <td>2020-02-03T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>41035</td>
   </tr>
   <tr>
-    <td>2020-02-04T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>35713</td>
   </tr>
   <tr>
-    <td>2020-02-05T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>31506</td>
   </tr>
   <tr>
-    <td>2020-02-07T00:00:00Z</td>
-    <td>3</td>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>27980</td>
   </tr>
   <tr>
-    <td>2020-02-21T00:00:00Z</td>
-    <td>20</td>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>21157</td>
   </tr>
   <tr>
-    <td>2020-02-22T00:00:00Z</td>
-    <td>79</td>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>17660</td>
   </tr>
   <tr>
-    <td>2020-02-23T00:00:00Z</td>
-    <td>155</td>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>15113</td>
   </tr>
   <tr>
-    <td>2020-02-24T00:00:00Z</td>
-    <td>229</td>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>12462</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>10149</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>9172</td>
+  </tr>
+  <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>7375</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>5883</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>4636</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>3858</td>
   </tr>
   <tr>
     <td>2020-02-28T00:00:00Z</td>
@@ -1166,72 +1194,48 @@ This tells us the following:
     <td>650</td>
   </tr>
   <tr>
-    <td>2020-03-06T00:00:00Z</td>
-    <td>3858</td>
+    <td>2020-02-24T00:00:00Z</td>
+    <td>229</td>
   </tr>
   <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>4636</td>
+    <td>2020-02-23T00:00:00Z</td>
+    <td>155</td>
   </tr>
   <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>5883</td>
+    <td>2020-02-22T00:00:00Z</td>
+    <td>79</td>
   </tr>
   <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>7375</td>
+    <td>2020-02-21T00:00:00Z</td>
+    <td>20</td>
   </tr>
   <tr>
-    <td>2020-03-10T00:00:00Z</td>
-    <td>9172</td>
+    <td>2020-02-07T00:00:00Z</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>10149</td>
+    <td>2020-02-05T00:00:00Z</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>12462</td>
+    <td>2020-02-04T00:00:00Z</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>15113</td>
+    <td>2020-02-03T00:00:00Z</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>17660</td>
+    <td>2020-02-02T00:00:00Z</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>21157</td>
+    <td>2020-02-01T00:00:00Z</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>27980</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>31506</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>35713</td>
-  </tr>
-  <tr>
-    <td>2020-03-20T00:00:00Z</td>
-    <td>41035</td>
-  </tr>
-  <tr>
-    <td>2020-03-21T00:00:00Z</td>
-    <td>47021</td>
-  </tr>
-  <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>53578</td>
-  </tr>
-  <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>46638</td>
+    <td>2020-01-31T00:00:00Z</td>
+    <td>2</td>
   </tr>
 </table>
 

@@ -332,6 +332,18 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the coronavirus pandemic on the restaurant industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88293962">Media coverage of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88293962">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88314331">Q88314331</a> (<a href="http://www.wikidata.org/entity/Q88314331">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88333605">Coronavirus pandemic on social media</a> (<a href="http://www.wikidata.org/entity/Q88333605">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>
   </tr>
   <tr>
@@ -596,7 +608,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q88082587">2020 coronavirus pandemic in British Columbia</a> (<a href="http://www.wikidata.org/entity/Q88082587">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88082622">2020 coronavirus pandemic in Canary Islands</a> (<a href="http://www.wikidata.org/entity/Q88082622">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88082622">2020 coronavirus pandemic in the Canary Islands</a> (<a href="http://www.wikidata.org/entity/Q88082622">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88082639">2020 coronavirus pandemic in Cape Verde</a> (<a href="http://www.wikidata.org/entity/Q88082639">edit</a>)</td>

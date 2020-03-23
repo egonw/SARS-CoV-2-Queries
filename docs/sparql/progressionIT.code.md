@@ -123,12 +123,20 @@ SELECT ?date ?numberOfCases WHERE {
     <td>35713</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
+    <td>2020-03-20T00:00:00Z</td>
     <td>41035</td>
   </tr>
   <tr>
     <td>2020-03-21T00:00:00Z</td>
+    <td>47021</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
     <td>53578</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>46638</td>
   </tr>
 </table>
 ## Code examples

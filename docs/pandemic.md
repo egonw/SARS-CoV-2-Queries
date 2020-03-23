@@ -18,7 +18,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>266073</td>
+    <td>292142</td>
   </tr>
 </table>
 
@@ -304,6 +304,10 @@ This gives us this time series:
   <tr>
     <td>2020-03-21T00:00:00Z</td>
     <td>266073</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>292142</td>
   </tr>
 </table>
 
@@ -643,6 +647,18 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the coronavirus pandemic on the restaurant industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88293962">Media coverage of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88293962">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88314331">Q88314331</a> (<a href="http://www.wikidata.org/entity/Q88314331">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88333605">Coronavirus pandemic on social media</a> (<a href="http://www.wikidata.org/entity/Q88333605">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>
   </tr>
   <tr>
@@ -907,7 +923,7 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q88082587">2020 coronavirus pandemic in British Columbia</a> (<a href="http://www.wikidata.org/entity/Q88082587">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88082622">2020 coronavirus pandemic in Canary Islands</a> (<a href="http://www.wikidata.org/entity/Q88082622">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88082622">2020 coronavirus pandemic in the Canary Islands</a> (<a href="http://www.wikidata.org/entity/Q88082622">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88082639">2020 coronavirus pandemic in Cape Verde</a> (<a href="http://www.wikidata.org/entity/Q88082639">edit</a>)</td>
@@ -1067,6 +1083,10 @@ This tells us the following:
     <td>2020-03-21T00:00:00Z</td>
     <td>3631</td>
   </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>4204</td>
+  </tr>
 </table>
 
 ### Progression in Italy
@@ -1198,12 +1218,20 @@ This tells us the following:
     <td>35713</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
+    <td>2020-03-20T00:00:00Z</td>
     <td>41035</td>
   </tr>
   <tr>
     <td>2020-03-21T00:00:00Z</td>
+    <td>47021</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
     <td>53578</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>46638</td>
   </tr>
 </table>
 

@@ -28,6 +28,9 @@ SELECT ?virus ?virusLabel  WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q85939995">SL-CoV</a> (<a href="http://www.wikidata.org/entity/Q85939995">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88172022">SHC014-CoV</a> (<a href="http://www.wikidata.org/entity/Q88172022">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16000326">SL-CoV-WIV1</a> (<a href="http://www.wikidata.org/entity/Q16000326">edit</a>)</td>
   </tr>
   <tr>

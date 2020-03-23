@@ -12,6 +12,9 @@ inFile = args[0];
 
 sparql = new File(inFile).text
 
+formatterURLs = new HashMap<String,String>()
+formatterURLs.put("ncbi", "https://www.ncbi.nlm.nih.gov/taxonomy/#{1}")
+
 if (bioclipse.isOnline()) {
   resultsData = bioclipse.sparqlRemote(
     "https://query.wikidata.org/bigdata/namespace/wdq/sparql", sparql
@@ -54,9 +57,14 @@ for (i=1;i<=results.rowCount;i++) {
       qid = qidURL.substring(31)
       println "    <td><a href=\"https://tools.wmflabs.org/scholia/$qid\">${results.get(i, label)}</a> (<a href=\"$qidURL\">edit</a>)</td>"
     } else {
-      label = results.get(i, label)
-      if (label == null) label = ""
-      println "    <td>$label</td>"
+      value = results.get(i, label)
+      if (value == null) {
+        value = ""
+      } else if (formatterURLs.containsKey(label)) {
+        url = formatterURLs.get(label).replace("#{1}", value)
+        value = "<a href=\"$url\">" + value + "</a>"
+      }
+      println "    <td>$value</td>"
     }
   }
   println "  </tr>"

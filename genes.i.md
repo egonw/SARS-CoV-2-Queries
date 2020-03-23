@@ -44,6 +44,26 @@ Which gives us:
 
 <out>virusProteinsPDB</out>
 
+## All human corona viruses
+
+Much like that above query, we can also ask for all genes and proteins.
+
+All genes we get with:
+
+<sparql>virusGenesAll</sparql>
+
+Which returns:
+
+<out>virusGenesAll</out>
+
+And all proteins we get with:
+
+<sparql>virusProteinsAll</sparql>
+
+Which returns:
+
+<out>virusProteinsAll</out>
+
 ## References
 
 <references/>

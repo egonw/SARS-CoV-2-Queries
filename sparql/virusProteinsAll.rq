@@ -6,7 +6,7 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel  WHERE {
     wd:Q8351095  # NL63 
     wd:Q16983356 # 229E
     wd:Q4902157  # MERS-CoV
-    wd:Q278567   # SARS-CoV
+    wd:Q85438966 # SARS-CoV
   }
   ?protein wdt:P703 ?virus ; wdt:P31 wd:Q8054 .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }

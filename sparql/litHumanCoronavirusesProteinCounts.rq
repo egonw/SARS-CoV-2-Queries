@@ -9,7 +9,10 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?count WITH {
       wd:Q4902157  # MERS-CoV
       wd:Q85438966 # SARS-CoV
     }
-    ?protein wdt:P703 ?virus ; wdt:P31 wd:Q8054 .
+    ?protein wdt:P31 wd:Q8054 .
+    { ?protein wdt:P703 ?virus }
+    UNION
+    { ?protein wdt:P702 | ^wdt:P688 ?gene . ?gene wdt:P703 ?virus }
     ?work wdt:P921 ?protein .
   } GROUP BY ?virus ?protein
 } AS %ARTICLES WHERE {

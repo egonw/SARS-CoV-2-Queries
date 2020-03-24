@@ -16,6 +16,34 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 ### Output
 <table>
   <tr>
+    <td><b>date</b></td>
+    <td><b>work</b></td>
+    <td><b>doi</b></td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88048219">Crystal structure of SARS-CoV-2 nucleocapsid protein N-terminal RNA binding domain</a> (<a href="http://www.wikidata.org/entity/Q88048219">edit</a>)</td>
+    <td>10.2210/PDB6M3M/PDB</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87973551">Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q87973551">edit</a>)</td>
+    <td>10.1016/J.CELL.2020.02.058</td>
+  </tr>
+  <tr>
+    <td>2020-02-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461535">Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody</a> (<a href="http://www.wikidata.org/entity/Q87461535">edit</a>)</td>
+    <td>10.1080/22221751.2020.1729069</td>
+  </tr>
+  <tr>
+    <td>2020-01-31T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q84112018">Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag</a> (<a href="http://www.wikidata.org/entity/Q84112018">edit</a>)</td>
+    <td>10.1101/2020.01.30.927871</td>
+  </tr>
+  <tr>
+    <td>2020-01-22T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q83500392">Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross-species transmission from snake to human</a> (<a href="http://www.wikidata.org/entity/Q83500392">edit</a>)</td>
+    <td></td>
   </tr>
 </table>
 ## Code examples

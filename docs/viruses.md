@@ -401,6 +401,10 @@ Which gives us:
     <td><a href="https://tools.wmflabs.org/scholia/Q88172022">SHC014-CoV</a> (<a href="http://www.wikidata.org/entity/Q88172022">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415851">1415851</a></td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88383088">Human coronavirus HKU1 (isolate N1)</a> (<a href="http://www.wikidata.org/entity/Q88383088">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
+  </tr>
 </table>
 
 ## The seven coronaviruses that infect human

@@ -293,7 +293,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q87454162">2020 coronavirus outbreak in Oman</a> (<a href="http://www.wikidata.org/entity/Q87454162">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87468681">Q87468681</a> (<a href="http://www.wikidata.org/entity/Q87468681">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87468681">2020 coronavirus pandemic in Asturias</a> (<a href="http://www.wikidata.org/entity/Q87468681">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87473205">2020 coronavirus outbreak in Turkey</a> (<a href="http://www.wikidata.org/entity/Q87473205">edit</a>)</td>
@@ -329,7 +329,13 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q88221447">non-pharmaceutical countermeasure</a> (<a href="http://www.wikidata.org/entity/Q88221447">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88225303">2020 coronavirus pandemic in Madagascar</a> (<a href="http://www.wikidata.org/entity/Q88225303">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88263719">2020 coronavirus pandemic in Uganda</a> (<a href="http://www.wikidata.org/entity/Q88263719">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the coronavirus pandemic on the restaurant industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
@@ -342,6 +348,18 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88333605">Coronavirus pandemic on social media</a> (<a href="http://www.wikidata.org/entity/Q88333605">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88335426">2020 coronavirus pandemic in Mozambique</a> (<a href="http://www.wikidata.org/entity/Q88335426">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88356648">2020 coronavirus pandemic in Dominica</a> (<a href="http://www.wikidata.org/entity/Q88356648">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88371105">2020 coronavirus pandemic in Eritrea</a> (<a href="http://www.wikidata.org/entity/Q88371105">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88385577">international assistance during 2019–20 COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q88385577">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>

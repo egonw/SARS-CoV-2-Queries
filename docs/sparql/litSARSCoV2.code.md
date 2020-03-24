@@ -50,6 +50,16 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>10.1016/S2468-1253(20)30048-0</td>
   </tr>
   <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88387054">Ethnografie und visuelle Anthropologie in Zeiten des Coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88387054">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88433773">Fair Allocation of Scarce Medical Resources in the Time of Covid-19</a> (<a href="http://www.wikidata.org/entity/Q88433773">edit</a>)</td>
+    <td>10.1056/NEJMSB2005114</td>
+  </tr>
+  <tr>
     <td>2020-03-20T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88219766">Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors</a> (<a href="http://www.wikidata.org/entity/Q88219766">edit</a>)</td>
     <td>10.1126/SCIENCE.ABB3405</td>
@@ -58,16 +68,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-19T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88094851">Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China</a> (<a href="http://www.wikidata.org/entity/Q88094851">edit</a>)</td>
     <td>10.1038/S41591-020-0822-7</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87995005">1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995005">edit</a>)</td>
-    <td>10.2210/PDB6W4H/PDB</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88048219">Crystal structure of SARS-CoV-2 nucleocapsid protein N-terminal RNA binding domain</a> (<a href="http://www.wikidata.org/entity/Q88048219">edit</a>)</td>
-    <td>10.2210/PDB6M3M/PDB</td>
   </tr>
 </table>
 ## Code examples

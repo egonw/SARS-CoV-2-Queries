@@ -79,6 +79,20 @@ ORDER BY DESC(?date) ?doi
     <td>32003646</td>
   </tr>
   <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88387054">Ethnografie und visuelle Anthropologie in Zeiten des Coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88387054">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88433773">Fair Allocation of Scarce Medical Resources in the Time of Covid-19</a> (<a href="http://www.wikidata.org/entity/Q88433773">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td>10.1056/NEJMSB2005114</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2020-03-20T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88219766">Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors</a> (<a href="http://www.wikidata.org/entity/Q88219766">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -844,14 +858,14 @@ ORDER BY DESC(?date) ?doi
   <tr>
     <td>2020-02-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87945289">Novel coronavirus 2019-nCoV: prevalence, biological and clinical characteristics comparison with SARS-CoV and MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q87945289">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td>10.26355/EURREV_202002_20379</td>
     <td>32141570</td>
   </tr>
   <tr>
     <td>2020-02-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87945289">Novel coronavirus 2019-nCoV: prevalence, biological and clinical characteristics comparison with SARS-CoV and MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q87945289">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td>10.26355/EURREV_202002_20379</td>
     <td>32141570</td>
   </tr>
@@ -2720,14 +2734,14 @@ ORDER BY DESC(?date) ?doi
   <tr>
     <td>2017-04-10T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30845557">Cryo-EM structures of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic receptor binding domains</a> (<a href="http://www.wikidata.org/entity/Q30845557">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td>10.1038/NCOMMS15092</td>
     <td>28393837</td>
   </tr>
   <tr>
     <td>2017-04-10T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30845557">Cryo-EM structures of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic receptor binding domains</a> (<a href="http://www.wikidata.org/entity/Q30845557">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td>10.1038/NCOMMS15092</td>
     <td>28393837</td>
   </tr>
@@ -3496,17 +3510,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2016-10-02T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40514210">An outbreak of Middle East Respiratory Syndrome (MERS) due to coronavirus in Al-Ahssa Region, Saudi Arabia, 2015.</a> (<a href="http://www.wikidata.org/entity/Q40514210">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>27714741</td>
-  </tr>
-  <tr>
-    <td>2016-10-02T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q38813876">Middle East respiratory syndrome coronavirus: current knowledge and future considerations.</a> (<a href="http://www.wikidata.org/entity/Q38813876">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>27714748</td>
+  </tr>
+  <tr>
+    <td>2016-10-02T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40514210">An outbreak of Middle East Respiratory Syndrome (MERS) due to coronavirus in Al-Ahssa Region, Saudi Arabia, 2015.</a> (<a href="http://www.wikidata.org/entity/Q40514210">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>27714741</td>
   </tr>
   <tr>
     <td>2016-10-01T00:00:00Z</td>
@@ -6177,17 +6191,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2015-06-25T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35951658">Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015</a> (<a href="http://www.wikidata.org/entity/Q35951658">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>26132767</td>
-  </tr>
-  <tr>
-    <td>2015-06-25T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39149979">The role of superspreading in Middle East respiratory syndrome coronavirus (MERS-CoV) transmission.</a> (<a href="http://www.wikidata.org/entity/Q39149979">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>26132768</td>
+  </tr>
+  <tr>
+    <td>2015-06-25T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35951658">Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015</a> (<a href="http://www.wikidata.org/entity/Q35951658">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>26132767</td>
   </tr>
   <tr>
     <td>2015-06-25T00:00:00Z</td>
@@ -6905,17 +6919,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2014-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51068760">Update on Middle East respiratory syndrome  coronavirus (MERS-CoV).</a> (<a href="http://www.wikidata.org/entity/Q51068760">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>25577812</td>
-  </tr>
-  <tr>
-    <td>2014-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q50356948">766Clinical Features and Outcome of Patients with Middle East Respiratory Syndrome-Coronavirus (MERS-CoV) Infection.</a> (<a href="http://www.wikidata.org/entity/Q50356948">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2014-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51068760">Update on Middle East respiratory syndrome  coronavirus (MERS-CoV).</a> (<a href="http://www.wikidata.org/entity/Q51068760">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>25577812</td>
   </tr>
   <tr>
     <td>2014-12-01T00:00:00Z</td>
@@ -7486,17 +7500,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2014-06-12T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q36359194">Seroepidemiology of Middle East respiratory syndrome (MERS) coronavirus in Saudi Arabia (1993) and Australia (2014) and characterisation of assay specificity.</a> (<a href="http://www.wikidata.org/entity/Q36359194">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>24957744</td>
-  </tr>
-  <tr>
-    <td>2014-06-12T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39171246">Assessment of the Middle East respiratory syndrome coronavirus (MERS-CoV) epidemic in the Middle East and risk of international spread using a novel maximum likelihood analysis approach.</a> (<a href="http://www.wikidata.org/entity/Q39171246">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>24957746</td>
+  </tr>
+  <tr>
+    <td>2014-06-12T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q36359194">Seroepidemiology of Middle East respiratory syndrome (MERS) coronavirus in Saudi Arabia (1993) and Australia (2014) and characterisation of assay specificity.</a> (<a href="http://www.wikidata.org/entity/Q36359194">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>24957744</td>
   </tr>
   <tr>
     <td>2014-06-11T00:00:00Z</td>
@@ -8368,17 +8382,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2013-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54385689">[Update on the Middle East respiratory syndrome: 2013].</a> (<a href="http://www.wikidata.org/entity/Q54385689">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>24378005</td>
-  </tr>
-  <tr>
-    <td>2013-10-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44210115">Middle East respiratory syndrome coronavirus and the upcoming Hajj.</a> (<a href="http://www.wikidata.org/entity/Q44210115">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>24141864</td>
+  </tr>
+  <tr>
+    <td>2013-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54385689">[Update on the Middle East respiratory syndrome: 2013].</a> (<a href="http://www.wikidata.org/entity/Q54385689">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>24378005</td>
   </tr>
   <tr>
     <td>2013-10-01T00:00:00Z</td>
@@ -9385,6 +9399,13 @@ ORDER BY DESC(?date) ?doi
     <td>2008-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44578885">[Development and comparison of real-time and conventional RT-PCR assay for detection of human coronavirus NL63 and HKU1].</a> (<a href="http://www.wikidata.org/entity/Q44578885">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
+    <td></td>
+    <td>18780635</td>
+  </tr>
+  <tr>
+    <td>2008-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44578885">[Development and comparison of real-time and conventional RT-PCR assay for detection of human coronavirus NL63 and HKU1].</a> (<a href="http://www.wikidata.org/entity/Q44578885">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td></td>
     <td>18780635</td>
   </tr>

@@ -26,13 +26,14 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 3.1. [Symptoms](covid.md#symptoms) <br />
 3.2. [Clinical trials](covid.md#clinical-trials) <br />
 4. [The pandemic](pandemic.md) <br />
-4.1. [Progression](pandemic.md#progression) <br />
-4.2. [Regional progression](pandemic.md#regional-progression) <br />
-4.2.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
-4.2.2. [Progression in Italy](pandemic.md#progression-in-italy) <br />
-4.3. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
-4.3.1. [Cases](pandemic.md#cases) <br />
-4.3.2. [Deaths](pandemic.md#deaths) <br />
+4.1. [Virus <topic>tranmission</topic>](pandemic.md#virus-<topic>tranmission</topic>) <br />
+4.2. [Progression](pandemic.md#progression) <br />
+4.3. [Regional progression](pandemic.md#regional-progression) <br />
+4.3.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
+4.3.2. [Progression in Italy](pandemic.md#progression-in-italy) <br />
+4.4. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
+4.4.1. [Cases](pandemic.md#cases) <br />
+4.4.2. [Deaths](pandemic.md#deaths) <br />
 5. [Genomes, Genes, and Proteins](genes.md) <br />
 5.1. [Genomes](genes.md#genomes) <br />
 5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />

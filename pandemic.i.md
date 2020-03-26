@@ -8,6 +8,31 @@ Which gives us:
 
 <out>earthAllCasesToday</out>
 
+## Virus <topic>tranmission</topic>
+
+The spread of the virus happens because the virus is too easily transmitted from
+one human to another. Every should know about keeping a distance, because
+small droplets due to, for example, coughing will contain the virus [citation needed].
+
+But SARS-CoV-2 is also found to survive a certain amount of time after that,
+for example, on surfaces [citation needed]. We can do the following query
+to list which articles link human coronaviruses to survival on flat <topic>surfaces</topic>:
+
+<sparql>surfacesCounts</sparql>
+
+This shows us:
+
+<out>surfacesCounts</out>
+
+The query to actually list the articles about survival on surfaces of
+the viruses, use the following query:
+
+<sparql>surfaces</sparql>
+
+Which shows us for the human coronaviruses these articles:
+
+<out>surfaces</out>
+
 ## Progression
 
 However, we may be more interested in the number of cases over time.

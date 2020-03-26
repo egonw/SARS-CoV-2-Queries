@@ -61,6 +61,10 @@ SELECT ?gene ?geneLabel ?ncbi WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q88105063">GeneRIF placeholder gene for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43562271">43562271</a></td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88647313">ORF10</a> (<a href="http://www.wikidata.org/entity/Q88647313">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740576">43740576</a></td>
+  </tr>
 </table>
 ## Code examples
 ### curl

@@ -58,8 +58,38 @@ ORDER BY DESC(?count)
     <td>2</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88175317">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88175317">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88175310">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88175310">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88176280">replicase polyprotein 1ab</a> (<a href="http://www.wikidata.org/entity/Q88176280">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88175320">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88175320">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88175313">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88175313">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88175298">4b protein</a> (<a href="http://www.wikidata.org/entity/Q88175298">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88175295">4a protein</a> (<a href="http://www.wikidata.org/entity/Q88175295">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

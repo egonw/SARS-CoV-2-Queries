@@ -40,11 +40,11 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td>102</td>
+    <td>105</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td>76</td>
+    <td>77</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
@@ -52,11 +52,11 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td>66</td>
+    <td>68</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
 </table>
 ## Code examples

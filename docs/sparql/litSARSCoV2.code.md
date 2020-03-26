@@ -60,14 +60,14 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>10.1056/NEJMSB2005114</td>
   </tr>
   <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88507120">The Toughest Triage — Allocating Ventilators in a Pandemic</a> (<a href="http://www.wikidata.org/entity/Q88507120">edit</a>)</td>
+    <td>10.1056/NEJMP2005689</td>
+  </tr>
+  <tr>
     <td>2020-03-20T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88219766">Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors</a> (<a href="http://www.wikidata.org/entity/Q88219766">edit</a>)</td>
     <td>10.1126/SCIENCE.ABB3405</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88094851">Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China</a> (<a href="http://www.wikidata.org/entity/Q88094851">edit</a>)</td>
-    <td>10.1038/S41591-020-0822-7</td>
   </tr>
 </table>
 ## Code examples

@@ -19,6 +19,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>6412</td>
+  </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>5560</td>
+  </tr>
+  <tr>
     <td>2020-03-23T00:00:00Z</td>
     <td>4749</td>
   </tr>
@@ -43,7 +51,7 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2051</td>
   </tr>
   <tr>
-    <td>2020-03-18T00:00:00Z</td>
+    <td>2020-03-17T00:00:00Z</td>
     <td>1705</td>
   </tr>
   <tr>
@@ -53,10 +61,6 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-03-16T00:00:00Z</td>
     <td>1413</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>11</td>
   </tr>
   <tr>
     <td>2020-03-15T00:00:00Z</td>
@@ -95,7 +99,7 @@ SELECT ?date ?numberOfCases WHERE {
     <td>188</td>
   </tr>
   <tr>
-    <td>2020-03-07T00:00:00Z</td>
+    <td>2020-03-06T00:00:00Z</td>
     <td>128</td>
   </tr>
   <tr>

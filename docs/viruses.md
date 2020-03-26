@@ -32,9 +32,6 @@ This gives us:
     <td><a href="https://tools.wmflabs.org/scholia/Q85939995">SL-CoV</a> (<a href="http://www.wikidata.org/entity/Q85939995">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88172022">SHC014-CoV</a> (<a href="http://www.wikidata.org/entity/Q88172022">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16000326">SL-CoV-WIV1</a> (<a href="http://www.wikidata.org/entity/Q16000326">edit</a>)</td>
   </tr>
   <tr>
@@ -391,15 +388,11 @@ Which gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85939995">SL-CoV</a> (<a href="http://www.wikidata.org/entity/Q85939995">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415851">1415851</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88162038">Bat SARS coronavirus Rp1</a> (<a href="http://www.wikidata.org/entity/Q88162038">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88172022">SHC014-CoV</a> (<a href="http://www.wikidata.org/entity/Q88172022">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415851">1415851</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88383088">Human coronavirus HKU1 (isolate N1)</a> (<a href="http://www.wikidata.org/entity/Q88383088">edit</a>)</td>
@@ -506,15 +499,11 @@ This gives us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85939995">SL-CoV</a> (<a href="http://www.wikidata.org/entity/Q85939995">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415851">1415851</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88162038">Bat SARS coronavirus Rp1</a> (<a href="http://www.wikidata.org/entity/Q88162038">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88172022">SHC014-CoV</a> (<a href="http://www.wikidata.org/entity/Q88172022">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415851">1415851</a></td>
   </tr>
 </table>
 

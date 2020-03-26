@@ -18,7 +18,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>332930</td>
+    <td>414179</td>
   </tr>
 </table>
 
@@ -313,6 +313,14 @@ This gives us this time series:
     <td>2020-03-23T00:00:00Z</td>
     <td>332930</td>
   </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>372757</td>
+  </tr>
+  <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>414179</td>
+  </tr>
 </table>
 
 ## Regional progression
@@ -357,7 +365,7 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q83873387">2019–20 coronavirus outbreak in Singapore</a> (<a href="http://www.wikidata.org/entity/Q83873387">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83873548">2019–20 coronavirus outbreak in Australia</a> (<a href="http://www.wikidata.org/entity/Q83873548">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q83873548">2020 coronavirus pandemic in Australia</a> (<a href="http://www.wikidata.org/entity/Q83873548">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q83873556">2019–20 coronavirus outbreak in Malaysia</a> (<a href="http://www.wikidata.org/entity/Q83873556">edit</a>)</td>
@@ -408,7 +416,7 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q84081576">2020 coronavirus pandemic in Sweden</a> (<a href="http://www.wikidata.org/entity/Q84081576">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84098939">2019–20 coronavirus outbreak in Russia</a> (<a href="http://www.wikidata.org/entity/Q84098939">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q84098939">2020 coronavirus outbreak in Russia</a> (<a href="http://www.wikidata.org/entity/Q84098939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q84104992">2020 coronavirus pandemic in Italy</a> (<a href="http://www.wikidata.org/entity/Q84104992">edit</a>)</td>
@@ -480,7 +488,7 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q86948603">2020 coronavirus pandemic in Portugal</a> (<a href="http://www.wikidata.org/entity/Q86948603">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87058723">2020 coronavirus outbreak in Morocco</a> (<a href="http://www.wikidata.org/entity/Q87058723">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87058723">2020 coronavirus outbreak in morocco</a> (<a href="http://www.wikidata.org/entity/Q87058723">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87066621">2020 coronavirus outbreak in Latvia</a> (<a href="http://www.wikidata.org/entity/Q87066621">edit</a>)</td>
@@ -634,51 +642,6 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87486535">2020 coronavirus pandemic in Bulgaria</a> (<a href="http://www.wikidata.org/entity/Q87486535">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88137634">2020 coronavirus pandemic in Papua New Guinea</a> (<a href="http://www.wikidata.org/entity/Q88137634">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88164033">2020 coronavirus pandemic in Zimbabwe</a> (<a href="http://www.wikidata.org/entity/Q88164033">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88177037">2020 coronavirus outbreak in Catalonia</a> (<a href="http://www.wikidata.org/entity/Q88177037">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88221447">non-pharmaceutical countermeasure</a> (<a href="http://www.wikidata.org/entity/Q88221447">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88225303">2020 coronavirus pandemic in Madagascar</a> (<a href="http://www.wikidata.org/entity/Q88225303">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88263719">2020 coronavirus pandemic in Uganda</a> (<a href="http://www.wikidata.org/entity/Q88263719">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the coronavirus pandemic on the restaurant industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88293962">Media coverage of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88293962">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88314331">Q88314331</a> (<a href="http://www.wikidata.org/entity/Q88314331">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88333605">Coronavirus pandemic on social media</a> (<a href="http://www.wikidata.org/entity/Q88333605">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88335426">2020 coronavirus pandemic in Mozambique</a> (<a href="http://www.wikidata.org/entity/Q88335426">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88356648">2020 coronavirus pandemic in Dominica</a> (<a href="http://www.wikidata.org/entity/Q88356648">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88371105">2020 coronavirus pandemic in Eritrea</a> (<a href="http://www.wikidata.org/entity/Q88371105">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88385577">international assistance during 2019–20 COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q88385577">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>
@@ -933,6 +896,9 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q88024576">2020 coronavirus pandemic in Quebec</a> (<a href="http://www.wikidata.org/entity/Q88024576">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88027839">list of deaths from the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88027839">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88082409">2020 coronavirus pandemic in Akrotiri and Dhekelia</a> (<a href="http://www.wikidata.org/entity/Q88082409">edit</a>)</td>
   </tr>
   <tr>
@@ -980,6 +946,66 @@ It gives, sadly, a long list:
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88082994">2020 coronavirus pandemic in the Isle of Man</a> (<a href="http://www.wikidata.org/entity/Q88082994">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88137634">2020 coronavirus pandemic in Papua New Guinea</a> (<a href="http://www.wikidata.org/entity/Q88137634">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88164033">2020 coronavirus pandemic in Zimbabwe</a> (<a href="http://www.wikidata.org/entity/Q88164033">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88177037">2020 coronavirus outbreak in Catalonia</a> (<a href="http://www.wikidata.org/entity/Q88177037">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88221447">non-pharmaceutical countermeasure</a> (<a href="http://www.wikidata.org/entity/Q88221447">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88225303">2020 coronavirus pandemic in Madagascar</a> (<a href="http://www.wikidata.org/entity/Q88225303">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88263719">2020 coronavirus pandemic in Uganda</a> (<a href="http://www.wikidata.org/entity/Q88263719">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the coronavirus pandemic on the restaurant industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88293962">Media coverage of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88293962">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88314331">Q88314331</a> (<a href="http://www.wikidata.org/entity/Q88314331">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88333605">Coronavirus pandemic on social media</a> (<a href="http://www.wikidata.org/entity/Q88333605">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88335426">2020 coronavirus pandemic in Mozambique</a> (<a href="http://www.wikidata.org/entity/Q88335426">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88356648">2020 coronavirus pandemic in Dominica</a> (<a href="http://www.wikidata.org/entity/Q88356648">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88371105">2020 coronavirus pandemic in Eritrea</a> (<a href="http://www.wikidata.org/entity/Q88371105">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88385577">international assistance during 2019–20 COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q88385577">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88460663">2020 coronavirus pandemic in Myanmar</a> (<a href="http://www.wikidata.org/entity/Q88460663">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88513828">COVID-19 related curfews and lockdowns</a> (<a href="http://www.wikidata.org/entity/Q88513828">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88521330">2020 coronavirus pandemic in Laos</a> (<a href="http://www.wikidata.org/entity/Q88521330">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88556836">2020 coronavirus pandemic in Mali</a> (<a href="http://www.wikidata.org/entity/Q88556836">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88599208">Coronavirus recession</a> (<a href="http://www.wikidata.org/entity/Q88599208">edit</a>)</td>
+  </tr>
 </table>
 
 ### Progression in The Netherlands
@@ -1006,6 +1032,14 @@ This tells us the following:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>6412</td>
+  </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>5560</td>
+  </tr>
+  <tr>
     <td>2020-03-23T00:00:00Z</td>
     <td>4749</td>
   </tr>
@@ -1030,7 +1064,7 @@ This tells us the following:
     <td>2051</td>
   </tr>
   <tr>
-    <td>2020-03-18T00:00:00Z</td>
+    <td>2020-03-17T00:00:00Z</td>
     <td>1705</td>
   </tr>
   <tr>
@@ -1040,10 +1074,6 @@ This tells us the following:
   <tr>
     <td>2020-03-16T00:00:00Z</td>
     <td>1413</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>11</td>
   </tr>
   <tr>
     <td>2020-03-15T00:00:00Z</td>
@@ -1082,7 +1112,7 @@ This tells us the following:
     <td>188</td>
   </tr>
   <tr>
-    <td>2020-03-07T00:00:00Z</td>
+    <td>2020-03-06T00:00:00Z</td>
     <td>128</td>
   </tr>
   <tr>
@@ -1140,71 +1170,83 @@ This tells us the following:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>53578</td>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>69176</td>
+  </tr>
+  <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td>63927</td>
   </tr>
   <tr>
     <td>2020-03-22T00:00:00Z</td>
-    <td>46638</td>
+    <td>59138</td>
   </tr>
   <tr>
     <td>2020-03-21T00:00:00Z</td>
-    <td>47021</td>
+    <td>53578</td>
   </tr>
   <tr>
     <td>2020-03-20T00:00:00Z</td>
-    <td>41035</td>
+    <td>47021</td>
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
-    <td>35713</td>
+    <td>41035</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
-    <td>31506</td>
+    <td>35713</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
+    <td>31506</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
     <td>27980</td>
   </tr>
   <tr>
     <td>2020-03-15T00:00:00Z</td>
-    <td>21157</td>
+    <td>24747</td>
   </tr>
   <tr>
     <td>2020-03-14T00:00:00Z</td>
-    <td>17660</td>
+    <td>21157</td>
   </tr>
   <tr>
     <td>2020-03-13T00:00:00Z</td>
-    <td>15113</td>
+    <td>17660</td>
   </tr>
   <tr>
     <td>2020-03-12T00:00:00Z</td>
-    <td>12462</td>
+    <td>15113</td>
   </tr>
   <tr>
     <td>2020-03-11T00:00:00Z</td>
-    <td>10149</td>
+    <td>12462</td>
   </tr>
   <tr>
     <td>2020-03-10T00:00:00Z</td>
-    <td>9172</td>
+    <td>10149</td>
   </tr>
   <tr>
     <td>2020-03-09T00:00:00Z</td>
-    <td>7375</td>
+    <td>9172</td>
   </tr>
   <tr>
     <td>2020-03-08T00:00:00Z</td>
-    <td>5883</td>
+    <td>7375</td>
   </tr>
   <tr>
     <td>2020-03-07T00:00:00Z</td>
-    <td>4636</td>
+    <td>5883</td>
   </tr>
   <tr>
     <td>2020-03-06T00:00:00Z</td>
+    <td>4636</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
     <td>3858</td>
   </tr>
   <tr>

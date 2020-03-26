@@ -1,6 +1,7 @@
 # Index
 
 
+antibody [solution](solution.md#tp1)<br />
 articles [literature](literature.md#tp1)<br />
 clinical trials [covid](covid.md#tp3)<br />
 clinicaltrials.gov [covid](covid.md#tp4)<br />
@@ -20,5 +21,5 @@ RNA [genes](genes.md#tp2)<br />
 SARS-CoV-2 [covid](covid.md#tp2) [viruses](viruses.md#tp1)<br />
 surfaces [pandemic](pandemic.md#tp3)<br />
 The Netherlands [pandemic](pandemic.md#tp5)<br />
-tranmission [pandemic](pandemic.md#tp2)<br />
+transmission [pandemic](pandemic.md#tp2)<br />
 virus [viruses](viruses.md#tp2)

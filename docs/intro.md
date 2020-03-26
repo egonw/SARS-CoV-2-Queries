@@ -6,6 +6,30 @@ scholarly publications (cited in Wikipedia) [<a href="#citeref3">3</a>]. Inspire
 [Scholia](https://tools.wmflabs.org/scholia/) [<a href="#citeref4">4</a>], this electronic books collects
 a number of queries useful to journal editors.
 
+## Adding missing annotation
+
+As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
+the Wikidata:WikiProject COVID-19, of Wikicite, and the selflessless efforts by many people around
+the world. Because Wikidata is an open database, everyone can contribute, and one of the easiest
+ways to contribute, is annotate articles in Wikidata with 'main subjects'. The content of the
+Literature chapter very much depends on this. If you want to help, get a Wikidata account, browse
+this book for mentioned literature and start adding 'main subject' annotation. 
+
+Furthermore, take advantage of the '/missing' functionality of Scholia for other useful annotation.
+For example, check out these Scholia pages for the human coronaviruses (HCoVs):
+
+* [Missing for MERS](https://tools.wmflabs.org/scholia/topic/Q4902157/missing)
+* [Missing for HCoV NL63](https://tools.wmflabs.org/scholia/topic/Q8351095/missing)
+* [Missing for HCoV 2229E](https://tools.wmflabs.org/scholia/topic/Q16983356/missing)
+* [Missing for HCoV HKU1](https://tools.wmflabs.org/scholia/topic/Q16983360/missing)
+* [Missing for OC43](https://tools.wmflabs.org/scholia/topic/Q16991954/missing)
+* [Missing for SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695/missing)
+* [Missing for SARS-CoV-1](https://tools.wmflabs.org/scholia/topic/Q85438966/missing)
+
+## Modelling the content in Wikidata
+
+...
+
 ## References
 
 1. <a name="citeref1"></a>Vrandečić D. Wikidata: A New Platform for Collaborative Data Collection. Proceedings of the 21st International Conference on World Wide Web. 2012;1063–4.  doi:[10.1145/2187980.2188242](https://doi.org/10.1145/2187980.2188242) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1145/2187980.2188242))

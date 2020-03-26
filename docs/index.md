@@ -19,6 +19,8 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 ## Contents
 
 1. [Introduction](intro.md) <br />
+1.1. [Adding missing annotation](intro.md#adding-missing-annotation) <br />
+1.2. [Modelling the content in Wikidata](intro.md#modelling-the-content-in-wikidata) <br />
 2. [Viruses](viruses.md) <br />
 2.1. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
 2.2. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
@@ -26,7 +28,7 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 3.1. [Symptoms](covid.md#symptoms) <br />
 3.2. [Clinical trials](covid.md#clinical-trials) <br />
 4. [The pandemic](pandemic.md) <br />
-4.1. [Virus <topic>tranmission</topic>](pandemic.md#virus-<topic>tranmission</topic>) <br />
+4.1. [Virus <topic>transmission</topic>](pandemic.md#virus-<topic>transmission</topic>) <br />
 4.2. [Progression](pandemic.md#progression) <br />
 4.3. [Regional progression](pandemic.md#regional-progression) <br />
 4.3.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
@@ -40,12 +42,15 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 5.2.1. [Genes](genes.md#genes) <br />
 5.2.2. [Proteins](genes.md#proteins) <br />
 5.3. [All human corona viruses](genes.md#all-human-corona-viruses) <br />
-6. [Literature](literature.md) <br />
-6.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
-6.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
-6.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
-6.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
-6.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
+6. [Towards a solution](solution.md) <br />
+6.1. [Antibodies](solution.md#antibodies) <br />
+6.2. [Drug repurposing](solution.md#drug-repurposing) <br />
+7. [Literature](literature.md) <br />
+7.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
+7.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
+7.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
+7.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
+7.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
 
 [Index](indexList.md) <br />
 

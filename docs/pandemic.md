@@ -22,7 +22,7 @@ Which gives us:
   </tr>
 </table>
 
-## Virus <a name="tp2">tranmission</a>
+## Virus <a name="tp2">transmission</a>
 
 The spread of the virus happens because the virus is too easily transmitted from
 one human to another. Every should know about keeping a distance, because

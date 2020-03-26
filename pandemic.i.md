@@ -8,7 +8,7 @@ Which gives us:
 
 <out>earthAllCasesToday</out>
 
-## Virus <topic>tranmission</topic>
+## Virus <topic>transmission</topic>
 
 The spread of the virus happens because the virus is too easily transmitted from
 one human to another. Every should know about keeping a distance, because

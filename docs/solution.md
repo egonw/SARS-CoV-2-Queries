@@ -3,7 +3,7 @@
 There is currently no solution for SARS-CoV-2.
 
 But there are ideas about what solutions might be. A vaccin is one of them, but
-development of that takes time [citation needed]. But there is also talk about
+development of that takes time [<a href="#citeref1">1</a>]. But there is also talk about
 antibodies and repurposing of drugs. All this is very much exploratory at this
 moment. Clinical trials are important (see the [Clinical trials](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials) section).
 
@@ -133,5 +133,10 @@ literature for reading, not to draw conclusions from:
 ## Drug repurposing
 
 ...
+
+
+## References
+
+1. <a name="citeref1"></a>Lu S. Timely development of vaccines against SARS-CoV-2. Emerging microbes & infections. 2020 Dec;9(1):542–4.  doi:[10.1080/22221751.2020.1737580](https://doi.org/10.1080/22221751.2020.1737580) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1080/22221751.2020.1737580))
 
 

@@ -31,6 +31,12 @@ This gives us a good starting point to study the virus in more detail:
 
 <out>humanCoronaviruses</out>
 
+### Comparing viruses
+
+We can also query for articles that compare a human coronavirus with another coronavirus:
+
+<sparql>compareViruses</sparql>
+
 ## NCBI Taxonomy IDs
 
 For the coronaviruses we can list the <topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>] identifiers with:

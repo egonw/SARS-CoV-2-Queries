@@ -30,6 +30,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q88198219">From SARS and MERS CoVs to SARS‐CoV‐2: Moving toward more biased codon usage in viral structural and nonstructural genes</a> (<a href="http://www.wikidata.org/entity/Q88198219">edit</a>)</td>
     <td>10.1002/JMV.25754</td>
   </tr>
+  <tr>
+    <td>2020-02-18T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461510">Virus against virus: a potential treatment for 2019-nCov (SARS-CoV-2) and other RNA viruses</a> (<a href="http://www.wikidata.org/entity/Q87461510">edit</a>)</td>
+    <td>10.1038/S41422-020-0290-0</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

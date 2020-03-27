@@ -18,7 +18,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>414179</td>
+    <td>462684</td>
   </tr>
 </table>
 
@@ -444,6 +444,10 @@ This gives us this time series:
     <td>2020-03-25T00:00:00Z</td>
     <td>414179</td>
   </tr>
+  <tr>
+    <td>2020-03-26T00:00:00Z</td>
+    <td>462684</td>
+  </tr>
 </table>
 
 ## Regional progression
@@ -521,6 +525,9 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q87796964">Human rights issues during the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87796964">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87866152">quarantine for the 2019-2020 coronavirus disease pandemic</a> (<a href="http://www.wikidata.org/entity/Q87866152">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87898060">Impact of the 2019–20 coronavirus pandemic on religion</a> (<a href="http://www.wikidata.org/entity/Q87898060">edit</a>)</td>
   </tr>
   <tr>
@@ -536,7 +543,7 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the coronavirus pandemic on the restaurant industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the 2019–20 coronavirus pandemic on the food industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88293962">Media coverage of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88293962">edit</a>)</td>
@@ -546,9 +553,6 @@ It gives, sadly, a long list:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88385577">international assistance during 2019–20 COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q88385577">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88513828">COVID-19 related curfews and lockdowns</a> (<a href="http://www.wikidata.org/entity/Q88513828">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88599208">Coronavirus recession</a> (<a href="http://www.wikidata.org/entity/Q88599208">edit</a>)</td>
@@ -725,6 +729,10 @@ This tells us the following:
   <tr>
     <td><b>date</b></td>
     <td><b>numberOfCases</b></td>
+  </tr>
+  <tr>
+    <td>2020-03-26T00:00:00Z</td>
+    <td>80539</td>
   </tr>
   <tr>
     <td>2020-03-24T00:00:00Z</td>

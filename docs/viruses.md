@@ -1,8 +1,10 @@
 # Viruses
 
-The <a name="tp1">SARS-CoV-2</a> <a name="tp2">virus</a> is not the first <a name="tp3">coronavirus</a>. In fact, quite a few are known.
+The <a name="tp1">SARS-CoV-2</a> <a name="tp2">virus</a> is not the first <a name="tp3">coronavirus</a> (CoV). In fact,
+quite a few SARS-related CoVs are known, as clear from this
+[NCBI Taxonomy list](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
 
-We first list the SARS-CoV viruses:
+We first list the SARS-CoV viruses in Wikidata:
 
 **SPARQL** [sparql/allSARSCoVViruses.rq](sparql/allSARSCoVViruses.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ278567%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ278567%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
 

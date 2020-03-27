@@ -1,8 +1,10 @@
 # Viruses
 
-The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic>. In fact, quite a few are known.
+The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic> (CoV). In fact,
+quite a few SARS-related CoVs are known, as clear from this
+[NCBI Taxonomy list](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
 
-We first list the SARS-CoV viruses:
+We first list the SARS-CoV viruses in Wikidata:
 
 <sparql>allSARSCoVViruses</sparql>
 

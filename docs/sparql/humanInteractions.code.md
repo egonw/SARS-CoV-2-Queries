@@ -72,23 +72,16 @@ ORDER BY DESC(?date) ?doi
     <td>10.1080/22221751.2020.1713705</td>
   </tr>
   <tr>
-    <td>2017-06-13T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17907844">CNR2</a> (<a href="http://www.wikidata.org/entity/Q17907844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q39368926">Perspectives of Cannabinoid Type 2 Receptor (CB2R) Ligands in Neurodegenerative Disorders: Structure-Affinity Relationship (SAfiR) and Structure-Activity Relationship (SAR) Studies.</a> (<a href="http://www.wikidata.org/entity/Q39368926">edit</a>)</td>
-    <td>10.1021/ACS.JMEDCHEM.7B00155</td>
-  </tr>
-  <tr>
     <td>2016-06-30T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18032025">TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q18032025">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40674745">HeLa-ACE2-TMPRSS2 Cells Are Useful for the Isolation of Human Coronavirus 229E.</a> (<a href="http://www.wikidata.org/entity/Q40674745">edit</a>)</td>
     <td>10.7883/YOKEN.JJID.2016.106</td>
   </tr>
   <tr>
     <td>2016-06-30T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q18032025">TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q18032025">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40674745">HeLa-ACE2-TMPRSS2 Cells Are Useful for the Isolation of Human Coronavirus 229E.</a> (<a href="http://www.wikidata.org/entity/Q40674745">edit</a>)</td>
     <td>10.7883/YOKEN.JJID.2016.106</td>
   </tr>
@@ -107,30 +100,16 @@ ORDER BY DESC(?date) ?doi
     <td>10.1128/JVI.03372-12</td>
   </tr>
   <tr>
-    <td>2010-01-20T00:00:00Z</td>
+    <td>2008-05-19T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17907844">CNR2</a> (<a href="http://www.wikidata.org/entity/Q17907844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43170778">Synthesis, SAR and intramolecular hydrogen bonding pattern of 1,3,5-trisubstituted 4,5-dihydropyrazoles as potent cannabinoid CB(1) receptor antagonists.</a> (<a href="http://www.wikidata.org/entity/Q43170778">edit</a>)</td>
-    <td>10.1016/J.BMCL.2010.01.049</td>
-  </tr>
-  <tr>
-    <td>2009-12-11T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17907844">CNR2</a> (<a href="http://www.wikidata.org/entity/Q17907844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51775598">Synthesis and SAR of novel imidazoles as potent and selective cannabinoid CB2 receptor antagonists with high binding efficiencies.</a> (<a href="http://www.wikidata.org/entity/Q51775598">edit</a>)</td>
-    <td>10.1016/J.BMCL.2009.12.032</td>
-  </tr>
-  <tr>
-    <td>2009-08-07T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17907844">CNR2</a> (<a href="http://www.wikidata.org/entity/Q17907844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51777552">Synthesis and SAR of 1,4,5,6-tetrahydropyridazines as potent cannabinoid CB1 receptor antagonists.</a> (<a href="http://www.wikidata.org/entity/Q51777552">edit</a>)</td>
-    <td>10.1016/J.BMCL.2009.08.007</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q36693984">Modulation of TNF-alpha-converting enzyme by the spike protein of SARS-CoV and ACE2 induces TNF-alpha production and facilitates viral entry</a> (<a href="http://www.wikidata.org/entity/Q36693984">edit</a>)</td>
+    <td>10.1073/PNAS.0711241105</td>
   </tr>
   <tr>
     <td>2008-05-19T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q36693984">Modulation of TNF-alpha-converting enzyme by the spike protein of SARS-CoV and ACE2 induces TNF-alpha production and facilitates viral entry</a> (<a href="http://www.wikidata.org/entity/Q36693984">edit</a>)</td>
     <td>10.1073/PNAS.0711241105</td>
   </tr>
@@ -140,48 +119,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q33321974">Roles of TNF-alpha gene polymorphisms in the occurrence and progress of SARS-Cov infection: a case-control study.</a> (<a href="http://www.wikidata.org/entity/Q33321974">edit</a>)</td>
     <td>10.1186/1471-2334-8-27</td>
-  </tr>
-  <tr>
-    <td>2006-10-05T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17907844">CNR2</a> (<a href="http://www.wikidata.org/entity/Q17907844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q34572127">Arylsulfonamides as a new class of cannabinoid CB1 receptor ligands: identification of a lead and initial SAR studies.</a> (<a href="http://www.wikidata.org/entity/Q34572127">edit</a>)</td>
-    <td>10.1016/J.BMCL.2006.09.049</td>
-  </tr>
-  <tr>
-    <td>2006-02-08T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17907844">CNR2</a> (<a href="http://www.wikidata.org/entity/Q17907844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q46934800">Synthesis and structure-activity relationships (SARs) of 1,5-diarylpyrazole cannabinoid type-1 (CB(1)) receptor ligands for potential use in molecular imaging.</a> (<a href="http://www.wikidata.org/entity/Q46934800">edit</a>)</td>
-    <td>10.1016/J.BMC.2006.01.047</td>
-  </tr>
-  <tr>
-    <td>2005-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17907844">CNR2</a> (<a href="http://www.wikidata.org/entity/Q17907844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45234337">Triaryl bis-sulfones as a new class of cannabinoid CB2 receptor inhibitors: identification of a lead and initial SAR studies.</a> (<a href="http://www.wikidata.org/entity/Q45234337">edit</a>)</td>
-    <td>10.1016/J.BMCL.2004.11.007</td>
-  </tr>
-  <tr>
-    <td>2002-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q12009087">AVP</a> (<a href="http://www.wikidata.org/entity/Q12009087">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44083209">Conformational solution studies of (Sar7)desamino- and (MeAla7)desamino-vasopressin analogues using NMR spectroscopy.</a> (<a href="http://www.wikidata.org/entity/Q44083209">edit</a>)</td>
-    <td>10.1002/PSC.394</td>
-  </tr>
-  <tr>
-    <td>2001-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40770613">Noble 2-[3-(cyclopentyloxy)-4-methoxyphenyl]-1-isoindolinone derivatives. part I: synthesis and SAR studies for the inhibition of TNF-alpha production.</a> (<a href="http://www.wikidata.org/entity/Q40770613">edit</a>)</td>
-    <td>10.1007/BF02975177</td>
-  </tr>
-  <tr>
-    <td>1983-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q12009087">AVP</a> (<a href="http://www.wikidata.org/entity/Q12009087">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54499206">The effects of sar1ala8-angiotensin II in vasopressin-treated dehydrated sheep.</a> (<a href="http://www.wikidata.org/entity/Q54499206">edit</a>)</td>
-    <td>10.1113/EXPPHYSIOL.1983.SP002708</td>
   </tr>
 </table>
 ## Code examples

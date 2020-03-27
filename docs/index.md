@@ -42,15 +42,18 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 5.2.1. [Genes](genes.md#genes) <br />
 5.2.2. [Proteins](genes.md#proteins) <br />
 5.3. [All human corona viruses](genes.md#all-human-corona-viruses) <br />
-6. [Towards a solution](solution.md) <br />
-6.1. [Antibodies](solution.md#antibodies) <br />
-6.2. [Drug repurposing](solution.md#drug-repurposing) <br />
-7. [Literature](literature.md) <br />
-7.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
-7.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
-7.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
-7.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
-7.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
+6. [The Human](human.md) <br />
+6.1. [Interacting genes and proteins](human.md#interacting-genes-and-proteins) <br />
+6.2. [Biological processes](human.md#biological-processes) <br />
+7. [Towards a solution](solution.md) <br />
+7.1. [Antibodies](solution.md#antibodies) <br />
+7.2. [Drug repurposing](solution.md#drug-repurposing) <br />
+8. [Literature](literature.md) <br />
+8.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
+8.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
+8.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
+8.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
+8.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
 
 [Index](indexList.md) <br />
 

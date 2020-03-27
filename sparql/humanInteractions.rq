@@ -1,0 +1,14 @@
+SELECT ?date ?virus ?virusLabel ?gene ?geneLabel ?work ?workLabel ?doi WITH {
+  SELECT (MAX(?dates) as ?date) ?virus ?gene ?work WHERE {
+    ?virus wdt:P171+ wd:Q57751738 .
+    ?work wdt:P921 ?virus, ?gene .  
+    OPTIONAL { ?work wdt:P577 ?dates . }
+    ?gene wdt:P703 wd:Q15978631 .   
+    { ?gene wdt:P31 wd:Q7187 } UNION { ?gene wdt:P31 wd:Q8054 }
+  } GROUP BY ?virus ?gene ?work
+} AS %ARTICLES WHERE {
+  INCLUDE %ARTICLES
+  OPTIONAL { ?work wdt:P356 ?doi . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,nl,no,ru,sv,zh". }
+}
+ORDER BY DESC(?date) ?doi

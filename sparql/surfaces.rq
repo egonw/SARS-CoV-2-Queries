@@ -7,7 +7,7 @@ SELECT ?virus ?virusLabel ?work ?workLabel WITH {
       wd:Q8351095  # NL63 
       wd:Q16983356 # 229E 
       wd:Q4902157  # MERS-CoV
-      wd:Q85438966 # SARS-CoV
+      wd:Q278567   # SARS-CoV
     }
     ?work wdt:P921 ?virus ;
           wdt:P921 wd:Q484298 .

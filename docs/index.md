@@ -19,8 +19,9 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 ## Contents
 
 1. [Introduction](intro.md) <br />
-1.1. [Adding missing annotation](intro.md#adding-missing-annotation) <br />
-1.2. [Modelling the content in Wikidata](intro.md#modelling-the-content-in-wikidata) <br />
+1.1. [Adding missing topic annotation](intro.md#adding-missing-topic-annotation) <br />
+1.2. [Other annotation](intro.md#other-annotation) <br />
+1.3. [Modelling the content in Wikidata](intro.md#modelling-the-content-in-wikidata) <br />
 2. [Viruses](viruses.md) <br />
 2.1. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
 2.1.1. [Comparing viruses](viruses.md#comparing-viruses) <br />

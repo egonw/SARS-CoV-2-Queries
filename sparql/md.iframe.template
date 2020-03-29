@@ -1,0 +1,6 @@
+<iframe
+  style="width: 95%; height: 50vh; border: none;"
+  src="%RUNURL%"
+  referrerpolicy="origin"
+  sandbox="allow-scripts allow-same-origin allow-popups" >
+</iframe>

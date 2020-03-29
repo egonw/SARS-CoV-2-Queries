@@ -41,6 +41,7 @@ while (line != null) {
 mdTypes = new ArrayList();
 mdTypes.add("verbatim");
 mdTypes.add("code");
+mdTypes.add("iframe");
 
 def srcLines = new File(srcFile).readLines()
 unencodedSPARQL = ""

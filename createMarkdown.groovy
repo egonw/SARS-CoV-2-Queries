@@ -57,6 +57,10 @@ lines.each { String line ->
     def instruction = new XmlSlurper().parseText(line)
     def srcLines = new File("sparql/${instruction.text()}.out").readLines()
     srcLines.each { String srcLine -> println srcLine }
+  } else if (line.startsWith("<iframe>")) {
+    def instruction = new XmlSlurper().parseText(line)
+    def srcLines = new File("sparql/${instruction.text()}.iframe.md").readLines()
+    srcLines.each { String srcLine -> println srcLine }
   } else if (line.startsWith("<section")) {
     def instruction = new XmlSlurper().parseText(line)
     println "<a name=\"sec:${instruction.@label}\"></a>"

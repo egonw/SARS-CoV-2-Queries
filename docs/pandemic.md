@@ -460,112 +460,7 @@ SELECT ?facet ?facetLabel WHERE {
 }
 ```
 
-It gives, sadly, a long list:
-
-<table>
-  <tr>
-    <td><b>facet</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83493517">timeline of the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83741704">2019–20 coronavirus pandemic  by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84056433">controversy surrounding the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84056433">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84318312">xenophobia and racism related to the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84318312">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84897850">Timeline of the 2019–20 Wuhan coronavirus outbreak in November 2019 – January 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85173778">Misinformation related to the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85853067">list of medical professionals who died during the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q85853067">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86901049">COVID-19 testing</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87073833">Travel restrictions related to the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q87073833">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87479384">cancelled event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87479384">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87589400">impact of the 2019–20 coronavirus pandemic on sports</a> (<a href="http://www.wikidata.org/entity/Q87589400">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87625383">Impact of the 2019–20 coronavirus pandemic on aviation</a> (<a href="http://www.wikidata.org/entity/Q87625383">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87625385">Impact of the 2019–20 coronavirus pandemic on cinema</a> (<a href="http://www.wikidata.org/entity/Q87625385">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87719499">Impact of the 2019–20 coronavirus pandemic on television</a> (<a href="http://www.wikidata.org/entity/Q87719499">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87760968">Impact of the 2019–20 coronavirus pandemic on education</a> (<a href="http://www.wikidata.org/entity/Q87760968">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87774378">Timeline of the 2019–20 coronavirus pandemic in March 2020</a> (<a href="http://www.wikidata.org/entity/Q87774378">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87796964">Human rights issues during the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87796964">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87866152">quarantine for the 2019-2020 coronavirus disease pandemic</a> (<a href="http://www.wikidata.org/entity/Q87866152">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87898060">Impact of the 2019–20 coronavirus pandemic on religion</a> (<a href="http://www.wikidata.org/entity/Q87898060">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87985395">COVID-19 pandemic/statistic</a> (<a href="http://www.wikidata.org/entity/Q87985395">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88027839">list of deaths from the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88027839">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88221447">non-pharmaceutical countermeasure</a> (<a href="http://www.wikidata.org/entity/Q88221447">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88293861">Impact of the 2019–20 coronavirus pandemic on the food industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88293962">Media coverage of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88293962">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88333605">Coronavirus pandemic on social media</a> (<a href="http://www.wikidata.org/entity/Q88333605">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88385577">international assistance during 2019–20 COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q88385577">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88599208">Coronavirus recession</a> (<a href="http://www.wikidata.org/entity/Q88599208">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88634378">Impact of the 2019–20 coronavirus pandemic on the video game industry</a> (<a href="http://www.wikidata.org/entity/Q88634378">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88661507">Impact of the 2019–20 coronavirus pandemic on science and technology</a> (<a href="http://www.wikidata.org/entity/Q88661507">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88870126">NHS Nightingale Hospitals</a> (<a href="http://www.wikidata.org/entity/Q88870126">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88903067">cancelled sports event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
-  </tr>
-</table>
+The list is very long, and to show it, you can open the above SPARQL page.
 
 ### Progression in The Netherlands
 
@@ -583,138 +478,30 @@ SELECT ?date ?numberOfCases WHERE {
 } ORDER BY DESC(?date)
 ```
 
-This tells us the following:
+As the pandemic continues, the table has gotten long and a line plot may
+be more useful;
 
-<table>
-  <tr>
-    <td><b>date</b></td>
-    <td><b>numberOfCases</b></td>
-  </tr>
-  <tr>
-    <td>2020-03-28T00:00:00Z</td>
-    <td>9762</td>
-  </tr>
-  <tr>
-    <td>2020-03-27T00:00:00Z</td>
-    <td>8603</td>
-  </tr>
-  <tr>
-    <td>2020-03-26T00:00:00Z</td>
-    <td>7431</td>
-  </tr>
-  <tr>
-    <td>2020-03-25T00:00:00Z</td>
-    <td>6412</td>
-  </tr>
-  <tr>
-    <td>2020-03-24T00:00:00Z</td>
-    <td>5560</td>
-  </tr>
-  <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td>4749</td>
-  </tr>
-  <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>4204</td>
-  </tr>
-  <tr>
-    <td>2020-03-21T00:00:00Z</td>
-    <td>3631</td>
-  </tr>
-  <tr>
-    <td>2020-03-20T00:00:00Z</td>
-    <td>2994</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>2460</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>2051</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1705</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1705</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>1413</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1135</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>959</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>804</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>614</td>
-  </tr>
-  <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>503</td>
-  </tr>
-  <tr>
-    <td>2020-03-10T00:00:00Z</td>
-    <td>382</td>
-  </tr>
-  <tr>
-    <td>2020-03-09T00:00:00Z</td>
-    <td>321</td>
-  </tr>
-  <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>265</td>
-  </tr>
-  <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>188</td>
-  </tr>
-  <tr>
-    <td>2020-03-06T00:00:00Z</td>
-    <td>128</td>
-  </tr>
-  <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>82</td>
-  </tr>
-  <tr>
-    <td>2020-03-04T00:00:00Z</td>
-    <td>38</td>
-  </tr>
-  <tr>
-    <td>2020-03-02T00:00:00Z</td>
-    <td>18</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>2020-02-27T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-</table>
+**SPARQL** [sparql/progressionNLlineplot.rq](sparql/progressionNLlineplot.code.html) ([run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
+
+```sparql
+#defaultView:LineChart
+SELECT ?date ?numberOfCases WHERE {
+  wd:Q86756826 p:P1603 ?numberOfCasesStat .
+  ?numberOfCasesStat ps:P1603 ?numberOfCases ;
+                     pq:P585 ?date .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+
+Which shows:
+
+<iframe
+  style="width: 80vw; height: 50vh; border: none;" 
+  src="https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ86756826%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A"
+
+  referrerpolicy="origin"
+  sandbox="allow-scripts allow-same-origin allow-popups" >
+</iframe>
 
 ### Progression in Italy
 

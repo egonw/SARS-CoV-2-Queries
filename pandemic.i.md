@@ -82,10 +82,6 @@ of Italy:
 
 <sparql>progressionIT</sparql>
 
-This tells us the following:
-
-<out>progressionIT</out>
-
 ## Graphed Regional progression
 
 ### Cases

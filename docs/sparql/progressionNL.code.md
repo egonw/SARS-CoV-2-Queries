@@ -67,10 +67,6 @@ SELECT ?date ?numberOfCases WHERE {
     <td>1705</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1705</td>
-  </tr>
-  <tr>
     <td>2020-03-16T00:00:00Z</td>
     <td>1413</td>
   </tr>

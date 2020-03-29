@@ -40,9 +40,14 @@ Then we need a more complex query suitable for statement qualifiers:
 
 <sparql>earthAllCases</sparql>
 
+If we want to make a line plot of the progression, we have to slightly
+change the query:
+
+<sparql>earthAllCasesLinePlot</sparql>
+
 This gives us this time series:
 
-<out>earthAllCases</out>
+<iframe>earthAllCasesLinePlot</iframe>
 
 ## Regional progression
 
@@ -51,9 +56,7 @@ as well. We can list them with this query:
 
 <sparql>facets</sparql>
 
-It gives, sadly, a long list:
-
-<out>facets</out>
+The list is very long, and to show it, you can open the above SPARQL page.
 
 ### Progression in The Netherlands
 
@@ -62,9 +65,14 @@ for example, just <topic>The Netherlands</topic>:
 
 <sparql>progressionNL</sparql>
 
-This tells us the following:
+As the pandemic continues, the table has gotten long and a line plot may
+be more useful;
 
-<out>progressionNL</out>
+<sparql>progressionNLlineplot</sparql>
+
+Which shows:
+
+<iframe>progressionNLlineplot</iframe>
 
 ### Progression in Italy
 

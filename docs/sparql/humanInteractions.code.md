@@ -100,6 +100,13 @@ ORDER BY DESC(?date) ?doi
     <td>10.1128/JVI.03372-12</td>
   </tr>
   <tr>
+    <td>2011-02-16T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35076795">Evidence that TMPRSS2 activates the severe acute respiratory syndrome coronavirus spike protein for membrane fusion and reduces viral control by the humoral immune response.</a> (<a href="http://www.wikidata.org/entity/Q35076795">edit</a>)</td>
+    <td>10.1128/JVI.02232-10</td>
+  </tr>
+  <tr>
     <td>2008-05-19T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>

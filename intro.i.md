@@ -6,7 +6,7 @@ scholarly publications (cited in Wikipedia) [<cite>Q28843308</cite>]. Inspired b
 [Scholia](https://tools.wmflabs.org/scholia/) [<cite>Q41799194</cite>], this electronic books collects
 a number of queries useful to journal editors.
 
-## Adding missing annotation
+## Adding missing topic annotation
 
 As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
 the Wikidata:WikiProject COVID-19, of Wikicite, and the selflessless efforts by many people around
@@ -14,6 +14,8 @@ the world. Because Wikidata is an open database, everyone can contribute, and on
 ways to contribute, is annotate articles in Wikidata with 'main subjects'. The content of the
 Literature chapter very much depends on this. If you want to help, get a Wikidata account, browse
 this book for mentioned literature and start adding 'main subject' annotation. 
+
+## Other annotation
 
 Furthermore, take advantage of the '/missing' functionality of Scholia for other useful annotation.
 For example, check out these Scholia pages for the human coronaviruses (HCoVs):

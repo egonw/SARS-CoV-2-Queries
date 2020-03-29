@@ -1778,10 +1778,6 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q36821888">Expression, glycosylation, and modification of the spike (S) glycoprotein of SARS CoV.</a> (<a href="http://www.wikidata.org/entity/Q36821888">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q36419698">Expression, purification and crystallization of the SARS-CoV macro domain.</a> (<a href="http://www.wikidata.org/entity/Q36419698">edit</a>)</td>
   </tr>
   <tr>

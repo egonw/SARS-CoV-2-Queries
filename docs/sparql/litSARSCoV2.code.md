@@ -55,6 +55,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>10.1016/S2468-1253(20)30048-0</td>
   </tr>
   <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88892822">A New Predictor of Disease Severity in Patients with COVID-19 in Wuhan, China</a> (<a href="http://www.wikidata.org/entity/Q88892822">edit</a>)</td>
+    <td>10.1101/2020.03.24.20042119</td>
+  </tr>
+  <tr>
     <td>2020-03-23T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88387054">Ethnografie und visuelle Anthropologie in Zeiten des Coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88387054">edit</a>)</td>
     <td></td>
@@ -63,11 +68,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-23T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88433773">Fair Allocation of Scarce Medical Resources in the Time of Covid-19</a> (<a href="http://www.wikidata.org/entity/Q88433773">edit</a>)</td>
     <td>10.1056/NEJMSB2005114</td>
-  </tr>
-  <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88507120">The Toughest Triage — Allocating Ventilators in a Pandemic</a> (<a href="http://www.wikidata.org/entity/Q88507120">edit</a>)</td>
-    <td>10.1056/NEJMP2005689</td>
   </tr>
 </table>
 ## Code examples

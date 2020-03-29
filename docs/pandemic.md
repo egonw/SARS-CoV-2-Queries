@@ -18,7 +18,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>462684</td>
+    <td>571678</td>
   </tr>
 </table>
 
@@ -436,6 +436,14 @@ This gives us this time series:
     <td>2020-03-26T00:00:00Z</td>
     <td>462684</td>
   </tr>
+  <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td>509164</td>
+  </tr>
+  <tr>
+    <td>2020-03-28T00:00:00Z</td>
+    <td>571678</td>
+  </tr>
 </table>
 
 ## Regional progression
@@ -492,7 +500,7 @@ It gives, sadly, a long list:
     <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87589400">Impact of the 2019–20 coronavirus pandemic on sports</a> (<a href="http://www.wikidata.org/entity/Q87589400">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87589400">impact of the 2019–20 coronavirus pandemic on sports</a> (<a href="http://www.wikidata.org/entity/Q87589400">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87625383">Impact of the 2019–20 coronavirus pandemic on aviation</a> (<a href="http://www.wikidata.org/entity/Q87625383">edit</a>)</td>
@@ -551,6 +559,12 @@ It gives, sadly, a long list:
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88661507">Impact of the 2019–20 coronavirus pandemic on science and technology</a> (<a href="http://www.wikidata.org/entity/Q88661507">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88870126">NHS Nightingale Hospitals</a> (<a href="http://www.wikidata.org/entity/Q88870126">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88903067">cancelled sports event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
+  </tr>
 </table>
 
 ### Progression in The Netherlands
@@ -575,6 +589,14 @@ This tells us the following:
   <tr>
     <td><b>date</b></td>
     <td><b>numberOfCases</b></td>
+  </tr>
+  <tr>
+    <td>2020-03-28T00:00:00Z</td>
+    <td>9762</td>
+  </tr>
+  <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td>8603</td>
   </tr>
   <tr>
     <td>2020-03-26T00:00:00Z</td>
@@ -717,6 +739,14 @@ This tells us the following:
   <tr>
     <td><b>date</b></td>
     <td><b>numberOfCases</b></td>
+  </tr>
+  <tr>
+    <td>2020-03-28T00:00:00Z</td>
+    <td>92472</td>
+  </tr>
+  <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td>86498</td>
   </tr>
   <tr>
     <td>2020-03-26T00:00:00Z</td>

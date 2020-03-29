@@ -12,13 +12,17 @@ This gives us:
 
 <out>allSARSCoVViruses</out>
 
-But the full list of coronaviruses looks like this:
+But the SARS-related coronavirusses is just a subgroup. The full list of coronaviruses looks like this:
 
 <sparql>allCoronaViruses</sparql>
 
-Which gives us:
+Because there are quite a few of them in Wikidata, we rather make a graph dependency plot:
 
-<out>allCoronaViruses</out>
+<sparql>allCoronaVirusesGraph</sparql>
+
+This gives this output
+
+<iframe>allCoronaVirusesGraph</iframe>
 
 ## The seven coronaviruses that infect human
 

@@ -88,6 +88,11 @@ of Italy:
 
 <sparql>graphCases</sparql>
 
+This shows us:
+
+<iframe>graphCases</iframe>
+
 ### Deaths
 
 <sparql>graphDeaths</sparql>
+

@@ -1,4 +1,4 @@
-# Viruses
+<section level="#" label="viruses">Viruses</section>
 
 The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic> (CoV). In fact,
 quite a few SARS-related CoVs are known, as clear from this

@@ -38,7 +38,7 @@ Which currently returns:
 
 ## about coronaviruses
 
-As outlined in Chapter X, SARS-Cov-2 is one of the coronaviruses that
+As outlined in Chapter <xref>viruses</xref>, SARS-Cov-2 is one of the coronaviruses that
 can infect humans.
 
 <sparql>litCoronaviruses</sparql>

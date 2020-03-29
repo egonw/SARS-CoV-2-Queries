@@ -1,3 +1,4 @@
+<a name="sec:viruses"></a>
 # Viruses
 
 The <a name="tp1">SARS-CoV-2</a> <a name="tp2">virus</a> is not the first <a name="tp3">coronavirus</a> (CoV). In fact,

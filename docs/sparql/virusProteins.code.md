@@ -82,6 +82,10 @@ SELECT ?protein ?proteinLabel ?uniprot WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
     <td>P0DTC8</td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89006922">NSP2 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89006922">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 ## Code examples
 ### curl

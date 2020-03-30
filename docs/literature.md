@@ -30,11 +30,6 @@ This gives these 10 papers:
     <td><b>doi</b></td>
   </tr>
   <tr>
-    <td>2020-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461271">Timely development of vaccines against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87461271">edit</a>)</td>
-    <td>10.1080/22221751.2020.1737580</td>
-  </tr>
-  <tr>
     <td>2020-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461293">The novel Coronavirus (SARS-CoV-2) is a one health issue</a> (<a href="http://www.wikidata.org/entity/Q87461293">edit</a>)</td>
     <td>10.1016/J.ONEHLT.2020.100123</td>
@@ -65,19 +60,24 @@ This gives these 10 papers:
     <td>10.1016/S2468-1253(20)30048-0</td>
   </tr>
   <tr>
-    <td>2020-03-27T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88892822">A New Predictor of Disease Severity in Patients with COVID-19 in Wuhan, China</a> (<a href="http://www.wikidata.org/entity/Q88892822">edit</a>)</td>
-    <td>10.1101/2020.03.24.20042119</td>
+    <td>2020-03-29T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88979047">Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study</a> (<a href="http://www.wikidata.org/entity/Q88979047">edit</a>)</td>
+    <td>10.1101/2020.03.24.20042937</td>
   </tr>
   <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88387054">Ethnografie und visuelle Anthropologie in Zeiten des Coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88387054">edit</a>)</td>
-    <td></td>
+    <td>2020-03-29T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88979098">Modeling of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Proteins by Machine Learning and Physics-Based Refinement</a> (<a href="http://www.wikidata.org/entity/Q88979098">edit</a>)</td>
+    <td>10.1101/2020.03.25.008904</td>
   </tr>
   <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88433773">Fair Allocation of Scarce Medical Resources in the Time of Covid-19</a> (<a href="http://www.wikidata.org/entity/Q88433773">edit</a>)</td>
-    <td>10.1056/NEJMSB2005114</td>
+    <td>2020-03-29T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88979226">Structure-Based Design, Synthesis and Biological Evaluation of Peptidomimetic Aldehydes as a Novel Series of Antiviral Drug Candidates Targeting the SARS-CoV-2 Main Protease</a> (<a href="http://www.wikidata.org/entity/Q88979226">edit</a>)</td>
+    <td>10.1101/2020.03.25.996348</td>
+  </tr>
+  <tr>
+    <td>2020-03-29T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88979241">Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity</a> (<a href="http://www.wikidata.org/entity/Q88979241">edit</a>)</td>
+    <td>10.1101/2020.03.26.009233</td>
   </tr>
 </table>
 
@@ -152,14 +152,34 @@ Which currently returns:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88978136">Molecular characterization of SARS-CoV-2 in the first COVID-19 cluster in France reveals an amino-acid deletion in nsp2 (Asp268Del)</a> (<a href="http://www.wikidata.org/entity/Q88978136">edit</a>)</td>
+    <td>10.1101/2020.03.19.998179</td>
+  </tr>
+  <tr>
     <td>2020-03-20T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88219766">Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors</a> (<a href="http://www.wikidata.org/entity/Q88219766">edit</a>)</td>
     <td>10.1126/SCIENCE.ABB3405</td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87995005">1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995005">edit</a>)</td>
+    <td>10.2210/PDB6W4H/PDB</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88048219">Crystal structure of SARS-CoV-2 nucleocapsid protein N-terminal RNA binding domain</a> (<a href="http://www.wikidata.org/entity/Q88048219">edit</a>)</td>
     <td>10.2210/PDB6M3M/PDB</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88977278">The inhaled corticosteroid ciclesonide blocks coronavirus RNA replication by targeting viral NSP15</a> (<a href="http://www.wikidata.org/entity/Q88977278">edit</a>)</td>
+    <td>10.1101/2020.03.11.987016</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87995286">Crystal Structure of ADP ribose phosphatase of NSP3 from SARS CoV-2 in the complex with ADP ribose</a> (<a href="http://www.wikidata.org/entity/Q87995286">edit</a>)</td>
+    <td>10.2210/PDB6W02/PDB</td>
   </tr>
   <tr>
     <td>2020-03-11T00:00:00Z</td>
@@ -172,24 +192,14 @@ Which currently returns:
     <td>10.2210/PDB5R81/PDB</td>
   </tr>
   <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87973551">Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q87973551">edit</a>)</td>
-    <td>10.1016/J.CELL.2020.02.058</td>
+    <td>2020-03-04T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87995012">Crystal Structure of ADP ribose phosphatase of NSP3 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995012">edit</a>)</td>
+    <td>10.2210/PDB6VXS/PDB</td>
   </tr>
   <tr>
-    <td>2020-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461535">Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody</a> (<a href="http://www.wikidata.org/entity/Q87461535">edit</a>)</td>
-    <td>10.1080/22221751.2020.1729069</td>
-  </tr>
-  <tr>
-    <td>2020-01-31T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84112018">Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag</a> (<a href="http://www.wikidata.org/entity/Q84112018">edit</a>)</td>
-    <td>10.1101/2020.01.30.927871</td>
-  </tr>
-  <tr>
-    <td>2020-01-22T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83500392">Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross-species transmission from snake to human</a> (<a href="http://www.wikidata.org/entity/Q83500392">edit</a>)</td>
-    <td></td>
+    <td>2020-03-03T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87973252">Crystal structure of Nsp15 endoribonuclease NendoU from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87973252">edit</a>)</td>
+    <td>10.1101/2020.03.02.968388</td>
   </tr>
 </table>
 
@@ -310,7 +320,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>186</td>
+    <td>991</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -504,6 +514,11 @@ Where the counts are:
     <td>4</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917579">Uridylate-specific endoribonuclease</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88216297">Spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88216297">edit</a>)</td>
     <td>3</td>
@@ -514,8 +529,8 @@ Where the counts are:
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88317441">Replicase polyprotein 1ab</a> (<a href="http://www.wikidata.org/entity/Q88317441">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917581">Papain-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -535,7 +550,12 @@ Where the counts are:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88317460">Membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88317460">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88317441">Replicase polyprotein 1ab</a> (<a href="http://www.wikidata.org/entity/Q88317441">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917572">NSP10 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -556,6 +576,16 @@ Where the counts are:
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88366260">Membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88366260">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88317460">Membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88317460">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89006922">NSP2 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89006922">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

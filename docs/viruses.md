@@ -7,7 +7,7 @@ cold [<a href="#citeref1">1</a>]. However, for the
 <a name="tp1">severe acute respiratory syndrome-related coronaviruses</a> (<a name="tp2">SARSr viruses</a>)
 this is different. SARS-CoV-2, of course, is the main topic of this book.
 
-# All SARSr viruses
+## All SARSr viruses
 
 The <a name="tp3">SARS-CoV-2</a> <a name="tp4">virus</a> is not the first <a name="tp5">coronavirus</a> (CoV). In fact,
 quite a few SARS-related CoVs are known, as clear from this
@@ -58,7 +58,7 @@ This gives us:
   </tr>
 </table>
 
-If we compare this list with that in Section [2.2](#sec:sevenhuman) we not that
+If we compare this list with that in Section [2.3](#sec:sevenhuman) we not that
 these two lists do not fully overlap.
 
 ## All coronaviruses

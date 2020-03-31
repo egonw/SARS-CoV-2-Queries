@@ -23,11 +23,11 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 1.2. [Other annotation](intro.md#other-annotation) <br />
 1.3. [Modelling the content in Wikidata](intro.md#modelling-the-content-in-wikidata) <br />
 2. [Viruses](viruses.md) <br />
-2. [All SARSr viruses](viruses.md) <br />
-2.1. [All coronaviruses](viruses.md#all-coronaviruses) <br />
-2.2. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
-2.2.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
-2.3. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
+2.1. [All SARSr viruses](viruses.md#all-sarsr-viruses) <br />
+2.2. [All coronaviruses](viruses.md#all-coronaviruses) <br />
+2.3. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
+2.3.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
+2.4. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
 3.1. [Symptoms](covid.md#symptoms) <br />
 3.2. [Clinical trials](covid.md#clinical-trials) <br />

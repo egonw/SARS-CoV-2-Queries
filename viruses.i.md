@@ -6,7 +6,7 @@ cold [<cite>Q36641750</cite>]. However, for the
 <topic>severe acute respiratory syndrome-related coronaviruses</topic> (<topic>SARSr viruses</topic>)
 this is different. SARS-CoV-2, of course, is the main topic of this book.
 
-# All SARSr viruses
+## All SARSr viruses
 
 The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic> (CoV). In fact,
 quite a few SARS-related CoVs are known, as clear from this

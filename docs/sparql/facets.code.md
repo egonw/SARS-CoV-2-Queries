@@ -20,7 +20,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q83493517">timeline of the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83741704">2019–20 coronavirus pandemic  by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q83741704">2019–20 coronavirus pandemic by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q84056433">controversy surrounding the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84056433">edit</a>)</td>
@@ -114,6 +114,12 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88903067">cancelled sports event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89031984">cancelled music event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89031984">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89033277">postponed sports event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89033277">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

@@ -321,6 +321,6 @@ literature for reading, not to draw conclusions from:
 
 ## References
 
-1. <a name="citeref1"></a>Lu S. Timely development of vaccines against SARS-CoV-2. Emerging microbes & infections. 2020 Dec;9(1):542–4.  doi:[10.1080/22221751.2020.1737580](https://doi.org/10.1080/22221751.2020.1737580) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1080/22221751.2020.1737580))
+1. <a name="citeref1"></a>Lu S. Timely development of vaccines against SARS-CoV-2. Emerging microbes & infections. 2020 Mar 8;9(1):542–4.  doi:[10.1080/22221751.2020.1737580](https://doi.org/10.1080/22221751.2020.1737580) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1080/22221751.2020.1737580))
 
 

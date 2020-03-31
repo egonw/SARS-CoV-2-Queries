@@ -1,0 +1,13 @@
+SELECT ?virus ?virusLabel ?protein ?proteinLabel WHERE {
+  VALUES ?virus {
+    wd:Q16000326 # SL-CoV-WIV1
+    wd:Q88162038 # Bat SARS coronavirus Rp1
+    wd:Q85939995 # SHC014-CoV
+    wd:Q82069695 # SARS-CoV-2
+    wd:Q34967815 # SARS coronavirus
+    wd:Q85438966 # severe acute respiratory syndrome coronavirus
+    wd:Q278567   # SARSr-CoV / SARS-CoV
+  }
+  ?protein wdt:P703 ?virus ; wdt:P31 wd:Q8054 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

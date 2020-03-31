@@ -23,9 +23,11 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 1.2. [Other annotation](intro.md#other-annotation) <br />
 1.3. [Modelling the content in Wikidata](intro.md#modelling-the-content-in-wikidata) <br />
 2. [Viruses](viruses.md) <br />
-2.1. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
-2.1.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
-2.2. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
+2. [All SARSr viruses](viruses.md) <br />
+2.1. [All coronaviruses](viruses.md#all-coronaviruses) <br />
+2.2. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
+2.2.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
+2.3. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
 3.1. [Symptoms](covid.md#symptoms) <br />
 3.2. [Clinical trials](covid.md#clinical-trials) <br />
@@ -43,7 +45,12 @@ While the book itself has the CC-BY-SA, all SPARQL queries in this book can be u
 5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
 5.2.1. [Genes](genes.md#genes) <br />
 5.2.2. [Proteins](genes.md#proteins) <br />
-5.3. [All human corona viruses](genes.md#all-human-corona-viruses) <br />
+5.3. [All SARSr viruses](genes.md#all-sarsr-viruses) <br />
+5.3.1. [All SARSr genes](genes.md#all-sarsr-genes) <br />
+5.3.2. [All SARSr proteins](genes.md#all-sarsr-proteins) <br />
+5.4. [All human coronaviruses](genes.md#all-human-coronaviruses) <br />
+5.4.1. [All HCoV genes](genes.md#all-hcov-genes) <br />
+5.4.2. [All HCoV proteins](genes.md#all-hcov-proteins) <br />
 6. [The Human](human.md) <br />
 6.1. [Interacting genes and proteins](human.md#interacting-genes-and-proteins) <br />
 6.2. [Biological processes](human.md#biological-processes) <br />

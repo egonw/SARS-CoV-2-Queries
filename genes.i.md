@@ -44,9 +44,37 @@ Which gives us:
 
 <out>virusProteinsPDB</out>
 
-## All human corona viruses
+## All SARSr viruses
+
+Much like that above query, we can also ask for all genes and proteins
+of all SARSr viruses. This is done with the following queries.
+
+### All SARSr genes
+
+All genes we get with:
+
+<sparql>virusGenesSARSr</sparql>
+
+Which returns:
+
+<out>virusGenesSARSr</out>
+
+### All SARSr proteins
+
+And all proteins we get with:
+
+<sparql>virusProteinsSARSr</sparql>
+
+Which returns:
+
+<out>virusProteinsSARSr</out>
+
+## All human coronaviruses
 
 Much like that above query, we can also ask for all genes and proteins.
+This is done with the following queries.
+
+### All HCoV genes
 
 All genes we get with:
 
@@ -55,6 +83,8 @@ All genes we get with:
 Which returns:
 
 <out>virusGenesAll</out>
+
+### All HCoV proteins
 
 And all proteins we get with:
 

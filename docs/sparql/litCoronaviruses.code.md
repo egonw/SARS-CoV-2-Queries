@@ -22,12 +22,12 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2020-03-12T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87675797">[Recommendations for critically ill patients with COVID-19]</a> (<a href="http://www.wikidata.org/entity/Q87675797">edit</a>)</td>
-    <td>10.1007/S00063-020-00674-3</td>
+    <td><a href="https://doi.org/10.1007/S00063-020-00674-3">10.1007/S00063-020-00674-3</a></td>
   </tr>
   <tr>
     <td>2020-02-26T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
-    <td>10.3390/JCM9030623</td>
+    <td><a href="https://doi.org/10.3390/JCM9030623">10.3390/JCM9030623</a></td>
   </tr>
   <tr>
     <td>2020-02-14T00:00:00Z</td>

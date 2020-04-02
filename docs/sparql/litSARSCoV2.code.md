@@ -22,7 +22,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2020-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461293">The novel Coronavirus (SARS-CoV-2) is a one health issue</a> (<a href="http://www.wikidata.org/entity/Q87461293">edit</a>)</td>
-    <td>10.1016/J.ONEHLT.2020.100123</td>
+    <td><a href="https://doi.org/10.1016/J.ONEHLT.2020.100123">10.1016/J.ONEHLT.2020.100123</a></td>
   </tr>
   <tr>
     <td>2020-05-17T00:00:00Z</td>
@@ -42,32 +42,32 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2020-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461794">CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q87461794">edit</a>)</td>
-    <td>10.1148/RADIOL.2020200236</td>
+    <td><a href="https://doi.org/10.1148/RADIOL.2020200236">10.1148/RADIOL.2020200236</a></td>
   </tr>
   <tr>
     <td>2020-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87945074">Enteric involvement of coronaviruses: is faecal–oral transmission of SARS-CoV-2 possible?</a> (<a href="http://www.wikidata.org/entity/Q87945074">edit</a>)</td>
-    <td>10.1016/S2468-1253(20)30048-0</td>
+    <td><a href="https://doi.org/10.1016/S2468-1253(20)30048-0">10.1016/S2468-1253(20)30048-0</a></td>
   </tr>
   <tr>
     <td>2020-03-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88979047">Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study</a> (<a href="http://www.wikidata.org/entity/Q88979047">edit</a>)</td>
-    <td>10.1101/2020.03.24.20042937</td>
+    <td><a href="https://doi.org/10.1101/2020.03.24.20042937">10.1101/2020.03.24.20042937</a></td>
   </tr>
   <tr>
     <td>2020-03-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88979098">Modeling of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Proteins by Machine Learning and Physics-Based Refinement</a> (<a href="http://www.wikidata.org/entity/Q88979098">edit</a>)</td>
-    <td>10.1101/2020.03.25.008904</td>
+    <td><a href="https://doi.org/10.1101/2020.03.25.008904">10.1101/2020.03.25.008904</a></td>
   </tr>
   <tr>
     <td>2020-03-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88979226">Structure-Based Design, Synthesis and Biological Evaluation of Peptidomimetic Aldehydes as a Novel Series of Antiviral Drug Candidates Targeting the SARS-CoV-2 Main Protease</a> (<a href="http://www.wikidata.org/entity/Q88979226">edit</a>)</td>
-    <td>10.1101/2020.03.25.996348</td>
+    <td><a href="https://doi.org/10.1101/2020.03.25.996348">10.1101/2020.03.25.996348</a></td>
   </tr>
   <tr>
     <td>2020-03-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88979241">Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity</a> (<a href="http://www.wikidata.org/entity/Q88979241">edit</a>)</td>
-    <td>10.1101/2020.03.26.009233</td>
+    <td><a href="https://doi.org/10.1101/2020.03.26.009233">10.1101/2020.03.26.009233</a></td>
   </tr>
 </table>
 ## Code examples

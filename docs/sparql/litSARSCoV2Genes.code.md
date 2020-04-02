@@ -23,22 +23,22 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2020-03-11T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88197712">Genetic evolution analysis of 2019 novel coronavirus and coronavirus from other species</a> (<a href="http://www.wikidata.org/entity/Q88197712">edit</a>)</td>
-    <td>10.1016/J.MEEGID.2020.104285</td>
+    <td><a href="https://doi.org/10.1016/J.MEEGID.2020.104285">10.1016/J.MEEGID.2020.104285</a></td>
   </tr>
   <tr>
     <td>2020-03-11T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88198219">From SARS and MERS CoVs to SARS‐CoV‐2: Moving toward more biased codon usage in viral structural and nonstructural genes</a> (<a href="http://www.wikidata.org/entity/Q88198219">edit</a>)</td>
-    <td>10.1002/JMV.25754</td>
+    <td><a href="https://doi.org/10.1002/JMV.25754">10.1002/JMV.25754</a></td>
   </tr>
   <tr>
     <td>2020-02-18T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461510">Virus against virus: a potential treatment for 2019-nCov (SARS-CoV-2) and other RNA viruses</a> (<a href="http://www.wikidata.org/entity/Q87461510">edit</a>)</td>
-    <td>10.1038/S41422-020-0290-0</td>
+    <td><a href="https://doi.org/10.1038/S41422-020-0290-0">10.1038/S41422-020-0290-0</a></td>
   </tr>
   <tr>
     <td>2007-07-20T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q80654151">Expression, post-translational modification and biochemical characterization of proteins encoded by subgenomic mRNA8 of the severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q80654151">edit</a>)</td>
-    <td>10.1111/J.1742-4658.2007.05947.X</td>
+    <td><a href="https://doi.org/10.1111/J.1742-4658.2007.05947.X">10.1111/J.1742-4658.2007.05947.X</a></td>
   </tr>
 </table>
 ## Code examples

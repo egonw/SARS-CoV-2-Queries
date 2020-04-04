@@ -12,7 +12,7 @@ are very basic, and only use the 'main subject' property.
 
 <sparql>litSARSCoV2</sparql>
 
-This gives these 10 papers:
+This gives these 10 papers (remove the `LIMIT 10` from the query to get all):
 
 <out>litSARSCoV2</out>
 
@@ -22,7 +22,7 @@ We can also query for articles about the genes:
 
 <sparql>litSARSCoV2Genes</sparql>
 
-Which currently returns:
+Which currently returns (remove the `LIMIT 10` to get all):
 
 <out>litSARSCoV2Genes</out>
 

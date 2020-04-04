@@ -45,6 +45,11 @@ This gives these 10 papers:
     <td></td>
   </tr>
   <tr>
+    <td>2020-04-03T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89354634">Respiratory virus shedding in exhaled breath and efficacy of face masks</a> (<a href="http://www.wikidata.org/entity/Q89354634">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41591-020-0843-2">10.1038/S41591-020-0843-2</a></td>
+  </tr>
+  <tr>
     <td>2020-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461786">Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event</a> (<a href="http://www.wikidata.org/entity/Q87461786">edit</a>)</td>
     <td></td>
@@ -73,11 +78,6 @@ This gives these 10 papers:
     <td>2020-03-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88979226">Structure-Based Design, Synthesis and Biological Evaluation of Peptidomimetic Aldehydes as a Novel Series of Antiviral Drug Candidates Targeting the SARS-CoV-2 Main Protease</a> (<a href="http://www.wikidata.org/entity/Q88979226">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.03.25.996348">10.1101/2020.03.25.996348</a></td>
-  </tr>
-  <tr>
-    <td>2020-03-29T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88979241">Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity</a> (<a href="http://www.wikidata.org/entity/Q88979241">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.03.26.009233">10.1101/2020.03.26.009233</a></td>
   </tr>
 </table>
 
@@ -228,6 +228,11 @@ This gives these 10 papers:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89046119">A new threat from an old enemy: Re‑emergence of coronavirus (Review)</a> (<a href="http://www.wikidata.org/entity/Q89046119">edit</a>)</td>
+    <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
+  </tr>
+  <tr>
     <td>2020-03-12T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87675797">[Recommendations for critically ill patients with COVID-19]</a> (<a href="http://www.wikidata.org/entity/Q87675797">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S00063-020-00674-3">10.1007/S00063-020-00674-3</a></td>
@@ -320,7 +325,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>993</td>
+    <td>996</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -511,7 +516,7 @@ Which shows us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88000922">S surface glycoprotein of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

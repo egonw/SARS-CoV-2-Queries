@@ -136,6 +136,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89209954">NHS COVID-19 critical care hospitals</a> (<a href="http://www.wikidata.org/entity/Q89209954">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89305785">Impact of the 2019–20 coronavirus pandemic on the music industry</a> (<a href="http://www.wikidata.org/entity/Q89305785">edit</a>)</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

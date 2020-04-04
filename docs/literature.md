@@ -21,7 +21,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 } GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10
 ```
 
-This gives these 10 papers:
+This gives these 10 papers (remove the `LIMIT 10` from the query to get all):
 
 <table>
   <tr>
@@ -97,7 +97,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 } GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10
 ```
 
-Which currently returns:
+Which currently returns (remove the `LIMIT 10` to get all):
 
 <table>
   <tr>

@@ -24,4 +24,5 @@ severe acute respiratory syndrome-related coronaviruses [viruses](viruses.i.md#t
 surfaces [pandemic](pandemic.i.md#tp3)<br />
 The Netherlands [pandemic](pandemic.i.md#tp5)<br />
 transmission [pandemic](pandemic.i.md#tp2)<br />
+United States of America [pandemic](pandemic.i.md#tp7)<br />
 virus [viruses](viruses.i.md#tp4)

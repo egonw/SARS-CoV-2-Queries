@@ -82,6 +82,17 @@ of Italy:
 
 <sparql>progressionIT</sparql>
 
+### Progression in the U.S.A.
+
+Currently, the total number of infected people is highest in the 
+<topic>United States of America</topic>:
+
+<sparql>progressionUS</sparql>
+
+Which shows:
+
+<iframe>progressionUS</iframe>
+
 ## Graphed Regional progression
 
 ### Cases

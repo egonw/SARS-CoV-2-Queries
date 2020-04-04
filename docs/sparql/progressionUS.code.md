@@ -1,0 +1,197 @@
+# progressionUS.rq
+**Code examples:** [curl](#curl)
+### SPARQL
+```sparql
+#defaultView:LineChart
+SELECT ?date ?numberOfCases WHERE {
+  wd:Q83873577 p:P1603 ?numberOfCasesStat .
+  ?numberOfCasesStat ps:P1603 ?numberOfCases ;
+                     pq:P585 ?date .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY DESC(?date)
+```
+[Execute](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ83873577%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A) or [Edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ83873577%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A)
+
+
+### Output
+<table>
+  <tr>
+    <td><b>date</b></td>
+    <td><b>numberOfCases</b></td>
+  </tr>
+  <tr>
+    <td>2020-04-03T00:00:00Z</td>
+    <td>277161</td>
+  </tr>
+  <tr>
+    <td>2020-04-02T00:00:00Z</td>
+    <td>244877</td>
+  </tr>
+  <tr>
+    <td>2020-04-01T00:00:00Z</td>
+    <td>215003</td>
+  </tr>
+  <tr>
+    <td>2020-03-31T00:00:00Z</td>
+    <td>188530</td>
+  </tr>
+  <tr>
+    <td>2020-03-30T00:00:00Z</td>
+    <td>163844</td>
+  </tr>
+  <tr>
+    <td>2020-03-29T00:00:00Z</td>
+    <td>142460</td>
+  </tr>
+  <tr>
+    <td>2020-03-28T00:00:00Z</td>
+    <td>123578</td>
+  </tr>
+  <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td>104126</td>
+  </tr>
+  <tr>
+    <td>2020-03-26T00:00:00Z</td>
+    <td>85435</td>
+  </tr>
+  <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>68211</td>
+  </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>54856</td>
+  </tr>
+  <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td>43781</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>33592</td>
+  </tr>
+  <tr>
+    <td>2020-03-21T00:00:00Z</td>
+    <td>24192</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>19367</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>13779</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>6344</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>4596</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>2770</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>2183</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>1630</td>
+  </tr>
+  <tr>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>1301</td>
+  </tr>
+  <tr>
+    <td>2020-03-10T00:00:00Z</td>
+    <td>994</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>541</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>435</td>
+  </tr>
+  <tr>
+    <td>2020-03-06T00:00:00Z</td>
+    <td>319</td>
+  </tr>
+  <tr>
+    <td>2020-02-29T00:00:00Z</td>
+    <td>70</td>
+  </tr>
+  <tr>
+    <td>2020-02-06T00:00:00Z</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>2020-02-05T00:00:00Z</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>2020-02-04T00:00:00Z</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>2020-02-03T00:00:00Z</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>2020-02-02T00:00:00Z</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>2020-02-01T00:00:00Z</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>2020-01-31T00:00:00Z</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>2020-01-30T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-01-29T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-01-28T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-01-27T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-01-26T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-01-25T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-01-24T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-01-23T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+</table>
+## Code examples
+### curl
+```shell
+curl -o progressionUS.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/progressionUS.rq
+curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@progressionUS.rq
+```
+This SPARQL query is available under CCZero.

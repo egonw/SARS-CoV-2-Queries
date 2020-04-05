@@ -101,7 +101,7 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?pdb WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td></td>
+    <td>YP_009724397.2</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
     <td><a href="https://www.rcsb.org/structure/6M3M">6M3M</a></td>
   </tr>

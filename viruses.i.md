@@ -23,13 +23,38 @@ This gives us:
 If we compare this list with that in Section <xref>sevenhuman</xref> we not that
 these two lists do not fully overlap.
 
+<section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>
+
+However, for the current pandemic, the seven human corona viruses may be of particular interest [<cite>Q86729469</cite>].
+We can use this query to just list these:
+
+<sparql>humanCoronaviruses</sparql>
+
+This gives us a good starting point to study the virus in more detail:
+
+<out>humanCoronaviruses</out>
+
+## All betacoronaviruses
+
+But the SARS-related coronavirusses is just a subgroup. Another subgroup of coronaviruses is that of the betacoronaviruses:
+
+<sparql>allBetacoronaViruses</sparql>
+
+Because there are quite a few of them in Wikidata, we rather make a graph dependency plot:
+
+<sparql>allBetacoronaVirusesGraph</sparql>
+
+This gives this output
+
+<iframe>allBetacoronaVirusesGraph</iframe>
+
 ## All coronaviruses
 
-But the SARS-related coronavirusses is just a subgroup. The full list of coronaviruses looks like this:
+The full list of coronaviruses looks like this:
 
 <sparql>allCoronaViruses</sparql>
 
-Because there are quite a few of them in Wikidata, we rather make a graph dependency plot:
+Again, we rather make a graph dependency plot:
 
 <sparql>allCoronaVirusesGraph</sparql>
 

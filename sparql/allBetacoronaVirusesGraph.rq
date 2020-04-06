@@ -1,0 +1,7 @@
+#defaultView:Graph
+SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
+  ?virus wdt:P171+ wd:Q16532287 .
+  ?virus wdt:P171 ?parent .
+  OPTIONAL { ?virus wdt:P685 ?ncbi }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

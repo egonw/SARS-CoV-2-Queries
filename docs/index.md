@@ -22,10 +22,12 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 1.3. [Modelling the content in Wikidata](intro.md#modelling-the-content-in-wikidata) <br />
 2. [Viruses](viruses.md) <br />
 2.1. [All SARSr viruses](viruses.md#all-sarsr-viruses) <br />
-2.2. [All coronaviruses](viruses.md#all-coronaviruses) <br />
-2.3. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
-2.3.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
-2.4. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
+2.2. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
+2.3. [All betacoronaviruses](viruses.md#all-betacoronaviruses) <br />
+2.4. [All coronaviruses](viruses.md#all-coronaviruses) <br />
+2.5. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
+2.5.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
+2.6. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
 3.1. [Symptoms](covid.md#symptoms) <br />
 3.2. [Clinical trials](covid.md#clinical-trials) <br />

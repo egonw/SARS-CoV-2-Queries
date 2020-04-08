@@ -125,6 +125,16 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td>YP_009724391.1</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89597571">Protein 9b</a> (<a href="http://www.wikidata.org/entity/Q89597571">edit</a>)</td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD2">P0DTD2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89686805">NSP9 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89686805">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 ## Code examples
 ### curl

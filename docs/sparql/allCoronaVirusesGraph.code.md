@@ -226,7 +226,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/28295">28295</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694002">694002</a></td>
   </tr>
@@ -241,17 +241,17 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/574549">574549</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/693996">693996</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1159901">1159901</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694013">694013</a></td>
   </tr>

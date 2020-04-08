@@ -58,7 +58,7 @@ for (i=1;i<=results.rowCount;i++) {
       label = labelCols.get(label)
       qidURL = results.get(i, wikidata)
       if (label == null || qidURL == null) {
-        value = ""
+        println "    <td></td>"
       } else {
         qid = qidURL.substring(31)
         println "    <td><a href=\"https://tools.wmflabs.org/scholia/$qid\">${results.get(i, label)}</a> (<a href=\"$qidURL\">edit</a>)</td>"

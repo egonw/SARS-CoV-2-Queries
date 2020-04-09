@@ -1,5 +1,5 @@
 *.kate-swp
-*.md
+#*.md
 references.dat
 references.qids
 sections.txt

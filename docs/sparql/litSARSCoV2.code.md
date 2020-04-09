@@ -27,12 +27,12 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2020-05-17T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461449">Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020</a> (<a href="http://www.wikidata.org/entity/Q87461449">edit</a>)</td>
-    <td></td>
+    <td><a href="https://doi.org/10.3201/EID2605.200198">10.3201/EID2605.200198</a></td>
   </tr>
   <tr>
     <td>2020-05-17T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461585">Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China</a> (<a href="http://www.wikidata.org/entity/Q87461585">edit</a>)</td>
-    <td></td>
+    <td><a href="https://doi.org/10.3201/EID2605.200146">10.3201/EID2605.200146</a></td>
   </tr>
   <tr>
     <td>2020-04-03T00:00:00Z</td>
@@ -43,11 +43,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461794">CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q87461794">edit</a>)</td>
     <td><a href="https://doi.org/10.1148/RADIOL.2020200236">10.1148/RADIOL.2020200236</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87945074">Enteric involvement of coronaviruses: is faecal–oral transmission of SARS-CoV-2 possible?</a> (<a href="http://www.wikidata.org/entity/Q87945074">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/S2468-1253(20)30048-0">10.1016/S2468-1253(20)30048-0</a></td>
   </tr>
   <tr>
     <td>2020-03-29T00:00:00Z</td>
@@ -68,6 +63,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88979241">Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity</a> (<a href="http://www.wikidata.org/entity/Q88979241">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.03.26.009233">10.1101/2020.03.26.009233</a></td>
+  </tr>
+  <tr>
+    <td>2020-03-29T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88979253">Re-analysis of SARS-CoV-2 infected host cell proteomics time-course data by impact pathway analysis and network analysis. A potential link with inflammatory response.</a> (<a href="http://www.wikidata.org/entity/Q88979253">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.03.26.009605">10.1101/2020.03.26.009605</a></td>
   </tr>
 </table>
 ## Code examples

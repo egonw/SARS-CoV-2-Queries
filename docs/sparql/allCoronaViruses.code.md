@@ -42,10 +42,6 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1335626">1335626</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4950554">Bovine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4950554">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11128">11128</a></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q5032409">Canine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q5032409">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11153">11153</a></td>
   </tr>
@@ -102,6 +98,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16984813">London1 novel CoV/2012</a> (<a href="http://www.wikidata.org/entity/Q16984813">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16985780">Miniopterus Bat coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q16985780">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694000">694000</a></td>
   </tr>
@@ -120,10 +120,6 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16989092">Rhinolophus Bat coronavirus HKU2</a> (<a href="http://www.wikidata.org/entity/Q16989092">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/693998">693998</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31631">31631</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16992344">Rousettus bat coronavirus HKU9</a> (<a href="http://www.wikidata.org/entity/Q16992344">edit</a>)</td>

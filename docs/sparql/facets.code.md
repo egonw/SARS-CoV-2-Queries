@@ -32,7 +32,10 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q84897850">timeline of the 2019–20 coronavirus pandemic in November 2019 - January 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85173778">Misinformation related to the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85173778">Misinformation related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85173855">2019–20 coronavirus outbreak data tables</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85853067">list of medical professionals who died during the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q85853067">edit</a>)</td>
@@ -81,9 +84,6 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87898060">Impact of the 2019–20 coronavirus pandemic on religion</a> (<a href="http://www.wikidata.org/entity/Q87898060">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87985395">COVID-19 pandemic/statistic</a> (<a href="http://www.wikidata.org/entity/Q87985395">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88027839">list of deaths from the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88027839">edit</a>)</td>
@@ -147,6 +147,12 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89487202">responses to the 2019–20 coronavirus pandemic in March 2020</a> (<a href="http://www.wikidata.org/entity/Q89487202">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89666473">Gendered impact of 2019-20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89666473">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89864650">Impact of the 2019–20 coronavirus pandemic on prisons</a> (<a href="http://www.wikidata.org/entity/Q89864650">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

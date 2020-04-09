@@ -1,6 +1,9 @@
 SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?identifier WHERE {
+  VALUES ?topic {
+    wd:Q84263196 wd:Q82069695
+  }
   ?trial wdt:P31 wd:Q30612 ;
-         wdt:P921 wd:Q84263196 ;
+         wdt:P921 ?topic ;
          wdt:P6099 ?phase ;
          wdt:P3098 ?identifier .
   OPTIONAL {

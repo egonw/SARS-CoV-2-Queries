@@ -25,8 +25,22 @@ literature for reading, not to draw conclusions from:
 
 ## Drug repurposing
 
-...
+The Section <xref>trials</xref> already listed an overview of clinical trials.
+It gives an idea of what symptoms people are worried about. It also gives
+insight in what <topic>drugs</topic> are studied for <topic>repurposing</topic>.
+Some of these have received a lot of attention, others less so.
 
+The following query lists the number of clinical trials by <topic>intervention</topic>:
+
+<sparql>clinicalTrialsByIntervention</sparql>
+
+This gives:
+
+<out>clinicalTrialsByIntervention</out>
+
+Importantly, this list only gives an idea of what intervention have received more
+attention than others. And is it essential to realize that attenion is not a measure
+of success.
 
 ## References
 

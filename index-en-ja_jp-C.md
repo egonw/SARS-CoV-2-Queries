@@ -11,7 +11,7 @@
 ## 目次
 
 1. [導入](intro.md)<br />
-1.1.[トピックに注釈をつける](intro.md#adding-missing-topic-annotation)<br />
+1.1.[トピックに新規の注釈をつける](intro.md#adding-missing-topic-annotation)<br />
 1.2.[他の注釈](intro.md#other-annotation)<br />
 1.3.[Wikidataのコンテンツモデルを作る](intro.md#modelling-the-content-in-wikidata)<br />
 2. [ウイルス](viruses.md)<br />
@@ -23,7 +23,7 @@
 2.5.1.[ウイルスを比較する](viruses.md#comparing-viruses)<br />
 2.6.[NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids)<br />
 3. [COVID-19](covid.md)<br />
-3.1.症状<br />
+3.1.[症状](covid.md#symptoms)<br />
 3.2.[臨床試験](covid.md#clinical-trials)<br />
 4. [パンデミック](pandemic.md)<br />
 4.1.[ウイルスの<topic>感染</topic>](pandemic.md#virus-<topic>transmission</topic>)<br />
@@ -52,7 +52,7 @@
 7. [解決に向けて](solution.md)<br />
 7.1.[抗体](solution.md#antibodies)<br />
 7.2.[薬の再利用](solution.md#drug-repurposing)<br />
-8. 文献<br />
+8. [文献](literature.md)<br />
 8.1. [SARS-CoV-2について](literature.md#about-sars-cov-2)<br />
 8.1.1. [SARS-CoV-2遺伝子について](literature.md#about-sars-cov-2-genes)<br />
 8.1.2. [SARS-CoV-2タンパク質について](literature.md#about-sars-cov-2-proteins)<br />

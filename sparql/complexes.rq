@@ -1,0 +1,5 @@
+SELECT ?cpx ?complex ?complexLabel WHERE {
+  ?complex wdt:P7718 ?cpx ;
+           wdt:P703 wd:Q82069695
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

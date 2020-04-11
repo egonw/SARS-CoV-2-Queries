@@ -34,6 +34,19 @@ Which gives us these proteins:
 
 <out>virusProteins</out>
 
+### Protein complexes
+
+Thanks to work done by a team at the online
+[BioHackathon in April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
+macromolecular structures from the [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<cite>Q57793775</cite>]
+have been entering Wikidata:
+
+<sparql>complexes</sparql>
+
+Listing these complexes:
+
+<out>complexes</out>
+
 #### PDB structures
 
 For the proteins, we can then query for the <topic>PDB structures</topic> [<cite>Q30491855</cite>]:

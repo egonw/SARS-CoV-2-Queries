@@ -3783,13 +3783,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2020-03-04T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87143040">COVID-19: What Can We Learn From Stories From the Trenches?</a> (<a href="http://www.wikidata.org/entity/Q87143040">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>32129672</td>
-  </tr>
-  <tr>
-    <td>2020-03-04T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461284">Insights into the Recent 2019 Novel Coronavirus (SARS-CoV-2) in Light of Past Human Coronavirus Outbreaks</a> (<a href="http://www.wikidata.org/entity/Q87461284">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td></td>
@@ -3800,7 +3793,7 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q87143042">Genomic diversity of SARS-CoV-2 in Coronavirus Disease 2019 patients</a> (<a href="http://www.wikidata.org/entity/Q87143042">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/CID/CIAA203">10.1093/CID/CIAA203</a></td>
-    <td></td>
+    <td>32129843</td>
   </tr>
   <tr>
     <td>2020-03-04T00:00:00Z</td>
@@ -3881,6 +3874,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2020-03-04T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87143040">COVID-19: What Can We Learn From Stories From the Trenches?</a> (<a href="http://www.wikidata.org/entity/Q87143040">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1177/0846537120913497">10.1177/0846537120913497</a></td>
+    <td>32129672</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87995012">Crystal Structure of ADP ribose phosphatase of NSP3 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995012">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2210/PDB6VXS/PDB">10.2210/PDB6VXS/PDB</a></td>
@@ -3905,7 +3905,7 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q88308000">Déjà Vu or Jamais Vu? How the Severe Acute Respiratory Syndrome Experience Influenced a Singapore Radiology Department's Response to the Coronavirus Disease (COVID-19) Epidemic</a> (<a href="http://www.wikidata.org/entity/Q88308000">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2214/AJR.20.22927">10.2214/AJR.20.22927</a></td>
-    <td></td>
+    <td>32130047</td>
   </tr>
   <tr>
     <td>2020-03-03T00:00:00Z</td>
@@ -4203,24 +4203,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2020-03-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461312">Coronavirus disinfection in histopathology</a> (<a href="http://www.wikidata.org/entity/Q87461312">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>32116147</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461314">Coronavirus disease (COVID-19) and neonate: What neonatologist need to know</a> (<a href="http://www.wikidata.org/entity/Q87461314">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td></td>
     <td>32115733</td>
-  </tr>
-  <tr>
-    <td>2020-03-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461317">[Pregnant Women With New Coronavirus Infection: A Clinical Characteristics and Placental Pathological Analysis of Three Cases]</a> (<a href="http://www.wikidata.org/entity/Q87461317">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>32114744</td>
   </tr>
   <tr>
     <td>2020-03-01T00:00:00Z</td>
@@ -4245,6 +4231,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2020-03-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461312">Coronavirus disinfection in histopathology</a> (<a href="http://www.wikidata.org/entity/Q87461312">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/01478885.2020.1734718">10.1080/01478885.2020.1734718</a></td>
+    <td>32116147</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461590">Three Emerging Coronaviruses in Two Decades</a> (<a href="http://www.wikidata.org/entity/Q87461590">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/AJCP/AQAA029">10.1093/AJCP/AQAA029</a></td>
@@ -4258,11 +4251,11 @@ ORDER BY DESC(?date) ?doi
     <td></td>
   </tr>
   <tr>
-    <td>2020-02-29T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461321">[Medical Diagnosis and Treatment Strategies for Malignant Tumors of the Digestive System During the Outbreak of Novel Coronavirus Pneumonia]</a> (<a href="http://www.wikidata.org/entity/Q87461321">edit</a>)</td>
+    <td>2020-03-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461317">[Pregnant Women With New Coronavirus Infection: A Clinical Characteristics and Placental Pathological Analysis of Three Cases]</a> (<a href="http://www.wikidata.org/entity/Q87461317">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>32112549</td>
+    <td><a href="https://doi.org/10.3760/CMA.J.CN112151-20200225-00138">10.3760/CMA.J.CN112151-20200225-00138</a></td>
+    <td>32114744</td>
   </tr>
   <tr>
     <td>2020-02-29T00:00:00Z</td>
@@ -4377,6 +4370,13 @@ ORDER BY DESC(?date) ?doi
     <td></td>
   </tr>
   <tr>
+    <td>2020-02-29T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461321">[Medical Diagnosis and Treatment Strategies for Malignant Tumors of the Digestive System During the Outbreak of Novel Coronavirus Pneumonia]</a> (<a href="http://www.wikidata.org/entity/Q87461321">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3760/CMA.J.CN112152-20200227-00141">10.3760/CMA.J.CN112152-20200227-00141</a></td>
+    <td>32112549</td>
+  </tr>
+  <tr>
     <td>2020-02-28T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461286">Rapid random access detection of the novel SARS-coronavirus-2 (SARS-CoV-2, previously 2019-nCoV) using an open access protocol for the Panther Fusion</a> (<a href="http://www.wikidata.org/entity/Q87461286">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -4387,14 +4387,21 @@ ORDER BY DESC(?date) ?doi
     <td>2020-02-28T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461324">Management strategies of neonatal jaundice during the coronavirus disease 2019 outbreak</a> (<a href="http://www.wikidata.org/entity/Q87461324">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
+    <td><a href="https://doi.org/10.1007/S12519-020-00347-3">10.1007/S12519-020-00347-3</a></td>
     <td>32112336</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87191021">Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts</a> (<a href="http://www.wikidata.org/entity/Q87191021">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S2214-109X(20)30074-7">10.1016/S2214-109X(20)30074-7</a></td>
+    <td>32119825</td>
   </tr>
   <tr>
     <td>2020-02-28T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461326">A Well Infant with Coronavirus Disease 2019 (COVID-19) with High Viral Load</a> (<a href="http://www.wikidata.org/entity/Q87461326">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
+    <td><a href="https://doi.org/10.1093/CID/CIAA201">10.1093/CID/CIAA201</a></td>
     <td>32112082</td>
   </tr>
   <tr>
@@ -4461,11 +4468,18 @@ ORDER BY DESC(?date) ?doi
     <td>32106852</td>
   </tr>
   <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86372902">Update: Public Health Response to the Coronavirus Disease 2019 Outbreak — United States, February 24, 2020</a> (<a href="http://www.wikidata.org/entity/Q86372902">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.15585/MMWR.MM6908E1">10.15585/MMWR.MM6908E1</a></td>
+    <td>32106216</td>
+  </tr>
+  <tr>
     <td>2020-02-27T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87716536">The neuroinvasive potential of SARS‐CoV2 may be at least partially responsible for the respiratory failure of COVID‐19 patients</a> (<a href="http://www.wikidata.org/entity/Q87716536">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.25728">10.1002/JMV.25728</a></td>
-    <td></td>
+    <td>32104915</td>
   </tr>
   <tr>
     <td>2020-02-27T00:00:00Z</td>
@@ -4647,7 +4661,7 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q87946971">Outbreak of Novel Coronavirus (SARS-Cov-2): First Evidences From International Scientific Literature and Pending Questions</a> (<a href="http://www.wikidata.org/entity/Q87946971">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/HEALTHCARE8010051">10.3390/HEALTHCARE8010051</a></td>
-    <td></td>
+    <td>32120965</td>
   </tr>
   <tr>
     <td>2020-02-26T00:00:00Z</td>
@@ -4826,13 +4840,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2020-02-25T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461363">Preliminary Identification of Potential Vaccine Targets for the COVID-19 Coronavirus (SARS-CoV-2) Based on SARS-CoV Immunological Studies</a> (<a href="http://www.wikidata.org/entity/Q87461363">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>32106567</td>
-  </tr>
-  <tr>
-    <td>2020-02-25T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88974640">Rapid Detection of Novel Coronavirus (COVID-19) by Reverse Transcription-Loop-Mediated Isothermal Amplification</a> (<a href="http://www.wikidata.org/entity/Q88974640">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.02.19.20025155">10.1101/2020.02.19.20025155</a></td>
@@ -4882,10 +4889,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2020-02-25T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86372902">Update: Public Health Response to the Coronavirus Disease 2019 Outbreak — United States, February 24, 2020</a> (<a href="http://www.wikidata.org/entity/Q86372902">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461363">Preliminary Identification of Potential Vaccine Targets for the COVID-19 Coronavirus (SARS-CoV-2) Based on SARS-CoV Immunological Studies</a> (<a href="http://www.wikidata.org/entity/Q87461363">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.15585/MMWR.MM6908E1">10.15585/MMWR.MM6908E1</a></td>
-    <td></td>
+    <td><a href="https://doi.org/10.3390/V12030254">10.3390/V12030254</a></td>
+    <td>32106567</td>
   </tr>
   <tr>
     <td>2020-02-25T00:00:00Z</td>
@@ -4900,6 +4907,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.25708">10.1002/JMV.25708</a></td>
     <td>32056235</td>
+  </tr>
+  <tr>
+    <td>2020-02-24T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87843131">Viral load of SARS-CoV-2 in clinical samples</a> (<a href="http://www.wikidata.org/entity/Q87843131">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S1473-3099(20)30113-4">10.1016/S1473-3099(20)30113-4</a></td>
+    <td>32105638</td>
   </tr>
   <tr>
     <td>2020-02-24T00:00:00Z</td>
@@ -5458,7 +5472,7 @@ ORDER BY DESC(?date) ?doi
     <td>2020-02-19T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461341">2019 novel coronavirus disease (COVID-19) in Taiwan: Reports of two cases from Wuhan, China</a> (<a href="http://www.wikidata.org/entity/Q87461341">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
+    <td><a href="https://doi.org/10.1016/J.JMII.2020.02.009">10.1016/J.JMII.2020.02.009</a></td>
     <td>32111449</td>
   </tr>
   <tr>
@@ -6573,20 +6587,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/S0140-6736(20)30317-2">10.1016/S0140-6736(20)30317-2</a></td>
     <td>32043983</td>
-  </tr>
-  <tr>
-    <td>2020-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87843131">Viral load of SARS-CoV-2 in clinical samples</a> (<a href="http://www.wikidata.org/entity/Q87843131">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/S1473-3099(20)30113-4">10.1016/S1473-3099(20)30113-4</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2020-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87191021">Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts</a> (<a href="http://www.wikidata.org/entity/Q87191021">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/S2214-109X(20)30074-7">10.1016/S2214-109X(20)30074-7</a></td>
-    <td></td>
   </tr>
   <tr>
     <td>2020-02-01T00:00:00Z</td>
@@ -8990,6 +8990,13 @@ ORDER BY DESC(?date) ?doi
     <td>28133694</td>
   </tr>
   <tr>
+    <td>2017-02-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40359845">Middle east respiratory syndrome corona virus spike glycoprotein suppresses macrophage responses via DPP4-mediated induction of IRAK-M and PPARγ.</a> (<a href="http://www.wikidata.org/entity/Q40359845">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://doi.org/10.18632/ONCOTARGET.14754">10.18632/ONCOTARGET.14754</a></td>
+    <td>28118607</td>
+  </tr>
+  <tr>
     <td>2017-01-25T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39102732">Progress of Middle East respiratory syndrome coronavirus vaccines: a patent review.</a> (<a href="http://www.wikidata.org/entity/Q39102732">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -9002,13 +9009,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/1753-6405.12637">10.1111/1753-6405.12637</a></td>
     <td>28110493</td>
-  </tr>
-  <tr>
-    <td>2017-01-19T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40359845">Middle east respiratory syndrome corona virus spike glycoprotein suppresses macrophage responses via DPP4-mediated induction of IRAK-M and PPARγ.</a> (<a href="http://www.wikidata.org/entity/Q40359845">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://doi.org/10.18632/ONCOTARGET.14754">10.18632/ONCOTARGET.14754</a></td>
-    <td>28118607</td>
   </tr>
   <tr>
     <td>2017-01-12T00:00:00Z</td>
@@ -9516,17 +9516,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2016-10-02T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q38813876">Middle East respiratory syndrome coronavirus: current knowledge and future considerations.</a> (<a href="http://www.wikidata.org/entity/Q38813876">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>27714748</td>
-  </tr>
-  <tr>
-    <td>2016-10-02T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40514210">An outbreak of Middle East Respiratory Syndrome (MERS) due to coronavirus in Al-Ahssa Region, Saudi Arabia, 2015.</a> (<a href="http://www.wikidata.org/entity/Q40514210">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>27714741</td>
+  </tr>
+  <tr>
+    <td>2016-10-02T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q38813876">Middle East respiratory syndrome coronavirus: current knowledge and future considerations.</a> (<a href="http://www.wikidata.org/entity/Q38813876">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>27714748</td>
   </tr>
   <tr>
     <td>2016-10-01T00:00:00Z</td>
@@ -10146,17 +10146,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2016-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50792844">Modulation of cell signalling by human coronavirus HKU1 S and M proteins.</a> (<a href="http://www.wikidata.org/entity/Q50792844">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td></td>
-    <td>27390006</td>
-  </tr>
-  <tr>
-    <td>2016-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40621400">Antibody-dependent enhancement of SARS coronavirus infection and its role in the pathogenesis of SARS.</a> (<a href="http://www.wikidata.org/entity/Q40621400">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>27390007</td>
+  </tr>
+  <tr>
+    <td>2016-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50792844">Modulation of cell signalling by human coronavirus HKU1 S and M proteins.</a> (<a href="http://www.wikidata.org/entity/Q50792844">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
+    <td></td>
+    <td>27390006</td>
   </tr>
   <tr>
     <td>2016-06-01T00:00:00Z</td>
@@ -10238,14 +10238,14 @@ ORDER BY DESC(?date) ?doi
   <tr>
     <td>2016-05-12T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40653601">Identification, synthesis and evaluation of SARS-CoV and MERS-CoV 3C-like protease inhibitors.</a> (<a href="http://www.wikidata.org/entity/Q40653601">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BMC.2016.05.013">10.1016/J.BMC.2016.05.013</a></td>
     <td>27240464</td>
   </tr>
   <tr>
     <td>2016-05-12T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40653601">Identification, synthesis and evaluation of SARS-CoV and MERS-CoV 3C-like protease inhibitors.</a> (<a href="http://www.wikidata.org/entity/Q40653601">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BMC.2016.05.013">10.1016/J.BMC.2016.05.013</a></td>
     <td>27240464</td>
   </tr>
@@ -11077,17 +11077,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2016-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40704085">[Visual Detection of Human Coronavirus NL63 by Reverse Transcription Loop-Mediated Isothermal Amplification].</a> (<a href="http://www.wikidata.org/entity/Q40704085">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td></td>
-    <td>27295884</td>
-  </tr>
-  <tr>
-    <td>2016-01-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q31111053">Using HealthMap to Analyse Middle East Respiratory Syndrome (MERS) Data.</a> (<a href="http://www.wikidata.org/entity/Q31111053">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>27350507</td>
+  </tr>
+  <tr>
+    <td>2016-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40704062">[Bioinformatics-based Design of Peptide Vaccine Candidates Targeting Spike Protein of MERS-CoV and Immunity analysis in Mice].</a> (<a href="http://www.wikidata.org/entity/Q40704062">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>27295887</td>
   </tr>
   <tr>
     <td>2016-01-01T00:00:00Z</td>
@@ -11098,10 +11098,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2016-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40704062">[Bioinformatics-based Design of Peptide Vaccine Candidates Targeting Spike Protein of MERS-CoV and Immunity analysis in Mice].</a> (<a href="http://www.wikidata.org/entity/Q40704062">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40704085">[Visual Detection of Human Coronavirus NL63 by Reverse Transcription Loop-Mediated Isothermal Amplification].</a> (<a href="http://www.wikidata.org/entity/Q40704085">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td></td>
-    <td>27295887</td>
+    <td>27295884</td>
   </tr>
   <tr>
     <td>2016-01-01T00:00:00Z</td>
@@ -12554,17 +12554,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2015-06-25T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35951658">Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015</a> (<a href="http://www.wikidata.org/entity/Q35951658">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>26132767</td>
-  </tr>
-  <tr>
-    <td>2015-06-25T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39149979">The role of superspreading in Middle East respiratory syndrome coronavirus (MERS-CoV) transmission.</a> (<a href="http://www.wikidata.org/entity/Q39149979">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>26132768</td>
+  </tr>
+  <tr>
+    <td>2015-06-25T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35951658">Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015</a> (<a href="http://www.wikidata.org/entity/Q35951658">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>26132767</td>
   </tr>
   <tr>
     <td>2015-06-25T00:00:00Z</td>
@@ -12764,13 +12764,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2015-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50991394">MERS-CoV: Where Are We Now?</a> (<a href="http://www.wikidata.org/entity/Q50991394">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>26198320</td>
-  </tr>
-  <tr>
-    <td>2015-05-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40950869">[Detection of Middle East Respiratory Syndrome Coronavirus by Reverse-transcription Loop-Mediated Isothermal Amplification].</a> (<a href="http://www.wikidata.org/entity/Q40950869">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
@@ -12782,6 +12775,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>25980038</td>
+  </tr>
+  <tr>
+    <td>2015-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50991394">MERS-CoV: Where Are We Now?</a> (<a href="http://www.wikidata.org/entity/Q50991394">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>26198320</td>
   </tr>
   <tr>
     <td>2015-05-01T00:00:00Z</td>
@@ -13387,6 +13387,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2014-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q41442592">The SARS experience.</a> (<a href="http://www.wikidata.org/entity/Q41442592">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>25751979</td>
+  </tr>
+  <tr>
+    <td>2014-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q50356948">766Clinical Features and Outcome of Patients with Middle East Respiratory Syndrome-Coronavirus (MERS-CoV) Infection.</a> (<a href="http://www.wikidata.org/entity/Q50356948">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
@@ -13398,13 +13405,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>25577812</td>
-  </tr>
-  <tr>
-    <td>2014-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q41442592">The SARS experience.</a> (<a href="http://www.wikidata.org/entity/Q41442592">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>25751979</td>
   </tr>
   <tr>
     <td>2014-12-01T00:00:00Z</td>
@@ -13786,17 +13786,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2014-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q41490255">[Detection of human coronavirus OC43 in children with acute respiratory infections in Mie, Japan].</a> (<a href="http://www.wikidata.org/entity/Q41490255">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td></td>
-    <td>25672143</td>
-  </tr>
-  <tr>
-    <td>2014-09-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q43105647">MERS-CoV, surgical mask and N95 respirators.</a> (<a href="http://www.wikidata.org/entity/Q43105647">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>25273939</td>
+  </tr>
+  <tr>
+    <td>2014-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q41490255">[Detection of human coronavirus OC43 in children with acute respiratory infections in Mie, Japan].</a> (<a href="http://www.wikidata.org/entity/Q41490255">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td></td>
+    <td>25672143</td>
   </tr>
   <tr>
     <td>2014-09-01T00:00:00Z</td>
@@ -13919,17 +13919,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2014-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51054972">Infection prevention and control guidelines for patients with Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infection.</a> (<a href="http://www.wikidata.org/entity/Q51054972">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>25129197</td>
-  </tr>
-  <tr>
-    <td>2014-08-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42187771">Substrate specificity and rational design of peptidomimetic inhibitors for SARS coronavirus main protease.</a> (<a href="http://www.wikidata.org/entity/Q42187771">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>25224113</td>
+  </tr>
+  <tr>
+    <td>2014-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51054972">Infection prevention and control guidelines for patients with Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infection.</a> (<a href="http://www.wikidata.org/entity/Q51054972">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>25129197</td>
   </tr>
   <tr>
     <td>2014-08-01T00:00:00Z</td>
@@ -14115,6 +14115,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2014-06-12T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q39171246">Assessment of the Middle East respiratory syndrome coronavirus (MERS-CoV) epidemic in the Middle East and risk of international spread using a novel maximum likelihood analysis approach.</a> (<a href="http://www.wikidata.org/entity/Q39171246">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>24957746</td>
+  </tr>
+  <tr>
+    <td>2014-06-12T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42210505">Middle East respiratory syndrome coronavirus (MERS-CoV) RNA and neutralising antibodies in milk collected according to local customs from dromedary camels, Qatar, April 2014.</a> (<a href="http://www.wikidata.org/entity/Q42210505">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
@@ -14126,13 +14133,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>24957744</td>
-  </tr>
-  <tr>
-    <td>2014-06-12T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q39171246">Assessment of the Middle East respiratory syndrome coronavirus (MERS-CoV) epidemic in the Middle East and risk of international spread using a novel maximum likelihood analysis approach.</a> (<a href="http://www.wikidata.org/entity/Q39171246">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>24957746</td>
   </tr>
   <tr>
     <td>2014-06-11T00:00:00Z</td>
@@ -14822,13 +14822,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2014-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51035194">Invited Editorial: MERS-CoV An Emerging Viral Zoonotic Disease: Three Years After and Counting.</a> (<a href="http://www.wikidata.org/entity/Q51035194">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>25851253</td>
-  </tr>
-  <tr>
-    <td>2014-01-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q41728726">[Middle-East respiratory syndrome].</a> (<a href="http://www.wikidata.org/entity/Q41728726">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
@@ -14847,6 +14840,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>24985597</td>
+  </tr>
+  <tr>
+    <td>2014-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51035194">Invited Editorial: MERS-CoV An Emerging Viral Zoonotic Disease: Three Years After and Counting.</a> (<a href="http://www.wikidata.org/entity/Q51035194">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>25851253</td>
   </tr>
   <tr>
     <td>2014-01-01T00:00:00Z</td>
@@ -15460,14 +15460,14 @@ ORDER BY DESC(?date) ?doi
   <tr>
     <td>2013-08-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q38133082">Therapeutic options for Middle East respiratory syndrome coronavirus (MERS-CoV)--possible lessons from a systematic review of SARS-CoV therapy.</a> (<a href="http://www.wikidata.org/entity/Q38133082">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.IJID.2013.07.002">10.1016/J.IJID.2013.07.002</a></td>
     <td>23993766</td>
   </tr>
   <tr>
     <td>2013-08-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q38133082">Therapeutic options for Middle East respiratory syndrome coronavirus (MERS-CoV)--possible lessons from a systematic review of SARS-CoV therapy.</a> (<a href="http://www.wikidata.org/entity/Q38133082">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.IJID.2013.07.002">10.1016/J.IJID.2013.07.002</a></td>
     <td>23993766</td>
   </tr>
@@ -15879,24 +15879,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2013-06-13T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q34653451">Transmission scenarios for Middle East Respiratory Syndrome Coronavirus (MERS-CoV) and how to tell them apart.</a> (<a href="http://www.wikidata.org/entity/Q34653451">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td></td>
-    <td>23787162</td>
-  </tr>
-  <tr>
-    <td>2013-06-13T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42258061">First cases of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infections in France, investigations and implications for the prevention of human-to-human transmission, France, May 2013.</a> (<a href="http://www.wikidata.org/entity/Q42258061">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>23787161</td>
   </tr>
   <tr>
-    <td>2013-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50547912">[Emergency treatment for Middle Eastern coronaviruses (MERS-CoV].</a> (<a href="http://www.wikidata.org/entity/Q50547912">edit</a>)</td>
+    <td>2013-06-13T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q34653451">Transmission scenarios for Middle East Respiratory Syndrome Coronavirus (MERS-CoV) and how to tell them apart.</a> (<a href="http://www.wikidata.org/entity/Q34653451">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
-    <td>23882919</td>
+    <td>23787162</td>
   </tr>
   <tr>
     <td>2013-06-01T00:00:00Z</td>
@@ -15904,6 +15897,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td></td>
     <td>23760190</td>
+  </tr>
+  <tr>
+    <td>2013-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50547912">[Emergency treatment for Middle Eastern coronaviruses (MERS-CoV].</a> (<a href="http://www.wikidata.org/entity/Q50547912">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td></td>
+    <td>23882919</td>
   </tr>
   <tr>
     <td>2013-06-01T00:00:00Z</td>
@@ -16432,17 +16432,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2012-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q34415534">Potential cross-reactivity of severe acute respiratory syndrome-associated coronavirus (SARS-CoV) nucleocapsid (N)-based IgG ELISA assay for plasma samples from HIV-1 positive intravenous drug users (IDUs).</a> (<a href="http://www.wikidata.org/entity/Q34415534">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>22983073</td>
-  </tr>
-  <tr>
-    <td>2012-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30422429">[Public health management of influenza and SARS in industrialized countries: strengths, weaknesses and future prospects as evaluated through Health Impact Assessment].</a> (<a href="http://www.wikidata.org/entity/Q30422429">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>23073374</td>
+  </tr>
+  <tr>
+    <td>2012-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q34415534">Potential cross-reactivity of severe acute respiratory syndrome-associated coronavirus (SARS-CoV) nucleocapsid (N)-based IgG ELISA assay for plasma samples from HIV-1 positive intravenous drug users (IDUs).</a> (<a href="http://www.wikidata.org/entity/Q34415534">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>22983073</td>
   </tr>
   <tr>
     <td>2012-06-20T00:00:00Z</td>
@@ -16545,14 +16545,14 @@ ORDER BY DESC(?date) ?doi
   <tr>
     <td>2012-02-10T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q50502190">Replication of human coronaviruses SARS-CoV, HCoV-NL63 and HCoV-229E is inhibited by the drug FK506.</a> (<a href="http://www.wikidata.org/entity/Q50502190">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.VIRUSRES.2012.02.002">10.1016/J.VIRUSRES.2012.02.002</a></td>
     <td>22349148</td>
   </tr>
   <tr>
     <td>2012-02-10T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q50502190">Replication of human coronaviruses SARS-CoV, HCoV-NL63 and HCoV-229E is inhibited by the drug FK506.</a> (<a href="http://www.wikidata.org/entity/Q50502190">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.VIRUSRES.2012.02.002">10.1016/J.VIRUSRES.2012.02.002</a></td>
     <td>22349148</td>
   </tr>
@@ -16579,17 +16579,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2012-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54324462">Human coronavirus NL63 in children: epidemiology, disease spectrum, and genetic diversity.</a> (<a href="http://www.wikidata.org/entity/Q54324462">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td></td>
-    <td>22311358</td>
-  </tr>
-  <tr>
-    <td>2012-02-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39397412">SARS CoV subunit vaccine: antibody-mediated neutralisation and enhancement.</a> (<a href="http://www.wikidata.org/entity/Q39397412">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>22311359</td>
+  </tr>
+  <tr>
+    <td>2012-02-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54324462">Human coronavirus NL63 in children: epidemiology, disease spectrum, and genetic diversity.</a> (<a href="http://www.wikidata.org/entity/Q54324462">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
+    <td></td>
+    <td>22311358</td>
   </tr>
   <tr>
     <td>2012-02-01T00:00:00Z</td>
@@ -16698,17 +16698,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2011-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43230545">Animal reservoirs for SARS-like coronavirus in southern China.</a> (<a href="http://www.wikidata.org/entity/Q43230545">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>22147358</td>
-  </tr>
-  <tr>
-    <td>2011-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q53735524">Pathogenesis of SARS coronavirus infection using human lung epithelial cells: an in vitro model.</a> (<a href="http://www.wikidata.org/entity/Q53735524">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>22147357</td>
+  </tr>
+  <tr>
+    <td>2011-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43230545">Animal reservoirs for SARS-like coronavirus in southern China.</a> (<a href="http://www.wikidata.org/entity/Q43230545">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>22147358</td>
   </tr>
   <tr>
     <td>2011-12-01T00:00:00Z</td>
@@ -17804,6 +17804,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2009-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45074574">Community psycho-behavioural surveillance and related impact on outbreak control in Hong Kong and Singapore during the SARS epidemic.</a> (<a href="http://www.wikidata.org/entity/Q45074574">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>20393223</td>
+  </tr>
+  <tr>
+    <td>2009-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q33555832">Proteomic profiling in SARS: diagnostic and prognostic applications.</a> (<a href="http://www.wikidata.org/entity/Q33555832">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -17826,27 +17833,6 @@ ORDER BY DESC(?date) ?doi
   <tr>
     <td>2009-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39711479">Comparative host gene transcription by microarray analysis early after infection of the Huh7 cell line by SARS coronavirus and human coronavirus 229E.</a> (<a href="http://www.wikidata.org/entity/Q39711479">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td></td>
-    <td>20393221</td>
-  </tr>
-  <tr>
-    <td>2009-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45074574">Community psycho-behavioural surveillance and related impact on outbreak control in Hong Kong and Singapore during the SARS epidemic.</a> (<a href="http://www.wikidata.org/entity/Q45074574">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>20393223</td>
-  </tr>
-  <tr>
-    <td>2009-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50555598">Functional roles of 3a protein in the pathogenesis of SARS.</a> (<a href="http://www.wikidata.org/entity/Q50555598">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>20393207</td>
-  </tr>
-  <tr>
-    <td>2009-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q39711479">Comparative host gene transcription by microarray analysis early after infection of the Huh7 cell line by SARS coronavirus and human coronavirus 229E.</a> (<a href="http://www.wikidata.org/entity/Q39711479">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>20393221</td>
@@ -17864,6 +17850,20 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>20393208</td>
+  </tr>
+  <tr>
+    <td>2009-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50555598">Functional roles of 3a protein in the pathogenesis of SARS.</a> (<a href="http://www.wikidata.org/entity/Q50555598">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>20393207</td>
+  </tr>
+  <tr>
+    <td>2009-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q39711479">Comparative host gene transcription by microarray analysis early after infection of the Huh7 cell line by SARS coronavirus and human coronavirus 229E.</a> (<a href="http://www.wikidata.org/entity/Q39711479">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td></td>
+    <td>20393221</td>
   </tr>
   <tr>
     <td>2009-12-01T00:00:00Z</td>
@@ -18000,17 +18000,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2009-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40361476">[Characterization of human coronavirus 229E infection among patients with respiratory symptom in Beijing, Oct-Dec, 2007].</a> (<a href="http://www.wikidata.org/entity/Q40361476">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td></td>
-    <td>20387489</td>
-  </tr>
-  <tr>
-    <td>2009-10-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39775777">Identification of human cell line model of persistent SARS coronavirus infection and studies of the response to cytokines and chemokines.</a> (<a href="http://www.wikidata.org/entity/Q39775777">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>19801717</td>
+  </tr>
+  <tr>
+    <td>2009-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40361476">[Characterization of human coronavirus 229E infection among patients with respiratory symptom in Beijing, Oct-Dec, 2007].</a> (<a href="http://www.wikidata.org/entity/Q40361476">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td></td>
+    <td>20387489</td>
   </tr>
   <tr>
     <td>2009-10-01T00:00:00Z</td>
@@ -19022,13 +19022,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2008-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54503830">Expression and functional characterisation of the putative SARS coronavirus non-structural proteins X1-X5.</a> (<a href="http://www.wikidata.org/entity/Q54503830">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>18708666</td>
-  </tr>
-  <tr>
-    <td>2008-08-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44599541">SARS coronavirus and apoptosis.</a> (<a href="http://www.wikidata.org/entity/Q44599541">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -19036,10 +19029,24 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2008-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54503830">Expression and functional characterisation of the putative SARS coronavirus non-structural proteins X1-X5.</a> (<a href="http://www.wikidata.org/entity/Q54503830">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>18708666</td>
+  </tr>
+  <tr>
+    <td>2008-08-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30371710">Preparing for the next flu pandemic: from SARS to avian flu.</a> (<a href="http://www.wikidata.org/entity/Q30371710">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>18756339</td>
+  </tr>
+  <tr>
+    <td>2008-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45392021">Investigation of immunogenic T-cell epitopes in SARS virus nucleocapsid protein and their role in the prevention and treatment of SARS infection.</a> (<a href="http://www.wikidata.org/entity/Q45392021">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>18708671</td>
   </tr>
   <tr>
     <td>2008-08-01T00:00:00Z</td>
@@ -19054,13 +19061,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>18708675</td>
-  </tr>
-  <tr>
-    <td>2008-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45392021">Investigation of immunogenic T-cell epitopes in SARS virus nucleocapsid protein and their role in the prevention and treatment of SARS infection.</a> (<a href="http://www.wikidata.org/entity/Q45392021">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>18708671</td>
   </tr>
   <tr>
     <td>2008-08-01T00:00:00Z</td>
@@ -19603,17 +19603,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2008-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40418099">[SARS-CoV infection and pregnancy].</a> (<a href="http://www.wikidata.org/entity/Q40418099">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>18510050</td>
-  </tr>
-  <tr>
-    <td>2008-01-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q47718573">Combination of functionalized nanoparticles and polymerase chain reaction-based method for SARS-CoV gene detection.</a> (<a href="http://www.wikidata.org/entity/Q47718573">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>18468073</td>
+  </tr>
+  <tr>
+    <td>2008-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40418099">[SARS-CoV infection and pregnancy].</a> (<a href="http://www.wikidata.org/entity/Q40418099">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>18510050</td>
   </tr>
   <tr>
     <td>2008-01-01T00:00:00Z</td>
@@ -19792,17 +19792,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2007-11-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50653310">[Development and application of a safe SARS-CoV neutralization assay based on lentiviral vectors pseudotyped with SARS-CoV spike protein].</a> (<a href="http://www.wikidata.org/entity/Q50653310">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>18092680</td>
-  </tr>
-  <tr>
-    <td>2007-11-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q45782535">SARS in context. Memory, history, policy.</a> (<a href="http://www.wikidata.org/entity/Q45782535">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2007-11-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50653310">[Development and application of a safe SARS-CoV neutralization assay based on lentiviral vectors pseudotyped with SARS-CoV spike protein].</a> (<a href="http://www.wikidata.org/entity/Q50653310">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>18092680</td>
   </tr>
   <tr>
     <td>2007-11-01T00:00:00Z</td>
@@ -20079,13 +20079,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2007-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44181195">[Sequence analysis for genes encoding nucleoprotein and envelope protein of a new human coronavirus NL63 identified from a pediatric patient in Beijing by bioinformatics].</a> (<a href="http://www.wikidata.org/entity/Q44181195">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td></td>
-    <td>17894224</td>
-  </tr>
-  <tr>
-    <td>2007-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q46272049">Book Review: Twenty-first century plague: the story of SARS.</a> (<a href="http://www.wikidata.org/entity/Q46272049">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -20097,6 +20090,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2007-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44181195">[Sequence analysis for genes encoding nucleoprotein and envelope protein of a new human coronavirus NL63 identified from a pediatric patient in Beijing by bioinformatics].</a> (<a href="http://www.wikidata.org/entity/Q44181195">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
+    <td></td>
+    <td>17894224</td>
   </tr>
   <tr>
     <td>2007-06-27T00:00:00Z</td>
@@ -21486,17 +21486,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2006-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40292359">Waste water disinfection during SARS epidemic for microbiological and toxicological control.</a> (<a href="http://www.wikidata.org/entity/Q40292359">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16944772</td>
-  </tr>
-  <tr>
-    <td>2006-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q50106561">Diverse implications of a national health crisis: A qualitative exploration of community nurses' SARS experiences.</a> (<a href="http://www.wikidata.org/entity/Q50106561">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>16871849</td>
+  </tr>
+  <tr>
+    <td>2006-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40292359">Waste water disinfection during SARS epidemic for microbiological and toxicological control.</a> (<a href="http://www.wikidata.org/entity/Q40292359">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16944772</td>
   </tr>
   <tr>
     <td>2006-06-01T00:00:00Z</td>
@@ -21612,17 +21612,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2006-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43334553">Environmental transmission of SARS at Amoy Gardens.</a> (<a href="http://www.wikidata.org/entity/Q43334553">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16696450</td>
-  </tr>
-  <tr>
-    <td>2006-05-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30230510">SARS: how to manage future outbreaks?</a> (<a href="http://www.wikidata.org/entity/Q30230510">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>16830006</td>
+  </tr>
+  <tr>
+    <td>2006-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43334553">Environmental transmission of SARS at Amoy Gardens.</a> (<a href="http://www.wikidata.org/entity/Q43334553">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16696450</td>
   </tr>
   <tr>
     <td>2006-05-01T00:00:00Z</td>
@@ -21637,13 +21637,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>16830001</td>
-  </tr>
-  <tr>
-    <td>2006-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q30355409">SARS plague: duty of care or medical heroism?</a> (<a href="http://www.wikidata.org/entity/Q30355409">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16830007</td>
   </tr>
   <tr>
     <td>2006-05-01T00:00:00Z</td>
@@ -21672,6 +21665,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>16830005</td>
+  </tr>
+  <tr>
+    <td>2006-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q30355409">SARS plague: duty of care or medical heroism?</a> (<a href="http://www.wikidata.org/entity/Q30355409">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16830007</td>
   </tr>
   <tr>
     <td>2006-05-01T00:00:00Z</td>
@@ -21815,17 +21815,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2006-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40478772">Modelling the utility of body temperature readings from primary care consults for SARS surveillance in an army medical centre.</a> (<a href="http://www.wikidata.org/entity/Q40478772">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16710493</td>
-  </tr>
-  <tr>
-    <td>2006-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q45814014">Twenty-first century plague The story of SARS.</a> (<a href="http://www.wikidata.org/entity/Q45814014">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2006-04-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40478772">Modelling the utility of body temperature readings from primary care consults for SARS surveillance in an army medical centre.</a> (<a href="http://www.wikidata.org/entity/Q40478772">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16710493</td>
   </tr>
   <tr>
     <td>2006-04-01T00:00:00Z</td>
@@ -22277,6 +22277,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2006-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q36728250">Pathogenesis of avian flu H5N1 and SARS.</a> (<a href="http://www.wikidata.org/entity/Q36728250">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>17278385</td>
+  </tr>
+  <tr>
+    <td>2006-01-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30354276">A pandemic flu: not if, but when. SARS was the wake-up call we slept through.</a> (<a href="http://www.wikidata.org/entity/Q30354276">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -22291,10 +22298,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2006-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q36728250">Pathogenesis of avian flu H5N1 and SARS.</a> (<a href="http://www.wikidata.org/entity/Q36728250">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42690506">SARS Grid--an AG-based disease management and collaborative platform.</a> (<a href="http://www.wikidata.org/entity/Q42690506">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>17278385</td>
+    <td>16823140</td>
+  </tr>
+  <tr>
+    <td>2006-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42482765">"Will the SARS epidemic recur?" A retrospective analysis of the experts' opinions.</a> (<a href="http://www.wikidata.org/entity/Q42482765">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16361462</td>
   </tr>
   <tr>
     <td>2006-01-01T00:00:00Z</td>
@@ -22312,24 +22326,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2006-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42482765">"Will the SARS epidemic recur?" A retrospective analysis of the experts' opinions.</a> (<a href="http://www.wikidata.org/entity/Q42482765">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16361462</td>
-  </tr>
-  <tr>
-    <td>2006-01-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40318656">Promoter activity of SARS coronavirus 5' UTR sequence in eukaryotic cells.</a> (<a href="http://www.wikidata.org/entity/Q40318656">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>16468630</td>
-  </tr>
-  <tr>
-    <td>2006-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42690506">SARS Grid--an AG-based disease management and collaborative platform.</a> (<a href="http://www.wikidata.org/entity/Q42690506">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16823140</td>
   </tr>
   <tr>
     <td>2006-01-01T00:00:00Z</td>
@@ -22795,13 +22795,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54622419">[Detection of SARS coronavirus RNA].</a> (<a href="http://www.wikidata.org/entity/Q54622419">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16416820</td>
-  </tr>
-  <tr>
-    <td>2005-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q53640965">[A study of pulmonary inflammatory reaction induced by N-protein of SARS-CoV in rat models and effects of glucocorticoids on it].</a> (<a href="http://www.wikidata.org/entity/Q53640965">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -22809,24 +22802,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q46961310">[Effect of glucocorticoid with traditional Chinese medicine in severe acute aespiratory syndrome (SARS)].</a> (<a href="http://www.wikidata.org/entity/Q46961310">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54622419">[Detection of SARS coronavirus RNA].</a> (<a href="http://www.wikidata.org/entity/Q54622419">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>16499032</td>
-  </tr>
-  <tr>
-    <td>2005-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40489294">[Systematic review and meta-analysis on the integrative traditional Chinese and Western medicine in treating SARS].</a> (<a href="http://www.wikidata.org/entity/Q40489294">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16398427</td>
-  </tr>
-  <tr>
-    <td>2005-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40490720">[Clinical and epidemiological review of SARS].</a> (<a href="http://www.wikidata.org/entity/Q40490720">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16363683</td>
+    <td>16416820</td>
   </tr>
   <tr>
     <td>2005-12-01T00:00:00Z</td>
@@ -22834,6 +22813,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2005-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q46961310">[Effect of glucocorticoid with traditional Chinese medicine in severe acute aespiratory syndrome (SARS)].</a> (<a href="http://www.wikidata.org/entity/Q46961310">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16499032</td>
   </tr>
   <tr>
     <td>2005-12-01T00:00:00Z</td>
@@ -22848,6 +22834,20 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>16363682</td>
+  </tr>
+  <tr>
+    <td>2005-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40489294">[Systematic review and meta-analysis on the integrative traditional Chinese and Western medicine in treating SARS].</a> (<a href="http://www.wikidata.org/entity/Q40489294">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16398427</td>
+  </tr>
+  <tr>
+    <td>2005-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40490720">[Clinical and epidemiological review of SARS].</a> (<a href="http://www.wikidata.org/entity/Q40490720">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16363683</td>
   </tr>
   <tr>
     <td>2005-12-01T00:00:00Z</td>
@@ -24181,17 +24181,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40499916">Assessment of impacts of public health interventions on the SARS epidemic in Beijing in terms of the intervals between its symptom onset, hospital admission, and notification.</a> (<a href="http://www.wikidata.org/entity/Q40499916">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q48129091">[Determination of SARS-CoV by simplified nested fluorescent RT-PCR].</a> (<a href="http://www.wikidata.org/entity/Q48129091">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>16131016</td>
-  </tr>
-  <tr>
-    <td>2005-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40502973">[Initial radiographic manifestations in patients with SARS].</a> (<a href="http://www.wikidata.org/entity/Q40502973">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16038278</td>
+    <td>16027791</td>
   </tr>
   <tr>
     <td>2005-06-01T00:00:00Z</td>
@@ -24209,10 +24202,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q48129091">[Determination of SARS-CoV by simplified nested fluorescent RT-PCR].</a> (<a href="http://www.wikidata.org/entity/Q48129091">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40499916">Assessment of impacts of public health interventions on the SARS epidemic in Beijing in terms of the intervals between its symptom onset, hospital admission, and notification.</a> (<a href="http://www.wikidata.org/entity/Q40499916">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>16027791</td>
+    <td>16131016</td>
+  </tr>
+  <tr>
+    <td>2005-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40502973">[Initial radiographic manifestations in patients with SARS].</a> (<a href="http://www.wikidata.org/entity/Q40502973">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16038278</td>
   </tr>
   <tr>
     <td>2005-06-01T00:00:00Z</td>
@@ -24608,6 +24608,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-04-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q46333172">SARS Coronaviruses and Highly Pathogenic Influenza Viruses: Safety and Occupational Health for Laboratory Workers.</a> (<a href="http://www.wikidata.org/entity/Q46333172">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2005-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q36103841">Human monoclonal antibodies to the S glycoprotein and related proteins as potential therapeutics for SARS.</a> (<a href="http://www.wikidata.org/entity/Q36103841">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -24622,10 +24629,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q46333172">SARS Coronaviruses and Highly Pathogenic Influenza Viruses: Safety and Occupational Health for Laboratory Workers.</a> (<a href="http://www.wikidata.org/entity/Q46333172">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47823107">SARS: two years on...</a> (<a href="http://www.wikidata.org/entity/Q47823107">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td></td>
+    <td>15800719</td>
   </tr>
   <tr>
     <td>2005-04-01T00:00:00Z</td>
@@ -24640,13 +24647,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15800721</td>
-  </tr>
-  <tr>
-    <td>2005-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47823107">SARS: two years on...</a> (<a href="http://www.wikidata.org/entity/Q47823107">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15800719</td>
   </tr>
   <tr>
     <td>2005-04-01T00:00:00Z</td>
@@ -24888,6 +24888,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-03-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47803891">SARS: so are you ready for safety?</a> (<a href="http://www.wikidata.org/entity/Q47803891">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15867443</td>
+  </tr>
+  <tr>
+    <td>2005-03-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40425881">Preparedness of the cardiac catheterization laboratory for severe acute respiratory syndrome (SARS) and other epidemics.</a> (<a href="http://www.wikidata.org/entity/Q40425881">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -24899,13 +24906,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15949361</td>
-  </tr>
-  <tr>
-    <td>2005-03-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47803891">SARS: so are you ready for safety?</a> (<a href="http://www.wikidata.org/entity/Q47803891">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15867443</td>
   </tr>
   <tr>
     <td>2005-03-01T00:00:00Z</td>
@@ -25175,17 +25175,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40437640">SARS and the Academic Health Sector.</a> (<a href="http://www.wikidata.org/entity/Q40437640">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15770880</td>
-  </tr>
-  <tr>
-    <td>2005-02-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q47805734">Relationship between ambient air pollution and daily mortality of SARS in Beijing.</a> (<a href="http://www.wikidata.org/entity/Q47805734">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15861770</td>
+  </tr>
+  <tr>
+    <td>2005-02-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40437640">SARS and the Academic Health Sector.</a> (<a href="http://www.wikidata.org/entity/Q40437640">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15770880</td>
   </tr>
   <tr>
     <td>2005-02-01T00:00:00Z</td>
@@ -25378,10 +25378,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43779796">[Prokaryotic expression of SARS coronavirus spike protein and construction of its DNA vaccine].</a> (<a href="http://www.wikidata.org/entity/Q43779796">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44269944">[Preparation of specific monoclonal antibody against nucleocapsid protein of SARS coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q44269944">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15683993</td>
+    <td>15629083</td>
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
@@ -25406,24 +25406,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44269944">[Preparation of specific monoclonal antibody against nucleocapsid protein of SARS coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q44269944">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43779796">[Prokaryotic expression of SARS coronavirus spike protein and construction of its DNA vaccine].</a> (<a href="http://www.wikidata.org/entity/Q43779796">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15629083</td>
-  </tr>
-  <tr>
-    <td>2005-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35018978">Application of graphical relational representation techniques in healthcare website: taking SARS website information query and representation as an example</a> (<a href="http://www.wikidata.org/entity/Q35018978">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16779273</td>
-  </tr>
-  <tr>
-    <td>2005-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q33210530">[Construction and screening of human phage antibody library against SARS virus].</a> (<a href="http://www.wikidata.org/entity/Q33210530">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15629082</td>
+    <td>15683993</td>
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
@@ -25441,10 +25427,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40416852">Synthetic peptides outside the spike protein heptad repeat regions as potent inhibitors of SARS-associated coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q40416852">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q33210530">[Construction and screening of human phage antibody library against SARS virus].</a> (<a href="http://www.wikidata.org/entity/Q33210530">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15918330</td>
+    <td>15629082</td>
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
@@ -25452,6 +25438,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15865221</td>
+  </tr>
+  <tr>
+    <td>2005-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35018978">Application of graphical relational representation techniques in healthcare website: taking SARS website information query and representation as an example</a> (<a href="http://www.wikidata.org/entity/Q35018978">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16779273</td>
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
@@ -25466,6 +25459,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>16618059</td>
+  </tr>
+  <tr>
+    <td>2005-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40416852">Synthetic peptides outside the spike protein heptad repeat regions as potent inhibitors of SARS-associated coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q40416852">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15918330</td>
   </tr>
   <tr>
     <td>2005-01-01T00:00:00Z</td>
@@ -26197,6 +26197,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-11-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45542407">Anti-SARS virus antibody responses against human SARS-associated coronavirus and animal SARS-associated coronavirus-like virus.</a> (<a href="http://www.wikidata.org/entity/Q45542407">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15569493</td>
+  </tr>
+  <tr>
+    <td>2004-11-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q47302063">Post-SARS psychological morbidity and stigma among general practitioners and traditional Chinese medicine practitioners in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q47302063">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -26204,10 +26211,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-11-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45542407">Anti-SARS virus antibody responses against human SARS-associated coronavirus and animal SARS-associated coronavirus-like virus.</a> (<a href="http://www.wikidata.org/entity/Q45542407">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47865698">Evaluation of a real-time polymerase-chain reaction for severe acute respiratory syndrome (SARS) associated coronavirus in patients with hospitalised exacerbation of COPD.</a> (<a href="http://www.wikidata.org/entity/Q47865698">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15569493</td>
+    <td>15649859</td>
   </tr>
   <tr>
     <td>2004-11-01T00:00:00Z</td>
@@ -26222,13 +26229,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15535903</td>
-  </tr>
-  <tr>
-    <td>2004-11-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47865698">Evaluation of a real-time polymerase-chain reaction for severe acute respiratory syndrome (SARS) associated coronavirus in patients with hospitalised exacerbation of COPD.</a> (<a href="http://www.wikidata.org/entity/Q47865698">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15649859</td>
   </tr>
   <tr>
     <td>2004-11-01T00:00:00Z</td>
@@ -26722,6 +26722,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45128152">[The Canadian experience with the SARS outbreak--Israeli lessons to be learned].</a> (<a href="http://www.wikidata.org/entity/Q45128152">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15521674</td>
+  </tr>
+  <tr>
+    <td>2004-09-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q45270789">SARS Surveillance Project--Internet-enabled multiregion surveillance for rapidly emerging disease.</a> (<a href="http://www.wikidata.org/entity/Q45270789">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -26733,27 +26740,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15367356</td>
-  </tr>
-  <tr>
-    <td>2004-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45128152">[The Canadian experience with the SARS outbreak--Israeli lessons to be learned].</a> (<a href="http://www.wikidata.org/entity/Q45128152">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15521674</td>
-  </tr>
-  <tr>
-    <td>2004-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40517062">Comparison between haematological parameters in severe acute respiratory syndrome (SARS) and dengue fever (DF).</a> (<a href="http://www.wikidata.org/entity/Q40517062">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15651185</td>
-  </tr>
-  <tr>
-    <td>2004-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40517528">[Clinical experience from treatment of seven SARS patients].</a> (<a href="http://www.wikidata.org/entity/Q40517528">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15640851</td>
   </tr>
   <tr>
     <td>2004-09-01T00:00:00Z</td>
@@ -26789,6 +26775,20 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15617308</td>
+  </tr>
+  <tr>
+    <td>2004-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40517062">Comparison between haematological parameters in severe acute respiratory syndrome (SARS) and dengue fever (DF).</a> (<a href="http://www.wikidata.org/entity/Q40517062">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15651185</td>
+  </tr>
+  <tr>
+    <td>2004-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40517528">[Clinical experience from treatment of seven SARS patients].</a> (<a href="http://www.wikidata.org/entity/Q40517528">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15640851</td>
   </tr>
   <tr>
     <td>2004-09-01T00:00:00Z</td>
@@ -27016,13 +27016,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q33361698">Hematological findings in SARS patients and possible mechanisms (review).</a> (<a href="http://www.wikidata.org/entity/Q33361698">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15254784</td>
-  </tr>
-  <tr>
-    <td>2004-08-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q45074949">[Factors of avascular necrosis of femoral head and osteoporosis in SARS patients' convalescence].</a> (<a href="http://www.wikidata.org/entity/Q45074949">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -27030,10 +27023,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40362033">Cross-reaction of SARS-CoV antigen with autoantibodies in autoimmune diseases.</a> (<a href="http://www.wikidata.org/entity/Q40362033">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q33361698">Hematological findings in SARS patients and possible mechanisms (review).</a> (<a href="http://www.wikidata.org/entity/Q33361698">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>16225774</td>
+    <td>15254784</td>
+  </tr>
+  <tr>
+    <td>2004-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43059025">BIS/BTS SARS guidelines.</a> (<a href="http://www.wikidata.org/entity/Q43059025">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15282398</td>
   </tr>
   <tr>
     <td>2004-08-01T00:00:00Z</td>
@@ -27044,10 +27044,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43059025">BIS/BTS SARS guidelines.</a> (<a href="http://www.wikidata.org/entity/Q43059025">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40362033">Cross-reaction of SARS-CoV antigen with autoantibodies in autoimmune diseases.</a> (<a href="http://www.wikidata.org/entity/Q40362033">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15282398</td>
+    <td>16225774</td>
   </tr>
   <tr>
     <td>2004-08-01T00:00:00Z</td>
@@ -27303,24 +27303,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54483891">[RNase III-prepared short interfering RNAs induce degradation of SARS-coronavirus mRNAs in human cells].</a> (<a href="http://www.wikidata.org/entity/Q54483891">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15968975</td>
-  </tr>
-  <tr>
-    <td>2004-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q35847601">The challenge of severe acute respiratory syndrome (SARS) in dentistry.</a> (<a href="http://www.wikidata.org/entity/Q35847601">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15278018</td>
-  </tr>
-  <tr>
-    <td>2004-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q36334509">SARS: the new challenge to international health and travel medicine.</a> (<a href="http://www.wikidata.org/entity/Q36334509">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>16335659</td>
   </tr>
   <tr>
     <td>2004-07-01T00:00:00Z</td>
@@ -27338,10 +27324,24 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54483891">[RNase III-prepared short interfering RNAs induce degradation of SARS-coronavirus mRNAs in human cells].</a> (<a href="http://www.wikidata.org/entity/Q54483891">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15968975</td>
+  </tr>
+  <tr>
+    <td>2004-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q37055307">Changing virulence of the SARS virus: the epidemiological evidence.</a> (<a href="http://www.wikidata.org/entity/Q37055307">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15500287</td>
+  </tr>
+  <tr>
+    <td>2004-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q36334509">SARS: the new challenge to international health and travel medicine.</a> (<a href="http://www.wikidata.org/entity/Q36334509">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>16335659</td>
   </tr>
   <tr>
     <td>2004-07-01T00:00:00Z</td>
@@ -27772,6 +27772,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44217465">[Genetic variation analysis of SARS coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q44217465">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15490884</td>
+  </tr>
+  <tr>
+    <td>2004-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q43202244">SARS outbreak over, but concerns for lab safety remain.</a> (<a href="http://www.wikidata.org/entity/Q43202244">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -27783,13 +27790,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15181216</td>
-  </tr>
-  <tr>
-    <td>2004-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44217465">[Genetic variation analysis of SARS coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q44217465">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15490884</td>
   </tr>
   <tr>
     <td>2004-06-01T00:00:00Z</td>
@@ -28101,13 +28101,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44003142">[SARS infection].</a> (<a href="http://www.wikidata.org/entity/Q44003142">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15252959</td>
-  </tr>
-  <tr>
-    <td>2004-05-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30233262">SARS update: Winter, 2003 to 2004.</a> (<a href="http://www.wikidata.org/entity/Q30233262">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -28122,10 +28115,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54504630">[The cloning, expression, purification and identification of SARS virus S2 gene and study on its immunological characteristics].</a> (<a href="http://www.wikidata.org/entity/Q54504630">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44003142">[SARS infection].</a> (<a href="http://www.wikidata.org/entity/Q44003142">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15193211</td>
+    <td>15252959</td>
   </tr>
   <tr>
     <td>2004-05-01T00:00:00Z</td>
@@ -28133,6 +28126,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15132787</td>
+  </tr>
+  <tr>
+    <td>2004-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54504630">[The cloning, expression, purification and identification of SARS virus S2 gene and study on its immunological characteristics].</a> (<a href="http://www.wikidata.org/entity/Q54504630">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15193211</td>
   </tr>
   <tr>
     <td>2004-05-01T00:00:00Z</td>
@@ -28388,10 +28388,24 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-04-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44896257">[Clinical observation on treatment of SARS with combination of chaihu droplet pill and huoxiang zhengqi droplet pill].</a> (<a href="http://www.wikidata.org/entity/Q44896257">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15143718</td>
+  </tr>
+  <tr>
+    <td>2004-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q31059560">Probing the structure of the SARS coronavirus using scanning electron microscopy.</a> (<a href="http://www.wikidata.org/entity/Q31059560">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15134191</td>
+  </tr>
+  <tr>
+    <td>2004-04-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40534318">[Comparative study of clinical characteristics and prognosis of clinically diagnosed SARS patients with positive and negative serum SARS coronavirus-specific antibodies test].</a> (<a href="http://www.wikidata.org/entity/Q40534318">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15130303</td>
   </tr>
   <tr>
     <td>2004-04-01T00:00:00Z</td>
@@ -28402,24 +28416,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44896257">[Clinical observation on treatment of SARS with combination of chaihu droplet pill and huoxiang zhengqi droplet pill].</a> (<a href="http://www.wikidata.org/entity/Q44896257">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15143718</td>
-  </tr>
-  <tr>
-    <td>2004-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q47984358">Update on SARS.</a> (<a href="http://www.wikidata.org/entity/Q47984358">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15131922</td>
-  </tr>
-  <tr>
-    <td>2004-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40534318">[Comparative study of clinical characteristics and prognosis of clinically diagnosed SARS patients with positive and negative serum SARS coronavirus-specific antibodies test].</a> (<a href="http://www.wikidata.org/entity/Q40534318">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15130303</td>
   </tr>
   <tr>
     <td>2004-04-01T00:00:00Z</td>
@@ -28647,13 +28647,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-03-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50577972">[An unending--and a new story: meningitis and SARS. The Danish Society of Infectious Medicine].</a> (<a href="http://www.wikidata.org/entity/Q50577972">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15067767</td>
-  </tr>
-  <tr>
-    <td>2004-03-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40536744">[Detection for severe acute respiratory syndrome (SARS) coronavirus RNA in stool of SARS patients].</a> (<a href="http://www.wikidata.org/entity/Q40536744">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -28665,6 +28658,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14984341</td>
+  </tr>
+  <tr>
+    <td>2004-03-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50577972">[An unending--and a new story: meningitis and SARS. The Danish Society of Infectious Medicine].</a> (<a href="http://www.wikidata.org/entity/Q50577972">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15067767</td>
   </tr>
   <tr>
     <td>2004-03-01T00:00:00Z</td>
@@ -28976,10 +28976,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47839663">Bioterrorism and emerging infectious disease - antimicrobials, therapeutics and immune-modulators. SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q47839663">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q48011106">Preparing for SARS.</a> (<a href="http://www.wikidata.org/entity/Q48011106">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15057645</td>
+    <td>14999882</td>
   </tr>
   <tr>
     <td>2004-02-01T00:00:00Z</td>
@@ -28990,17 +28990,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-02-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47839663">Bioterrorism and emerging infectious disease - antimicrobials, therapeutics and immune-modulators. SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q47839663">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15057645</td>
+  </tr>
+  <tr>
+    <td>2004-02-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40532784">[Severe acute respiratory syndrome (SARS)--new, unknown disease?].</a> (<a href="http://www.wikidata.org/entity/Q40532784">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15176307</td>
-  </tr>
-  <tr>
-    <td>2004-02-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q48011106">Preparing for SARS.</a> (<a href="http://www.wikidata.org/entity/Q48011106">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14999882</td>
   </tr>
   <tr>
     <td>2004-02-01T00:00:00Z</td>
@@ -29494,24 +29494,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54734143">[Amplification and cloning of the N gene of SARS-associated coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q54734143">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14724092</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44178838">Prehospital intubation and SARS.</a> (<a href="http://www.wikidata.org/entity/Q44178838">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14707197</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q34645993">Laboratory tests for SARS: powerful or peripheral?</a> (<a href="http://www.wikidata.org/entity/Q34645993">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14707221</td>
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
@@ -29522,66 +29508,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q36489956">SARS: an emerging global microbial threat.</a> (<a href="http://www.wikidata.org/entity/Q36489956">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54734143">[Amplification and cloning of the N gene of SARS-associated coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q54734143">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>17060979</td>
+    <td>14724092</td>
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40385813">Why SARS will not return: a polemic.</a> (<a href="http://www.wikidata.org/entity/Q40385813">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q34645993">Laboratory tests for SARS: powerful or peripheral?</a> (<a href="http://www.wikidata.org/entity/Q34645993">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>14707224</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47812045">Public health law and ethics: lessons from SARS and quarantine.</a> (<a href="http://www.wikidata.org/entity/Q47812045">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15838998</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47847052">From SARS to systems: developing advanced knowledge management for public health.</a> (<a href="http://www.wikidata.org/entity/Q47847052">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15718573</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43115188">Prehospital intubation and SARS.</a> (<a href="http://www.wikidata.org/entity/Q43115188">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14707195</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47928715">We did the right thing: an intervention analysis approach to modeling intervened SARS propagation in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q47928715">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15361012</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47991350">SARS and the duty to treat: remember AIDS?</a> (<a href="http://www.wikidata.org/entity/Q47991350">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15098402</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47997543">Protecting RNs from a possible return of SARS: is your facility ready?</a> (<a href="http://www.wikidata.org/entity/Q47997543">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15065310</td>
-  </tr>
-  <tr>
-    <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43125276">Canadian researchers testing SARS vaccine in China.</a> (<a href="http://www.wikidata.org/entity/Q43125276">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14734423</td>
+    <td>14707221</td>
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
@@ -29592,10 +29529,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q48004956">Severe acute respiratory syndrome (SARS) in children.</a> (<a href="http://www.wikidata.org/entity/Q48004956">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q36489956">SARS: an emerging global microbial threat.</a> (<a href="http://www.wikidata.org/entity/Q36489956">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>15029602</td>
+    <td>17060979</td>
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
@@ -29624,6 +29561,69 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14736138</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43115188">Prehospital intubation and SARS.</a> (<a href="http://www.wikidata.org/entity/Q43115188">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14707195</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43125276">Canadian researchers testing SARS vaccine in China.</a> (<a href="http://www.wikidata.org/entity/Q43125276">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14734423</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47812045">Public health law and ethics: lessons from SARS and quarantine.</a> (<a href="http://www.wikidata.org/entity/Q47812045">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15838998</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47847052">From SARS to systems: developing advanced knowledge management for public health.</a> (<a href="http://www.wikidata.org/entity/Q47847052">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15718573</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q48004956">Severe acute respiratory syndrome (SARS) in children.</a> (<a href="http://www.wikidata.org/entity/Q48004956">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15029602</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40385813">Why SARS will not return: a polemic.</a> (<a href="http://www.wikidata.org/entity/Q40385813">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14707224</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47928715">We did the right thing: an intervention analysis approach to modeling intervened SARS propagation in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q47928715">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15361012</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47991350">SARS and the duty to treat: remember AIDS?</a> (<a href="http://www.wikidata.org/entity/Q47991350">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15098402</td>
+  </tr>
+  <tr>
+    <td>2004-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47997543">Protecting RNs from a possible return of SARS: is your facility ready?</a> (<a href="http://www.wikidata.org/entity/Q47997543">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15065310</td>
   </tr>
   <tr>
     <td>2004-01-01T00:00:00Z</td>
@@ -29907,6 +29907,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44691812">[Expression, purification and identification of recombinant SARS coronavirus membrane protein].</a> (<a href="http://www.wikidata.org/entity/Q44691812">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14673508</td>
+  </tr>
+  <tr>
+    <td>2003-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q35672167">Severe acute respiratory syndrome (SARS) - an emerging infection of the 21st century.</a> (<a href="http://www.wikidata.org/entity/Q35672167">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -29918,27 +29925,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14662664</td>
-  </tr>
-  <tr>
-    <td>2003-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44691812">[Expression, purification and identification of recombinant SARS coronavirus membrane protein].</a> (<a href="http://www.wikidata.org/entity/Q44691812">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14673508</td>
-  </tr>
-  <tr>
-    <td>2003-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42033019">SARS 3: are we ready?</a> (<a href="http://www.wikidata.org/entity/Q42033019">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14690300</td>
-  </tr>
-  <tr>
-    <td>2003-12-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40265965">My experience with SARS.</a> (<a href="http://www.wikidata.org/entity/Q40265965">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14662665</td>
   </tr>
   <tr>
     <td>2003-12-01T00:00:00Z</td>
@@ -29960,6 +29946,20 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14724331</td>
+  </tr>
+  <tr>
+    <td>2003-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42033019">SARS 3: are we ready?</a> (<a href="http://www.wikidata.org/entity/Q42033019">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14690300</td>
+  </tr>
+  <tr>
+    <td>2003-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40265965">My experience with SARS.</a> (<a href="http://www.wikidata.org/entity/Q40265965">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14662665</td>
   </tr>
   <tr>
     <td>2003-12-01T00:00:00Z</td>
@@ -30278,17 +30278,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-11-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35593143">Antiviral treatment of SARS: can we draw any conclusions?</a> (<a href="http://www.wikidata.org/entity/Q35593143">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14638651</td>
-  </tr>
-  <tr>
-    <td>2003-11-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44236002">[Infection control measures for SARS during epidemics of influenza].</a> (<a href="http://www.wikidata.org/entity/Q44236002">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14619448</td>
+  </tr>
+  <tr>
+    <td>2003-11-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35593143">Antiviral treatment of SARS: can we draw any conclusions?</a> (<a href="http://www.wikidata.org/entity/Q35593143">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14638651</td>
   </tr>
   <tr>
     <td>2003-11-01T00:00:00Z</td>
@@ -30306,6 +30306,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-11-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45896604">SARS in health care workers.</a> (<a href="http://www.wikidata.org/entity/Q45896604">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2003-11-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q46720632">SARS war: combating the disease.</a> (<a href="http://www.wikidata.org/entity/Q46720632">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -30313,10 +30320,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-11-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45896604">SARS in health care workers.</a> (<a href="http://www.wikidata.org/entity/Q45896604">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40538804">Fever attribution in the SARS outbreak.</a> (<a href="http://www.wikidata.org/entity/Q40538804">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
+    <td>15007500</td>
+  </tr>
+  <tr>
+    <td>2003-11-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40549314">ICAO's anti-SARS airport activities.</a> (<a href="http://www.wikidata.org/entity/Q40549314">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
+    <td>14620481</td>
   </tr>
   <tr>
     <td>2003-11-01T00:00:00Z</td>
@@ -30345,20 +30359,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15318844</td>
-  </tr>
-  <tr>
-    <td>2003-11-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40538804">Fever attribution in the SARS outbreak.</a> (<a href="http://www.wikidata.org/entity/Q40538804">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15007500</td>
-  </tr>
-  <tr>
-    <td>2003-11-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40549314">ICAO's anti-SARS airport activities.</a> (<a href="http://www.wikidata.org/entity/Q40549314">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14620481</td>
   </tr>
   <tr>
     <td>2003-11-01T00:00:00Z</td>
@@ -30593,10 +30593,31 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44228829">'Respiratory etiquette'. CDC's SARS draft plan suggests masks for patients.</a> (<a href="http://www.wikidata.org/entity/Q44228829">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14626608</td>
+  </tr>
+  <tr>
+    <td>2003-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44387754">[Detection of the anti-SARS-coronavirus specific antibody levels in 156 SARS patients].</a> (<a href="http://www.wikidata.org/entity/Q44387754">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14575532</td>
+  </tr>
+  <tr>
+    <td>2003-10-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q35574689">SARS: a new infectious disease for a new century.</a> (<a href="http://www.wikidata.org/entity/Q35574689">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14596069</td>
+  </tr>
+  <tr>
+    <td>2003-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q53637411">[Thoracic high resolution CT findings of 100 SARS patients in convalescent period].</a> (<a href="http://www.wikidata.org/entity/Q53637411">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14650147</td>
   </tr>
   <tr>
     <td>2003-10-01T00:00:00Z</td>
@@ -30635,34 +30656,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q53637411">[Thoracic high resolution CT findings of 100 SARS patients in convalescent period].</a> (<a href="http://www.wikidata.org/entity/Q53637411">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14650147</td>
-  </tr>
-  <tr>
-    <td>2003-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44228829">'Respiratory etiquette'. CDC's SARS draft plan suggests masks for patients.</a> (<a href="http://www.wikidata.org/entity/Q44228829">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14626608</td>
-  </tr>
-  <tr>
-    <td>2003-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44387754">[Detection of the anti-SARS-coronavirus specific antibody levels in 156 SARS patients].</a> (<a href="http://www.wikidata.org/entity/Q44387754">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14575532</td>
-  </tr>
-  <tr>
-    <td>2003-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q33195529">[Analysis on the SARS-CoV genome of PUMC01 isolate].</a> (<a href="http://www.wikidata.org/entity/Q33195529">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14650143</td>
-  </tr>
-  <tr>
-    <td>2003-10-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q39388028">SARS infection control in Taiwan: investigation of nurses' professional obligation.</a> (<a href="http://www.wikidata.org/entity/Q39388028">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -30677,10 +30670,24 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42032070">SARS: a wake up call for a health care system under stress.</a> (<a href="http://www.wikidata.org/entity/Q42032070">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q33195529">[Analysis on the SARS-CoV genome of PUMC01 isolate].</a> (<a href="http://www.wikidata.org/entity/Q33195529">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>14992052</td>
+    <td>14650143</td>
+  </tr>
+  <tr>
+    <td>2003-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40545096">[Reliability of detecting SARS-CoV antibody for diagnosis of SARS].</a> (<a href="http://www.wikidata.org/entity/Q40545096">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14650153</td>
+  </tr>
+  <tr>
+    <td>2003-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40545099">[An outbreak of SARS in Dongcheng District, Beijing during March to June 2003].</a> (<a href="http://www.wikidata.org/entity/Q40545099">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14650152</td>
   </tr>
   <tr>
     <td>2003-10-01T00:00:00Z</td>
@@ -30688,6 +30695,13 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14621234</td>
+  </tr>
+  <tr>
+    <td>2003-10-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42032070">SARS: a wake up call for a health care system under stress.</a> (<a href="http://www.wikidata.org/entity/Q42032070">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14992052</td>
   </tr>
   <tr>
     <td>2003-10-01T00:00:00Z</td>
@@ -30716,20 +30730,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15168972</td>
-  </tr>
-  <tr>
-    <td>2003-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40545096">[Reliability of detecting SARS-CoV antibody for diagnosis of SARS].</a> (<a href="http://www.wikidata.org/entity/Q40545096">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14650153</td>
-  </tr>
-  <tr>
-    <td>2003-10-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40545099">[An outbreak of SARS in Dongcheng District, Beijing during March to June 2003].</a> (<a href="http://www.wikidata.org/entity/Q40545099">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14650152</td>
   </tr>
   <tr>
     <td>2003-10-01T00:00:00Z</td>
@@ -30985,34 +30985,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43217720">Stray thoughts on SARS.</a> (<a href="http://www.wikidata.org/entity/Q43217720">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14708266</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43671943">[Predictors associated with clinical deterioration in SARS patients].</a> (<a href="http://www.wikidata.org/entity/Q43671943">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15340562</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54748324">[Isolation and identification of the infective agent of severe acute respiratory syndrome (SARS) from a patient with atypical pneumonia]</a> (<a href="http://www.wikidata.org/entity/Q54748324">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14565137</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44091940">Clinical features and predictors for mortality in a designated national SARS ICU in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q44091940">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14968728</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44627141">[Controlled clinical study on 49 patients of SARS treated by integrative Chinese and Western medicine].</a> (<a href="http://www.wikidata.org/entity/Q44627141">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -31027,10 +30999,38 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43217720">Stray thoughts on SARS.</a> (<a href="http://www.wikidata.org/entity/Q43217720">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14708266</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43671943">[Predictors associated with clinical deterioration in SARS patients].</a> (<a href="http://www.wikidata.org/entity/Q43671943">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15340562</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44091940">Clinical features and predictors for mortality in a designated national SARS ICU in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q44091940">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14968728</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44733334">SARS in Singapore: looking back, looking forward.</a> (<a href="http://www.wikidata.org/entity/Q44733334">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14968715</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54748324">[Isolation and identification of the infective agent of severe acute respiratory syndrome (SARS) from a patient with atypical pneumonia]</a> (<a href="http://www.wikidata.org/entity/Q54748324">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14565137</td>
   </tr>
   <tr>
     <td>2003-09-01T00:00:00Z</td>
@@ -31052,69 +31052,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14535196</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42033992">Rapid response. A Toronto-area health facility manager recounts his experiences with the SARS scare.</a> (<a href="http://www.wikidata.org/entity/Q42033992">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14531202</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51595651">[Development of the cDNA chip for SARS virus and a primary study on the possible molecular mechanism of interferon alpha2b inhibiting the SARS virus replication].</a> (<a href="http://www.wikidata.org/entity/Q51595651">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15340559</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51645138">Fighting and living with SARS.</a> (<a href="http://www.wikidata.org/entity/Q51645138">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14604192</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51649297">SARS and the dental professional.</a> (<a href="http://www.wikidata.org/entity/Q51649297">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14552214</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51649973">In-flight transmission of Severe Acute Respiratory Syndrome (SARS): a case report.</a> (<a href="http://www.wikidata.org/entity/Q51649973">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14531986</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51649990">Confronting the new challenge in travel medicine: SARS.</a> (<a href="http://www.wikidata.org/entity/Q51649990">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14531976</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42937061">SARS respiratory protection.</a> (<a href="http://www.wikidata.org/entity/Q42937061">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12975214</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42950760">SARS had immense impact on some MDs' practices.</a> (<a href="http://www.wikidata.org/entity/Q42950760">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14517134</td>
-  </tr>
-  <tr>
-    <td>2003-09-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43139332">Primary care during the SARS outbreak.</a> (<a href="http://www.wikidata.org/entity/Q43139332">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15103886</td>
   </tr>
   <tr>
     <td>2003-09-01T00:00:00Z</td>
@@ -31153,10 +31090,73 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51595651">[Development of the cDNA chip for SARS virus and a primary study on the possible molecular mechanism of interferon alpha2b inhibiting the SARS virus replication].</a> (<a href="http://www.wikidata.org/entity/Q51595651">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15340559</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51645138">Fighting and living with SARS.</a> (<a href="http://www.wikidata.org/entity/Q51645138">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14604192</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51649297">SARS and the dental professional.</a> (<a href="http://www.wikidata.org/entity/Q51649297">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14552214</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51649973">In-flight transmission of Severe Acute Respiratory Syndrome (SARS): a case report.</a> (<a href="http://www.wikidata.org/entity/Q51649973">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14531986</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51649990">Confronting the new challenge in travel medicine: SARS.</a> (<a href="http://www.wikidata.org/entity/Q51649990">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14531976</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q48018845">Revisiting upper respiratory tract infection (URTI) in adults in the light of the current severe acute respiratory syndrome (SARS) situation in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q48018845">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14968725</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42033992">Rapid response. A Toronto-area health facility manager recounts his experiences with the SARS scare.</a> (<a href="http://www.wikidata.org/entity/Q42033992">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14531202</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42937061">SARS respiratory protection.</a> (<a href="http://www.wikidata.org/entity/Q42937061">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12975214</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42950760">SARS had immense impact on some MDs' practices.</a> (<a href="http://www.wikidata.org/entity/Q42950760">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14517134</td>
+  </tr>
+  <tr>
+    <td>2003-09-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43139332">Primary care during the SARS outbreak.</a> (<a href="http://www.wikidata.org/entity/Q43139332">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15103886</td>
   </tr>
   <tr>
     <td>2003-09-01T00:00:00Z</td>
@@ -31377,17 +31377,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44045773">[Severe acute respiratory syndrome--SARS].</a> (<a href="http://www.wikidata.org/entity/Q44045773">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14531368</td>
-  </tr>
-  <tr>
-    <td>2003-08-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q30333374">[Severe acute respiratory syndrome (SARS)]</a> (<a href="http://www.wikidata.org/entity/Q30333374">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>12953388</td>
+  </tr>
+  <tr>
+    <td>2003-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44045773">[Severe acute respiratory syndrome--SARS].</a> (<a href="http://www.wikidata.org/entity/Q44045773">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14531368</td>
   </tr>
   <tr>
     <td>2003-08-01T00:00:00Z</td>
@@ -31423,41 +31423,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15629031</td>
-  </tr>
-  <tr>
-    <td>2003-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51636551">The SARS outbreak: how many reminders do we need? (SMJ Vol 44 Issue 3 April 2003).</a> (<a href="http://www.wikidata.org/entity/Q51636551">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14700426</td>
-  </tr>
-  <tr>
-    <td>2003-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51636555">SARS--lessons from two Singapore General Hospital cases.</a> (<a href="http://www.wikidata.org/entity/Q51636555">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14700422</td>
-  </tr>
-  <tr>
-    <td>2003-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51653733">SARS. One hospital's story.</a> (<a href="http://www.wikidata.org/entity/Q51653733">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>13677685</td>
-  </tr>
-  <tr>
-    <td>2003-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42714451">SARS case-fatality rates.</a> (<a href="http://www.wikidata.org/entity/Q42714451">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12925409</td>
-  </tr>
-  <tr>
-    <td>2003-08-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42973839">SARS wars: family physicians undeployed soldiers.</a> (<a href="http://www.wikidata.org/entity/Q42973839">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12943351</td>
   </tr>
   <tr>
     <td>2003-08-01T00:00:00Z</td>
@@ -31500,6 +31465,41 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>12904271</td>
+  </tr>
+  <tr>
+    <td>2003-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51636551">The SARS outbreak: how many reminders do we need? (SMJ Vol 44 Issue 3 April 2003).</a> (<a href="http://www.wikidata.org/entity/Q51636551">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14700426</td>
+  </tr>
+  <tr>
+    <td>2003-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51636555">SARS--lessons from two Singapore General Hospital cases.</a> (<a href="http://www.wikidata.org/entity/Q51636555">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14700422</td>
+  </tr>
+  <tr>
+    <td>2003-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51653733">SARS. One hospital's story.</a> (<a href="http://www.wikidata.org/entity/Q51653733">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>13677685</td>
+  </tr>
+  <tr>
+    <td>2003-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42714451">SARS case-fatality rates.</a> (<a href="http://www.wikidata.org/entity/Q42714451">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12925409</td>
+  </tr>
+  <tr>
+    <td>2003-08-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42973839">SARS wars: family physicians undeployed soldiers.</a> (<a href="http://www.wikidata.org/entity/Q42973839">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12943351</td>
   </tr>
   <tr>
     <td>2003-08-01T00:00:00Z</td>
@@ -31790,6 +31790,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44419140">SARS tops healthcare concerns. Coding role vital to reporting deadly disease.</a> (<a href="http://www.wikidata.org/entity/Q44419140">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12891803</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q35563588">Ribavirin in the treatment of severe acute respiratory syndrome (SARS).</a> (<a href="http://www.wikidata.org/entity/Q35563588">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -31804,45 +31811,10 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35169496">SARS: lessons learned thus far.</a> (<a href="http://www.wikidata.org/entity/Q35169496">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12841969</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35184680">Clinical brief: severe acute respiratory syndrome (SARS).</a> (<a href="http://www.wikidata.org/entity/Q35184680">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12880233</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q52971718">[The genome comparison of SARS-CoV and other coronaviruses].</a> (<a href="http://www.wikidata.org/entity/Q52971718">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15639891</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44419140">SARS tops healthcare concerns. Coding role vital to reporting deadly disease.</a> (<a href="http://www.wikidata.org/entity/Q44419140">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12891803</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q34218403">Chest X-ray imaging of patients with SARS.</a> (<a href="http://www.wikidata.org/entity/Q34218403">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12890364</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45235688">[A novel coronavirus---SARS virus].</a> (<a href="http://www.wikidata.org/entity/Q45235688">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15354324</td>
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
@@ -31867,17 +31839,38 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50466969">Severe acute respiratory syndrome (SARS) : a bolt from the blue.</a> (<a href="http://www.wikidata.org/entity/Q50466969">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45235688">[A novel coronavirus---SARS virus].</a> (<a href="http://www.wikidata.org/entity/Q45235688">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>17643009</td>
+    <td>15354324</td>
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42034791">Developing a highly contagious disease readiness plan: the SARS experience.</a> (<a href="http://www.wikidata.org/entity/Q42034791">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q34218403">Chest X-ray imaging of patients with SARS.</a> (<a href="http://www.wikidata.org/entity/Q34218403">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12889429</td>
+    <td>12890364</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35169496">SARS: lessons learned thus far.</a> (<a href="http://www.wikidata.org/entity/Q35169496">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12841969</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35184680">Clinical brief: severe acute respiratory syndrome (SARS).</a> (<a href="http://www.wikidata.org/entity/Q35184680">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12880233</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40554358">[SARS: a new emergency in the world health].</a> (<a href="http://www.wikidata.org/entity/Q40554358">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12868233</td>
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
@@ -31899,6 +31892,34 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>12971061</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50466969">Severe acute respiratory syndrome (SARS) : a bolt from the blue.</a> (<a href="http://www.wikidata.org/entity/Q50466969">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>17643009</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42034791">Developing a highly contagious disease readiness plan: the SARS experience.</a> (<a href="http://www.wikidata.org/entity/Q42034791">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12889429</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42881292">Right to refuse work becomes another SARS issue.</a> (<a href="http://www.wikidata.org/entity/Q42881292">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12874171</td>
+  </tr>
+  <tr>
+    <td>2003-07-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43139267">SARS revisited.</a> (<a href="http://www.wikidata.org/entity/Q43139267">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14694685</td>
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
@@ -31934,27 +31955,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>12877126</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42881292">Right to refuse work becomes another SARS issue.</a> (<a href="http://www.wikidata.org/entity/Q42881292">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12874171</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43139267">SARS revisited.</a> (<a href="http://www.wikidata.org/entity/Q43139267">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14694685</td>
-  </tr>
-  <tr>
-    <td>2003-07-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40554358">[SARS: a new emergency in the world health].</a> (<a href="http://www.wikidata.org/entity/Q40554358">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12868233</td>
   </tr>
   <tr>
     <td>2003-07-01T00:00:00Z</td>
@@ -32224,62 +32224,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43216902">Severe acute respiratory syndrome (SARS), a zoonotic infection with rapid spread: are we ready for the coming ones?</a> (<a href="http://www.wikidata.org/entity/Q43216902">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12889498</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43596290">Small envelope protein E of SARS: cloning, expression, purification, CD determination, and bioinformatics analysis.</a> (<a href="http://www.wikidata.org/entity/Q43596290">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12791175</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43807963">Preventing local transmission of SARS: lessons from Singapore.</a> (<a href="http://www.wikidata.org/entity/Q43807963">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12765503</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q33348829">The effect of SARS coronavirus on blood system: its clinical findings and the pathophysiologic hypothesis.</a> (<a href="http://www.wikidata.org/entity/Q33348829">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12844398</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q54761540">[Detection of SARS-CoV RNA in stool samples of SARS patients by nest RT-PCR and its clinical value].</a> (<a href="http://www.wikidata.org/entity/Q54761540">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12905760</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35161770">Pentoxifylline and severe acute respiratory syndrome (SARS): a drug to be considered.</a> (<a href="http://www.wikidata.org/entity/Q35161770">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12824965</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35218891">The threat of severe acute respiratory syndrome (SARS).</a> (<a href="http://www.wikidata.org/entity/Q35218891">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12974057</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q52373657">[Jointing hands fighting SARS by Chinese medicine and Western medicine--interview by Chen Ke-ji academician of the Chinese Academy of Sciences].</a> (<a href="http://www.wikidata.org/entity/Q52373657">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12872388</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q44468486">A 3D model of SARS_CoV 3CL proteinase and its inhibitors design by virtual screening.</a> (<a href="http://www.wikidata.org/entity/Q44468486">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -32308,6 +32252,69 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43216902">Severe acute respiratory syndrome (SARS), a zoonotic infection with rapid spread: are we ready for the coming ones?</a> (<a href="http://www.wikidata.org/entity/Q43216902">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12889498</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q52373657">[Jointing hands fighting SARS by Chinese medicine and Western medicine--interview by Chen Ke-ji academician of the Chinese Academy of Sciences].</a> (<a href="http://www.wikidata.org/entity/Q52373657">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12872388</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43596290">Small envelope protein E of SARS: cloning, expression, purification, CD determination, and bioinformatics analysis.</a> (<a href="http://www.wikidata.org/entity/Q43596290">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12791175</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43807963">Preventing local transmission of SARS: lessons from Singapore.</a> (<a href="http://www.wikidata.org/entity/Q43807963">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12765503</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45142356">[Initial analysis of complete genome sequences of SARS coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q45142356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12939792</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45289314">[Will a vaccine save us from SARS?].</a> (<a href="http://www.wikidata.org/entity/Q45289314">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12830249</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q33348829">The effect of SARS coronavirus on blood system: its clinical findings and the pathophysiologic hypothesis.</a> (<a href="http://www.wikidata.org/entity/Q33348829">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12844398</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q54761540">[Detection of SARS-CoV RNA in stool samples of SARS patients by nest RT-PCR and its clinical value].</a> (<a href="http://www.wikidata.org/entity/Q54761540">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12905760</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45723121">Identifying a killer: SARS virus.</a> (<a href="http://www.wikidata.org/entity/Q45723121">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12784939</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q35031173">Updated SARS case definition using laboratory criteria.</a> (<a href="http://www.wikidata.org/entity/Q35031173">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -32322,31 +32329,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45289314">[Will a vaccine save us from SARS?].</a> (<a href="http://www.wikidata.org/entity/Q45289314">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35161770">Pentoxifylline and severe acute respiratory syndrome (SARS): a drug to be considered.</a> (<a href="http://www.wikidata.org/entity/Q35161770">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12830249</td>
+    <td>12824965</td>
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q28177310">Identification of probable genomic packaging signal sequence from SARS-CoV genome by bioinformatics analysis</a> (<a href="http://www.wikidata.org/entity/Q28177310">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35218891">The threat of severe acute respiratory syndrome (SARS).</a> (<a href="http://www.wikidata.org/entity/Q35218891">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12791173</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45142356">[Initial analysis of complete genome sequences of SARS coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q45142356">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12939792</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q50426840">SARS' other toll.</a> (<a href="http://www.wikidata.org/entity/Q50426840">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td></td>
+    <td>12974057</td>
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
@@ -32357,10 +32350,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45723121">Identifying a killer: SARS virus.</a> (<a href="http://www.wikidata.org/entity/Q45723121">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40552997">[Clinical analysis of SARS: 27 cases report].</a> (<a href="http://www.wikidata.org/entity/Q40552997">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12784939</td>
+    <td>12899789</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q28177310">Identification of probable genomic packaging signal sequence from SARS-CoV genome by bioinformatics analysis</a> (<a href="http://www.wikidata.org/entity/Q28177310">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12791173</td>
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
@@ -32368,6 +32368,20 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>13677345</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q48007763">Screening of traditional Chinese remedies for SARS treatment.</a> (<a href="http://www.wikidata.org/entity/Q48007763">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>15015320</td>
+  </tr>
+  <tr>
+    <td>2003-06-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q50426840">SARS' other toll.</a> (<a href="http://www.wikidata.org/entity/Q50426840">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
@@ -32480,20 +32494,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>15112626</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40552997">[Clinical analysis of SARS: 27 cases report].</a> (<a href="http://www.wikidata.org/entity/Q40552997">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12899789</td>
-  </tr>
-  <tr>
-    <td>2003-06-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q48007763">Screening of traditional Chinese remedies for SARS treatment.</a> (<a href="http://www.wikidata.org/entity/Q48007763">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15015320</td>
   </tr>
   <tr>
     <td>2003-06-01T00:00:00Z</td>
@@ -32826,17 +32826,31 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q43726357">[Analysis of medical workers suffered from SARS].</a> (<a href="http://www.wikidata.org/entity/Q43726357">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44500043">[Summary of the corss-strait seminar on prevention and control of SARS].</a> (<a href="http://www.wikidata.org/entity/Q44500043">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12914218</td>
+    <td>12914000</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44035994">[The building and practice of the emergency isolation radiology information system at the department of radiology in polyclinic during the epidemic outbreak stage of SARS].</a> (<a href="http://www.wikidata.org/entity/Q44035994">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44546393">[Retrospective analysis of the corticosteroids treatment on severe acute respiratory syndrome (SARS)].</a> (<a href="http://www.wikidata.org/entity/Q44546393">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12914227</td>
+    <td>12914208</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44546399">[Modeling of the SARS coronavirus main proteinase and conformational flexibility of the active site].</a> (<a href="http://www.wikidata.org/entity/Q44546399">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12914221</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44635399">SARS. Nurses among first quarantined.</a> (<a href="http://www.wikidata.org/entity/Q44635399">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12778607</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
@@ -32875,6 +32889,48 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q53644673">[The investigation of clinical images of 88 hospital staff with SARS].</a> (<a href="http://www.wikidata.org/entity/Q53644673">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12914213</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q53644675">[Plain radiograph and CT features of 112 patients with SARS in acute stage].</a> (<a href="http://www.wikidata.org/entity/Q53644675">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12914212</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q53709081">[SARS: no need to panic, just be careful].</a> (<a href="http://www.wikidata.org/entity/Q53709081">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12856321</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q43726357">[Analysis of medical workers suffered from SARS].</a> (<a href="http://www.wikidata.org/entity/Q43726357">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12914218</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44035994">[The building and practice of the emergency isolation radiology information system at the department of radiology in polyclinic during the epidemic outbreak stage of SARS].</a> (<a href="http://www.wikidata.org/entity/Q44035994">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12914227</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q44085846">[The research progress in the etiological factor and the assay of SARS].</a> (<a href="http://www.wikidata.org/entity/Q44085846">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12914004</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q33349480">[The clinical characteristics and outcome of 45 early stage patients with SARS].</a> (<a href="http://www.wikidata.org/entity/Q33349480">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -32900,132 +32956,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>12754117</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35164337">SARS: an emerging global disease with a local impact.</a> (<a href="http://www.wikidata.org/entity/Q35164337">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12830677</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q53644673">[The investigation of clinical images of 88 hospital staff with SARS].</a> (<a href="http://www.wikidata.org/entity/Q53644673">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12914213</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q53644675">[Plain radiograph and CT features of 112 patients with SARS in acute stage].</a> (<a href="http://www.wikidata.org/entity/Q53644675">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12914212</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q53709081">[SARS: no need to panic, just be careful].</a> (<a href="http://www.wikidata.org/entity/Q53709081">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12856321</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44085846">[The research progress in the etiological factor and the assay of SARS].</a> (<a href="http://www.wikidata.org/entity/Q44085846">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12914004</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44500043">[Summary of the corss-strait seminar on prevention and control of SARS].</a> (<a href="http://www.wikidata.org/entity/Q44500043">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12914000</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44546393">[Retrospective analysis of the corticosteroids treatment on severe acute respiratory syndrome (SARS)].</a> (<a href="http://www.wikidata.org/entity/Q44546393">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12914208</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44546399">[Modeling of the SARS coronavirus main proteinase and conformational flexibility of the active site].</a> (<a href="http://www.wikidata.org/entity/Q44546399">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12914221</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q44635399">SARS. Nurses among first quarantined.</a> (<a href="http://www.wikidata.org/entity/Q44635399">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12778607</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q34979709">Ribavirin in the treatment of SARS: A new trick for an old drug?</a> (<a href="http://www.wikidata.org/entity/Q34979709">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12743076</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35135221">SARS: current knowledge and management.</a> (<a href="http://www.wikidata.org/entity/Q35135221">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12765038</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35138167">SARS: prudence, not panic.</a> (<a href="http://www.wikidata.org/entity/Q35138167">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12771074</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q30817877">[Retrospective analysis for first-visiting case data of 272 SARS inpatients in Peking University Third Hospital].</a> (<a href="http://www.wikidata.org/entity/Q30817877">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12914207</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47125317">SARS' financial impact on hospitals still being tallied.</a> (<a href="http://www.wikidata.org/entity/Q47125317">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q46400603">Chinese scientists must test wild animals to find the host of SARS.</a> (<a href="http://www.wikidata.org/entity/Q46400603">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q46521755">SARS revisited.</a> (<a href="http://www.wikidata.org/entity/Q46521755">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q37519384">The M protein of SARS-CoV: basic structural and immunological properties.</a> (<a href="http://www.wikidata.org/entity/Q37519384">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15626342</td>
-  </tr>
-  <tr>
-    <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q37519394">The R protein of SARS-CoV: analyses of structure and function based on four complete genome sequences of isolates BJ01-BJ04</a> (<a href="http://www.wikidata.org/entity/Q37519394">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>15626345</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
@@ -33064,6 +32994,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q30817877">[Retrospective analysis for first-visiting case data of 272 SARS inpatients in Peking University Third Hospital].</a> (<a href="http://www.wikidata.org/entity/Q30817877">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12914207</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q46081236">Two strains of the SARS virus sequenced.</a> (<a href="http://www.wikidata.org/entity/Q46081236">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -33085,66 +33022,66 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51020732">SARS, biological terrorism, and mother nature.</a> (<a href="http://www.wikidata.org/entity/Q51020732">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q46400603">Chinese scientists must test wild animals to find the host of SARS.</a> (<a href="http://www.wikidata.org/entity/Q46400603">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12894649</td>
+    <td></td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51663964">It's a small world after all: ethics and the response to SARS.</a> (<a href="http://www.wikidata.org/entity/Q51663964">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q46521755">SARS revisited.</a> (<a href="http://www.wikidata.org/entity/Q46521755">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12854447</td>
+    <td></td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51663989">Severe acute respiratory syndrome (SARS)--150 days on.</a> (<a href="http://www.wikidata.org/entity/Q51663989">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q34979709">Ribavirin in the treatment of SARS: A new trick for an old drug?</a> (<a href="http://www.wikidata.org/entity/Q34979709">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12854367</td>
+    <td>12743076</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51664762">SARS and HIV.</a> (<a href="http://www.wikidata.org/entity/Q51664762">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35135221">SARS: current knowledge and management.</a> (<a href="http://www.wikidata.org/entity/Q35135221">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12846211</td>
+    <td>12765038</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51666812">Lessons from AIDS and SARS.</a> (<a href="http://www.wikidata.org/entity/Q51666812">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35138167">SARS: prudence, not panic.</a> (<a href="http://www.wikidata.org/entity/Q35138167">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12817404</td>
+    <td>12771074</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42862543">SARS: "a domino effect through entire system".</a> (<a href="http://www.wikidata.org/entity/Q42862543">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35164337">SARS: an emerging global disease with a local impact.</a> (<a href="http://www.wikidata.org/entity/Q35164337">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12743085</td>
+    <td>12830677</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42867672">SARS poses challenges for MDs treating pediatric patients.</a> (<a href="http://www.wikidata.org/entity/Q42867672">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q37519384">The M protein of SARS-CoV: basic structural and immunological properties.</a> (<a href="http://www.wikidata.org/entity/Q37519384">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12771089</td>
+    <td>15626342</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42867676">SARS may have a silver lining, WHO says.</a> (<a href="http://www.wikidata.org/entity/Q42867676">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q37519394">The R protein of SARS-CoV: analyses of structure and function based on four complete genome sequences of isolates BJ01-BJ04</a> (<a href="http://www.wikidata.org/entity/Q37519394">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12771091</td>
+    <td>15626345</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51669872">Disease alert. SARS--severe acute respiratory syndrome.</a> (<a href="http://www.wikidata.org/entity/Q51669872">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47125317">SARS' financial impact on hospitals still being tallied.</a> (<a href="http://www.wikidata.org/entity/Q47125317">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
-    <td>12790105</td>
+    <td></td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
@@ -33197,6 +33134,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51020732">SARS, biological terrorism, and mother nature.</a> (<a href="http://www.wikidata.org/entity/Q51020732">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12894649</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q48354816">Heroes and heroines of the war on SARS.</a> (<a href="http://www.wikidata.org/entity/Q48354816">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -33208,6 +33152,62 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42862543">SARS: "a domino effect through entire system".</a> (<a href="http://www.wikidata.org/entity/Q42862543">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12743085</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42867672">SARS poses challenges for MDs treating pediatric patients.</a> (<a href="http://www.wikidata.org/entity/Q42867672">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12771089</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42867676">SARS may have a silver lining, WHO says.</a> (<a href="http://www.wikidata.org/entity/Q42867676">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12771091</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51663964">It's a small world after all: ethics and the response to SARS.</a> (<a href="http://www.wikidata.org/entity/Q51663964">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12854447</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51663989">Severe acute respiratory syndrome (SARS)--150 days on.</a> (<a href="http://www.wikidata.org/entity/Q51663989">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12854367</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51664762">SARS and HIV.</a> (<a href="http://www.wikidata.org/entity/Q51664762">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12846211</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51666812">Lessons from AIDS and SARS.</a> (<a href="http://www.wikidata.org/entity/Q51666812">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12817404</td>
+  </tr>
+  <tr>
+    <td>2003-05-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51669872">Disease alert. SARS--severe acute respiratory syndrome.</a> (<a href="http://www.wikidata.org/entity/Q51669872">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12790105</td>
   </tr>
   <tr>
     <td>2003-05-01T00:00:00Z</td>
@@ -33694,13 +33694,6 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35210254">Chest radiographic findings of a case of severe acute respiratory syndrome (SARS) in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q35210254">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12952033</td>
-  </tr>
-  <tr>
-    <td>2003-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q51677236">Will SARS strike here?</a> (<a href="http://www.wikidata.org/entity/Q51677236">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -33750,6 +33743,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-04-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q35210254">Chest radiographic findings of a case of severe acute respiratory syndrome (SARS) in Singapore.</a> (<a href="http://www.wikidata.org/entity/Q35210254">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12952033</td>
+  </tr>
+  <tr>
+    <td>2003-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q51649293">SARS and SAARC: lessons for preparedness.</a> (<a href="http://www.wikidata.org/entity/Q51649293">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -33757,17 +33757,17 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51655937">The SARS outbreak: how many reminders do we need?</a> (<a href="http://www.wikidata.org/entity/Q51655937">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12952025</td>
-  </tr>
-  <tr>
-    <td>2003-04-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q48901700">Tracking SARS.</a> (<a href="http://www.wikidata.org/entity/Q48901700">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>17896716</td>
+  </tr>
+  <tr>
+    <td>2003-04-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51655937">The SARS outbreak: how many reminders do we need?</a> (<a href="http://www.wikidata.org/entity/Q51655937">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12952025</td>
   </tr>
   <tr>
     <td>2003-04-01T00:00:00Z</td>
@@ -33953,6 +33953,13 @@ ORDER BY DESC(?date) ?doi
   </tr>
   <tr>
     <td>2003-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40543087">SARS and ethics.</a> (<a href="http://www.wikidata.org/entity/Q40543087">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>14674176</td>
+  </tr>
+  <tr>
+    <td>2003-01-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q51637254">Canadian Severe Acute Respiratory Syndrome (SARS) experience.</a> (<a href="http://www.wikidata.org/entity/Q51637254">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
@@ -33964,27 +33971,6 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14508911</td>
-  </tr>
-  <tr>
-    <td>2003-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51657617">A SARS postcard--reflections of two healthcare leaders.</a> (<a href="http://www.wikidata.org/entity/Q51657617">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12934692</td>
-  </tr>
-  <tr>
-    <td>2003-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51657627">SARS [editorial].</a> (<a href="http://www.wikidata.org/entity/Q51657627">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>12934690</td>
-  </tr>
-  <tr>
-    <td>2003-01-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40543087">SARS and ethics.</a> (<a href="http://www.wikidata.org/entity/Q40543087">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td></td>
-    <td>14674176</td>
   </tr>
   <tr>
     <td>2003-01-01T00:00:00Z</td>
@@ -34006,6 +33992,20 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td></td>
     <td>14752945</td>
+  </tr>
+  <tr>
+    <td>2003-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51657617">A SARS postcard--reflections of two healthcare leaders.</a> (<a href="http://www.wikidata.org/entity/Q51657617">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12934692</td>
+  </tr>
+  <tr>
+    <td>2003-01-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51657627">SARS [editorial].</a> (<a href="http://www.wikidata.org/entity/Q51657627">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td></td>
+    <td>12934690</td>
   </tr>
   <tr>
     <td>2003-01-01T00:00:00Z</td>

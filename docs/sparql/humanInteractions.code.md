@@ -72,7 +72,7 @@ ORDER BY DESC(?date) ?doi
     <td><a href="https://doi.org/10.1080/22221751.2020.1713705">10.1080/22221751.2020.1713705</a></td>
   </tr>
   <tr>
-    <td>2017-01-19T00:00:00Z</td>
+    <td>2017-02-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q412214">Dipeptidyl peptidase 4</a> (<a href="http://www.wikidata.org/entity/Q412214">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40359845">Middle east respiratory syndrome corona virus spike glycoprotein suppresses macrophage responses via DPP4-mediated induction of IRAK-M and PPARγ.</a> (<a href="http://www.wikidata.org/entity/Q40359845">edit</a>)</td>
@@ -116,14 +116,14 @@ ORDER BY DESC(?date) ?doi
   <tr>
     <td>2008-05-19T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q36693984">Modulation of TNF-alpha-converting enzyme by the spike protein of SARS-CoV and ACE2 induces TNF-alpha production and facilitates viral entry</a> (<a href="http://www.wikidata.org/entity/Q36693984">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.0711241105">10.1073/PNAS.0711241105</a></td>
   </tr>
   <tr>
     <td>2008-05-19T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q36693984">Modulation of TNF-alpha-converting enzyme by the spike protein of SARS-CoV and ACE2 induces TNF-alpha production and facilitates viral entry</a> (<a href="http://www.wikidata.org/entity/Q36693984">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.0711241105">10.1073/PNAS.0711241105</a></td>
   </tr>

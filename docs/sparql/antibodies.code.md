@@ -97,11 +97,11 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q41088356">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q41088356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51628462">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q51628462">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51628462">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q51628462">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q41088356">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q41088356">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>

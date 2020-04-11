@@ -142,7 +142,7 @@ Which gives us these proteins:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
@@ -152,12 +152,12 @@ Which gives us these proteins:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td>YP_009724397.2</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
   </tr>
@@ -187,7 +187,7 @@ Which gives us these proteins:
     <td><a href="https://www.uniprot.org/uniprot/P0DTC5">P0DTC5</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC6">P0DTC6</a></td>
   </tr>
@@ -207,7 +207,7 @@ Which gives us these proteins:
     <td><a href="https://www.uniprot.org/uniprot/P0DTD8">P0DTD8</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC8">P0DTC8</a></td>
   </tr>
@@ -248,9 +248,79 @@ Which gives us these proteins:
   </tr>
 </table>
 
+### Protein complexes
+
+Thanks to work done by a team at the online
+[BioHackathon in April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
+macromolecular structures from the [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<a href="#citeref1">1</a>]
+have been entering Wikidata:
+
+**SPARQL** [sparql/complexes.rq](sparql/complexes.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
+
+```sparql
+SELECT ?cpx ?complex ?complexLabel WHERE {
+  ?complex wdt:P7718 ?cpx ;
+           wdt:P703 wd:Q82069695
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+
+Listing these complexes:
+
+<table>
+  <tr>
+    <td><b>cpx</b></td>
+    <td><b>complex</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5687">CPX-5687</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89792653">SARS-CoV-2 NSP9 complex</a> (<a href="http://www.wikidata.org/entity/Q89792653">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5683">CPX-5683</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012260">SARS-CoV-2 Spike - human ACE2 receptor complex</a> (<a href="http://www.wikidata.org/entity/Q90012260">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5684">CPX-5684</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012261">SARS-CoV-2 Spike - human ACE2-SLC6A19 complex</a> (<a href="http://www.wikidata.org/entity/Q90012261">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5682">CPX-5682</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012262">SARS-CoV-2 Spike protein complex</a> (<a href="http://www.wikidata.org/entity/Q90012262">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5685">CPX-5685</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012264">SARS-CoV-2 main protease complex</a> (<a href="http://www.wikidata.org/entity/Q90012264">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5686">CPX-5686</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012266">SARS-CoV-2 nucleocapsid complex</a> (<a href="http://www.wikidata.org/entity/Q90012266">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5688">CPX-5688</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012269">SARS-CoV-2 NSP10-NSP16 complex</a> (<a href="http://www.wikidata.org/entity/Q90012269">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5689">CPX-5689</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012270">SARS-CoV-2 NSP15 complex</a> (<a href="http://www.wikidata.org/entity/Q90012270">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5690">CPX-5690</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012271">SARS-CoV-2 primase complex</a> (<a href="http://www.wikidata.org/entity/Q90012271">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5691">CPX-5691</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012272">SARS-CoV-2 NSP3-NSP4-NSP6 complex</a> (<a href="http://www.wikidata.org/entity/Q90012272">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5692">CPX-5692</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90012273">SARS-CoV-2 Guanine-N7 methyltransferase complex</a> (<a href="http://www.wikidata.org/entity/Q90012273">edit</a>)</td>
+  </tr>
+</table>
+
 #### PDB structures
 
-For the proteins, we can then query for the <a name="tp6">PDB structures</a> [<a href="#citeref1">1</a>]:
+For the proteins, we can then query for the <a name="tp6">PDB structures</a> [<a href="#citeref2">2</a>]:
 
 **SPARQL** [sparql/virusProteinsPDB.rq](sparql/virusProteinsPDB.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fprotein%20%3FproteinLabel%20%3Frefseq%20%3Funiprot%20%3Fpdb%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fprotein%20wdt%3AP638%20%3Fpdb%20.%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP637%20%3Frefseq%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP352%20%3Funiprot%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fprotein%20%3FproteinLabel%20%3Frefseq%20%3Funiprot%20%3Fpdb%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fprotein%20wdt%3AP638%20%3Fpdb%20.%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP637%20%3Frefseq%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP352%20%3Funiprot%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -292,7 +362,7 @@ Which gives us:
     <td><a href="https://www.rcsb.org/structure/6W01">6W01</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/6W4H">6W4H</a></td>
@@ -310,49 +380,49 @@ Which gives us:
     <td><a href="https://www.rcsb.org/structure/6W02">6W02</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/5R81">5R81</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/5R82">5R82</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/5R83">5R83</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/6M03">6M03</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/6Y2E">6Y2E</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/6Y2F">6Y2F</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
     <td><a href="https://www.rcsb.org/structure/6Y84">6Y84</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td>YP_009724397.2</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
     <td><a href="https://www.rcsb.org/structure/6M3M">6M3M</a></td>
@@ -596,6 +666,42 @@ Which returns:
     <td><b>uniprot</b></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89655950">RNA-directed RNA polymerase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89655950">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89656966">helicase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89656966">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89679708">non-structural protein 4 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89679708">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89679739">non-structural protein 6 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89679739">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89681007">non-structural protein 2 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89681007">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89685333">non-structural protein 11 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89685333">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87917572">NSP10 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
     <td></td>
@@ -609,7 +715,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
@@ -621,13 +727,13 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td>YP_009724397.2</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
   </tr>
@@ -711,7 +817,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC6">P0DTC6</a></td>
   </tr>
@@ -735,7 +841,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC8">P0DTC8</a></td>
   </tr>
@@ -866,42 +972,6 @@ Which returns:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89655950">RNA-directed RNA polymerase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89655950">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89656966">helicase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89656966">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89679708">non-structural protein 4 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89679708">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89679739">non-structural protein 6 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89679739">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89681007">non-structural protein 2 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89681007">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89685333">non-structural protein 11 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89685333">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89686805">NSP9 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89686805">edit</a>)</td>
     <td></td>
@@ -944,66 +1014,6 @@ Which returns:
     <td><b>virus</b></td>
     <td><b>gene</b></td>
     <td><b>ncbi</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740568">43740568</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88088053">orf1a polyprotein;orf1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740578">43740578</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740569">43740569</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88088888">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88088888">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740570">43740570</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88089048">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089048">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740571">43740571</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88089203">ORF6 protein</a> (<a href="http://www.wikidata.org/entity/Q88089203">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740572">43740572</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740573">43740573</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740574">43740574</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740577">43740577</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88089689">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089689">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740575">43740575</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88089847">ORF10</a> (<a href="http://www.wikidata.org/entity/Q88089847">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740576">43740576</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; Human coronavirus 2019; Wuhan coronavirus; Wuhan seafood market pneumonia virus).</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43562271">43562271</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
@@ -1289,6 +1299,66 @@ Which returns:
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89210195">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q89210195">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1489678">1489678</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740568">43740568</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088053">orf1a polyprotein;orf1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740578">43740578</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740569">43740569</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88088888">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88088888">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740570">43740570</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089048">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089048">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740571">43740571</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089203">ORF6 protein</a> (<a href="http://www.wikidata.org/entity/Q88089203">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740572">43740572</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740573">43740573</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740574">43740574</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740577">43740577</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089689">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089689">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740575">43740575</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88089847">ORF10</a> (<a href="http://www.wikidata.org/entity/Q88089847">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740576">43740576</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; Human coronavirus 2019; Wuhan coronavirus; Wuhan seafood market pneumonia virus).</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43562271">43562271</a></td>
   </tr>
 </table>
 
@@ -1591,7 +1661,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
@@ -1603,13 +1673,13 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td>YP_009724397.2</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
   </tr>
@@ -1645,7 +1715,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC6">P0DTC6</a></td>
   </tr>
@@ -1669,7 +1739,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC8">P0DTC8</a></td>
   </tr>
@@ -1755,6 +1825,7 @@ Which returns:
 
 ## References
 
-1. <a name="citeref1"></a>Burley SK, Berman HM, Kleywegt G, Markley JL, Nakamura H, Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. Methods in Molecular Biology. 2017 Jan 1;1607:627–41.  doi:[10.1007/978-1-4939-7000-1_26](https://doi.org/10.1007/978-1-4939-7000-1_26) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1007/978-1-4939-7000-1_26))
+1. <a name="citeref1"></a>Missing
+2. <a name="citeref2"></a>Burley SK, Berman HM, Kleywegt G, Markley JL, Nakamura H, Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. Methods in Molecular Biology. 2017 Jan 1;1607:627–41.  doi:[10.1007/978-1-4939-7000-1_26](https://doi.org/10.1007/978-1-4939-7000-1_26) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1007/978-1-4939-7000-1_26))
 
 

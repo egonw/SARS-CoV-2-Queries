@@ -31,7 +31,7 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917580">2'-O-methyltransferase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
@@ -41,12 +41,12 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917582">3C-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td>YP_009724397.2</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
   </tr>
@@ -76,7 +76,7 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td><a href="https://www.uniprot.org/uniprot/P0DTC5">P0DTC5</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88656943">Non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC6">P0DTC6</a></td>
   </tr>
@@ -96,7 +96,7 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td><a href="https://www.uniprot.org/uniprot/P0DTD8">P0DTD8</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88659350">Non-structural protein 8 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC8">P0DTC8</a></td>
   </tr>

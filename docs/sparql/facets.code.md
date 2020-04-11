@@ -44,7 +44,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q86901049">COVID-19 testing</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87073833">Travel restrictions related to the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q87073833">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87073833">travel restriction related to the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q87073833">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87479384">cancelled event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87479384">edit</a>)</td>
@@ -116,10 +116,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q88661507">Impact of the 2019–20 coronavirus pandemic on science and technology</a> (<a href="http://www.wikidata.org/entity/Q88661507">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88860637">Q88860637</a> (<a href="http://www.wikidata.org/entity/Q88860637">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88870126">NHS Nightingale Hospitals</a> (<a href="http://www.wikidata.org/entity/Q88870126">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88860637">Clap for our Carers</a> (<a href="http://www.wikidata.org/entity/Q88860637">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88903067">cancelled sports event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
@@ -140,7 +137,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q89164046">2020 coronavirus pandemic in Botswana</a> (<a href="http://www.wikidata.org/entity/Q89164046">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89209954">NHS COVID-19 critical care hospitals</a> (<a href="http://www.wikidata.org/entity/Q89209954">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89209954">NHS COVID-19 critical care hospital</a> (<a href="http://www.wikidata.org/entity/Q89209954">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89288125">Coronavirus app</a> (<a href="http://www.wikidata.org/entity/Q89288125">edit</a>)</td>
@@ -153,6 +150,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89864650">Impact of the 2019–20 coronavirus pandemic on prisons</a> (<a href="http://www.wikidata.org/entity/Q89864650">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90085156">Impact of the 2019–20 coronavirus pandemic on the environment</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

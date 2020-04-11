@@ -21,29 +21,14 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754693">Sarbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754693">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694009">694009</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2117529">Puffinosis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2117529">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/76583">76583</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2117529">Puffinosis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2117529">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/76583">76583</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2132904">Rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2132904">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31632">31632</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2132904">Rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2132904">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31632">31632</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754693">Sarbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754693">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694009">694009</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
@@ -54,11 +39,6 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q57754679">Merbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754679">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1335626">1335626</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q6926073">Mouse hepatitis virus</a> (<a href="http://www.wikidata.org/entity/Q6926073">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11138">11138</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q34967815">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q34967815">edit</a>)</td>
@@ -116,6 +96,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694007">694007</a></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694005">694005</a></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754667">Embecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694005">694005</a></td>
@@ -133,12 +118,12 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1965093">1965093</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754679">Merbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754679">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1965093">1965093</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -178,12 +163,12 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754667">Embecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773834">China Rattus coronavirus HKU24</a> (<a href="http://www.wikidata.org/entity/Q57773834">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501960">2501960</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754685">Nobecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754685">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q57879935">Rousettus bat coronavirus GCCDC1</a> (<a href="http://www.wikidata.org/entity/Q57879935">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501962">2501962</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

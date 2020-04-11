@@ -46,6 +46,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
 5.2.1. [Genes](genes.md#genes) <br />
 5.2.2. [Proteins](genes.md#proteins) <br />
+5.2.3. [Protein complexes](genes.md#protein-complexes) <br />
 5.3. [All SARSr viruses](genes.md#all-sarsr-viruses) <br />
 5.3.1. [All SARSr genes](genes.md#all-sarsr-genes) <br />
 5.3.2. [All SARSr proteins](genes.md#all-sarsr-proteins) <br />

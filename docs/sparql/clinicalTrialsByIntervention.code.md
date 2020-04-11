@@ -24,39 +24,47 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q421094">hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td>11</td>
+    <td>41</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td>11</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
+    <td>12</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td>11</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
-    <td>9</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q425154">tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q425154">tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57055">acetaminophen</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q207843">nitric oxide (radical)</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
     <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
-    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q417222">methylprednisolone</a> (<a href="http://www.wikidata.org/entity/Q417222">edit</a>)</td>
@@ -91,16 +99,24 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q188269">interferon</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57055">acetaminophen</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q288280">ACE inhibitor</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
     <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q193598">DL-ascorbic acid</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q165399">azithromycin</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q408524">cyclophosphamide</a> (<a href="http://www.wikidata.org/entity/Q408524">edit</a>)</td>
@@ -108,6 +124,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q27106392">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q798309">BCG vaccine</a> (<a href="http://www.wikidata.org/entity/Q798309">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -119,11 +139,19 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q288280">ACE inhibitor</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q17149812">Janus kinase inhibitor</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q193598">DL-ascorbic acid</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q415411">anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q155954">tenofovir</a> (<a href="http://www.wikidata.org/entity/Q155954">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422604">emtricitabine</a> (<a href="http://www.wikidata.org/entity/Q422604">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -131,11 +159,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q165399">azithromycin</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422212">budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q7041828">nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -151,12 +175,12 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q798309">BCG vaccine</a> (<a href="http://www.wikidata.org/entity/Q798309">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422212">budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q1215575">naproxen</a> (<a href="http://www.wikidata.org/entity/Q1215575">edit</a>)</td>
@@ -168,10 +192,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q188724">non-steroidal anti-inflammatory drug</a> (<a href="http://www.wikidata.org/entity/Q188724">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17149812">Janus kinase inhibitor</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -191,19 +211,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q415411">anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q5119448">ciclesonide</a> (<a href="http://www.wikidata.org/entity/Q5119448">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q155954">tenofovir</a> (<a href="http://www.wikidata.org/entity/Q155954">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422604">emtricitabine</a> (<a href="http://www.wikidata.org/entity/Q422604">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -212,10 +220,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q49872458">Ergocalciferols</a> (<a href="http://www.wikidata.org/entity/Q49872458">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q7041828">nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -228,14 +232,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q668093">atorvastatin</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q417097">levamisole</a> (<a href="http://www.wikidata.org/entity/Q417097">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -252,10 +248,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q66559285">immunoglobulin</a> (<a href="http://www.wikidata.org/entity/Q66559285">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -288,6 +280,14 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q417097">levamisole</a> (<a href="http://www.wikidata.org/entity/Q417097">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

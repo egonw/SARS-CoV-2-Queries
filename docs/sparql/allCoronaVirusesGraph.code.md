@@ -21,56 +21,6 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754709">Buldecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754709">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509474">2509474</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754714">Herdecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754714">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509485">2509485</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754718">Moordecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754718">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509499">2509499</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754725">Cegacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754725">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509476">2509476</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754734">Igacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754734">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509487">2509487</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57758320">Rhinolophus ferrumequinum alphacoronavirus HuB-2013</a> (<a href="http://www.wikidata.org/entity/Q57758320">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754626">Myotacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754626">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57758326">Myotis ricketti alphacoronavirus Sax-2011</a> (<a href="http://www.wikidata.org/entity/Q57758326">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754632">Nyctacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754632">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57758332">Nyctalus velutinus alphacoronavirus SC-2013</a> (<a href="http://www.wikidata.org/entity/Q57758332">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754671">Hibecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754671">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57758339">Bat Hp-betacoronavirus Zhejiang2013</a> (<a href="http://www.wikidata.org/entity/Q57758339">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754603">Luchacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754603">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57773819">Lucheng Rn rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57773819">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754609">Minacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754609">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773822">Ferret coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57773822">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1264898">1264898</a></td>
@@ -78,17 +28,17 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754656">Setracovirus</a> (<a href="http://www.wikidata.org/entity/Q57754656">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773827">NL63-related bat coronavirus strain BtKYNL63-9b</a> (<a href="http://www.wikidata.org/entity/Q57773827">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501929">2501929</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754667">Embecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773834">China Rattus coronavirus HKU24</a> (<a href="http://www.wikidata.org/entity/Q57773834">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501960">2501960</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754685">Nobecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754685">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q57879935">Rousettus bat coronavirus GCCDC1</a> (<a href="http://www.wikidata.org/entity/Q57879935">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501962">2501962</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -116,44 +66,14 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754693">Sarbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754693">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694009">694009</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q454829">Feline coronavirus</a> (<a href="http://www.wikidata.org/entity/Q454829">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/12663">12663</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18965331">Alphacoronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q18965331">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q454829">Feline coronavirus</a> (<a href="http://www.wikidata.org/entity/Q454829">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/12663">12663</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2117529">Puffinosis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2117529">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/76583">76583</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2117529">Puffinosis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2117529">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/76583">76583</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2132904">Rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2132904">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31632">31632</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2132904">Rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2132904">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31632">31632</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754693">Sarbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754693">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694009">694009</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
@@ -166,29 +86,9 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1335626">1335626</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q5032409">Canine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q5032409">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11153">11153</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q5032409">Canine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q5032409">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11153">11153</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q6926073">Mouse hepatitis virus</a> (<a href="http://www.wikidata.org/entity/Q6926073">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11138">11138</a></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q18965331">Alphacoronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q18965331">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q7834605">Transmissible gastroenteritis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q7834605">edit</a>)</td>
     <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18965335">Avian coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18965335">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q7855142">Turkey coronavirus</a> (<a href="http://www.wikidata.org/entity/Q7855142">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11152">11152</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
@@ -366,6 +266,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694007">694007</a></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694005">694005</a></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754667">Embecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694005">694005</a></td>
@@ -426,11 +331,6 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694015">694015</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q18965335">Avian coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18965335">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q22103916">Pigeon coronavirus</a> (<a href="http://www.wikidata.org/entity/Q22103916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/300189">300189</a></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808936">Bat coronavirus CDPHE15</a> (<a href="http://www.wikidata.org/entity/Q24808936">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1913643">1913643</a></td>
@@ -463,12 +363,12 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1965093">1965093</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754679">Merbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754679">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1965093">1965093</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
@@ -614,6 +514,56 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754699">Andecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754699">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509469">2509469</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754709">Buldecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754709">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509474">2509474</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754714">Herdecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754714">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509485">2509485</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754718">Moordecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754718">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509499">2509499</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754725">Cegacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754725">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509476">2509476</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754734">Igacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754734">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509487">2509487</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57758320">Rhinolophus ferrumequinum alphacoronavirus HuB-2013</a> (<a href="http://www.wikidata.org/entity/Q57758320">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501926">2501926</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754626">Myotacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754626">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57758326">Myotis ricketti alphacoronavirus Sax-2011</a> (<a href="http://www.wikidata.org/entity/Q57758326">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501927">2501927</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754632">Nyctacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754632">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57758332">Nyctalus velutinus alphacoronavirus SC-2013</a> (<a href="http://www.wikidata.org/entity/Q57758332">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501928">2501928</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754671">Hibecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754671">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57758339">Bat Hp-betacoronavirus Zhejiang2013</a> (<a href="http://www.wikidata.org/entity/Q57758339">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754603">Luchacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754603">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57773819">Lucheng Rn rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57773819">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1508224">1508224</a></td>
   </tr>
 </table>
 ## Code examples

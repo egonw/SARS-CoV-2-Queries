@@ -22,40 +22,12 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694009">694009</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q454829">Feline coronavirus</a> (<a href="http://www.wikidata.org/entity/Q454829">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/12663">12663</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2117529">Puffinosis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2117529">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/76583">76583</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2132904">Rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q2132904">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31632">31632</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1335626">1335626</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q5032409">Canine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q5032409">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11153">11153</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q6926073">Mouse hepatitis virus</a> (<a href="http://www.wikidata.org/entity/Q6926073">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11138">11138</a></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q7834605">Transmissible gastroenteritis coronavirus</a> (<a href="http://www.wikidata.org/entity/Q7834605">edit</a>)</td>
     <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q7855142">Turkey coronavirus</a> (<a href="http://www.wikidata.org/entity/Q7855142">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11152">11152</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
@@ -162,10 +134,6 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694015">694015</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q22103916">Pigeon coronavirus</a> (<a href="http://www.wikidata.org/entity/Q22103916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/300189">300189</a></td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808936">Bat coronavirus CDPHE15</a> (<a href="http://www.wikidata.org/entity/Q24808936">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1913643">1913643</a></td>
   </tr>
@@ -179,7 +147,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1965093">1965093</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q24808943">Common moorhen coronavirus HKU21</a> (<a href="http://www.wikidata.org/entity/Q24808943">edit</a>)</td>
@@ -299,15 +267,15 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758320">Rhinolophus ferrumequinum alphacoronavirus HuB-2013</a> (<a href="http://www.wikidata.org/entity/Q57758320">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501926">2501926</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758326">Myotis ricketti alphacoronavirus Sax-2011</a> (<a href="http://www.wikidata.org/entity/Q57758326">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501927">2501927</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758332">Nyctalus velutinus alphacoronavirus SC-2013</a> (<a href="http://www.wikidata.org/entity/Q57758332">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501928">2501928</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57758339">Bat Hp-betacoronavirus Zhejiang2013</a> (<a href="http://www.wikidata.org/entity/Q57758339">edit</a>)</td>
@@ -315,7 +283,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773819">Lucheng Rn rat coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57773819">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1508224">1508224</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773822">Ferret coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57773822">edit</a>)</td>
@@ -323,15 +291,15 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773827">NL63-related bat coronavirus strain BtKYNL63-9b</a> (<a href="http://www.wikidata.org/entity/Q57773827">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501929">2501929</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57773834">China Rattus coronavirus HKU24</a> (<a href="http://www.wikidata.org/entity/Q57773834">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501960">2501960</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57879935">Rousettus bat coronavirus GCCDC1</a> (<a href="http://www.wikidata.org/entity/Q57879935">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501962">2501962</a></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

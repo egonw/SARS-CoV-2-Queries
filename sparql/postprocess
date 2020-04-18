@@ -33,6 +33,7 @@ while (line != null) {
     } else if (line.charAt(0) == '%') {
       md.append(line.substring(1)+"\n");
     } else {
+      if (line.contains("<lang/>")) line = line.replace("<lang/>", lang)
       md.append(line+"\n");
     }
   }  

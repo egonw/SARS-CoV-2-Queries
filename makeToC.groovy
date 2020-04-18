@@ -1,4 +1,4 @@
-// Copyright (c) 2019  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2019-2020  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
@@ -8,17 +8,23 @@
 
 def chapterCounter = 0
 
+lang = args[0]
+
+langFolder = ""
+if (lang != "en") langFolder = "${lang}/"
+
 chapters = "order.txt"
 new File(chapters).eachLine { chapter ->
   if (chapter.startsWith("app")) return;
   chapterCounter++
-  file = "src/${chapter}.i.md"
+  file = "src/${langFolder}/${chapter}.md"
+  if (!new File(file).exists()) return;
   sectionCounter = 0
   subsectionCounter = 0
   new File(file).eachLine { line ->
     if (line.startsWith("# ")) {
       chapterTitle = line.substring(2).trim()
-      println "${chapterCounter}. [${chapterTitle}](${chapter}.i.md) <br />"
+      println "${chapterCounter}. [${chapterTitle}](${chapter}.md) <br />"
     } else if (line.startsWith("## ") && !line.contains("References")) {
       subsectionCounter = 0
       sectionTitle = line.substring(3).trim()
@@ -46,7 +52,7 @@ new File(chapters).eachLine { chapter ->
       } else if (instruction.@level == "#") {
         sectionTitle = instruction.text()
         sectionHref = sectionTitle.toLowerCase().replaceAll(" ", "-").replaceAll("\\.", "")
-        println "${chapterCounter}. [${sectionTitle}](${chapter}.i.md) <br />"
+        println "${chapterCounter}. [${sectionTitle}](${chapter}.md) <br />"
       }
     }
   }  

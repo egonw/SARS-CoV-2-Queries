@@ -1,13 +1,10 @@
-SOURCES := intro.i.md index.i.md viruses.i.md genes.i.md pandemic.i.md \
-  literature.i.md covid.i.md solution.i.md human.i.md
-TARGETS := intro.md indexList.md viruses.md genes.md pandemic.md \
-  literature.md covid.md solution.md human.md
+SOURCES := $(shell find src -name "*.md")
+TARGETS := $(shell find src -name "*.md" | sed -e 's/src/docs/' | sed -e 's/\.i//')
 METAS := references.dat toc.txt indexList.i.md sections.txt
 
 SUBDIRS := sparql
 
-all: ${SUBDIRS} ${METAS} ${TARGETS} index.md
-	@mv ${TARGETS} docs/
+all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
 	@cp sparql/*.code.md docs/sparql/
 
 sections.txt: order.txt ${SOURCES}
@@ -24,20 +21,16 @@ indexList.i.md: topics.tsv makeIndex.groovy
 
 topics.tsv: ${SOURCES} findTopics.groovy
 	@echo "Extracting the topics"
-	@groovy findTopics.groovy . | sort > topics.tsv
+	@groovy findTopics.groovy src | sort > topics.tsv
 
 references.qids: findCitations.groovy
 	@echo "Finding the citations"
-	@groovy findCitations.groovy . | grep "^Q" | sort | uniq > references.qids
+	@groovy findCitations.groovy src | grep "^Q" | sort | uniq > references.qids
 
 references.dat: references.qids references.js
 	@nodejs references.js
 
-index.md: index.i.md toc.txt createMarkdown.groovy
-	@echo "Creating $@"
-	@groovy createMarkdown.groovy index.i.md > docs/index.md
-
-%.md : %.i.md createMarkdown.groovy
+docs/%.md : src/%.i.md createMarkdown.groovy
 	@echo "Creating $@"
 	@groovy createMarkdown.groovy $< > $@
 

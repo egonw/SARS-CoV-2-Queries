@@ -1,5 +1,5 @@
 CODEFILES: \
- $(shell groovy ../findScripts.groovy .. .out)
+ $(shell groovy ../findScripts.groovy ../src .out | sort | uniq)
 
 .PRECIOUS: %.java %.groovy
 

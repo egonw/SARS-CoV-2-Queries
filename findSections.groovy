@@ -1,4 +1,4 @@
-// Copyright (c) 2019  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2019-2020  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
@@ -26,7 +26,7 @@ chapters = "order.txt"
 new File(chapters).eachLine { chapter ->
   chapterCounter++
   currentChapterCounter = chapterCounters.get(chapter)
-  file = "${chapter}.i.md"
+  file = "src/${chapter}.i.md"
   sectionCounter = 0
   subsectionCounter = 0
   lines = new File(file).readLines()

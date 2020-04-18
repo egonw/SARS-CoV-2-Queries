@@ -12,7 +12,7 @@ chapters = "order.txt"
 new File(chapters).eachLine { chapter ->
   if (chapter.startsWith("app")) return;
   chapterCounter++
-  file = "${chapter}.i.md"
+  file = "src/${chapter}.i.md"
   sectionCounter = 0
   subsectionCounter = 0
   new File(file).eachLine { line ->

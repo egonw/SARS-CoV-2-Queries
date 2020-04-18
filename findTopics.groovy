@@ -16,7 +16,7 @@ def folder = args[0]
 def topicCounter = 0
 
 def basedir = new File(folder)
-files = basedir.listFiles().grep(~/src\/.*i.md$/)
+files = basedir.listFiles().grep(~/src\/.*.md$/)
 files.each { file ->
   topicCounter = 0
   context = file.name.substring(0, file.name.indexOf("."))

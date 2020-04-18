@@ -1,5 +1,5 @@
 SOURCES := $(shell find src -name "*.md")
-TARGETS := $(shell find src -name "*.md" | sed -e 's/src/docs/' | sed -e 's/\.i//')
+TARGETS := $(shell find src -name "*.md" | sed -e 's/src/docs/' )
 METAS := references.dat toc.txt indexList.i.md sections.txt
 
 SUBDIRS := sparql
@@ -30,7 +30,7 @@ references.qids: findCitations.groovy
 references.dat: references.qids references.js
 	@nodejs references.js
 
-docs/%.md : src/%.i.md createMarkdown.groovy
+docs/%.md : src/%.md createMarkdown.groovy
 	@echo "Creating $@"
 	@groovy createMarkdown.groovy $< > $@
 

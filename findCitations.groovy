@@ -14,7 +14,7 @@ if (args.length == 0) {
 def folder = args[0]
 
 def basedir = new File(folder)
-files = basedir.listFiles().grep(~/.*i.md$/)
+files = basedir.listFiles().grep(~/.*.md$/)
 files.each { file ->
   file.eachLine { line ->
     while (line.contains("<cite>")) {

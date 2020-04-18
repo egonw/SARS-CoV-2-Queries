@@ -26,7 +26,7 @@ chapters = "order.txt"
 new File(chapters).eachLine { chapter ->
   chapterCounter++
   currentChapterCounter = chapterCounters.get(chapter)
-  file = "src/${chapter}.i.md"
+  file = "src/${chapter}.md"
   sectionCounter = 0
   subsectionCounter = 0
   lines = new File(file).readLines()

@@ -11,5 +11,5 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
   ?protein wdt:P703 ?virus ; wdt:P31 wd:Q8054 .
   OPTIONAL { ?protein wdt:P637 ?refseq }
   OPTIONAL { ?protein wdt:P352 ?uniprot }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],<lang/>". }
 } ORDER BY ?virus

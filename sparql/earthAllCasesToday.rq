@@ -1,4 +1,4 @@
 SELECT ?numberOfCases  WHERE {
   wd:Q81068910 wdt:P1603 ?numberOfCases .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],<lang/>". }
 }

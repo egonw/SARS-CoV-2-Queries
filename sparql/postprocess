@@ -78,7 +78,10 @@ for (int type=0; type<mdTypes.size(); type++) {
         line = line + "\n";
       } else if (line.contains("%SOURCECODE%")) {
         srcLines = new File(srcFile).readLines()
-        srcLines.each { String srcLine -> mdWriter.write(srcLine + "\n") }
+        srcLines.each { String srcLine -> 
+          if (srcLine.contains("<lang/>")) srcLine = srcLine.replace("<lang/>", lang)
+          mdWriter.write(srcLine + "\n")
+        }
         line = ""
       } else if (line.contains("%OUT%")) {
         srcLines = new File(runClass + ".${lang}.out").readLines()

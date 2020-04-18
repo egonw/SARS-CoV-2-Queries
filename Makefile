@@ -9,8 +9,10 @@ SUBDIRS := sparql
 
 all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
 	@cp sparql/*.code.en.md docs/sparql
+	@rename.ul 'en.md' 'md' docs/sparql/*.md
 	@for lang in $(L10N) ; do \
 		cp sparql/*.code.$$lang.md docs/$$lang/sparql ; \
+		rename.ul '$$lang.md' 'md' docs/$$lang/sparql/*.md ; \
 	done
 	@cp indexList.en.md docs/indexList.md
 	@for lang in $(L10N) ; do \
@@ -55,10 +57,6 @@ references.qids: findCitations.groovy
 references.dat: references.qids references.js
 	@nodejs references.js
 
-docs/%.md : src/%.md createMarkdown.groovy
-	@echo "Creating $@"
-	@groovy createMarkdown.groovy $< en > $@
-
-docs/%.md : src/%.md createMarkdown.groovy
+docs/%.md : src/%.md createMarkdown.groovy sparql/*.out
 	@echo "Creating $@ ... "
-	groovy createMarkdown.groovy $< > $@
+	@groovy createMarkdown.groovy $< > $@

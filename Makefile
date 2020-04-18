@@ -32,5 +32,5 @@ references.dat: references.qids references.js
 
 docs/%.md : src/%.md createMarkdown.groovy
 	@echo "Creating $@"
-	@groovy createMarkdown.groovy $< > $@
+	@groovy createMarkdown.groovy $< en > $@
 

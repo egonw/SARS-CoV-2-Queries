@@ -16,5 +16,5 @@ allScriptsCompiled: ${CODEFILES}
 
 %.out: %.rq md.*.template preprocess postprocess
 	@echo "doing $@ ..."
-	@groovy preprocess $< > $@
-	@groovy postprocess $<
+	@groovy preprocess $< en > `echo "$@" | sed s/.out/.en.out/`
+	@groovy postprocess $< en

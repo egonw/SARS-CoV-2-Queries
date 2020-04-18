@@ -9,8 +9,11 @@ bioclipse = new net.bioclipse.managers.BioclipseManager(".");
 rdf = new net.bioclipse.managers.RDFManager(".");
 
 inFile = args[0];
+lang = args[1];
 
 sparql = new File(inFile).text
+if (sparql.contains("<lang/>"))
+  sparql = sparql.replace("<lang/>", lang)
 
 formatterURLs = new HashMap<String,String>()
 formatterURLs.put("ncbi", "https://www.ncbi.nlm.nih.gov/taxonomy/#{1}")

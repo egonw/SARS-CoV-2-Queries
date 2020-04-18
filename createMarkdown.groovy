@@ -3,6 +3,7 @@
 // GPL v3
 
 input = args[0]
+lang = args[1]
 
 bibliography = new HashMap<String,String>();
 def bibLines = new File("references.dat").readLines()

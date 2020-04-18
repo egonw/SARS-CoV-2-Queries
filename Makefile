@@ -12,7 +12,7 @@ all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
 	@rename.ul 'en.md' 'md' docs/sparql/*.md
 	@for lang in $(L10N) ; do \
 		cp sparql/*.code.$$lang.md docs/$$lang/sparql ; \
-		rename.ul '$$lang.md' 'md' docs/$$lang/sparql/*.md ; \
+		rename.ul "$$lang.md" 'md' docs/$$lang/sparql/*.md ; \
 	done
 	@cp indexList.en.md docs/indexList.md
 	@for lang in $(L10N) ; do \

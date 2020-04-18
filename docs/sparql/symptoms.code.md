@@ -61,7 +61,7 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q767485">respiratory failure</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q1076369">Cytokine release syndrome (CRS)</a> (<a href="http://www.wikidata.org/entity/Q1076369">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q1076369">cytokine storm</a> (<a href="http://www.wikidata.org/entity/Q1076369">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q3508755">influenza like illness</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>

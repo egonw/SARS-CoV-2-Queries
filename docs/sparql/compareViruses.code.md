@@ -2294,6 +2294,10 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45121729">In vitro biochemical and thermodynamic characterization of nucleocapsid protein of SARS.</a> (<a href="http://www.wikidata.org/entity/Q45121729">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q28473757">In vitro reconstitution of SARS-coronavirus mRNA cap methylation</a> (<a href="http://www.wikidata.org/entity/Q28473757">edit</a>)</td>
   </tr>
   <tr>

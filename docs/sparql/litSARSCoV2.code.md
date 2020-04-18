@@ -40,6 +40,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1038/D41586-020-00154-W">10.1038/D41586-020-00154-W</a></td>
   </tr>
   <tr>
+    <td>2020-04-06T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89649999">The Three Steps Needed to End the COVID-19 Pandemic: Bold Public Health Leadership, Rapid Innovations, and Courageous Political Will</a> (<a href="http://www.wikidata.org/entity/Q89649999">edit</a>)</td>
+    <td><a href="https://doi.org/10.2196/19043">10.2196/19043</a></td>
+  </tr>
+  <tr>
     <td>2020-04-03T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89354634">Respiratory virus shedding in exhaled breath and efficacy of face masks</a> (<a href="http://www.wikidata.org/entity/Q89354634">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41591-020-0843-2">10.1038/S41591-020-0843-2</a></td>
@@ -63,11 +68,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-29T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88979047">Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study</a> (<a href="http://www.wikidata.org/entity/Q88979047">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.03.24.20042937">10.1101/2020.03.24.20042937</a></td>
-  </tr>
-  <tr>
-    <td>2020-03-29T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88979098">Modeling of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Proteins by Machine Learning and Physics-Based Refinement</a> (<a href="http://www.wikidata.org/entity/Q88979098">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.03.25.008904">10.1101/2020.03.25.008904</a></td>
   </tr>
 </table>
 ## Code examples

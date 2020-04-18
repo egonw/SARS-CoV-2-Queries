@@ -28,10 +28,6 @@ For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 * [Missing for SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695/missing)
 * [Missing for SARS-CoV-1](https://tools.wmflabs.org/scholia/topic/Q85438966/missing)
 
-## Modelling the content in Wikidata
-
-...
-
 ## References
 
 <references/>

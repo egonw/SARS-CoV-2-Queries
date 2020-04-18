@@ -28,10 +28,6 @@ For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 * [Missing for SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695/missing)
 * [Missing for SARS-CoV-1](https://tools.wmflabs.org/scholia/topic/Q85438966/missing)
 
-## Modelling the content in Wikidata
-
-...
-
 ## References
 
 1. <a name="citeref1"></a>Vrandečić D. Wikidata: A New Platform for Collaborative Data Collection. Proceedings of the 21st International Conference on World Wide Web. 2012;1063–4.  doi:[10.1145/2187980.2188242](https://doi.org/10.1145/2187980.2188242) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1145/2187980.2188242))

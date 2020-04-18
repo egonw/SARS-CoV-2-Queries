@@ -9,5 +9,5 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   OPTIONAL {
     ?trial wdt:P4844 ?intervention .
   }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],<lang/>". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }

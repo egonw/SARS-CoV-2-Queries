@@ -10,5 +10,5 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbi WHERE {
   }
   ?gene wdt:P703 ?virus ; wdt:P31 wd:Q7187 .
   OPTIONAL { ?gene wdt:P351 ?ncbi }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],<lang/>". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }

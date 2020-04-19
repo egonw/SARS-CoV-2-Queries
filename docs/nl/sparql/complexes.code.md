@@ -1,5 +1,5 @@
 # complexes.rq
-**Code examples:** [curl](#curl)
+**Broncode voorbeelden:** [curl](#curl)
 ### SPARQL
 ```sparql
 SELECT ?cpx ?complex ?complexLabel WHERE {
@@ -8,10 +8,10 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "nl,en". }
 }
 ```
-[Execute](https://query.wikidata.org/embed.html#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A) or [Edit](https://query.wikidata.org/#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A)
+[uitvoeren](https://query.wikidata.org/embed.html#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A) of [bewerken](https://query.wikidata.org/#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A)
 
 
-### Output
+### Resultaten
 <table>
   <tr>
     <td><b>cpx</b></td>
@@ -62,10 +62,10 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q90012273">SARS-CoV-2 Guanine-N7 methyltransferase complex</a> (<a href="http://www.wikidata.org/entity/Q90012273">edit</a>)</td>
   </tr>
 </table>
-## Code examples
+## Broncode voorbeelden
 ### curl
 ```shell
 curl -o complexes.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/complexes.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@complexes.rq
 ```
-This SPARQL query is available under CCZero.
+Deze SPARQL zoekopdracht is beschikbaar als CCZero

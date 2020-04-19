@@ -17,6 +17,9 @@ maar alle SPARQL zoekopdrachten in dit boek kunnen gebruikt worden als
 
 ## Inhoud
 
+6. [De mens](human.md) <br />
+6.1. [Gen en eiwit interacties](human.md#gen-en-eiwit-interacties) <br />
+6.2. [Biological processes](human.md#biological-processes) <br />
 
 [Index](indexList.md) <br />
 

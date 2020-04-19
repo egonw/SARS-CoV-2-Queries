@@ -370,6 +370,354 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04323345</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86273774">The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86273774">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q203174">Thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04273581</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86273774">The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86273774">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04273581</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86273846">The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86273846">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q203174">Thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04273529</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86276764">Adaptive COVID-19 Treatment Trial</a> (<a href="http://www.wikidata.org/entity/Q86276764">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04280705</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86278951">Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86278951">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q193598">Ascorbinezuur</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04264533</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04278963</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04278963</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86281659">Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86281659">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04275414</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86281659">Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86281659">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04275414</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153050">Norwegian Coronavirus Disease 2019 Study</a> (<a href="http://www.wikidata.org/entity/Q89153050">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04316377</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153050">Norwegian Coronavirus Disease 2019 Study</a> (<a href="http://www.wikidata.org/entity/Q89153050">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04316377</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153050">Norwegian Coronavirus Disease 2019 Study</a> (<a href="http://www.wikidata.org/entity/Q89153050">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04316377</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153189">The Vietnam Chloroquine Treatment on COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153189">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04328493</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153189">The Vietnam Chloroquine Treatment on COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153189">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04328493</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153199">REDUCING HEALTH CARE WORKERS ABSENTEEISM IN SARS-CoV-2 PANDEMIC THROUGH BACILLUS CALMETTE-GUÉRIN VACCINATION, A RANDOMIZED CONTROLLED TRIAL</a> (<a href="http://www.wikidata.org/entity/Q89153199">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q798309">BCG-vaccin</a> (<a href="http://www.wikidata.org/entity/Q798309">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328441</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153234">Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers</a> (<a href="http://www.wikidata.org/entity/Q89153234">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328285</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153234">Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers</a> (<a href="http://www.wikidata.org/entity/Q89153234">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328285</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153234">Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers</a> (<a href="http://www.wikidata.org/entity/Q89153234">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328285</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q410074">Losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q410074">Losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04328012</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89153736">Convalescent Plasma to Limit Coronavirus Associated Complications</a> (<a href="http://www.wikidata.org/entity/Q89153736">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04325672</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154305">Efficacy and Safety of Emapalumab and Anakinra in Reducing Hyperinflammation and Respiratory Distress in Patients With COVID-19 Infection.</a> (<a href="http://www.wikidata.org/entity/Q89154305">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q415411">Anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04324021</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154305">Efficacy and Safety of Emapalumab and Anakinra in Reducing Hyperinflammation and Respiratory Distress in Patients With COVID-19 Infection.</a> (<a href="http://www.wikidata.org/entity/Q89154305">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q415411">Anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04324021</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154343">Efficacy and Safety Human Coronavirus Immune Plasma (HCIP) vs. Control (SARS-CoV-2 Non-immune Plasma) Among Adults Exposed to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89154343">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04323800</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154556">Anti-il6 Treatment of Serious COVID-19 Disease With Threatening Respiratory Failure</a> (<a href="http://www.wikidata.org/entity/Q89154556">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04322773</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04321616</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04321616</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04321616</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04321616</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435639">Randomized, Controlled, Double-blind Clinical Trial Comparing the Efficacy and Safety of Chemoprophylaxis With Hydroxychloroquine in Patients Under Biological Treatment and / or JAK Inhibitors in the Prevention of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q89435639">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04330495</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435639">Randomized, Controlled, Double-blind Clinical Trial Comparing the Efficacy and Safety of Chemoprophylaxis With Hydroxychloroquine in Patients Under Biological Treatment and / or JAK Inhibitors in the Prevention of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q89435639">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q17149812">Janus kinase inhibitor</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04330495</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435670">Hydroxychloroquine as Post Exposure Prophylaxis for SARS-CoV-2(HOPE Trial)</a> (<a href="http://www.wikidata.org/entity/Q89435670">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04330144</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435732">EPICOS Clinical Trial for the Prevention of Infection in Healthcare Personnel</a> (<a href="http://www.wikidata.org/entity/Q89435732">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q155954">Tenofovir</a> (<a href="http://www.wikidata.org/entity/Q155954">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04329520</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435732">EPICOS Clinical Trial for the Prevention of Infection in Healthcare Personnel</a> (<a href="http://www.wikidata.org/entity/Q89435732">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04329520</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435732">EPICOS Clinical Trial for the Prevention of Infection in Healthcare Personnel</a> (<a href="http://www.wikidata.org/entity/Q89435732">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422604">Emtricitabine</a> (<a href="http://www.wikidata.org/entity/Q422604">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04329520</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435746">Hydroxychloroquine to Prevent Covid19 Pneumonia (ALBERTA HOPE-Covid19)</a> (<a href="http://www.wikidata.org/entity/Q89435746">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04329611</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435752">Efficacy and Safety of Hydroxychloroquine and Azithromycin for the Treatment of Hospitalized Patients With Moderate to Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89435752">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04329572</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435801">ACE Inhibitors or ARBs Discontinuation in Context of SARS-CoV-2 Pandemia</a> (<a href="http://www.wikidata.org/entity/Q89435801">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q288280">ACE-remmer</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04329195</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435835">Hydroxychloroquine for COVID-19 PEP</a> (<a href="http://www.wikidata.org/entity/Q89435835">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q193598">Ascorbinezuur</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04328961</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89435835">Hydroxychloroquine for COVID-19 PEP</a> (<a href="http://www.wikidata.org/entity/Q89435835">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04328961</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89506972">Prospective Study in Patients With Advanced or Metastatic Cancer and SARS-CoV-2 (COVID-19) Infection</a> (<a href="http://www.wikidata.org/entity/Q89506972">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04333914</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89506972">Prospective Study in Patients With Advanced or Metastatic Cancer and SARS-CoV-2 (COVID-19) Infection</a> (<a href="http://www.wikidata.org/entity/Q89506972">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q7041828">nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04333914</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89506972">Prospective Study in Patients With Advanced or Metastatic Cancer and SARS-CoV-2 (COVID-19) Infection</a> (<a href="http://www.wikidata.org/entity/Q89506972">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04333914</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507113">Cell Therapy Using Umbilical Cord-derived Mesenchymal Stromal Cells in SARS-CoV-2-related ARDS</a> (<a href="http://www.wikidata.org/entity/Q89507113">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04333368</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507113">Cell Therapy Using Umbilical Cord-derived Mesenchymal Stromal Cells in SARS-CoV-2-related ARDS</a> (<a href="http://www.wikidata.org/entity/Q89507113">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04333368</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507115">Safety in Convalescent Plasma Transfusion to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507115">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04333355</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507131">Study Testing Convalescent Plasma vs Best Supportive Care</a> (<a href="http://www.wikidata.org/entity/Q89507131">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04333251</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507569">Clinical Trial of Combined Use of Hydroxychloroquine, Azithromycin, and Tocilizumab for the Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507569">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q165399">Azithromycine</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04332094</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507569">Clinical Trial of Combined Use of Hydroxychloroquine, Azithromycin, and Tocilizumab for the Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507569">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04332094</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507569">Clinical Trial of Combined Use of Hydroxychloroquine, Azithromycin, and Tocilizumab for the Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507569">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q425154">Tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04332094</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89154414">Traditional Chinese Medicine for Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89154414">edit</a>)</td>
     <td></td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
@@ -970,66 +1318,6 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04331470</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422212">Budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04331470</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507754">Protective Role of Inhaled Steroids for Covid-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q89507754">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422212">Budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04331054</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q86293782">Function and Safety Study of SARS-CoV-2 Synthetic Minigene Vaccines</a> (<a href="http://www.wikidata.org/entity/Q86293782">edit</a>)</td>
     <td></td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
@@ -1058,66 +1346,6 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><a href="https://tools.wmflabs.org/scholia/Q57055">Paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04312997</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507569">Clinical Trial of Combined Use of Hydroxychloroquine, Azithromycin, and Tocilizumab for the Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507569">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q425154">Tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04332094</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86273774">The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86273774">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q203174">Thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04273581</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86273774">The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86273774">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04273581</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86273846">The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86273846">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q203174">Thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04273529</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86276764">Adaptive COVID-19 Treatment Trial</a> (<a href="http://www.wikidata.org/entity/Q86276764">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04280705</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86278951">Vitamin C Infusion for the Treatment of Severe 2019-nCoV Infected Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86278951">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q193598">Ascorbinezuur</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04264533</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04278963</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04278963</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86281659">Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86281659">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04275414</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86281659">Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q86281659">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04275414</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87076197">Fingolimod in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87076197">edit</a>)</td>
@@ -1190,6 +1418,66 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><a href="https://tools.wmflabs.org/scholia/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04288102</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422212">Budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507668">Evaluation of Efficacy of Levamisole and Formoterol+Budesonide in Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507668">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04331470</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89507754">Protective Role of Inhaled Steroids for Covid-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q89507754">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422212">Budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04331054</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87775009">Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q87775009">edit</a>)</td>
@@ -1376,294 +1664,6 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04286503</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153050">Norwegian Coronavirus Disease 2019 Study</a> (<a href="http://www.wikidata.org/entity/Q89153050">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
-    <td>NCT04316377</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153050">Norwegian Coronavirus Disease 2019 Study</a> (<a href="http://www.wikidata.org/entity/Q89153050">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
-    <td>NCT04316377</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153050">Norwegian Coronavirus Disease 2019 Study</a> (<a href="http://www.wikidata.org/entity/Q89153050">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
-    <td>NCT04316377</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153189">The Vietnam Chloroquine Treatment on COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153189">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04328493</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153189">The Vietnam Chloroquine Treatment on COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153189">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04328493</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153199">REDUCING HEALTH CARE WORKERS ABSENTEEISM IN SARS-CoV-2 PANDEMIC THROUGH BACILLUS CALMETTE-GUÉRIN VACCINATION, A RANDOMIZED CONTROLLED TRIAL</a> (<a href="http://www.wikidata.org/entity/Q89153199">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q798309">BCG-vaccin</a> (<a href="http://www.wikidata.org/entity/Q798309">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328441</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153234">Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers</a> (<a href="http://www.wikidata.org/entity/Q89153234">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328285</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153234">Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers</a> (<a href="http://www.wikidata.org/entity/Q89153234">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328285</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153234">Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers</a> (<a href="http://www.wikidata.org/entity/Q89153234">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328285</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q410074">Losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q410074">Losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04328012</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89153736">Convalescent Plasma to Limit Coronavirus Associated Complications</a> (<a href="http://www.wikidata.org/entity/Q89153736">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04325672</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154305">Efficacy and Safety of Emapalumab and Anakinra in Reducing Hyperinflammation and Respiratory Distress in Patients With COVID-19 Infection.</a> (<a href="http://www.wikidata.org/entity/Q89154305">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q415411">Anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04324021</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154305">Efficacy and Safety of Emapalumab and Anakinra in Reducing Hyperinflammation and Respiratory Distress in Patients With COVID-19 Infection.</a> (<a href="http://www.wikidata.org/entity/Q89154305">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q415411">Anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04324021</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154343">Efficacy and Safety Human Coronavirus Immune Plasma (HCIP) vs. Control (SARS-CoV-2 Non-immune Plasma) Among Adults Exposed to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89154343">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04323800</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154556">Anti-il6 Treatment of Serious COVID-19 Disease With Threatening Respiratory Failure</a> (<a href="http://www.wikidata.org/entity/Q89154556">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04322773</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04321616</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04321616</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04321616</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04321616</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435639">Randomized, Controlled, Double-blind Clinical Trial Comparing the Efficacy and Safety of Chemoprophylaxis With Hydroxychloroquine in Patients Under Biological Treatment and / or JAK Inhibitors in the Prevention of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q89435639">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
-    <td>NCT04330495</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435639">Randomized, Controlled, Double-blind Clinical Trial Comparing the Efficacy and Safety of Chemoprophylaxis With Hydroxychloroquine in Patients Under Biological Treatment and / or JAK Inhibitors in the Prevention of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q89435639">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q17149812">Janus kinase inhibitor</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
-    <td>NCT04330495</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435670">Hydroxychloroquine as Post Exposure Prophylaxis for SARS-CoV-2(HOPE Trial)</a> (<a href="http://www.wikidata.org/entity/Q89435670">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04330144</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435732">EPICOS Clinical Trial for the Prevention of Infection in Healthcare Personnel</a> (<a href="http://www.wikidata.org/entity/Q89435732">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q155954">Tenofovir</a> (<a href="http://www.wikidata.org/entity/Q155954">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04329520</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435732">EPICOS Clinical Trial for the Prevention of Infection in Healthcare Personnel</a> (<a href="http://www.wikidata.org/entity/Q89435732">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04329520</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435732">EPICOS Clinical Trial for the Prevention of Infection in Healthcare Personnel</a> (<a href="http://www.wikidata.org/entity/Q89435732">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422604">Emtricitabine</a> (<a href="http://www.wikidata.org/entity/Q422604">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04329520</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435746">Hydroxychloroquine to Prevent Covid19 Pneumonia (ALBERTA HOPE-Covid19)</a> (<a href="http://www.wikidata.org/entity/Q89435746">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04329611</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435752">Efficacy and Safety of Hydroxychloroquine and Azithromycin for the Treatment of Hospitalized Patients With Moderate to Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89435752">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04329572</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435801">ACE Inhibitors or ARBs Discontinuation in Context of SARS-CoV-2 Pandemia</a> (<a href="http://www.wikidata.org/entity/Q89435801">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q288280">ACE-remmer</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">klinische proeffase III</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04329195</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435835">Hydroxychloroquine for COVID-19 PEP</a> (<a href="http://www.wikidata.org/entity/Q89435835">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q193598">Ascorbinezuur</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04328961</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89435835">Hydroxychloroquine for COVID-19 PEP</a> (<a href="http://www.wikidata.org/entity/Q89435835">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04328961</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89506972">Prospective Study in Patients With Advanced or Metastatic Cancer and SARS-CoV-2 (COVID-19) Infection</a> (<a href="http://www.wikidata.org/entity/Q89506972">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04333914</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89506972">Prospective Study in Patients With Advanced or Metastatic Cancer and SARS-CoV-2 (COVID-19) Infection</a> (<a href="http://www.wikidata.org/entity/Q89506972">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q7041828">nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04333914</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89506972">Prospective Study in Patients With Advanced or Metastatic Cancer and SARS-CoV-2 (COVID-19) Infection</a> (<a href="http://www.wikidata.org/entity/Q89506972">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04333914</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507113">Cell Therapy Using Umbilical Cord-derived Mesenchymal Stromal Cells in SARS-CoV-2-related ARDS</a> (<a href="http://www.wikidata.org/entity/Q89507113">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04333368</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507113">Cell Therapy Using Umbilical Cord-derived Mesenchymal Stromal Cells in SARS-CoV-2-related ARDS</a> (<a href="http://www.wikidata.org/entity/Q89507113">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04333368</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507115">Safety in Convalescent Plasma Transfusion to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507115">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04333355</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507131">Study Testing Convalescent Plasma vs Best Supportive Care</a> (<a href="http://www.wikidata.org/entity/Q89507131">edit</a>)</td>
-    <td></td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04333251</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507569">Clinical Trial of Combined Use of Hydroxychloroquine, Azithromycin, and Tocilizumab for the Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507569">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q165399">Azithromycine</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04332094</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89507569">Clinical Trial of Combined Use of Hydroxychloroquine, Azithromycin, and Tocilizumab for the Treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507569">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04332094</td>
   </tr>
 </table>
 ## Code examples

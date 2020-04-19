@@ -46,7 +46,7 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q468433">anosmie</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q474959">Spierpijn</a> (<a href="http://www.wikidata.org/entity/Q474959">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q474959">spierpijn</a> (<a href="http://www.wikidata.org/entity/Q474959">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q485831">lymphopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>

@@ -28,7 +28,6 @@ maar alle SPARQL zoekopdrachten in dit boek kunnen gebruikt worden als
 2.5. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
 2.5.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
 2.6. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
-2.7. [References](viruses.md#references) <br />
 6. [De mens](human.md) <br />
 6.1. [Gen en eiwit interacties](human.md#gen-en-eiwit-interacties) <br />
 6.2. [Biologische processen](human.md#biologische-processen) <br />

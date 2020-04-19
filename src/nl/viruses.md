@@ -90,7 +90,7 @@ This gives us:
 
 <out>allSARSCoVVirusesTaxonomy</out>
 
-## References
+## Bronnen
 
 <references/>
 

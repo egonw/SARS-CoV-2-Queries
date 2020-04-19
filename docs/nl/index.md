@@ -20,6 +20,15 @@ maar alle SPARQL zoekopdrachten in dit boek kunnen gebruikt worden als
 1. [Introductie](intro.md) <br />
 1.1. [Missende sleutelwoorden](intro.md#missende-sleutelwoorden) <br />
 1.2. [Andere annotatie](intro.md#andere-annotatie) <br />
+2. [Virussen](viruses.md) <br />
+2.1. [Alle SARSr virussen](viruses.md#alle-sarsr-virussen) <br />
+2.2. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
+2.3. [All betacoronaviruses](viruses.md#all-betacoronaviruses) <br />
+2.4. [All coronaviruses](viruses.md#all-coronaviruses) <br />
+2.5. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
+2.5.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
+2.6. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
+2.7. [References](viruses.md#references) <br />
 6. [De mens](human.md) <br />
 6.1. [Gen en eiwit interacties](human.md#gen-en-eiwit-interacties) <br />
 6.2. [Biologische processen](human.md#biologische-processen) <br />

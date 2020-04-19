@@ -1,6 +1,6 @@
 # %STEM%.%EXT%
 
-**Code examples:** [curl](#curl)
+**%LABEL_CODE_EXAMPLES%:** [curl](#curl)
 
 ### SPARQL
 
@@ -8,13 +8,13 @@
 %SOURCECODE%
 ```
 
-[Execute](%RUNURL%) or [Edit](%EDITURL%)
+[%LABEL_RUN%](%RUNURL%) %LABEL_OR% [%LABEL_EDIT%](%EDITURL%)
 
-### Output
+### %LABEL_OUTPUT%
 
 %OUT%
 
-## Code examples
+## %LABEL_CODE_EXAMPLES%
 
 ### curl
 
@@ -23,4 +23,4 @@ curl -o %STEM%.%EXT% https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@%STEM%.%EXT%
 ```
 
-This SPARQL query is available under CCZero.
+%LABEL_LICENSE%

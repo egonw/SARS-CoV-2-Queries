@@ -11,6 +11,33 @@ srcSuffix = runSuffix;
 inFile = args[0];
 lang = args[1];
 
+labels = [
+  "run": [
+    "en": "run",
+    "nl": "uitvoeren"
+  ],
+  "edit": [
+    "en": "edit",
+    "nl": "bewerken"
+  ],
+  "or": [
+    "en": "or",
+    "nl": "of"
+  ],
+  "code_examples": [
+    "en": "Code examples",
+    "nl": "Broncode voorbeelden"
+  ],
+  "license": [
+    "en": "This SPARQL query is available under CCZero.",
+    "nl": "Deze SPARQL zoekopdracht is beschikbaar als CCZero"
+  ],
+  "output": [
+    "en": "Output",
+    "nl": "Resultaten"
+  ]
+]
+
 runClass = inFile.substring(0,inFile.indexOf(runSuffix));
 runExt = runSuffix.substring(1)
 srcExt = srcSuffix.substring(1)
@@ -97,6 +124,11 @@ for (int type=0; type<mdTypes.size(); type++) {
       if (line.contains("%EDITURL%")) {
         line = line.replace("%EDITURL%", editURL);
         line = line + "\n";
+      }
+      while (line.contains("%LABEL_")) {
+        lineRemainder = line.substring(line.indexOf("%LABEL_")).substring(7)
+        label = lineRemainder.substring(0, lineRemainder.indexOf("%"))
+        line = line.replace("%LABEL_${label}%", labels[label.toLowerCase()][lang]);
       }
       mdWriter.write(line);
     }

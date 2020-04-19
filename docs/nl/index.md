@@ -17,6 +17,9 @@ maar alle SPARQL zoekopdrachten in dit boek kunnen gebruikt worden als
 
 ## Inhoud
 
+1. [Introductie](intro.md) <br />
+1.1. [Missende sleutelwoorden](intro.md#missende-sleutelwoorden) <br />
+1.2. [Andere annotatie](intro.md#andere-annotatie) <br />
 6. [De mens](human.md) <br />
 6.1. [Gen en eiwit interacties](human.md#gen-en-eiwit-interacties) <br />
 6.2. [Biologische processen](human.md#biologische-processen) <br />

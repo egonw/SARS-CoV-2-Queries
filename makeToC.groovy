@@ -13,6 +13,11 @@ lang = args[0]
 langFolder = ""
 if (lang != "en") langFolder = "${lang}/"
 
+refSectionLabels = [
+  "en": "References",
+  "nl": "Bronnen"
+]
+
 chapters = "order.txt"
 new File(chapters).eachLine { chapter ->
   if (chapter.startsWith("app")) return;
@@ -25,7 +30,7 @@ new File(chapters).eachLine { chapter ->
     if (line.startsWith("# ")) {
       chapterTitle = line.substring(2).trim()
       println "${chapterCounter}. [${chapterTitle}](${chapter}.md) <br />"
-    } else if (line.startsWith("## ") && !line.contains("References")) {
+    } else if (line.startsWith("## ") && !line.contains(refSectionLabels[lang])) {
       subsectionCounter = 0
       sectionTitle = line.substring(3).trim()
       sectionCounter++

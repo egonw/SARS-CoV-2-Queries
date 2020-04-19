@@ -20,25 +20,25 @@ we deze zoekopdracht gebruiken:
 
 <sparql>humanInteractions</sparql>
 
-## Biological processes
+## Biologische processen
 
 [WikiPathways](https://wikipathways.org/) [<cite>Q42896569</cite>]
-is one of the projects involved in the international
-[#covidpathways COVID-19 curation effort](https://covid.pages.uni.lu/map_curation)
-and the WikiPathways contributions can be found
-on [this portal](http://covid.wikipathways.org/).
+is een van de projecten dat betrokken is bij het internationale
+[#covidpathways COVID-19 curatie project](https://covid.pages.uni.lu/map_curation)
+en haar bijdragen kunnen gevonden worden
+op [deze portal](http://covid.wikipathways.org/).
 
-[Reactome](http://reactome.org/) [<cite>Q24567743</cite>] and WikiPathways pathways are indexed in Wikidata,
-and we can query for pathways that have HCoV genes and proteins in their
-pathways:
+[Reactome](http://reactome.org/) [<cite>Q24567743</cite>] en WikiPathways
+reactiepaden worden geïndexeerd in Wikidata en we kunnen de reactiepaden
+waar HCoV genen en eiwitten genoemd worden opzoeken:
 
 <sparql>pathways</sparql>
 
-This currently lists the following pathways, but with the active curation,
-it is expected to grow quickly too:
+Dit laat op dit moment de volgende reactiepaden zien, maar met de actieve
+curatie is het te verwachten dat dit snel toeneemt:
 
 <out>pathways</out>
 
-## References
+## Bronnen
 
 <references/>

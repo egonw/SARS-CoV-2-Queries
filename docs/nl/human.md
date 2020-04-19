@@ -118,17 +118,17 @@ SELECT ?date ?virus ?virusLabel ?gene ?geneLabel ?work ?workLabel ?doi WITH {
 ORDER BY DESC(?date) ?doi
 ```
 
-## Biological processes
+## Biologische processen
 
 [WikiPathways](https://wikipathways.org/) [<a href="#citeref1">1</a>]
-is one of the projects involved in the international
-[#covidpathways COVID-19 curation effort](https://covid.pages.uni.lu/map_curation)
-and the WikiPathways contributions can be found
-on [this portal](http://covid.wikipathways.org/).
+is een van de projecten dat betrokken is bij het internationale
+[#covidpathways COVID-19 curatie project](https://covid.pages.uni.lu/map_curation)
+en haar bijdragen kunnen gevonden worden
+op [deze portal](http://covid.wikipathways.org/).
 
-[Reactome](http://reactome.org/) [<a href="#citeref2">2</a>] and WikiPathways pathways are indexed in Wikidata,
-and we can query for pathways that have HCoV genes and proteins in their
-pathways:
+[Reactome](http://reactome.org/) [<a href="#citeref2">2</a>] en WikiPathways
+reactiepaden worden geïndexeerd in Wikidata en we kunnen de reactiepaden
+waar HCoV genen en eiwitten genoemd worden opzoeken:
 
 **SPARQL** [sparql/pathways.rq](sparql/pathways.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fthing%20%3FthingLabel%20%3Fpathway%20%3FpathwayLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20%3Fthing%20wdt%3AP703%20%3Fvirus%20.%0A%20%20%3Fpathway%20wdt%3AP31%20wd%3AQ4915012%20%3B%20wdt%3AP527%20%3Fthing%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fthing%20%3FthingLabel%20%3Fpathway%20%3FpathwayLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20%3Fthing%20wdt%3AP703%20%3Fvirus%20.%0A%20%20%3Fpathway%20wdt%3AP31%20wd%3AQ4915012%20%3B%20wdt%3AP527%20%3Fthing%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -149,8 +149,8 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
 }
 ```
 
-This currently lists the following pathways, but with the active curation,
-it is expected to grow quickly too:
+Dit laat op dit moment de volgende reactiepaden zien, maar met de actieve
+curatie is het te verwachten dat dit snel toeneemt:
 
 <table>
   <tr>
@@ -460,7 +460,7 @@ it is expected to grow quickly too:
   </tr>
 </table>
 
-## References
+## Bronnen
 
 1. <a name="citeref1"></a>Slenter DN, Slenter DN, Kutmon M, Hanspers K, Hanspers K, Riutta A, et al. WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research. NAR. 2018 Jan 4;46(D1):D661–D667.  doi:[10.1093/NAR/GKX1064](https://doi.org/10.1093/NAR/GKX1064) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKX1064))
 2. <a name="citeref2"></a>Croft D, Mundo AF, Haw R, Milacic M, Weiser J, Wu G, et al. The Reactome pathway knowledgebase. NAR. 2014 Jan;42(Database issue):D472-7.  doi:[10.1093/NAR/GKT1102](https://doi.org/10.1093/NAR/GKT1102) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKT1102))

@@ -70,7 +70,10 @@ lines.each { String line ->
     println "${instruction.@level} ${instruction.text()}"
   } else if (line.startsWith("<toc>")) {
     def instruction = new XmlSlurper().parseText(line)
-    def srcLines = new File("${instruction.text()}").readLines()
+    def filename = instruction.text()
+    if (new File(filename.replace(".txt", ".${lang}.txt")).exists())
+      filename = filename.replace(".txt", ".${lang}.txt")
+    def srcLines = new File(filename).readLines()
     srcLines.each { String srcLine -> println srcLine.replaceAll(".i.md", ".md") }
   } else if (line.contains("<references/>")) {
     println bibList

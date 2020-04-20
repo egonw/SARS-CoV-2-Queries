@@ -1,29 +1,25 @@
-# Towards a solution
+# 解決に向けて
 
-There is currently no solution for SARS-CoV-2.
+SARS-CoV-2の問題に対して現状では解決方法がありません。
 
-But there are ideas about what solutions might be. A vaccin is one of them, but
-development of that takes time [<cite>Q87461271</cite>]. But there is also talk about
-antibodies and repurposing of drugs. All this is very much exploratory at this
-moment. Clinical trials are important (see the [Clinical trials](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials) section).
+しかし、解決方法になりうるアイデアは幾つかあります。ワクチンがその一つですが、その開発には時間を要します[<cite>Q87461271</cite>]。
+また、抗体や、SARS-CoV-2にも有効である既存の薬、つまり既存薬再開発についての議論もされていますが、現在これらは全て研究段階です。
+そして、臨床試験は重要です（[臨床試験](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials)を参照）。
 
-This Chapter shows a number of queries with information in Wikidata about
-leads that people have proposed that may lead to a solution.
+本章では、解決に繋がりそうな提案に関する、Wikidataに収められている情報を取得するいくつかのクエリを提示します。
 
-## Antibodies
+## 抗体
 
-Antibodies are getting an interest. The following query lists articles about
-the human coronaviruses and also annotated with the term '<topic>antibody</topic>':
+抗体は関心を集めつつあります。次のクエリ集はヒトコロナウイルスについての文献で、<topic>抗体</topic>という注釈がつけられているものを取得します。
 
-<sparql>antibodies</sparql>
+<sparql>抗体</sparql>
 
-It must be stressed that antibodies are specific for every protein and every
-coronavirus has different proteins, and this list is just to shortlist relevant
-literature for reading, not to draw conclusions from:
+なお、抗体は個々のタンパク質に特化しているものであり、そして全てのコロナウイルスは異なるタンパク質を持ちます。
+ですから、このクエリ集は単に読むべき関連論文を取得するためのショートカットであり、決してそこから結論を導き出すものではないことを強調しておきます。
 
-<out>antibodies</out>
+<out>抗体</out>
 
-## Drug repurposing
+## 既存薬再開発
 
 ...
 

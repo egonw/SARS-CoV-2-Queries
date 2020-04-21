@@ -18,7 +18,7 @@ maar alle SPARQL zoekopdrachten in dit boek kunnen gebruikt worden als
 ## Inhoud
 
 1. [Introductie](intro.md) <br />
-1.1. [Missende sleutelwoorden](intro.md#missende-sleutelwoorden) <br />
+1.1. [Ontbrekende onderwerpen](intro.md#ontbrekende-onderwerpen) <br />
 1.2. [Andere annotatie](intro.md#andere-annotatie) <br />
 2. [Virussen](viruses.md) <br />
 2.1. [Alle SARSr virussen](viruses.md#alle-sarsr-virussen) <br />

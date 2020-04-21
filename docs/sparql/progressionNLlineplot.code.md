@@ -36,12 +36,12 @@ SELECT ?date ?numberOfCases WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td>2020-03-05T00:00:00Z</td>
-    <td>82</td>
-  </tr>
-  <tr>
     <td>2020-02-28T00:00:00Z</td>
     <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>82</td>
   </tr>
   <tr>
     <td>2020-03-10T00:00:00Z</td>
@@ -60,12 +60,12 @@ SELECT ?date ?numberOfCases WHERE {
     <td>321</td>
   </tr>
   <tr>
-    <td>2020-03-07T00:00:00Z</td>
-    <td>188</td>
-  </tr>
-  <tr>
     <td>2020-03-08T00:00:00Z</td>
     <td>265</td>
+  </tr>
+  <tr>
+    <td>2020-03-07T00:00:00Z</td>
+    <td>188</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -80,16 +80,16 @@ SELECT ?date ?numberOfCases WHERE {
     <td>1135</td>
   </tr>
   <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>38</td>
+  </tr>
+  <tr>
     <td>2020-03-02T00:00:00Z</td>
     <td>18</td>
   </tr>
   <tr>
     <td>2020-03-01T00:00:00Z</td>
     <td>10</td>
-  </tr>
-  <tr>
-    <td>2020-03-04T00:00:00Z</td>
-    <td>38</td>
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
@@ -218,6 +218,14 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-04-18T00:00:00Z</td>
     <td>31589</td>
+  </tr>
+  <tr>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>32655</td>
+  </tr>
+  <tr>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>33405</td>
   </tr>
 </table>
 ## Code examples

@@ -66,6 +66,9 @@ SELECT ?symptom ?symptomLabel WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q3961647">cytokine release syndrome</a> (<a href="http://www.wikidata.org/entity/Q3961647">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q55093125">neurologic manifestation</a> (<a href="http://www.wikidata.org/entity/Q55093125">edit</a>)</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

@@ -20,6 +20,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>792759</td>
+  </tr>
+  <tr>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>764636</td>
+  </tr>
+  <tr>
     <td>2020-04-18T00:00:00Z</td>
     <td>738792</td>
   </tr>
@@ -156,6 +164,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>4596</td>
   </tr>
   <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1678</td>
+  </tr>
+  <tr>
     <td>2020-03-14T00:00:00Z</td>
     <td>2770</td>
   </tr>
@@ -176,6 +188,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>994</td>
   </tr>
   <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>472</td>
+  </tr>
+  <tr>
     <td>2020-03-08T00:00:00Z</td>
     <td>541</td>
   </tr>
@@ -186,6 +202,26 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-03-06T00:00:00Z</td>
     <td>319</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>148</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>129</td>
+  </tr>
+  <tr>
+    <td>2020-03-03T00:00:00Z</td>
+    <td>108</td>
+  </tr>
+  <tr>
+    <td>2020-03-02T00:00:00Z</td>
+    <td>64</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>2020-02-29T00:00:00Z</td>

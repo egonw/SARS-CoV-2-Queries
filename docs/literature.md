@@ -50,9 +50,24 @@ This gives these 10 papers (remove the `LIMIT 10` from the query to get all):
     <td><a href="https://doi.org/10.3201/EID2605.200146">10.3201/EID2605.200146</a></td>
   </tr>
   <tr>
+    <td>2020-04-11T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91240154">Low-dose corticosteroid therapy does not delay viral clearance in patients with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q91240154">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JINF.2020.03.039">10.1016/J.JINF.2020.03.039</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-09T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91131712">The COVID-19 vaccine development landscape</a> (<a href="http://www.wikidata.org/entity/Q91131712">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/D41573-020-00073-5">10.1038/D41573-020-00073-5</a></td>
+  </tr>
+  <tr>
     <td>2020-04-08T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q83567432">Coronavirus latest: global infections surge past 30,000</a> (<a href="http://www.wikidata.org/entity/Q83567432">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/D41586-020-00154-W">10.1038/D41586-020-00154-W</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-07T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91208180">Highly pathogenic coronavirus N protein aggravates lung injury by MASP-2-mediated complement over-activation</a> (<a href="http://www.wikidata.org/entity/Q91208180">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.03.29.20041962">10.1101/2020.03.29.20041962</a></td>
   </tr>
   <tr>
     <td>2020-04-06T00:00:00Z</td>
@@ -63,21 +78,6 @@ This gives these 10 papers (remove the `LIMIT 10` from the query to get all):
     <td>2020-04-03T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89354634">Respiratory virus shedding in exhaled breath and efficacy of face masks</a> (<a href="http://www.wikidata.org/entity/Q89354634">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41591-020-0843-2">10.1038/S41591-020-0843-2</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461794">CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q87461794">edit</a>)</td>
-    <td><a href="https://doi.org/10.1148/RADIOL.2020200236">10.1148/RADIOL.2020200236</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87675797">[Recommendations for critically ill patients with COVID-19]</a> (<a href="http://www.wikidata.org/entity/Q87675797">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S00063-020-00674-3">10.1007/S00063-020-00674-3</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-01T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q90362729">Role of anaesthesiologists during the coronavirus disease 2019 outbreak in China</a> (<a href="http://www.wikidata.org/entity/Q90362729">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BJA.2020.03.022">10.1016/J.BJA.2020.03.022</a></td>
   </tr>
 </table>
 
@@ -321,7 +321,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>1052</td>
+    <td>1055</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>

@@ -134,7 +134,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q89209954">NHS COVID-19 critical care hospital</a> (<a href="http://www.wikidata.org/entity/Q89209954">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q89288125">COVID-19 contact tracing application</a> (<a href="http://www.wikidata.org/entity/Q89288125">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89288125">COVID-19-app</a> (<a href="http://www.wikidata.org/entity/Q89288125">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89487202">responses to the 2019–20 coronavirus pandemic in March 2020</a> (<a href="http://www.wikidata.org/entity/Q89487202">edit</a>)</td>
@@ -171,6 +171,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q90859234">Impact of the 2019-20 coronavirus pandemic on international relations</a> (<a href="http://www.wikidata.org/entity/Q90859234">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91104866">Social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
   </tr>
 </table>
 ## Broncode voorbeelden

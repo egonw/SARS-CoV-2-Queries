@@ -4,90 +4,77 @@
 たとえば、ヒトコロナウイルスHCoV-229EおよびHCoV-OC43は通常よくある風邪[<cite>1Q366417501</cite>]を引き起こします。しかし、
 <topic>重症急性呼吸器症候群に関連するコロナウイルス</topic>（<topic>SARSrウイルス</topic>）は異なります。そしてSRAS-CoV-2が本文書のメイントピックです。
 
-## All SARSr viruses
+## 全てのSARSrウイルス
 
-The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic> (CoV). In fact,
-quite a few SARS-related CoVs are known, as clear from this
-[NCBI Taxonomy list](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
+<topic>SARS-CoV-2</topic><topic>ウイルス</topic>は最初の<topic>コロナウイルス</topic>(CoV)ではありません。
+実は、非常に多くのSARS関連CoVが知られています。
+それは、この[NCBI Taxonomyリスト](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock)を見れば明らかです。
 
-We first list all the SARSr-CoV viruses in Wikidata:
+それでは最初にWikidataに収められている全てのSARSr-CoVウイルスをリストアップしてみましょう。
 
 <sparql>allSARSCoVViruses</sparql>
 
-This gives us:
+結果は以下の通りになります。
 
 <out>allSARSCoVViruses</out>
 
-If we compare this list with that in Section <xref>sevenhuman</xref> we not that
-these two lists do not fully overlap.
+この結果を<xref>sevenhuman</xref>章の結果と比較すれば、それらが完全には一致しないことが分かります。
 
-<section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>
+<section level="##" label="sevenhuman">ヒトに感染する7つのコロナウイルス</section>
 
-However, for the current pandemic, the seven human corona viruses may be of particular interest [<cite>Q86729469</cite>].
-We can use this query to just list these:
+しかし、現在のパンデミックにおいては、7つのヒトコロナウイルスが特に関心を集めるでしょう[<cite>Q86729469</cite>]。
+以下のクエリでこれらだけを取得できます。
 
 <sparql>humanCoronaviruses</sparql>
 
-This gives us a good starting point to study the virus in more detail:
+より詳しくこれらのウイルスについて研究を始める際にこの結果は役立つことでしょう。
 
 <out>humanCoronaviruses</out>
 
-## All betacoronaviruses
+## 全てのベータコロナウイルス
 
-But the SARS-related coronavirusses is just a subgroup. Another subgroup of coronaviruses is that of the betacoronaviruses:
+しかし、SARS関連のコロナウイルスは一つのサブグループに過ぎず、もう一つのコロナウイルスのサブグループとしてベータコロナウイルスがあります。
 
 <sparql>allBetacoronaViruses</sparql>
 
-Because there are quite a few of them in Wikidata, we rather make a graph dependency plot:
+Wikidataには非常に多くのメンバーが収められているので、グラフを用いてそれを可視化しましょう。
 
 <sparql>allBetacoronaVirusesGraph</sparql>
 
-This gives this output
+結果は以下の通りです。
 
 <iframe>allBetacoronaVirusesGraph</iframe>
 
-## All coronaviruses
+## 全てのコロナウイルス
 
-The full list of coronaviruses looks like this:
+全てのコロナウイルスのリストはこのようになります。
 
 <sparql>allCoronaViruses</sparql>
 
-Again, we rather make a graph dependency plot:
+再び、グラフを用いて可視化します。
 
 <sparql>allCoronaVirusesGraph</sparql>
 
-This gives this output
+結果は以下の通りです。
 
 <iframe>allCoronaVirusesGraph</iframe>
 
-<section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>
+### ウイルスを比較する
 
-However, for the current pandemic, the seven human corona viruses may be of particular interest [<cite>Q86729469</cite>].
-We can use this query to just list these:
-
-<sparql>humanCoronaviruses</sparql>
-
-This gives us a good starting point to study the virus in more detail:
-
-<out>humanCoronaviruses</out>
-
-### Comparing viruses
-
-We can also query for articles that compare a human coronavirus with another coronavirus:
+ヒトコロナウイルスと、他のコロナウイルスを比較研究している論文を取得します。
 
 <sparql>compareViruses</sparql>
 
 ## NCBI Taxonomy IDs
 
-For the coronaviruses we can list the <topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>] identifiers with:
+コロナウイルスについて、<topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>]識別子のリストを取得します。
 
 <sparql>allSARSCoVVirusesTaxonomy</sparql>
 
-This gives us:
+結果は以下の通りです。
 
 <out>allSARSCoVVirusesTaxonomy</out>
 
 ## 参考文献
 
-<a name="citeref1"></a>Vrandečić D. Wikidata:A New Platform for Collaborative Data Collection.Proceedings of the 21st International Conference on World Wide Web.2012;1063–4\. doi:[10.1145/2187980.2188242](https://doi.org/10.1145/2187980.2188242) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1145/2187980.2188242))
-
+<references/>

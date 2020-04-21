@@ -1,29 +1,25 @@
 # COVID-19
 
-<topic>COVID-19</topic> is the disease caused by the <topic>SARS-CoV-2</topic> virus.
-This Chapter gives information about this disease.
+<topic>COVID-19</topic>は<topic>SARS-CoV-2</topic>ウイルスにより引き起こされる疾患です。
+本章ではこの疾患に関する情報を提供します。
 
-## Symptoms
+## 症状
 
-The below query lists symptomis, but everyone should really check the provenance and
-frequency of these symptoms in the Wikidata entry of COVID-19.
+次のクエリは症状をリストアップしますが、COVID-19に関するWikidataの項目で示されている情報の出所や症状の頻度を各自が十分に確認するべきです。
 
-However, a rough overview of symptoms can be listed with this query:
+とはいえ、大雑把な症状の概要は次のクエリで得られます。
 
 <sparql>symptoms</sparql>
 
-Listing these symptoms:
+これらの症状をリストアップします。
 
 <out>symptoms</out>
 
-## Clinical trials
+<section level="##" label="trials">臨床試験</section>
 
-While far from complete, <topic>clinical trials</topic> registered in <topic>clinicaltrials.gov</topic> are finding their way
-into Wikidata. The following query lists a number of clinical trials with COVID-19
-as main topic:
+完全ではないにしろ、<topic>臨床試験</topic>は<topic>clinicaltrials.gov</topic>に登録されており、Wikidataに収められつつあります。
+次のクエリはCOVID-19が主要な課題である臨床試験の事例数を取得します。
 
 <sparql>clinicalTrials</sparql>
 
-This lists these trials:
-
-<out>clinicalTrials</out>
+この結果は非常の大きいので、上記のリンクの一つをクリックして、その結果を取得してください。

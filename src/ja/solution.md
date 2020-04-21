@@ -12,19 +12,31 @@ SARS-CoV-2の問題に対して現状では解決方法がありません。
 
 抗体は関心を集めつつあります。次のクエリ集はヒトコロナウイルスについての文献で、<topic>抗体</topic>という注釈がつけられているものを取得します。
 
-<sparql>抗体</sparql>
+<sparql>antibodies</sparql>
 
 なお、抗体は個々のタンパク質に特化しているものであり、そして全てのコロナウイルスは異なるタンパク質を持ちます。
 ですから、このクエリ集は単に読むべき関連論文を取得するためのショートカットであり、決してそこから結論を導き出すものではないことを強調しておきます。
 
-<out>抗体</out>
+<out>antibodies</out>
 
 ## 既存薬再開発
 
-...
+<xref>trials</xref>章で既に臨床試験の概要を取得しました。
+そこでは、どのような症状に人は心配するのかについて知見を得られました。
+また、どのような<topic>薬</topic>が<topic>既存薬再開発</topic>のために研究されているのか知ることができました。
+大きな注目を浴びる薬もあれば、それほどでもなものもあります。
 
+次のクエリにより、<topic>介入</topic>による臨床試験の事例数を得られます。
+
+<sparql>clinicalTrialsByIntervention</sparql>
+
+結果は以下のとおりです。
+
+<out>clinicalTrialsByIntervention</out>
+
+重要なことは、どのような介入がより多くの注目を集めているか把握できるに過ぎない、ということです。
+そして、注目度が成功度を測る指標ではないことを認識することが肝要です。
 
 ## 参考文献
 
-<a name="citeref1"></a>Vrandečić D. Wikidata:A New Platform for Collaborative Data Collection.Proceedings of the 21st International Conference on World Wide Web.2012;1063–4\. doi:[10.1145/2187980.2188242](https://doi.org/10.1145/2187980.2188242) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1145/2187980.2188242))
-
+<references/>

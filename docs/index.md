@@ -19,7 +19,6 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 1. [Introduction](intro.md) <br />
 1.1. [Adding missing topic annotation](intro.md#adding-missing-topic-annotation) <br />
 1.2. [Other annotation](intro.md#other-annotation) <br />
-1.3. [Modelling the content in Wikidata](intro.md#modelling-the-content-in-wikidata) <br />
 2. [Viruses](viruses.md) <br />
 2.1. [All SARSr viruses](viruses.md#all-sarsr-viruses) <br />
 2.2. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
@@ -46,6 +45,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
 5.2.1. [Genes](genes.md#genes) <br />
 5.2.2. [Proteins](genes.md#proteins) <br />
+5.2.3. [Protein complexes](genes.md#protein-complexes) <br />
 5.3. [All SARSr viruses](genes.md#all-sarsr-viruses) <br />
 5.3.1. [All SARSr genes](genes.md#all-sarsr-genes) <br />
 5.3.2. [All SARSr proteins](genes.md#all-sarsr-proteins) <br />

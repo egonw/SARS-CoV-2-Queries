@@ -12,11 +12,14 @@ if (args.length == 0) {
 }
 
 def folder = args[0]
+def lang   = args[1]
+
+if (lang != "en") folder = folder + "/" + lang
 
 def topicCounter = 0
 
 def basedir = new File(folder)
-files = basedir.listFiles().grep(~/.*i.md$/)
+files = basedir.listFiles().grep(~/.*.md$/)
 files.each { file ->
   topicCounter = 0
   context = file.name.substring(0, file.name.indexOf("."))

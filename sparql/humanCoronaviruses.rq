@@ -9,5 +9,5 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     wd:Q278567   # SARS-CoV
   }
   OPTIONAL { ?virus wdt:P685 ?ncbi }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }

@@ -11,6 +11,5 @@ WHERE {
   ?deathsStatement pq:P585 ?deathsPointInTime.
   { ?item wdt:P1269 wd:Q81068910. } UNION
   { ?item wdt:P361 wd:Q83741704. }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-}
-
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
+} ORDER BY ASC(?countryLabel)

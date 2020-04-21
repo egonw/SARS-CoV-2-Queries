@@ -1,4 +1,4 @@
 SELECT ?symptom ?symptomLabel WHERE {
   wd:Q84263196 wdt:P780 ?symptom .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }

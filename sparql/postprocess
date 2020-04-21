@@ -9,6 +9,34 @@ runSuffix = ".rq";
 srcSuffix = runSuffix;
 
 inFile = args[0];
+lang = args[1];
+
+labels = [
+  "run": [
+    "en": "run",
+    "nl": "uitvoeren"
+  ],
+  "edit": [
+    "en": "edit",
+    "nl": "bewerken"
+  ],
+  "or": [
+    "en": "or",
+    "nl": "of"
+  ],
+  "code_examples": [
+    "en": "Code examples",
+    "nl": "Broncode voorbeelden"
+  ],
+  "license": [
+    "en": "This SPARQL query is available under CCZero.",
+    "nl": "Deze SPARQL zoekopdracht is beschikbaar als CCZero"
+  ],
+  "output": [
+    "en": "Output",
+    "nl": "Resultaten"
+  ]
+]
 
 runClass = inFile.substring(0,inFile.indexOf(runSuffix));
 runExt = runSuffix.substring(1)
@@ -32,6 +60,7 @@ while (line != null) {
     } else if (line.charAt(0) == '%') {
       md.append(line.substring(1)+"\n");
     } else {
+      if (line.contains("<lang/>")) line = line.replace("<lang/>", lang)
       md.append(line+"\n");
     }
   }  
@@ -46,13 +75,15 @@ mdTypes.add("iframe");
 def srcLines = new File(srcFile).readLines()
 unencodedSPARQL = ""
 srcLines.each { String srcLine -> unencodedSPARQL += srcLine + "\n" }
+if (unencodedSPARQL.contains("<lang/>"))
+  unencodedSPARQL = unencodedSPARQL.replace("<lang/>", lang)
 encodedSPARQL = java.net.URLEncoder.encode(unencodedSPARQL, "UTF-8")
 encodedSPARQL = encodedSPARQL.replace("+","%20");
 runURL = "https://query.wikidata.org/embed.html#" + encodedSPARQL
 editURL = "https://query.wikidata.org/#" + encodedSPARQL
 
 for (int type=0; type<mdTypes.size(); type++) {
-  mdFile = runClass + "." + mdTypes.get(type) + ".md";
+  mdFile = runClass + "." + mdTypes.get(type) + ".${lang}.md";
   mdWriter = new FileWriter(
     new File(mdFile)
   );
@@ -74,10 +105,13 @@ for (int type=0; type<mdTypes.size(); type++) {
         line = line + "\n";
       } else if (line.contains("%SOURCECODE%")) {
         srcLines = new File(srcFile).readLines()
-        srcLines.each { String srcLine -> mdWriter.write(srcLine + "\n") }
+        srcLines.each { String srcLine -> 
+          if (srcLine.contains("<lang/>")) srcLine = srcLine.replace("<lang/>", lang)
+          mdWriter.write(srcLine + "\n")
+        }
         line = ""
       } else if (line.contains("%OUT%")) {
-        srcLines = new File(runClass + ".out").readLines()
+        srcLines = new File(runClass + ".${lang}.out").readLines()
         srcLines.each { String srcLine -> mdWriter.write(srcLine + "\n") }
         line = ""
       } else {
@@ -90,6 +124,11 @@ for (int type=0; type<mdTypes.size(); type++) {
       if (line.contains("%EDITURL%")) {
         line = line.replace("%EDITURL%", editURL);
         line = line + "\n";
+      }
+      while (line.contains("%LABEL_")) {
+        lineRemainder = line.substring(line.indexOf("%LABEL_")).substring(7)
+        label = lineRemainder.substring(0, lineRemainder.indexOf("%"))
+        line = line.replace("%LABEL_${label}%", labels[label.toLowerCase()][lang]);
       }
       mdWriter.write(line);
     }

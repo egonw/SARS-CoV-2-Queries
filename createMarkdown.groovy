@@ -3,6 +3,9 @@
 // GPL v3
 
 input = args[0]
+lang = "en"
+if (input.substring(4).contains("/"))
+  lang = input.substring(4,4+input.substring(4).indexOf("/"))
 
 bibliography = new HashMap<String,String>();
 def bibLines = new File("references.dat").readLines()
@@ -51,15 +54,15 @@ lines = new File(input).readLines()
 lines.each { String line ->
   if (line.startsWith("<sparql>")) {
     def instruction = new XmlSlurper().parseText(line)
-    def srcLines = new File("sparql/${instruction.text()}.verbatim.md").readLines()
+    def srcLines = new File("sparql/${instruction.text()}.verbatim.${lang}.md").readLines()
     srcLines.each { String srcLine -> println srcLine }
   } else if (line.startsWith("<out>")) {
     def instruction = new XmlSlurper().parseText(line)
-    def srcLines = new File("sparql/${instruction.text()}.out").readLines()
+    def srcLines = new File("sparql/${instruction.text()}.${lang}.out").readLines()
     srcLines.each { String srcLine -> println srcLine }
   } else if (line.startsWith("<iframe>")) {
     def instruction = new XmlSlurper().parseText(line)
-    def srcLines = new File("sparql/${instruction.text()}.iframe.md").readLines()
+    def srcLines = new File("sparql/${instruction.text()}.iframe.${lang}.md").readLines()
     srcLines.each { String srcLine -> println srcLine }
   } else if (line.startsWith("<section")) {
     def instruction = new XmlSlurper().parseText(line)
@@ -67,7 +70,10 @@ lines.each { String line ->
     println "${instruction.@level} ${instruction.text()}"
   } else if (line.startsWith("<toc>")) {
     def instruction = new XmlSlurper().parseText(line)
-    def srcLines = new File("${instruction.text()}").readLines()
+    def filename = instruction.text()
+    if (new File(filename.replace(".txt", ".${lang}.txt")).exists())
+      filename = filename.replace(".txt", ".${lang}.txt")
+    def srcLines = new File(filename).readLines()
     srcLines.each { String srcLine -> println srcLine.replaceAll(".i.md", ".md") }
   } else if (line.contains("<references/>")) {
     println bibList

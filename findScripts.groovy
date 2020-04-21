@@ -17,7 +17,7 @@ def suffix = ""
 if (args.length == 2) suffix = args[1]
 
 def basedir = new File(folder)
-files = basedir.listFiles().grep(~/.*i.md$/)
+files = basedir.listFiles().grep(~/.*.md$/)
 files.each { file ->
   file.eachLine { line ->
     try {

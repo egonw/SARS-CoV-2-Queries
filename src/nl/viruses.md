@@ -1,22 +1,23 @@
-<section level="#" label="viruses">Viruses</section>
+<section level="#" label="viruses">Virussen</section>
 
-Coronaviruses are not new and some of them are pretty harmless. For example, 
-the human coronaviruses HCoV-229E and HCoV-OC43 normally results in a common
-cold [<cite>Q36641750</cite>]. However, for the
-<topic>severe acute respiratory syndrome-related coronaviruses</topic> (<topic>SARSr viruses</topic>)
-this is different. SARS-CoV-2, of course, is the main topic of this book.
+Coronavirussen zijn niet nieuw en sommige zijn niet echt gevaarlijk.
+De menselijke coronavirusen HCoV-229E en HCoV-OC42 veroorzaken namelijk
+normaal alleen een verkoudheid [<cite>Q36641750</cite>]. Echter, voor
+de 
+<topic>severe acute respiratory syndrome-gerelateerde coronavirussen</topic> (<topic>SARSr virussen</topic>)
+is dat anders. Want SARS-CoV-2 is het hoofdonderwerp van dit boek.
 
-## All SARSr viruses
+## Alle SARSr virussen
 
-The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic> (CoV). In fact,
-quite a few SARS-related CoVs are known, as clear from this
-[NCBI Taxonomy list](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
+Het <topic>SARS-CoV-2</topic> <topic>virus</topic> is niet het eerste <topic>coronavirus</topic> (CoV). Er zijn
+namelijk behoorlijk veel SARS-gerelateerde CoVs bekend, zoals duidelijk is in
+[deze NCBI Taxonomy lijst](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
 
-We first list all the SARSr-CoV viruses in Wikidata:
+Laten we eerste alle SARSr-CoV virussen in Wikidata opzoeken:
 
 <sparql>allSARSCoVViruses</sparql>
 
-This gives us:
+Dit geeft ons:
 
 <out>allSARSCoVViruses</out>
 
@@ -89,7 +90,7 @@ This gives us:
 
 <out>allSARSCoVVirusesTaxonomy</out>
 
-## References
+## Bronnen
 
 <references/>
 

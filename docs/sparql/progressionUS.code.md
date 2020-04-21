@@ -7,10 +7,10 @@ SELECT ?date ?numberOfCases WHERE {
   wd:Q83873577 p:P1603 ?numberOfCasesStat .
   ?numberOfCasesStat ps:P1603 ?numberOfCases ;
                      pq:P585 ?date .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
 } ORDER BY DESC(?date)
 ```
-[Execute](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ83873577%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A) or [Edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ83873577%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A)
+[run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ83873577%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A) or [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ83873577%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A)
 
 
 ### Output
@@ -18,6 +18,62 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td><b>date</b></td>
     <td><b>numberOfCases</b></td>
+  </tr>
+  <tr>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>792759</td>
+  </tr>
+  <tr>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>764636</td>
+  </tr>
+  <tr>
+    <td>2020-04-18T00:00:00Z</td>
+    <td>738792</td>
+  </tr>
+  <tr>
+    <td>2020-04-17T00:00:00Z</td>
+    <td>709735</td>
+  </tr>
+  <tr>
+    <td>2020-04-16T00:00:00Z</td>
+    <td>677570</td>
+  </tr>
+  <tr>
+    <td>2020-04-15T00:00:00Z</td>
+    <td>648003</td>
+  </tr>
+  <tr>
+    <td>2020-04-14T00:00:00Z</td>
+    <td>617661</td>
+  </tr>
+  <tr>
+    <td>2020-04-13T00:00:00Z</td>
+    <td>586941</td>
+  </tr>
+  <tr>
+    <td>2020-04-12T00:00:00Z</td>
+    <td>560300</td>
+  </tr>
+  <tr>
+    <td>2020-04-11T00:00:00Z</td>
+    <td>532879</td>
+  </tr>
+  <tr>
+    <td>2020-04-10T00:00:00Z</td>
+    <td>502876</td>
+  </tr>
+  <tr>
+    <td>2020-04-09T00:00:00Z</td>
+    <td>468566</td>
+  </tr>
+  <tr>
+    <td>2020-04-08T00:00:00Z</td>
+    <td>434927</td>
+  </tr>
+  <tr>
+    <td>2020-04-07T00:00:00Z</td>
+    <td>400335</td>
   </tr>
   <tr>
     <td>2020-04-06T00:00:00Z</td>
@@ -96,12 +152,20 @@ SELECT ?date ?numberOfCases WHERE {
     <td>13779</td>
   </tr>
   <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>9296</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>6344</td>
   </tr>
   <tr>
     <td>2020-03-16T00:00:00Z</td>
     <td>4596</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1678</td>
   </tr>
   <tr>
     <td>2020-03-14T00:00:00Z</td>
@@ -124,6 +188,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>994</td>
   </tr>
   <tr>
+    <td>2020-03-09T00:00:00Z</td>
+    <td>472</td>
+  </tr>
+  <tr>
     <td>2020-03-08T00:00:00Z</td>
     <td>541</td>
   </tr>
@@ -134,6 +202,26 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-03-06T00:00:00Z</td>
     <td>319</td>
+  </tr>
+  <tr>
+    <td>2020-03-05T00:00:00Z</td>
+    <td>148</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>129</td>
+  </tr>
+  <tr>
+    <td>2020-03-03T00:00:00Z</td>
+    <td>108</td>
+  </tr>
+  <tr>
+    <td>2020-03-02T00:00:00Z</td>
+    <td>64</td>
+  </tr>
+  <tr>
+    <td>2020-03-01T00:00:00Z</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>2020-02-29T00:00:00Z</td>

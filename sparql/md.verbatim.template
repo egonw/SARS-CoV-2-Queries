@@ -1,4 +1,4 @@
-**SPARQL** [sparql/%STEM%.%EXT%](sparql/%STEM%.code.html) ([run](%RUNURL%), [edit](%EDITURL%))
+**SPARQL** [sparql/%STEM%.%EXT%](sparql/%STEM%.code.html) ([%LABEL_RUN%](%RUNURL%), [%LABEL_EDIT%](%EDITURL%))
 ```sparql
 %MD%
 ```

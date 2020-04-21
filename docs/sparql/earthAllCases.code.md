@@ -6,10 +6,10 @@ SELECT ?date ?numberOfCases WHERE {
   wd:Q81068910 p:P1603 ?numberOfCasesStat .
   ?numberOfCasesStat ps:P1603 ?numberOfCases ;
                      pq:P585 ?date .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
 } ORDER BY ASC(?date)
 ```
-[Execute](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A) or [Edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A)
+[run](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A) or [edit](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A)
 
 
 ### Output
@@ -341,6 +341,58 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-04-06T00:00:00Z</td>
     <td>1210956</td>
+  </tr>
+  <tr>
+    <td>2020-04-07T00:00:00Z</td>
+    <td>1279722</td>
+  </tr>
+  <tr>
+    <td>2020-04-08T00:00:00Z</td>
+    <td>1353361</td>
+  </tr>
+  <tr>
+    <td>2020-04-09T00:00:00Z</td>
+    <td>1436198</td>
+  </tr>
+  <tr>
+    <td>2020-04-10T00:00:00Z</td>
+    <td>1521252</td>
+  </tr>
+  <tr>
+    <td>2020-04-11T00:00:00Z</td>
+    <td>1610909</td>
+  </tr>
+  <tr>
+    <td>2020-04-12T00:00:00Z</td>
+    <td>1696588</td>
+  </tr>
+  <tr>
+    <td>2020-04-13T00:00:00Z</td>
+    <td>1773084</td>
+  </tr>
+  <tr>
+    <td>2020-04-14T00:00:00Z</td>
+    <td>1844863</td>
+  </tr>
+  <tr>
+    <td>2020-04-15T00:00:00Z</td>
+    <td>1914916</td>
+  </tr>
+  <tr>
+    <td>2020-04-16T00:00:00Z</td>
+    <td>1991562</td>
+  </tr>
+  <tr>
+    <td>2020-04-17T00:00:00Z</td>
+    <td>2074529</td>
+  </tr>
+  <tr>
+    <td>2020-04-18T00:00:00Z</td>
+    <td>2160207</td>
+  </tr>
+  <tr>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>2241778</td>
   </tr>
 </table>
 ## Code examples

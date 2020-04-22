@@ -15,7 +15,8 @@ if (lang != "en") langFolder = "${lang}/"
 
 refSectionLabels = [
   "en": "References",
-  "nl": "Bronnen"
+  "nl": "Bronnen",
+  "ja": "References"
 ]
 
 chapters = "order.txt"

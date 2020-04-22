@@ -8,13 +8,18 @@ data, please visit [Wikidata:WikiProject_COVID-19](https://www.wikidata.org/wiki
 
 Otherwise, read the [online version](https://egonw.github.io/SARS-CoV-2-Queries/) :)
 
+## Translations
+
+* [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/jp/)
+
 ## Licenses
 
 The content of the ebook is [CC-BY-SA 4.0 International](CCBYSA.md) but all SPARQL queries
 have the more liberal [CCZero](CC0.md).
 
-## Authors
+## Authors and translators
 
 * Addshore
 * Daniel Mietchen
 * Egon Willighagen
+* Yayamamo

@@ -1,5 +1,5 @@
 L10N := nl
-LANGS := en ${L10N}
+LANGS ?= en ${L10N}
 
 SOURCES := $(shell find src -name "*.md")
 TARGETS := $(shell find src -name "*.md" | sed -e 's/src/docs/' )

@@ -75,4 +75,4 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 
 ## Translations
 
-* [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/jp/) by Yayamamo
+* [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/ja/) by Yayamamo

@@ -71,3 +71,8 @@
 * Addshore
 * Daniel Mietchen
 * Egon Willighagen
+
+## 翻訳
+
+* [日本語](https://egonw.github.io/SARS-CoV-2-Queries/ja/) by Yayamamo
+

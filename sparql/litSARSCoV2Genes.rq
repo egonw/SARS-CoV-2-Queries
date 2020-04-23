@@ -3,5 +3,5 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   ?work wdt:P921 ?gene .
   OPTIONAL { ?work wdt:P577 ?dates . }
   OPTIONAL { ?work wdt:P356 ?doi . }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,nl,no,ru,sv,zh". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 } GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10

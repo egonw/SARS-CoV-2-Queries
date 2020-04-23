@@ -7,6 +7,6 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?count WITH {
   } GROUP BY ?virus ?gene
 } AS %ARTICLES WHERE {
   INCLUDE %ARTICLES
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,nl,no,ru,sv,zh". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }
 ORDER BY DESC(?count)

@@ -20,28 +20,28 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>2020-01-26T00:00:00Z</td>
-    <td>2014</td>
+    <td>2020-01-20T00:00:00Z</td>
+    <td>282</td>
+  </tr>
+  <tr>
+    <td>2020-01-21T00:00:00Z</td>
+    <td>314</td>
   </tr>
   <tr>
     <td>2020-01-23T00:00:00Z</td>
     <td>581</td>
   </tr>
   <tr>
-    <td>2020-01-25T00:00:00Z</td>
-    <td>1320</td>
-  </tr>
-  <tr>
-    <td>2020-01-20T00:00:00Z</td>
-    <td>282</td>
-  </tr>
-  <tr>
     <td>2020-01-24T00:00:00Z</td>
     <td>846</td>
   </tr>
   <tr>
-    <td>2020-01-21T00:00:00Z</td>
-    <td>314</td>
+    <td>2020-01-25T00:00:00Z</td>
+    <td>1320</td>
+  </tr>
+  <tr>
+    <td>2020-01-26T00:00:00Z</td>
+    <td>2014</td>
   </tr>
   <tr>
     <td>2020-01-27T00:00:00Z</td>

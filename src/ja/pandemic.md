@@ -42,7 +42,7 @@
 
 <iframe>earthAllCasesLinePlot</iframe>
 
-## 地域別の感染者数の推移。
+## 地域別の感染者数の推移
 
 Wikipediaと同様に、Wikidataにも特定地域におけるパンデミックに関する項目があります。以下のクエリでそれをリストアップできます。
 
@@ -50,7 +50,7 @@ Wikipediaと同様に、Wikidataにも特定地域におけるパンデミック
 
 このリストは非常に長いので、それを見るには上記のSPARQLのページを開きます。
 
-### オランダでの感染者数の推移。
+### オランダでの感染者数の推移
 
 これらのファセットは、<topic>オランダ</topic>など、一つの地域での<topic>推移</topic>を見るものです。
 
@@ -64,16 +64,15 @@ Wikipediaと同様に、Wikidataにも特定地域におけるパンデミック
 
 <iframe>progressionNLlineplot</iframe>
 
-### イタリアでの感染者数の推移。
+### イタリアでの感染者数の推移
 
 もちろん、<topic>イタリア</topic>における状況は欧州人の脳裏に強烈に焼きつきます。WikidataのQ識別子をオランダに変えてみます。
 
 <sparql>progressionIT</sparql>
 
-### アメリカ合衆国での推移。
+### アメリカ合衆国での推移
 
-現在、感染者数が最大。
-<topic>アメリカ合衆国</topic>
+現在、感染者数が最大の<topic>アメリカ合衆国</topic>です。
 
 <sparql>progressionUS</sparql>
 
@@ -81,9 +80,9 @@ Wikipediaと同様に、Wikidataにも特定地域におけるパンデミック
 
 <iframe>progressionUS</iframe>
 
-## 地域別の感染者数の推移のグラフ。
+## 地域別の感染者数の推移のグラフ
 
-### 感染例の数。
+### 感染例の数
 
 <sparql>graphCases</sparql>
 
@@ -91,7 +90,6 @@ Wikipediaと同様に、Wikidataにも特定地域におけるパンデミック
 
 <iframe>graphCases</iframe>
 
-### 死者数。
+### 死者数
 
 <sparql>graphDeaths</sparql>
-

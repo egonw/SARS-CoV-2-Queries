@@ -26,7 +26,7 @@ SARS-CoV-2の問題に対して現状では解決方法がありません。
 また、どのような<topic>薬</topic>が<topic>既存薬再開発</topic>のために研究されているのか知ることができました。
 大きな注目を浴びる薬もあれば、それほどでもなものもあります。
 
-次のクエリにより、<topic>介入</topic>による臨床試験の事例数を得られます。
+次のクエリにより、<topic>介入</topic>による臨床試験の事例一覧が得られます。
 
 <sparql>clinicalTrialsByIntervention</sparql>
 

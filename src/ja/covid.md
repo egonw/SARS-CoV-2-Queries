@@ -18,7 +18,7 @@
 <section level="##" label="trials">臨床試験</section>
 
 完全ではないにしろ、<topic>臨床試験</topic>は<topic>clinicaltrials.gov</topic>に登録されており、Wikidataに収められつつあります。
-次のクエリはCOVID-19が主要な課題である臨床試験の事例数を取得します。
+次のクエリはCOVID-19が主要な課題である臨床試験一覧を取得します。
 
 <sparql>clinicalTrials</sparql>
 

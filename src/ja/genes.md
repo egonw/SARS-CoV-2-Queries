@@ -2,7 +2,7 @@
 
 ## ゲノム
 
-おそらく最初の疑問は、どの<topic>ゲノム</topic>がSARS-CoV-2ウイルスに対して計測されているかでしょう。
+おそらく最初の疑問は、どの<topic>ゲノム</topic>がSARS-CoV-2ウイルスに対して読まれているかでしょう。
 
 <sparql>genomes</sparql>
 

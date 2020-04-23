@@ -56,7 +56,7 @@ Wikidataには、7つのヒトコロナウイルスに関する記事が6千件�
 
 <out>litHumanCoronavirusesCounts</out>
 
-#### そしてそれらの遺伝子です。
+#### そしてそれらの遺伝子です
 
 <sparql>litHumanCoronavirusesGeneCounts</sparql>
 
@@ -64,11 +64,11 @@ Wikidataには、7つのヒトコロナウイルスに関する記事が6千件�
 
 <out>litHumanCoronavirusesGeneCounts</out>
 
-#### それから、他のタンパク質です。
+#### それから、他のタンパク質です
 
 <sparql>litHumanCoronavirusesProteinCounts</sparql>
 
-そして、以下のクエリでそれらの数を取得します。
+そして、以下のクエリでそれらを取得します。
 
 <out>litHumanCoronavirusesProteinCounts</out>
 

@@ -1,4 +1,4 @@
-L10N := nl
+L10N := nl ja
 LANGS ?= en ${L10N}
 
 SOURCES := $(shell find src -name "*.md")

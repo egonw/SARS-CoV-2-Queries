@@ -1,9 +1,8 @@
 *.kate-swp
-#*.md
 references.dat
 references.qids
 sections.txt
 sparql/*.out
 toc.*txt
 topics.*tsv
-
+indexList.??.md

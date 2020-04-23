@@ -128,7 +128,10 @@ for (int type=0; type<mdTypes.size(); type++) {
       while (line.contains("%LABEL_")) {
         lineRemainder = line.substring(line.indexOf("%LABEL_")).substring(7)
         label = lineRemainder.substring(0, lineRemainder.indexOf("%"))
-        line = line.replace("%LABEL_${label}%", labels[label.toLowerCase()][lang]);
+        labelLow = label.toLowerCase()
+        labelStr = (labels[labelLow][lang] != null) ?
+          labels[labelLow][lang] : labels[labelLow]["en"]
+        line = line.replace("%LABEL_${label}%", labelStr);
       }
       mdWriter.write(line);
     }
@@ -136,4 +139,3 @@ for (int type=0; type<mdTypes.size(); type++) {
   }
   mdWriter.close();
 }
-

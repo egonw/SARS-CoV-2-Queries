@@ -1,4 +1,4 @@
-LANGS := en nl
+LANGS ?= en nl ja
 
 CODEFILES: \
  $(shell groovy ../findScripts.groovy ../src .out | sort | uniq)
@@ -16,7 +16,7 @@ clean:
 allScriptsCompiled: ${CODEFILES}
 	@touch allScriptsCompiled
 
-%.out: %.rq md.*.template preprocess postprocess
+%.out: %.rq md.*.template
 	@echo -n "doing $@ ... "
 	@for lang in $(LANGS) ; do \
 		echo -n "$$lang " ; \

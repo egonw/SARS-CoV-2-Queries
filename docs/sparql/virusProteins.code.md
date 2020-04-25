@@ -42,7 +42,7 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td></td>
+    <td>YP_009725301</td>
     <td></td>
   </tr>
   <tr>

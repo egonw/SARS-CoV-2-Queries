@@ -38,7 +38,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q85173855">2019–20 coronavirus outbreak data tables</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86901049">COVID-19-test</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q86901049">COVID-19-diagnostiek</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87073833">travel restriction related to the 2019–20 coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q87073833">edit</a>)</td>

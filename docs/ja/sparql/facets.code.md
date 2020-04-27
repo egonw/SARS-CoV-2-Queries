@@ -1,5 +1,5 @@
 # facets.rq
-**Code examples:** [curl](#curl)
+**コード例:** [curl](#curl)
 ### SPARQL
 ```sparql
 SELECT ?facet ?facetLabel WHERE {
@@ -8,10 +8,10 @@ SELECT ?facet ?facetLabel WHERE {
 }
 
 ```
-[run](https://query.wikidata.org/embed.html#SELECT%20%3Ffacet%20%3FfacetLabel%20WHERE%20%7B%0A%20%20%3Ffacet%20wdt%3AP1269%20wd%3AQ81068910%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A%0A) or [edit](https://query.wikidata.org/#SELECT%20%3Ffacet%20%3FfacetLabel%20WHERE%20%7B%0A%20%20%3Ffacet%20wdt%3AP1269%20wd%3AQ81068910%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A%0A)
+[実行](https://query.wikidata.org/embed.html#SELECT%20%3Ffacet%20%3FfacetLabel%20WHERE%20%7B%0A%20%20%3Ffacet%20wdt%3AP1269%20wd%3AQ81068910%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A%0A) もしくは [編集](https://query.wikidata.org/#SELECT%20%3Ffacet%20%3FfacetLabel%20WHERE%20%7B%0A%20%20%3Ffacet%20wdt%3AP1269%20wd%3AQ81068910%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A%0A)
 
 
-### Output
+### 結果
 <table>
   <tr>
     <td><b>facet</b></td>
@@ -164,6 +164,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q90840968">Impact of the 2019–20 coronavirus pandemic on domestic violence</a> (<a href="http://www.wikidata.org/entity/Q90840968">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90840989">Impact of the 2019–20 coronavirus pandemic on tourism</a> (<a href="http://www.wikidata.org/entity/Q90840989">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q90859234">Impact of the 2019-20 coronavirus pandemic on international relations</a> (<a href="http://www.wikidata.org/entity/Q90859234">edit</a>)</td>
   </tr>
   <tr>
@@ -172,11 +175,17 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q91493633">Wikipedia's response to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91493633">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91911563">Impact of the 2019–20 coronavirus pandemic on the performing arts</a> (<a href="http://www.wikidata.org/entity/Q91911563">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92150479">Impact of the 2019–20 coronavirus pandemic on journalism</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>
+  </tr>
 </table>
-## Code examples
+## コード例
 ### curl
 ```shell
 curl -o facets.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/facets.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@facets.rq
 ```
-This SPARQL query is available under CCZero.
+本SPARQLクエリはCC0ライセンスで利用可能です。

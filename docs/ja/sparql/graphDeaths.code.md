@@ -1,5 +1,5 @@
 # graphDeaths.rq
-**Code examples:** [curl](#curl)
+**コード例:** [curl](#curl)
 ### SPARQL
 ```sparql
 #defaultView:LineChart
@@ -18,10 +18,10 @@ WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "ja,en". }
 } ORDER BY ASC(?countryLabel)
 ```
-[run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%0A%3FdeathsPointInTime%20%3Fdeaths%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FdeathsStatement.%0A%20%20%3FdeathsStatement%20ps%3AP1120%20%3Fdeaths.%0A%20%20FILTER%28%3Fdeaths%20%3E%200%29%0A%20%20%3FdeathsStatement%20pq%3AP585%20%3FdeathsPointInTime.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FcountryLabel%29%0A) or [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%0A%3FdeathsPointInTime%20%3Fdeaths%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FdeathsStatement.%0A%20%20%3FdeathsStatement%20ps%3AP1120%20%3Fdeaths.%0A%20%20FILTER%28%3Fdeaths%20%3E%200%29%0A%20%20%3FdeathsStatement%20pq%3AP585%20%3FdeathsPointInTime.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FcountryLabel%29%0A)
+[実行](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%0A%3FdeathsPointInTime%20%3Fdeaths%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FdeathsStatement.%0A%20%20%3FdeathsStatement%20ps%3AP1120%20%3Fdeaths.%0A%20%20FILTER%28%3Fdeaths%20%3E%200%29%0A%20%20%3FdeathsStatement%20pq%3AP585%20%3FdeathsPointInTime.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FcountryLabel%29%0A) もしくは [編集](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%0A%3FdeathsPointInTime%20%3Fdeaths%0A%3FcountryLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3241045.%0A%20%20%3Fitem%20wdt%3AP17%20%3Fcountry.%0A%20%20%3Fitem%20p%3AP1120%20%3FdeathsStatement.%0A%20%20%3FdeathsStatement%20ps%3AP1120%20%3Fdeaths.%0A%20%20FILTER%28%3Fdeaths%20%3E%200%29%0A%20%20%3FdeathsStatement%20pq%3AP585%20%3FdeathsPointInTime.%0A%20%20%7B%20%3Fitem%20wdt%3AP1269%20wd%3AQ81068910.%20%7D%20UNION%0A%20%20%7B%20%3Fitem%20wdt%3AP361%20wd%3AQ83741704.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FcountryLabel%29%0A)
 
 
-### Output
+### 結果
 <table>
   <tr>
     <td><b>deathsPointInTime</b></td>
@@ -316,6 +316,18 @@ WHERE {
     <td>50236</td>
   </tr>
   <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>52193</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>54256</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>55413</td>
+  </tr>
+  <tr>
     <td>2020-03-17T00:00:00Z</td>
     <td>9</td>
   </tr>
@@ -432,6 +444,22 @@ WHERE {
     <td>165</td>
   </tr>
   <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>176</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>185</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>187</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>192</td>
+  </tr>
+  <tr>
     <td>2020-04-16T00:00:00Z</td>
     <td>2</td>
   </tr>
@@ -484,8 +512,8 @@ WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td>2020-04-23T00:00:00Z</td>
-    <td>37</td>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>2020-04-15T00:00:00Z</td>
@@ -702,6 +730,14 @@ WHERE {
   <tr>
     <td>2020-04-24T00:00:00Z</td>
     <td>19506</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>20319</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>20732</td>
   </tr>
   <tr>
     <td>2020-04-19T00:00:00Z</td>
@@ -970,6 +1006,14 @@ WHERE {
   <tr>
     <td>2020-04-24T00:00:00Z</td>
     <td>25969</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>26384</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>26644</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -1816,20 +1860,12 @@ WHERE {
     <td>4289</td>
   </tr>
   <tr>
-    <td>2020-03-04T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>4409</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>2020-03-08T00:00:00Z</td>
-    <td>3</td>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>4475</td>
   </tr>
   <tr>
     <td>2020-03-30T00:00:00Z</td>
@@ -1922,6 +1958,34 @@ WHERE {
   <tr>
     <td>2020-04-23T00:00:00Z</td>
     <td>76</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>81</td>
+  </tr>
+  <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>79</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>83</td>
+  </tr>
+  <tr>
+    <td>2020-03-04T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>2020-03-08T00:00:00Z</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>2020-03-16T00:00:00Z</td>
@@ -2086,6 +2150,26 @@ WHERE {
   <tr>
     <td>2020-04-22T00:00:00Z</td>
     <td>494</td>
+  </tr>
+  <tr>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>470</td>
+  </tr>
+  <tr>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>491</td>
+  </tr>
+  <tr>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>510</td>
+  </tr>
+  <tr>
+    <td>2020-04-23T00:00:00Z</td>
+    <td>522</td>
+  </tr>
+  <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>530</td>
   </tr>
   <tr>
     <td>2020-04-08T00:00:00Z</td>
@@ -2276,10 +2360,6 @@ WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
     <td>2020-04-08T00:00:00Z</td>
     <td>11</td>
   </tr>
@@ -2316,6 +2396,10 @@ WHERE {
     <td>40</td>
   </tr>
   <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
     <td>2020-04-08T00:00:00Z</td>
     <td>4</td>
   </tr>
@@ -2334,6 +2418,90 @@ WHERE {
   <tr>
     <td>2020-04-22T00:00:00Z</td>
     <td>6</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2020-03-12T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-30T00:00:00Z</td>
+    <td>43</td>
+  </tr>
+  <tr>
+    <td>2020-04-01T00:00:00Z</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>113</td>
+  </tr>
+  <tr>
+    <td>2020-03-29T00:00:00Z</td>
+    <td>38</td>
+  </tr>
+  <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2020-03-31T00:00:00Z</td>
+    <td>49</td>
+  </tr>
+  <tr>
+    <td>2020-03-28T00:00:00Z</td>
+    <td>32</td>
+  </tr>
+  <tr>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>113</td>
+  </tr>
+  <tr>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>116</td>
+  </tr>
+  <tr>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>121</td>
+  </tr>
+  <tr>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>121</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>130</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -2428,86 +2596,6 @@ WHERE {
     <td>26</td>
   </tr>
   <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>2020-03-24T00:00:00Z</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>2020-03-12T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-30T00:00:00Z</td>
-    <td>43</td>
-  </tr>
-  <tr>
-    <td>2020-04-01T00:00:00Z</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>2020-03-27T00:00:00Z</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-04-19T00:00:00Z</td>
-    <td>113</td>
-  </tr>
-  <tr>
-    <td>2020-03-29T00:00:00Z</td>
-    <td>38</td>
-  </tr>
-  <tr>
-    <td>2020-03-25T00:00:00Z</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td>17</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>2020-03-31T00:00:00Z</td>
-    <td>49</td>
-  </tr>
-  <tr>
-    <td>2020-03-28T00:00:00Z</td>
-    <td>32</td>
-  </tr>
-  <tr>
-    <td>2020-04-19T00:00:00Z</td>
-    <td>113</td>
-  </tr>
-  <tr>
-    <td>2020-04-20T00:00:00Z</td>
-    <td>116</td>
-  </tr>
-  <tr>
-    <td>2020-04-21T00:00:00Z</td>
-    <td>121</td>
-  </tr>
-  <tr>
-    <td>2020-04-22T00:00:00Z</td>
-    <td>121</td>
-  </tr>
-  <tr>
     <td>2020-04-16T00:00:00Z</td>
     <td>3</td>
   </tr>
@@ -2572,10 +2660,6 @@ WHERE {
     <td>14</td>
   </tr>
   <tr>
-    <td>2020-04-21T00:00:00Z</td>
-    <td>6</td>
-  </tr>
-  <tr>
     <td>2020-04-05T00:00:00Z</td>
     <td>2</td>
   </tr>
@@ -2592,6 +2676,10 @@ WHERE {
     <td>5</td>
   </tr>
   <tr>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>6</td>
+  </tr>
+  <tr>
     <td>2020-03-29T00:00:00Z</td>
     <td>1</td>
   </tr>
@@ -2606,6 +2694,38 @@ WHERE {
   <tr>
     <td>2020-04-22T00:00:00Z</td>
     <td>12</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>2020-03-26T00:00:00Z</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>2020-03-29T00:00:00Z</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>2020-03-30T00:00:00Z</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>2020-03-31T00:00:00Z</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>2020-04-01T00:00:00Z</td>
@@ -2696,44 +2816,20 @@ WHERE {
     <td>206</td>
   </tr>
   <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>233</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>244</td>
+  </tr>
+  <tr>
     <td>2020-04-23T00:00:00Z</td>
     <td>215</td>
   </tr>
   <tr>
     <td>2020-04-24T00:00:00Z</td>
     <td>225</td>
-  </tr>
-  <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>2020-03-24T00:00:00Z</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>2020-03-25T00:00:00Z</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>2020-03-26T00:00:00Z</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>2020-03-29T00:00:00Z</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>2020-03-30T00:00:00Z</td>
-    <td>14</td>
-  </tr>
-  <tr>
-    <td>2020-03-31T00:00:00Z</td>
-    <td>16</td>
   </tr>
   <tr>
     <td>2020-04-08T00:00:00Z</td>
@@ -2778,6 +2874,10 @@ WHERE {
   <tr>
     <td>2020-04-21T00:00:00Z</td>
     <td>109</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>139</td>
   </tr>
   <tr>
     <td>2020-03-01T00:00:00Z</td>
@@ -2996,6 +3096,10 @@ WHERE {
     <td>1217</td>
   </tr>
   <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>1337</td>
+  </tr>
+  <tr>
     <td>2020-03-16T00:00:00Z</td>
     <td>3</td>
   </tr>
@@ -3156,6 +3260,14 @@ WHERE {
     <td>2152</td>
   </tr>
   <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>2192</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>2194</td>
+  </tr>
+  <tr>
     <td>2020-03-11T00:00:00Z</td>
     <td>9</td>
   </tr>
@@ -3270,6 +3382,10 @@ WHERE {
   <tr>
     <td>2020-04-10T00:00:00Z</td>
     <td>949</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>1578</td>
   </tr>
   <tr>
     <td>2020-03-15T00:00:00Z</td>
@@ -3478,6 +3594,14 @@ WHERE {
   <tr>
     <td>2020-04-24T00:00:00Z</td>
     <td>22524</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>22902</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>23190</td>
   </tr>
   <tr>
     <td>2020-04-09T00:00:00Z</td>
@@ -3700,6 +3824,30 @@ WHERE {
     <td>201</td>
   </tr>
   <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-03-30T00:00:00Z</td>
+    <td>10</td>
+  </tr>
+  <tr>
     <td>2020-04-03T00:00:00Z</td>
     <td>19</td>
   </tr>
@@ -3808,28 +3956,24 @@ WHERE {
     <td>38</td>
   </tr>
   <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>1183</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>696</td>
   </tr>
   <tr>
-    <td>2020-03-20T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-23T00:00:00Z</td>
+    <td>438</td>
   </tr>
   <tr>
-    <td>2020-03-24T00:00:00Z</td>
-    <td>5</td>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>550</td>
   </tr>
   <tr>
-    <td>2020-03-25T00:00:00Z</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>2020-03-30T00:00:00Z</td>
-    <td>10</td>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>878</td>
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
@@ -4208,12 +4352,16 @@ WHERE {
     <td>5321</td>
   </tr>
   <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>5500</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>5640</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>5750</td>
   </tr>
   <tr>
     <td>2020-04-05T00:00:00Z</td>
@@ -4250,6 +4398,14 @@ WHERE {
   <tr>
     <td>2020-04-22T00:00:00Z</td>
     <td>260</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>2020-03-28T00:00:00Z</td>
@@ -4318,6 +4474,10 @@ WHERE {
   <tr>
     <td>2020-04-23T00:00:00Z</td>
     <td>31</td>
+  </tr>
+  <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>32</td>
   </tr>
   <tr>
     <td>2020-03-30T00:00:00Z</td>
@@ -4482,6 +4642,14 @@ WHERE {
   <tr>
     <td>2020-04-23T00:00:00Z</td>
     <td>180</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>193</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>193</td>
   </tr>
   <tr>
     <td>2020-04-07T00:00:00Z</td>
@@ -4664,6 +4832,18 @@ WHERE {
     <td>250</td>
   </tr>
   <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>262</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>272</td>
+  </tr>
+  <tr>
+    <td>2020-04-27T00:00:00Z</td>
+    <td>280</td>
+  </tr>
+  <tr>
     <td>2020-04-13T00:00:00Z</td>
     <td>8</td>
   </tr>
@@ -4688,22 +4868,6 @@ WHERE {
     <td>5</td>
   </tr>
   <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-20T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>2020-03-21T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td>2020-04-08T00:00:00Z</td>
     <td>17</td>
   </tr>
@@ -4720,6 +4884,30 @@ WHERE {
     <td>110</td>
   </tr>
   <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-21T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
     <td>2020-04-02T00:00:00Z</td>
     <td>4</td>
   </tr>
@@ -4730,14 +4918,6 @@ WHERE {
   <tr>
     <td>2020-04-22T00:00:00Z</td>
     <td>7</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>1</td>
   </tr>
   <tr>
     <td>2020-03-29T00:00:00Z</td>
@@ -4762,14 +4942,6 @@ WHERE {
   <tr>
     <td>2020-04-21T00:00:00Z</td>
     <td>209</td>
-  </tr>
-  <tr>
-    <td>2020-04-21T00:00:00Z</td>
-    <td>136</td>
-  </tr>
-  <tr>
-    <td>2020-04-22T00:00:00Z</td>
-    <td>141</td>
   </tr>
   <tr>
     <td>2020-03-11T00:00:00Z</td>
@@ -4810,6 +4982,14 @@ WHERE {
   <tr>
     <td>2020-04-20T00:00:00Z</td>
     <td>126</td>
+  </tr>
+  <tr>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>136</td>
+  </tr>
+  <tr>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>2020-04-05T00:00:00Z</td>
@@ -4916,120 +5096,168 @@ WHERE {
     <td>141</td>
   </tr>
   <tr>
-    <td>2020-03-11T00:00:00Z</td>
-    <td>9</td>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>19718</td>
   </tr>
   <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>19</td>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>12069</td>
   </tr>
   <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>23</td>
+    <td>2020-04-19T00:00:00Z</td>
+    <td>7649</td>
   </tr>
   <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>38</td>
+    <td>2020-02-18T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-29T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-25T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-19T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-24T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-27T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-16T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-02-15T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-22T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-20T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-23T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-26T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-21T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-02-17T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-02T00:00:00Z</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
-    <td>39</td>
+    <td>175</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>58</td>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>20265</td>
   </tr>
   <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>44</td>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>12505</td>
   </tr>
   <tr>
-    <td>2020-03-20T00:00:00Z</td>
-    <td>81</td>
+    <td>2020-04-20T00:00:00Z</td>
+    <td>7752</td>
   </tr>
   <tr>
-    <td>2020-03-21T00:00:00Z</td>
-    <td>96</td>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>20796</td>
   </tr>
   <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>112</td>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>12892</td>
   </tr>
   <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td>145</td>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>7896</td>
   </tr>
   <tr>
-    <td>2020-03-24T00:00:00Z</td>
-    <td>165</td>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>21340</td>
   </tr>
   <tr>
-    <td>2020-03-25T00:00:00Z</td>
-    <td>188</td>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>13225</td>
   </tr>
   <tr>
-    <td>2020-03-26T00:00:00Z</td>
-    <td>230</td>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>8104</td>
   </tr>
   <tr>
-    <td>2020-03-27T00:00:00Z</td>
-    <td>266</td>
+    <td>2020-04-23T00:00:00Z</td>
+    <td>21856</td>
   </tr>
   <tr>
-    <td>2020-03-29T00:00:00Z</td>
-    <td>350</td>
+    <td>2020-04-23T00:00:00Z</td>
+    <td>13536</td>
   </tr>
   <tr>
-    <td>2020-03-28T00:00:00Z</td>
-    <td>312</td>
+    <td>2020-04-23T00:00:00Z</td>
+    <td>8309</td>
   </tr>
   <tr>
-    <td>2020-03-30T00:00:00Z</td>
-    <td>400</td>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>22245</td>
   </tr>
   <tr>
-    <td>2020-04-01T00:00:00Z</td>
-    <td>501</td>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>13852</td>
   </tr>
   <tr>
-    <td>2020-03-31T00:00:00Z</td>
-    <td>440</td>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>8393</td>
   </tr>
   <tr>
-    <td>2020-04-02T00:00:00Z</td>
-    <td>555</td>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>22614</td>
   </tr>
   <tr>
-    <td>2020-05-06T00:00:00Z</td>
-    <td>737</td>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>8564</td>
   </tr>
   <tr>
-    <td>2020-04-05T00:00:00Z</td>
-    <td>696</td>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>14050</td>
   </tr>
   <tr>
-    <td>2020-04-04T00:00:00Z</td>
-    <td>651</td>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>22856</td>
   </tr>
   <tr>
-    <td>2020-04-08T00:00:00Z</td>
-    <td>846</td>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>8654</td>
   </tr>
   <tr>
-    <td>2020-04-03T00:00:00Z</td>
-    <td>597</td>
-  </tr>
-  <tr>
-    <td>2020-04-09T00:00:00Z</td>
-    <td>905</td>
-  </tr>
-  <tr>
-    <td>2020-04-07T00:00:00Z</td>
-    <td>790</td>
-  </tr>
-  <tr>
-    <td>2020-04-10T00:00:00Z</td>
-    <td>949</td>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>14202</td>
   </tr>
   <tr>
     <td>2020-02-14T00:00:00Z</td>
@@ -5384,144 +5612,124 @@ WHERE {
     <td>11842</td>
   </tr>
   <tr>
-    <td>2020-04-19T00:00:00Z</td>
-    <td>19718</td>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>188</td>
   </tr>
   <tr>
-    <td>2020-04-19T00:00:00Z</td>
-    <td>12069</td>
+    <td>2020-03-26T00:00:00Z</td>
+    <td>230</td>
   </tr>
   <tr>
-    <td>2020-04-19T00:00:00Z</td>
-    <td>7649</td>
+    <td>2020-03-27T00:00:00Z</td>
+    <td>266</td>
   </tr>
   <tr>
-    <td>2020-02-18T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-03-29T00:00:00Z</td>
+    <td>350</td>
   </tr>
   <tr>
-    <td>2020-02-29T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-03-28T00:00:00Z</td>
+    <td>312</td>
   </tr>
   <tr>
-    <td>2020-02-25T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-03-30T00:00:00Z</td>
+    <td>400</td>
   </tr>
   <tr>
-    <td>2020-02-19T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-01T00:00:00Z</td>
+    <td>501</td>
   </tr>
   <tr>
-    <td>2020-02-24T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-03-31T00:00:00Z</td>
+    <td>440</td>
   </tr>
   <tr>
-    <td>2020-02-27T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-04-02T00:00:00Z</td>
+    <td>555</td>
   </tr>
   <tr>
-    <td>2020-02-16T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-05-06T00:00:00Z</td>
+    <td>737</td>
   </tr>
   <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>2</td>
+    <td>2020-04-05T00:00:00Z</td>
+    <td>696</td>
   </tr>
   <tr>
-    <td>2020-02-15T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-04T00:00:00Z</td>
+    <td>651</td>
   </tr>
   <tr>
-    <td>2020-02-22T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-08T00:00:00Z</td>
+    <td>846</td>
   </tr>
   <tr>
-    <td>2020-02-20T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-03T00:00:00Z</td>
+    <td>597</td>
   </tr>
   <tr>
-    <td>2020-02-23T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-09T00:00:00Z</td>
+    <td>905</td>
   </tr>
   <tr>
-    <td>2020-02-26T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-07T00:00:00Z</td>
+    <td>790</td>
   </tr>
   <tr>
-    <td>2020-02-21T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-10T00:00:00Z</td>
+    <td>949</td>
   </tr>
   <tr>
-    <td>2020-02-17T00:00:00Z</td>
-    <td>1</td>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>1578</td>
   </tr>
   <tr>
-    <td>2020-03-02T00:00:00Z</td>
-    <td>3</td>
+    <td>2020-03-11T00:00:00Z</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
-    <td>175</td>
+    <td>39</td>
   </tr>
   <tr>
-    <td>2020-04-20T00:00:00Z</td>
-    <td>20265</td>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>58</td>
   </tr>
   <tr>
-    <td>2020-04-20T00:00:00Z</td>
-    <td>12505</td>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>44</td>
   </tr>
   <tr>
-    <td>2020-04-20T00:00:00Z</td>
-    <td>7752</td>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>81</td>
   </tr>
   <tr>
-    <td>2020-04-21T00:00:00Z</td>
-    <td>20796</td>
+    <td>2020-03-21T00:00:00Z</td>
+    <td>96</td>
   </tr>
   <tr>
-    <td>2020-04-21T00:00:00Z</td>
-    <td>12892</td>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>112</td>
   </tr>
   <tr>
-    <td>2020-04-21T00:00:00Z</td>
-    <td>7896</td>
+    <td>2020-03-23T00:00:00Z</td>
+    <td>145</td>
   </tr>
   <tr>
-    <td>2020-04-22T00:00:00Z</td>
-    <td>21340</td>
-  </tr>
-  <tr>
-    <td>2020-04-22T00:00:00Z</td>
-    <td>13225</td>
-  </tr>
-  <tr>
-    <td>2020-04-22T00:00:00Z</td>
-    <td>8104</td>
-  </tr>
-  <tr>
-    <td>2020-04-23T00:00:00Z</td>
-    <td>21856</td>
-  </tr>
-  <tr>
-    <td>2020-04-23T00:00:00Z</td>
-    <td>13536</td>
-  </tr>
-  <tr>
-    <td>2020-04-23T00:00:00Z</td>
-    <td>8309</td>
-  </tr>
-  <tr>
-    <td>2020-04-24T00:00:00Z</td>
-    <td>22245</td>
-  </tr>
-  <tr>
-    <td>2020-04-24T00:00:00Z</td>
-    <td>13852</td>
-  </tr>
-  <tr>
-    <td>2020-04-24T00:00:00Z</td>
-    <td>8393</td>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>165</td>
   </tr>
   <tr>
     <td>2020-03-19T00:00:00Z</td>
@@ -5650,6 +5858,18 @@ WHERE {
   <tr>
     <td>2020-04-23T00:00:00Z</td>
     <td>3313</td>
+  </tr>
+  <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>3670</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>4016</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>4205</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -5872,14 +6092,6 @@ WHERE {
     <td>5998</td>
   </tr>
   <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>2020-03-29T00:00:00Z</td>
-    <td>11</td>
-  </tr>
-  <tr>
     <td>2020-04-06T00:00:00Z</td>
     <td>92</td>
   </tr>
@@ -5910,6 +6122,14 @@ WHERE {
   <tr>
     <td>2020-04-22T00:00:00Z</td>
     <td>484</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2020-03-29T00:00:00Z</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>2020-04-05T00:00:00Z</td>
@@ -5952,14 +6172,6 @@ WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td>2020-04-21T00:00:00Z</td>
-    <td>34</td>
-  </tr>
-  <tr>
-    <td>2020-04-22T00:00:00Z</td>
-    <td>37</td>
-  </tr>
-  <tr>
     <td>2020-04-09T00:00:00Z</td>
     <td>19</td>
   </tr>
@@ -5978,6 +6190,14 @@ WHERE {
   <tr>
     <td>2020-04-20T00:00:00Z</td>
     <td>33</td>
+  </tr>
+  <tr>
+    <td>2020-04-21T00:00:00Z</td>
+    <td>34</td>
+  </tr>
+  <tr>
+    <td>2020-04-22T00:00:00Z</td>
+    <td>37</td>
   </tr>
   <tr>
     <td>2020-03-16T00:00:00Z</td>
@@ -6304,6 +6524,14 @@ WHERE {
     <td>454</td>
   </tr>
   <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>524</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>535</td>
+  </tr>
+  <tr>
     <td>2020-04-13T00:00:00Z</td>
     <td>2</td>
   </tr>
@@ -6392,16 +6620,16 @@ WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td>2020-03-27T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td>2020-04-13T00:00:00Z</td>
     <td>35</td>
   </tr>
   <tr>
     <td>2020-04-21T00:00:00Z</td>
     <td>73</td>
+  </tr>
+  <tr>
+    <td>2020-03-27T00:00:00Z</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>2020-03-17T00:00:00Z</td>
@@ -6544,62 +6772,6 @@ WHERE {
     <td>8</td>
   </tr>
   <tr>
-    <td>2020-03-13T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-14T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-15T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-16T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-17T00:00:00Z</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2020-03-18T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>2020-03-19T00:00:00Z</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>2020-03-20T00:00:00Z</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>2020-03-21T00:00:00Z</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>2020-03-22T00:00:00Z</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>2020-03-23T00:00:00Z</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>2020-03-24T00:00:00Z</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>2020-03-25T00:00:00Z</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>2020-03-26T00:00:00Z</td>
-    <td>10</td>
-  </tr>
-  <tr>
     <td>2020-03-27T00:00:00Z</td>
     <td>15</td>
   </tr>
@@ -6714,6 +6886,70 @@ WHERE {
   <tr>
     <td>2020-04-24T00:00:00Z</td>
     <td>85</td>
+  </tr>
+  <tr>
+    <td>2020-03-13T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-14T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-15T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-16T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-17T00:00:00Z</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2020-03-18T00:00:00Z</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2020-03-19T00:00:00Z</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2020-03-21T00:00:00Z</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>2020-03-22T00:00:00Z</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>2020-03-23T00:00:00Z</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>2020-03-24T00:00:00Z</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>2020-03-25T00:00:00Z</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>2020-03-26T00:00:00Z</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>85</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>88</td>
   </tr>
   <tr>
     <td>2020-04-02T00:00:00Z</td>
@@ -6852,6 +7088,14 @@ WHERE {
     <td>552</td>
   </tr>
   <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>575</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>608</td>
+  </tr>
+  <tr>
     <td>2020-03-19T00:00:00Z</td>
     <td>4</td>
   </tr>
@@ -6910,6 +7154,10 @@ WHERE {
   <tr>
     <td>2020-04-21T00:00:00Z</td>
     <td>22</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>2020-03-26T00:00:00Z</td>
@@ -7022,6 +7270,22 @@ WHERE {
   <tr>
     <td>2020-04-23T00:00:00Z</td>
     <td>555</td>
+  </tr>
+  <tr>
+    <td>2020-04-24T00:00:00Z</td>
+    <td>615</td>
+  </tr>
+  <tr>
+    <td>2020-04-25T00:00:00Z</td>
+    <td>681</td>
+  </tr>
+  <tr>
+    <td>2020-04-26T00:00:00Z</td>
+    <td>747</td>
+  </tr>
+  <tr>
+    <td>2020-04-27T00:00:00Z</td>
+    <td>794</td>
   </tr>
   <tr>
     <td>2020-01-20T00:00:00Z</td>
@@ -7404,7 +7668,7 @@ WHERE {
     <td>4642</td>
   </tr>
   <tr>
-    <td>2020-04-24T00:00:00Z</td>
+    <td>2020-04-26T00:00:00Z</td>
     <td>6</td>
   </tr>
   <tr>
@@ -7800,10 +8064,10 @@ WHERE {
     <td>1</td>
   </tr>
 </table>
-## Code examples
+## コード例
 ### curl
 ```shell
 curl -o graphDeaths.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/graphDeaths.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@graphDeaths.rq
 ```
-This SPARQL query is available under CCZero.
+本SPARQLクエリはCC0ライセンスで利用可能です。

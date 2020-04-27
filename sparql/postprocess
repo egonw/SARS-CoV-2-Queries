@@ -14,27 +14,33 @@ lang = args[1];
 labels = [
   "run": [
     "en": "run",
-    "nl": "uitvoeren"
+    "nl": "uitvoeren",
+    "ja": "実行"
   ],
   "edit": [
     "en": "edit",
-    "nl": "bewerken"
+    "nl": "bewerken",
+    "ja": "編集"
   ],
   "or": [
     "en": "or",
-    "nl": "of"
+    "nl": "of",
+    "ja": "もしくは",
   ],
   "code_examples": [
     "en": "Code examples",
-    "nl": "Broncode voorbeelden"
+    "nl": "Broncode voorbeelden",
+    "ja": "コード例"
   ],
   "license": [
     "en": "This SPARQL query is available under CCZero.",
-    "nl": "Deze SPARQL zoekopdracht is beschikbaar als CCZero"
+    "nl": "Deze SPARQL zoekopdracht is beschikbaar als CCZero",
+    "ja": "本SPARQLクエリはCC0ライセンスで利用可能です。"
   ],
   "output": [
     "en": "Output",
-    "nl": "Resultaten"
+    "nl": "Resultaten",
+    "ja": "結果"
   ]
 ]
 

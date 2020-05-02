@@ -60,7 +60,11 @@ for (l10nLang in langs) {
     translations += "**${l10nLang}** "
   } else if (new File("src/${langFolder}${context}.md").exists()) {
     hasTranslations = true
-    pageFolder = langFolder == "" ? "../" : langFolder
+    if (lang == "en") {
+      pageFolder = l10nLang == "en" ? "" : "${l10nLang}/"
+    } else {
+      pageFolder = l10nLang == "en" ? "../" : "../${l10nLang}/"
+    }
     translations += "[${l10nLang}](${pageFolder}${context}.md) "
   }
 }

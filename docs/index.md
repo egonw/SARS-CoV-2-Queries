@@ -8,7 +8,7 @@
     "@type": "Organization",
     "name": "GitHub"
   },
-  "copyrightYear", "2020",
+  "copyrightYear": "2020",
   "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
 }
 </script>
@@ -43,8 +43,9 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 2.5.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
 2.6. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
-3.1. [Symptoms](covid.md#symptoms) <br />
-3.2. [Clinical trials](covid.md#clinical-trials) <br />
+3.1. [SARS-CoV-2](covid.md#sars-cov-2) <br />
+3.2. [Symptoms](covid.md#symptoms) <br />
+3.3. [Clinical trials](covid.md#clinical-trials) <br />
 4. [The pandemic](pandemic.md) <br />
 4.1. [Virus <topic>transmission</topic>](pandemic.md#virus-<topic>transmission</topic>) <br />
 4.2. [Progression](pandemic.md#progression) <br />

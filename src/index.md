@@ -8,7 +8,7 @@
     "@type": "Organization",
     "name": "GitHub"
   },
-  "copyrightYear", "2020",
+  "copyrightYear": "2020",
   "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
 }
 </script>

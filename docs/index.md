@@ -1,4 +1,17 @@
-<script type="application/ld+json"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "inLanguage": "en-US",
+  "name": "Wikidata Queries around the SARS-CoV-2 virus and pandemic",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear", "2020",
+  "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
+}
+</script>
 
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 

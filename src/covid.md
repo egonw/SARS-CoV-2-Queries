@@ -1,7 +1,27 @@
 # COVID-19
 
-<topic>COVID-19</topic> is the disease caused by the <topic>SARS-CoV-2</topic> virus.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "InfectiousDisease",
+  "name": "COVID-19"
+}
+</script>
+
 This Chapter gives information about this disease.
+
+## SARS-CoV-2
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Taxon",
+  "name": "SARS-CoV-2",
+  "taxonRank": "species"
+}
+</script>
+
+<topic>COVID-19</topic> is the disease caused by the <topic>SARS-CoV-2</topic> virus.
 
 ## Symptoms
 

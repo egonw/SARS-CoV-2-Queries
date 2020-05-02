@@ -3,6 +3,7 @@
 // GPL v3
 
 input = args[0]
+langs = [ "en", "ja", "nl" ]
 lang = "en"
 if (input.substring(4).contains("/"))
   lang = input.substring(4,4+input.substring(4).indexOf("/"))
@@ -47,8 +48,24 @@ bibList = "";
 refCounter = 0;
 topicCounter = 0;
 
-context = input.substring(0, input.indexOf("."))
+slashPos = input.lastIndexOf("/")
+context = input.substring(slashPos+1, input.indexOf("."))
 currentChapterCounter = chapterCounters.get(context)
+
+translations = "[ "
+boolean hasTranslations = false
+for (l10nLang in langs) {
+  langFolder = (l10nLang == "en" ? "" : "${l10nLang}/")
+  if (l10nLang == lang) {
+    translations += "**${l10nLang}** "
+  } else if (new File("src/${langFolder}${context}.md").exists()) {
+    hasTranslations = true
+    pageFolder = langFolder == "" ? "../" : langFolder
+    translations += "[${l10nLang}](${pageFolder}${context}.md) "
+  }
+}
+translations += " ]\n"
+if (hasTranslations) println translations
 
 lines = new File(input).readLines()
 lines.each { String line ->

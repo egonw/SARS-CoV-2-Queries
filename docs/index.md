@@ -1,3 +1,5 @@
+<script type="application/ld+json"></script>
+
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen

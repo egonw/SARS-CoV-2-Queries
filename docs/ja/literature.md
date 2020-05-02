@@ -1,3 +1,5 @@
+[ [en](../literature.md) **ja**  ]
+
 # 文献
 
 これらのクエリはいくつかの課題に関する最新10件分の<a name="tp1">記事</a>を取得します。これは、 [Scholia](https://tools.wmflabs.org/scholia/) [<a href="#citeref1">1</a>]とは異なります。Scholiaは特定の課題について遥かに豊かな<a name="tp2">文献</a>の概要が得られます。各節ではScholiaへのリンクを含めています。ここでのクエリはとても基本的なもので、「主題」プロパティのみを利用します。

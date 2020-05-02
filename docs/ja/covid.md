@@ -1,3 +1,5 @@
+[ [en](../covid.md) **ja**  ]
+
 # COVID-19
 
 <a name="tp1">COVID-19</a>は<a name="tp2">SARS-CoV-2</a>ウイルスにより引き起こされる疾患です。

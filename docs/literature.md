@@ -1,3 +1,5 @@
+[ **en** [ja](ja/literature.md)  ]
+
 # Literature
 
 These queries list the latest 10 <a name="tp1">articles</a> about a number of topics. It is

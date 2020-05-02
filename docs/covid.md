@@ -1,3 +1,5 @@
+[ **en** [ja](ja/covid.md)  ]
+
 # COVID-19
 
 <script type="application/ld+json">

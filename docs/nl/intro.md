@@ -1,3 +1,5 @@
+[ [en](../intro.md) [ja](ja/intro.md) **nl**  ]
+
 # Introductie
 
 [Wikidata](https://wikidata.org/) is een bruikbare bron voor gelinkte data [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>].

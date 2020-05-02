@@ -1,3 +1,5 @@
+[ [en](../intro.md) **ja** [nl](nl/intro.md)  ]
+
 # 導入
 
 [Wikidata](https://wikidata.org/)はリンクトデータネットワークにおいて有益な資源です [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>]。[Wikicite](http://wikicite.org/)プロジェクトはWikipediaで引用されている全ての学術論文をロードするというチャレンジをしました [<a href="#citeref3">3</a>]。[Scholia](https://tools.wmflabs.org/scholia/)[<a href="#citeref4">4</a>]に触発され、本文書には学術誌の編集者に有益なたくさんのクエリを集めました。

@@ -1,3 +1,5 @@
+[ **en** [ja](ja/pandemic.md)  ]
+
 # The pandemic
 
 The total number of cases of the <a name="tp1">pandemic</a> found with this query:

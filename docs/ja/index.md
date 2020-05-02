@@ -1,3 +1,5 @@
+[ [en](../index.md) **ja** [nl](nl/index.md)  ]
+
 # SARS-CoV-2ウイルス及びパンデミックに関するWikidataのクエリ集
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen

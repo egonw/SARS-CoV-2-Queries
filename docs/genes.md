@@ -1,3 +1,5 @@
+[ **en** [ja](ja/genes.md)  ]
+
 # Genomes, Genes, and Proteins
 
 ## Genomes

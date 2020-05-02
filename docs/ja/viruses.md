@@ -1,3 +1,5 @@
+[ [en](../viruses.md) **ja** [nl](nl/viruses.md)  ]
+
 <a name="sec:viruses"></a>
 # ウイルス
 
@@ -55,7 +57,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
 </table>
 
-この結果を[2.5](viruses.md#sec:sevenhuman)章の結果と比較すれば、それらが完全には一致しないことが分かります。
+この結果を[2.5](#sec:sevenhuman)章の結果と比較すれば、それらが完全には一致しないことが分かります。
 
 <a name="sec:sevenhuman"></a>
 ## ヒトに感染する7つのコロナウイルス

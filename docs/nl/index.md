@@ -1,3 +1,5 @@
+[ [en](../index.md) [ja](ja/index.md) **nl**  ]
+
 # Wikidata zoekopdrachten voor het SARS-CoV-2 virus en de pandemie
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen

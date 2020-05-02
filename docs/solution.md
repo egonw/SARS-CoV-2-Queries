@@ -1,3 +1,5 @@
+[ **en** [ja](ja/solution.md)  ]
+
 # Towards a solution
 
 There is currently no solution for SARS-CoV-2.
@@ -324,7 +326,7 @@ literature for reading, not to draw conclusions from:
 
 ## Drug repurposing
 
-The Section [3.2](covid.md#sec:trials) already listed an overview of clinical trials.
+The Section [3.3](covid.md#sec:trials) already listed an overview of clinical trials.
 It gives an idea of what symptoms people are worried about. It also gives
 insight in what <a name="tp2">drugs</a> are studied for <a name="tp3">repurposing</a>.
 Some of these have received a lot of attention, others less so.

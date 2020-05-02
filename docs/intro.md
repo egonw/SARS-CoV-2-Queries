@@ -1,3 +1,5 @@
+[ **en** [ja](ja/intro.md) [nl](nl/intro.md)  ]
+
 # Introduction
 
 [Wikidata](https://wikidata.org/) is a useful resource in the linked data network [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>].

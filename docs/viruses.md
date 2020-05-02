@@ -1,3 +1,5 @@
+[ **en** [ja](ja/viruses.md) [nl](nl/viruses.md)  ]
+
 <a name="sec:viruses"></a>
 # Viruses
 
@@ -58,7 +60,7 @@ This gives us:
   </tr>
 </table>
 
-If we compare this list with that in Section [2.5](viruses.md#sec:sevenhuman) we not that
+If we compare this list with that in Section [2.5](#sec:sevenhuman) we not that
 these two lists do not fully overlap.
 
 <a name="sec:sevenhuman"></a>

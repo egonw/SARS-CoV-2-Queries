@@ -60,24 +60,24 @@ This gives these 10 papers (remove the `LIMIT 10` from the query to get all):
     <td><a href="https://doi.org/10.3201/EID2605.200146">10.3201/EID2605.200146</a></td>
   </tr>
   <tr>
-    <td>2020-04-13T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q90830654">Identification of chymotrypsin-like protease inhibitors of SARS-CoV-2 via integrated computational approach</a> (<a href="http://www.wikidata.org/entity/Q90830654">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/07391102.2020.1751298">10.1080/07391102.2020.1751298</a></td>
+    <td>2020-04-23T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92331110">How is immunosuppressive status affecting children and adults in SARS-CoV-2 infection? A systematic review</a> (<a href="http://www.wikidata.org/entity/Q92331110">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JINF.2020.04.026">10.1016/J.JINF.2020.04.026</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-17T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92081137">COVID19 during pregnancy: a systematic review of reported cases</a> (<a href="http://www.wikidata.org/entity/Q92081137">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.AJOG.2020.04.013">10.1016/J.AJOG.2020.04.013</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-16T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92051692">Clinical characteristics and diagnostic challenges of pediatric COVID-19: A systematic review and meta-analysis</a> (<a href="http://www.wikidata.org/entity/Q92051692">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JFMA.2020.04.007">10.1016/J.JFMA.2020.04.007</a></td>
   </tr>
   <tr>
     <td>2020-04-13T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q90690739">SARS-CoV-2: a storm is raging</a> (<a href="http://www.wikidata.org/entity/Q90690739">edit</a>)</td>
     <td><a href="https://doi.org/10.1172/JCI137647">10.1172/JCI137647</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-11T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q91240154">Low-dose corticosteroid therapy does not delay viral clearance in patients with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q91240154">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JINF.2020.03.039">10.1016/J.JINF.2020.03.039</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-09T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q91131712">The COVID-19 vaccine development landscape</a> (<a href="http://www.wikidata.org/entity/Q91131712">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/D41573-020-00073-5">10.1038/D41573-020-00073-5</a></td>
   </tr>
 </table>
 
@@ -317,15 +317,15 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2654</td>
+    <td>2652</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>1322</td>
+    <td>1354</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td>1025</td>
+    <td>1030</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -561,27 +561,27 @@ Where the counts are:
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89458416">spike glycoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89458416">edit</a>)</td>
-    <td>37</td>
+    <td>40</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89455671">3C-like proteinase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89455671">edit</a>)</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88365896">Protein 3a [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365896">edit</a>)</td>
-    <td>23</td>
+    <td>25</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89560425">papain-like proteinase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89560425">edit</a>)</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89457519">nucleoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89457519">edit</a>)</td>
-    <td>18</td>
+    <td>20</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -730,6 +730,11 @@ Where the counts are:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88365908">Non-structural protein 3b [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365908">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88365856">Non-structural protein NS6 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365856">edit</a>)</td>
     <td>2</td>
   </tr>
@@ -796,11 +801,6 @@ Where the counts are:
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88366260">Membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88366260">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88365908">Non-structural protein 3b [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365908">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

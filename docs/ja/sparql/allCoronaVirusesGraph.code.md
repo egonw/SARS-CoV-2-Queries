@@ -567,6 +567,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16908525">アルファコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91560702">Rousettus bat coronavirus HKU10</a> (<a href="http://www.wikidata.org/entity/Q91560702">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16908525">アルファコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q92050731">Soracovirus</a> (<a href="http://www.wikidata.org/entity/Q92050731">edit</a>)</td>
     <td></td>
   </tr>

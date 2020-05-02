@@ -36,12 +36,12 @@ SELECT ?date ?numberOfCases WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td>2020-02-28T00:00:00Z</td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td>2020-03-05T00:00:00Z</td>
     <td>82</td>
+  </tr>
+  <tr>
+    <td>2020-02-28T00:00:00Z</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>2020-03-10T00:00:00Z</td>
@@ -250,6 +250,22 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-04-26T00:00:00Z</td>
     <td>37845</td>
+  </tr>
+  <tr>
+    <td>2020-04-27T00:00:00Z</td>
+    <td>38245</td>
+  </tr>
+  <tr>
+    <td>2020-04-28T00:00:00Z</td>
+    <td>38416</td>
+  </tr>
+  <tr>
+    <td>2020-04-29T00:00:00Z</td>
+    <td>38802</td>
+  </tr>
+  <tr>
+    <td>2020-04-30T00:00:00Z</td>
+    <td>39316</td>
   </tr>
 </table>
 ## コード例

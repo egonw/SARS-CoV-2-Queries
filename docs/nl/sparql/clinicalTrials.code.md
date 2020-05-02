@@ -28,6 +28,42 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><b>identifier</b></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92392147">COVID-19: A Pilot Study of Adaptive Immunity and Anti-PD1</a> (<a href="http://www.wikidata.org/entity/Q92392147">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q7041828">nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">klinische proeffase II</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04356508</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92392200">Interferon Beta 1a in Hospitalized COVID-19 Patients</a> (<a href="http://www.wikidata.org/entity/Q92392200">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q188269">Interferon</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04350671</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92392200">Interferon Beta 1a in Hospitalized COVID-19 Patients</a> (<a href="http://www.wikidata.org/entity/Q92392200">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04350671</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92392200">Interferon Beta 1a in Hospitalized COVID-19 Patients</a> (<a href="http://www.wikidata.org/entity/Q92392200">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04350671</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92392200">Interferon Beta 1a in Hospitalized COVID-19 Patients</a> (<a href="http://www.wikidata.org/entity/Q92392200">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04350671</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92392200">Interferon Beta 1a in Hospitalized COVID-19 Patients</a> (<a href="http://www.wikidata.org/entity/Q92392200">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q2450337">Interferon bèta-1a</a> (<a href="http://www.wikidata.org/entity/Q2450337">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42825046">klinische proeffase IV</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
+    <td>NCT04350671</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89506948">Treatment of SARS Caused by COVID-19 With Ruxolitinib</a> (<a href="http://www.wikidata.org/entity/Q89506948">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q7383611">ruxolitinib</a> (<a href="http://www.wikidata.org/entity/Q7383611">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42824069">klinische proeffase I</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>

@@ -77,6 +77,9 @@ Listing these symptoms:
     <td><a href="https://tools.wmflabs.org/scholia/Q767485">respiratory failure</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q2260058">chills</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q3508755">influenza like illness</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
   </tr>
   <tr>

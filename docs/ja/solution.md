@@ -351,19 +351,19 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q421094">ヒドロキシクロロキン</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td>41</td>
+    <td>42</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422585">ロピナビル</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422618">リトナビル</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td>14</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q422438">クロロキン</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
     <td>14</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422585">ロピナビル</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td>13</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422618">リトナビル</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td>13</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
@@ -383,6 +383,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q188269">インターフェロン</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
@@ -426,15 +430,15 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q188269">インターフェロン</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q288280">ACE阻害薬</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q193598">アスコルビン酸</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q7041828">ニボルマブ</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
@@ -470,6 +474,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q2450337">アボネックス</a> (<a href="http://www.wikidata.org/entity/Q2450337">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q415411">アナキンラ</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
     <td>2</td>
   </tr>
@@ -483,10 +491,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q7383611">ルキソリチニブ</a> (<a href="http://www.wikidata.org/entity/Q7383611">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q7041828">ニボルマブ</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -531,10 +535,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q50840582">Angiotensin II</a> (<a href="http://www.wikidata.org/entity/Q50840582">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2450337">アボネックス</a> (<a href="http://www.wikidata.org/entity/Q2450337">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

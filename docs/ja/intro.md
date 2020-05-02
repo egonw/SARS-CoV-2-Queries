@@ -1,4 +1,4 @@
-[ [en](../intro.md) **ja** [nl](nl/intro.md)  ]
+[ [en](../intro.md) **ja** [nl](../nl/intro.md)  ]
 
 # 導入
 

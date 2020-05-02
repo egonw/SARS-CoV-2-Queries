@@ -1,4 +1,4 @@
-[ [en](../viruses.md) [ja](ja/viruses.md) **nl**  ]
+[ [en](../viruses.md) [ja](../ja/viruses.md) **nl**  ]
 
 <a name="sec:viruses"></a>
 # Virussen

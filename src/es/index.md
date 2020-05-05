@@ -41,4 +41,4 @@ Deseos, comentarios, y pull requests pueden ser enviados a
 ## Traducciones
 
 * [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/ja/) de Yayamamo
-* [Español](https://egonw.github.io/SARS-CoV-2-Queries/es/) de Marvin Martens, Sharon and Carolina Prado
+* [Español](https://egonw.github.io/SARS-CoV-2-Queries/es/) de Marvin Martens, Sharon y Carolina Prado

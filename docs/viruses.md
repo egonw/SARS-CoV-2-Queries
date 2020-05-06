@@ -4,7 +4,7 @@
 # Viruses
 
 Coronaviruses are not new and some of them are pretty harmless. For example, 
-the human coronaviruses HCoV-229E and HCoV-OC43 normally results in a common
+the human coronaviruses HCoV-229E and HCoV-OC43 normally result in a common
 cold [<a href="#citeref1">1</a>]. However, for the
 <a name="tp1">severe acute respiratory syndrome-related coronaviruses</a> (<a name="tp2">SARSr viruses</a>)
 this is different. SARS-CoV-2, of course, is the main topic of this book.
@@ -60,7 +60,7 @@ This gives us:
   </tr>
 </table>
 
-If we compare this list with that in Section [2.5](#sec:sevenhuman) we not that
+If we compare this list with that in Section [2.2](#sec:sevenhuman) we not that
 these two lists do not fully overlap.
 
 <a name="sec:sevenhuman"></a>
@@ -152,7 +152,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
 }
 ```
 
-This gives this output
+This gives this output:
 
 <iframe
   style="width: 95%; height: 50vh; border: none;"
@@ -190,7 +190,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
 }
 ```
 
-This gives this output
+This gives this output:
 
 <iframe
   style="width: 95%; height: 50vh; border: none;"
@@ -199,67 +199,6 @@ This gives this output
   referrerpolicy="origin"
   sandbox="allow-scripts allow-same-origin allow-popups" >
 </iframe>
-
-<a name="sec:sevenhuman"></a>
-## The seven coronaviruses that infect human
-
-However, for the current pandemic, the seven human corona viruses may be of particular interest [<a href="#citeref2">2</a>].
-We can use this query to just list these:
-
-**SPARQL** [sparql/humanCoronaviruses.rq](sparql/humanCoronaviruses.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A))
-
-```sparql
-SELECT ?virus ?virusLabel ?ncbi WHERE {
-  VALUES ?virus {
-    wd:Q82069695 # SARS-CoV-2
-    wd:Q16983360 # HKU1
-    wd:Q16991954 # OC43
-    wd:Q8351095  # NL63 
-    wd:Q16983356 # 229E
-    wd:Q4902157  # MERS-CoV
-    wd:Q278567   # SARS-CoV
-  }
-  OPTIONAL { ?virus wdt:P685 ?ncbi }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
-}
-```
-
-This gives us a good starting point to study the virus in more detail:
-
-<table>
-  <tr>
-    <td><b>virus</b></td>
-    <td><b>ncbi</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694009">694009</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1335626">1335626</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/277944">277944</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11137">11137</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31631">31631</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2697049">2697049</a></td>
-  </tr>
-</table>
 
 ### Comparing viruses
 

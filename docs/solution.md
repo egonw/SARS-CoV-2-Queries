@@ -4,7 +4,7 @@
 
 There is currently no solution for SARS-CoV-2.
 
-But there are ideas about what solutions might be. A vaccin is one of them, but
+But there are ideas about what solutions might be. A vaccine is one of them, but
 development of that takes time [<a href="#citeref1">1</a>]. But there is also talk about
 antibodies and repurposing of drugs. All this is very much exploratory at this
 moment. Clinical trials are important (see the [Clinical trials](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials) section).
@@ -626,7 +626,7 @@ This gives:
 </table>
 
 Importantly, this list only gives an idea of what intervention have received more
-attention than others. And is it essential to realize that attenion is not a measure
+attention than others. And it is essential to realize that attention is not a measure
 of success.
 
 ## References

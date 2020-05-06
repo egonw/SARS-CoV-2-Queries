@@ -235,7 +235,7 @@ Which shows:
 
 ### Progression in Italy
 
-Of course, for Europeans the situation in <a name="tp6">Italy</a> is is burned
+Of course, for Europeans the situation in <a name="tp6">Italy</a> is burned
 into our memory. We just change the Q-identifier for The Netherlands into that
 of Italy:
 

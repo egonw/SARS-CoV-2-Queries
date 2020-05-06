@@ -5,7 +5,7 @@
 ## Interacting genes and proteins
 
 Understanding the biological processes by which the CoV virion works,
-requires knowing which human genes and proteins are involves. This
+requires knowing which human genes and proteins are involved. This
 is towards the next section of course, but we may first want to
 know what literature has to say here (annotation is still limited):
 

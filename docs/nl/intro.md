@@ -11,13 +11,13 @@ pandemie.
 
 ## Ontbrekende onderwerpen
 
-Zoals wel duidelijk zal zijn als je dit boek leest, make veel zoekopdrachten gebruikt van
+Zoals wel duidelijk zal zijn als je dit boek leest, maken veel zoekopdrachten gebruik van
 het werk van anderen. Zoals het werk van het Wikidata:WikiProject COVID-19, WikiCite, en
 het belangeloze inzet van mensen uit de hele wereld. Omdat Wikidata een open kennisbron is kan
 iedereen bijdragen en een van de makkelijkste manieren om bij te dragen is het annoteren
 van wetenschappelijke literatuur met de onderwerpen die in het artikel besproken worden.
 Dit gebeurd met het 'main subjects' eigenschap. Met name de zoekopdrachten in het
-Literatuur hoofdstuk is hier van afhankelijk.
+Literatuur hoofdstuk zijn hiervan afhankelijk.
 
 Wil je bijdragen in de Wikidata kennisbron, maak dan een Wikidata account aan, kijk welke
 artikelen in dit boek genoemd worden, en annoteer ze met het 'main subject' eigenschap.

@@ -11,7 +11,7 @@ a number of queries useful to journal editors.
 ## Adding missing topic annotation
 
 As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
-the Wikidata:WikiProject COVID-19, of Wikicite, and the selflessless efforts by many people around
+the Wikidata:WikiProject COVID-19, of Wikicite, and the selflessness efforts by many people around
 the world. Because Wikidata is an open database, everyone can contribute, and one of the easiest
 ways to contribute, is annotate articles in Wikidata with 'main subjects'. The content of the
 Literature chapter very much depends on this. If you want to help, get a Wikidata account, browse
@@ -19,7 +19,7 @@ this book for mentioned literature and start adding 'main subject' annotation.
 
 ## Other annotation
 
-Furthermore, take advantage of the '/missing' functionality of Scholia for other useful annotation.
+Furthermore, take advantage of the '/missing' functionality of Scholia for other useful annotations.
 For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 
 * [Missing for MERS](https://tools.wmflabs.org/scholia/topic/Q4902157/missing)

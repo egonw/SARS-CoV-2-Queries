@@ -1,4 +1,4 @@
-[ **en** [ja](ja/covid.md)  ]
+[ **en** [ja](ja/covid.md) [es](es/covid.md)  ]
 
 # COVID-19
 

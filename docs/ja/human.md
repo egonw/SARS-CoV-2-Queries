@@ -1,4 +1,4 @@
-[ [en](../human.md) **ja** [nl](../nl/human.md)  ]
+[ [en](../human.md) **ja** [nl](../nl/human.md) [es](../es/human.md)  ]
 
 # ヒト
 

@@ -1,4 +1,4 @@
-[ [en](../solution.md) **ja**  ]
+[ [en](../solution.md) **ja** [es](../es/solution.md)  ]
 
 # 解決に向けて
 

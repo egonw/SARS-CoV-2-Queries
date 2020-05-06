@@ -1,4 +1,4 @@
-[ [en](../human.md) [ja](../ja/human.md) **nl**  ]
+[ [en](../human.md) [ja](../ja/human.md) **nl** [es](../es/human.md)  ]
 
 # De mens
 

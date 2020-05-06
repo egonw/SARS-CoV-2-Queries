@@ -1,4 +1,4 @@
-[ [en](../pandemic.md) [ja](../ja/pandemic.md)  ]
+[ [en](../pandemic.md) [ja](../ja/pandemic.md) **es**  ]
 
 # La pandemia
 

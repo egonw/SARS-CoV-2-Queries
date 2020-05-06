@@ -1,4 +1,4 @@
-[ [en](../genes.md) [ja](../ja/genes.md)  ]
+[ [en](../genes.md) [ja](../ja/genes.md) **es**  ]
 
 # Genomas, Genes y Proteínas
 

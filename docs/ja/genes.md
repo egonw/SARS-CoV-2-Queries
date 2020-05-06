@@ -1,4 +1,4 @@
-[ [en](../genes.md) **ja**  ]
+[ [en](../genes.md) **ja** [es](../es/genes.md)  ]
 
 # ゲノム、遺伝子、タンパク質
 

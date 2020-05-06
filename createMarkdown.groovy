@@ -3,7 +3,7 @@
 // GPL v3
 
 input = args[0]
-langs = [ "en", "ja", "nl" ]
+langs = [ "en", "ja", "nl", "es" ]
 lang = "en"
 if (input.substring(4).contains("/"))
   lang = input.substring(4,4+input.substring(4).indexOf("/"))

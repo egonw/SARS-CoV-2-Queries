@@ -1,4 +1,4 @@
-[ **en** [ja](ja/literature.md)  ]
+[ **en** [ja](ja/literature.md) [es](es/literature.md)  ]
 
 # Literature
 

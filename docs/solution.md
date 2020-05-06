@@ -1,4 +1,4 @@
-[ **en** [ja](ja/solution.md)  ]
+[ **en** [ja](ja/solution.md) [es](es/solution.md)  ]
 
 # Towards a solution
 

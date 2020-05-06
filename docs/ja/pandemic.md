@@ -1,4 +1,4 @@
-[ [en](../pandemic.md) **ja**  ]
+[ [en](../pandemic.md) **ja** [es](../es/pandemic.md)  ]
 
 # パンデミック
 

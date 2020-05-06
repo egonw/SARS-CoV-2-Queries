@@ -1,4 +1,4 @@
-[ [en](../literature.md) **ja**  ]
+[ [en](../literature.md) **ja** [es](../es/literature.md)  ]
 
 # 文献
 

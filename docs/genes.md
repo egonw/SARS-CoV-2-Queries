@@ -1,4 +1,4 @@
-[ **en** [ja](ja/genes.md)  ]
+[ **en** [ja](ja/genes.md) [es](es/genes.md)  ]
 
 # Genomes, Genes, and Proteins
 

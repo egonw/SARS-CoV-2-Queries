@@ -1,4 +1,4 @@
-[ **en** [ja](ja/human.md) [nl](nl/human.md)  ]
+[ **en** [ja](ja/human.md) [nl](nl/human.md) [es](es/human.md)  ]
 
 # The Human
 

@@ -1,4 +1,4 @@
-[ [en](../index.md) **ja** [nl](../nl/index.md)  ]
+[ [en](../index.md) **ja** [nl](../nl/index.md) [es](../es/index.md)  ]
 
 # SARS-CoV-2ウイルス及びパンデミックに関するWikidataのクエリ集
 

@@ -35,7 +35,7 @@ Listado de estos síntomas:
 
 <out>symptoms</out>
 
-## Ensayos clínicos
+<section level="##" label="ensayos">Ensayos clínicos</section>
 
 Aunque lejos de estar completo, <topic>ensayos clínicos</topic> registrados en <topic>clinictrials.gov</topic> están llegando a Wikidata. La siguiente consulta enumera una serie de ensayos clínicos con COVID-19 como tema principal:
 

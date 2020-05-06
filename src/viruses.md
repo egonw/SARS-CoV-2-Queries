@@ -1,7 +1,7 @@
 <section level="#" label="viruses">Viruses</section>
 
 Coronaviruses are not new and some of them are pretty harmless. For example, 
-the human coronaviruses HCoV-229E and HCoV-OC43 normally results in a common
+the human coronaviruses HCoV-229E and HCoV-OC43 normally result in a common
 cold [<cite>Q36641750</cite>]. However, for the
 <topic>severe acute respiratory syndrome-related coronaviruses</topic> (<topic>SARSr viruses</topic>)
 this is different. SARS-CoV-2, of course, is the main topic of this book.
@@ -44,7 +44,7 @@ Because there are quite a few of them in Wikidata, we rather make a graph depend
 
 <sparql>allBetacoronaVirusesGraph</sparql>
 
-This gives this output
+This gives this output:
 
 <iframe>allBetacoronaVirusesGraph</iframe>
 
@@ -58,20 +58,9 @@ Again, we rather make a graph dependency plot:
 
 <sparql>allCoronaVirusesGraph</sparql>
 
-This gives this output
+This gives this output:
 
 <iframe>allCoronaVirusesGraph</iframe>
-
-<section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>
-
-However, for the current pandemic, the seven human corona viruses may be of particular interest [<cite>Q86729469</cite>].
-We can use this query to just list these:
-
-<sparql>humanCoronaviruses</sparql>
-
-This gives us a good starting point to study the virus in more detail:
-
-<out>humanCoronaviruses</out>
 
 ### Comparing viruses
 

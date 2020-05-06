@@ -1,5 +1,5 @@
 # earthAllCasesLinePlot.rq
-**Code examples:** [curl](#curl)
+**Ejemplos de código:** [curl](#curl)
 ### SPARQL
 ```sparql
 #defaultView:LineChart
@@ -10,10 +10,10 @@ SELECT ?date ?numberOfCases WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en". }
 }
 ```
-[run](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A) or [edit](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A)
+[ejecutar](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A) o [editar](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A)
 
 
-### Output
+### Resultados
 <table>
   <tr>
     <td><b>date</b></td>
@@ -24,16 +24,16 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2804796</td>
   </tr>
   <tr>
-    <td>2020-04-27T00:00:00Z</td>
-    <td>2878196</td>
-  </tr>
-  <tr>
     <td>2020-04-29T00:00:00Z</td>
     <td>3018681</td>
   </tr>
   <tr>
     <td>2020-04-28T00:00:00Z</td>
     <td>2954222</td>
+  </tr>
+  <tr>
+    <td>2020-04-27T00:00:00Z</td>
+    <td>2878196</td>
   </tr>
   <tr>
     <td>2020-04-30T00:00:00Z</td>
@@ -52,28 +52,28 @@ SELECT ?date ?numberOfCases WHERE {
     <td>3349786</td>
   </tr>
   <tr>
-    <td>2020-01-26T00:00:00Z</td>
-    <td>2014</td>
+    <td>2020-01-20T00:00:00Z</td>
+    <td>282</td>
   </tr>
   <tr>
     <td>2020-01-23T00:00:00Z</td>
     <td>581</td>
   </tr>
   <tr>
-    <td>2020-01-25T00:00:00Z</td>
-    <td>1320</td>
-  </tr>
-  <tr>
-    <td>2020-01-20T00:00:00Z</td>
-    <td>282</td>
+    <td>2020-01-21T00:00:00Z</td>
+    <td>314</td>
   </tr>
   <tr>
     <td>2020-01-24T00:00:00Z</td>
     <td>846</td>
   </tr>
   <tr>
-    <td>2020-01-21T00:00:00Z</td>
-    <td>314</td>
+    <td>2020-01-25T00:00:00Z</td>
+    <td>1320</td>
+  </tr>
+  <tr>
+    <td>2020-01-26T00:00:00Z</td>
+    <td>2014</td>
   </tr>
   <tr>
     <td>2020-01-27T00:00:00Z</td>
@@ -452,10 +452,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2719896</td>
   </tr>
 </table>
-## Code examples
+## Ejemplos de código
 ### curl
 ```shell
 curl -o earthAllCasesLinePlot.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/earthAllCasesLinePlot.rq
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@earthAllCasesLinePlot.rq
 ```
-This SPARQL query is available under CCZero.
+Esta consulta SPARQL está disponible en CCZero.

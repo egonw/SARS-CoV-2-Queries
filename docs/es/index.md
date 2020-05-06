@@ -33,7 +33,6 @@ Deseos, comentarios, y pull requests pueden ser enviados a
 1. [Introducción](intro.md) <br />
 1.1. [Agregar anotación de tema faltante](intro.md#agregar-anotación-de-tema-faltante) <br />
 1.2. [Otras anotaciones](intro.md#otras-anotaciones) <br />
-1.3. [Referencias](intro.md#referencias) <br />
 2. [Virus](viruses.md) <br />
 2.1. [Todos los coronavirus relacionados con el SARS](viruses.md#todos-los-coronavirus-relacionados-con-el-sars) <br />
 2.2. [Los siete coronavirus que infectan a los humanos](viruses.md#los-siete-coronavirus-que-infectan-a-los-humanos) <br />
@@ -41,7 +40,6 @@ Deseos, comentarios, y pull requests pueden ser enviados a
 2.4. [Todos los coronavirus](viruses.md#todos-los-coronavirus) <br />
 2.4.1. [Comparación de virus](viruses.md#comparación-de-virus) <br />
 2.5. [ID de taxonomía de NCBI](viruses.md#id-de-taxonomía-de-ncbi) <br />
-2.6. [Referencias](viruses.md#referencias) <br />
 3. [COVID-19](covid.md) <br />
 3.1. [SARS-CoV-2](covid.md#sars-cov-2) <br />
 3.2. [Síntomas](covid.md#síntomas) <br />
@@ -68,21 +66,19 @@ Deseos, comentarios, y pull requests pueden ser enviados a
 5.4. [Todos los coronavirus humanos](genes.md#todos-los-coronavirus-humanos) <br />
 5.4.1. [Todos los genes del coronavirus humano](genes.md#todos-los-genes-del-coronavirus-humano) <br />
 5.4.2. [Todos los proteínas del coronavirus humano](genes.md#todos-los-proteínas-del-coronavirus-humano) <br />
+5.5. [References](genes.md#references) <br />
 6. [El humano](human.md) <br />
 6.1. [Genes y proteínas que interactúan](human.md#genes-y-proteínas-que-interactúan) <br />
 6.2. [Procesos biológicos](human.md#procesos-biológicos) <br />
-6.3. [Referencias](human.md#referencias) <br />
 7. [Hacia una solución](solution.md) <br />
 7.1. [Anticuerpos](solution.md#anticuerpos) <br />
 7.2. [Reutilización de drogas](solution.md#reutilización-de-drogas) <br />
-7.3. [Referencias](solution.md#referencias) <br />
 8. [Literatura](literature.md) <br />
 8.1. [Literatura sobre SARS-CoV-2](literature.md#literatura-sobre-sars-cov-2) <br />
 8.1.1. [Literatura sobre SARS-CoV-2 genes](literature.md#literatura-sobre-sars-cov-2-genes) <br />
 8.1.2. [Literatura sobre SARS-CoV-2 proteínas](literature.md#literatura-sobre-sars-cov-2-proteínas) <br />
 8.2. [Literatura sobre los coronavirus](literature.md#literatura-sobre-los-coronavirus) <br />
 8.2.1. [Literatura sobre los coronavirus humanos](literature.md#literatura-sobre-los-coronavirus-humanos) <br />
-8.3. [Referencias](literature.md#referencias) <br />
 
 [Index](indexList.md) <br />
 

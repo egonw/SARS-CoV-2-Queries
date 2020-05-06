@@ -15,32 +15,38 @@ labels = [
   "run": [
     "en": "run",
     "nl": "uitvoeren",
-    "ja": "実行"
+    "ja": "実行",
+    "es": "ejecutar"
   ],
   "edit": [
     "en": "edit",
     "nl": "bewerken",
-    "ja": "編集"
+    "ja": "編集",
+    "es": "editar"
   ],
   "or": [
     "en": "or",
     "nl": "of",
     "ja": "もしくは",
+    "es": "o"
   ],
   "code_examples": [
     "en": "Code examples",
     "nl": "Broncode voorbeelden",
-    "ja": "コード例"
+    "ja": "コード例",
+    "es": "Ejemplos de código"
   ],
   "license": [
     "en": "This SPARQL query is available under CCZero.",
     "nl": "Deze SPARQL zoekopdracht is beschikbaar als CCZero",
-    "ja": "本SPARQLクエリはCC0ライセンスで利用可能です。"
+    "ja": "本SPARQLクエリはCC0ライセンスで利用可能です。",
+    "es": "Esta consulta SPARQL está disponible en CCZero."
   ],
   "output": [
     "en": "Output",
     "nl": "Resultaten",
-    "ja": "結果"
+    "ja": "結果",
+    "es": "Resultados"
   ]
 ]
 

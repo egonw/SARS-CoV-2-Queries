@@ -54,6 +54,10 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87461550">Case of the Index Patient Who Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR</a> (<a href="http://www.wikidata.org/entity/Q87461550">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q91565585">Developing antibody tests for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q91565585">edit</a>)</td>
   </tr>
   <tr>
@@ -74,6 +78,10 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90776980">Interaction between RAAS inhibitors and ACE2 in the context of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q90776980">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q90010785">Mystery deepens over animal source of coronavirus</a> (<a href="http://www.wikidata.org/entity/Q90010785">edit</a>)</td>
   </tr>
   <tr>
@@ -86,7 +94,15 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90776995">Reply to: 'Interaction between RAAS inhibitors and ACE2 in the context of COVID-19'</a> (<a href="http://www.wikidata.org/entity/Q90776995">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87830056">The proximal origin of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87830056">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q79334742">[SARS-CoV: 2. Modeling SARS epidemic]</a> (<a href="http://www.wikidata.org/entity/Q79334742">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -3174,11 +3190,11 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47407432">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q47407432">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45632163">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q45632163">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45632163">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q45632163">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47407432">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q47407432">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

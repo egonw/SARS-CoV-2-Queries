@@ -184,6 +184,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q92150479">Impact of the 2019–20 coronavirus pandemic on journalism</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92600442">timeline of the 2019–20 coronavirus pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

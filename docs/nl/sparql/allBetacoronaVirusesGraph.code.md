@@ -62,7 +62,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16984813">London1 novel CoV/2012</a> (<a href="http://www.wikidata.org/entity/Q16984813">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16984813">London1_novel CoV 2012</a> (<a href="http://www.wikidata.org/entity/Q16984813">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

@@ -29,6 +29,31 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90625396">Clinical observation and management of COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q90625396">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1741327">10.1080/22221751.2020.1741327</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90625688">The different clinical characteristics of corona virus disease cases between children and their families in China - the character of children with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q90625688">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1744483">10.1080/22221751.2020.1744483</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90757765">Renin-angiotensin system inhibitors improve the clinical outcomes of COVID-19 patients with hypertension</a> (<a href="http://www.wikidata.org/entity/Q90757765">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1746200">10.1080/22221751.2020.1746200</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90757778">Transcriptomic characteristics of bronchoalveolar lavage fluid and peripheral blood mononuclear cells in COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q90757778">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1747363">10.1080/22221751.2020.1747363</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90454781">COVID-19: What implications for sexual and reproductive health and rights globally?</a> (<a href="http://www.wikidata.org/entity/Q90454781">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/26410397.2020.1746065">10.1080/26410397.2020.1746065</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q90502868">Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia</a> (<a href="http://www.wikidata.org/entity/Q90502868">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/22221751.2020.1746199">10.1080/22221751.2020.1746199</a></td>
   </tr>
@@ -43,39 +68,14 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td>2020-06-17T00:00:00Z</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89969479">COVID-19 in 2 Persons with Mild Upper Respiratory Symptoms on a Cruise Ship, Japan</a> (<a href="http://www.wikidata.org/entity/Q89969479">edit</a>)</td>
+    <td><a href="https://doi.org/10.3201/EID2606.200452">10.3201/EID2606.200452</a></td>
+  </tr>
+  <tr>
     <td>2020-06-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87461293">The novel Coronavirus (SARS-CoV-2) is a one health issue</a> (<a href="http://www.wikidata.org/entity/Q87461293">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.ONEHLT.2020.100123">10.1016/J.ONEHLT.2020.100123</a></td>
-  </tr>
-  <tr>
-    <td>2020-05-17T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461449">Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020</a> (<a href="http://www.wikidata.org/entity/Q87461449">edit</a>)</td>
-    <td><a href="https://doi.org/10.3201/EID2605.200198">10.3201/EID2605.200198</a></td>
-  </tr>
-  <tr>
-    <td>2020-05-17T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87461585">Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China</a> (<a href="http://www.wikidata.org/entity/Q87461585">edit</a>)</td>
-    <td><a href="https://doi.org/10.3201/EID2605.200146">10.3201/EID2605.200146</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-23T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q92331110">How is immunosuppressive status affecting children and adults in SARS-CoV-2 infection? A systematic review</a> (<a href="http://www.wikidata.org/entity/Q92331110">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JINF.2020.04.026">10.1016/J.JINF.2020.04.026</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-17T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q92081137">COVID19 during pregnancy: a systematic review of reported cases</a> (<a href="http://www.wikidata.org/entity/Q92081137">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.AJOG.2020.04.013">10.1016/J.AJOG.2020.04.013</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-16T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q92051692">Clinical characteristics and diagnostic challenges of pediatric COVID-19: A systematic review and meta-analysis</a> (<a href="http://www.wikidata.org/entity/Q92051692">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JFMA.2020.04.007">10.1016/J.JFMA.2020.04.007</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-13T00:00:00Z</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q90690739">SARS-CoV-2: a storm is raging</a> (<a href="http://www.wikidata.org/entity/Q90690739">edit</a>)</td>
-    <td><a href="https://doi.org/10.1172/JCI137647">10.1172/JCI137647</a></td>
   </tr>
 </table>
 
@@ -309,12 +309,12 @@ ORDER BY DESC(?count)
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2652</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td>5766</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>1354</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td>2652</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -738,17 +738,17 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88660232">hemagglutinin-esterase</a> (<a href="http://www.wikidata.org/entity/Q88660232">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88660189">ns12.9</a> (<a href="http://www.wikidata.org/entity/Q88660189">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88660232">hemagglutinin-esterase</a> (<a href="http://www.wikidata.org/entity/Q88660232">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -813,7 +813,17 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q88660220">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88660220">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q88660182">ns2</a> (<a href="http://www.wikidata.org/entity/Q88660182">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -824,16 +834,6 @@ ORDER BY DESC(?count)
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q88660220">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88660220">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

@@ -20,7 +20,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q83493517">timeline of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83741704">2019–20 coronavirus pandemic by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q83741704">COVID-19 pandemic by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q84056433">controversy surrounding the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84056433">edit</a>)</td>
@@ -183,6 +183,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q92150479">Impact of the 2019–20 coronavirus pandemic on journalism</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q92600442">timeline of the 2019–20 coronavirus pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

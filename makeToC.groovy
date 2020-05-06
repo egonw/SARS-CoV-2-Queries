@@ -15,6 +15,7 @@ if (lang != "en") langFolder = "${lang}/"
 
 refSectionLabels = [
   "en": "References",
+  "es": "Referencias",
   "nl": "Bronnen",
   "ja": "References"
 ]

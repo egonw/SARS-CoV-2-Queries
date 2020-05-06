@@ -1,16 +1,16 @@
 # Introducción
 
-[Wikidata](https://wikidata.org/) es un recurso útil en la red de datos vinculada [<cite>Q27042516</cite>,<cite>Q87830400</cite>].
-El [Wikicite](http://wikicite.org/) proyecto ha aceptado el desafío de ingresar a todas las publicaciones académicas (citado en Wikipedia) [<cite>Q28843308</cite>]. Inspirado por
-[Scholia](https://tools.wmflabs.org/scholia/) [<cite>Q41799194</cite>], este libro electrónico recoge una serie de consultas útiles para los editores de revistas y relevantes para la pandemia actual.
+[Wikidata](https://wikidata.org/) es un recurso útil en la red vinculada de datos [<cite>Q27042516</cite>,<cite>Q87830400</cite>].
+El proyecto de [Wikicite](http://wikicite.org/) ha aceptado el desafío de ingresar a todas las publicaciones académicas (citado en Wikipedia) [<cite>Q28843308</cite>]. Inspirado por
+[Scholia](https://tools.wmflabs.org/scholia/) [<cite>Q41799194</cite>], este libro electrónico recoge una serie de consultas útiles para los editores de revistas y son relevantes para la pandemia actual.
 
 ## Agregar anotación de tema faltante
 
-Como quedará claro al leer este folleto, muchas consultas aprovechan el trabajo de otros, como Wikidata: WikiProject COVID-19, de Wikicite, y los esfuerzos desinteresados de muchas personas en todo el mundo. Debido a que Wikidata es una base de datos abierta, todos pueden contribuir, y una de las formas más fáciles de contribuir es anotar artículos en Wikidata con 'temas principales'. El contenido del capítulo de Literatura depende mucho de esto. Si desea ayudar, obtenga una cuenta de Wikidata, explore este libro en busca de literatura mencionada y comience a agregar anotaciones de 'tema principal'.
+Al leer este libro quedará entendido muchas consultas, que aprovechan el trabajo de otros, como Wikidata: WikiProject COVID-19, de Wikicite, y los esfuerzos desinteresados de muchas personas en todo el mundo. Debido a que Wikidata es una base de datos abierta, todos pueden contribuir, y una de las formas más fáciles de contribuir es anotar artículos en Wikidata con 'temas principales'. El contenido del capítulo de la Literatura depende mucho de esto. Si desea ayudar, obtenga una cuenta de Wikidata, explore este libro en busca de la literatura mencionada y comience a agregar anotaciones del 'tema principal'.
 
 ## Otras anotaciones
 
-Además, aproveche la funcionalidad '/missing' de Scholia para otras anotaciones útiles. Por ejemplo, consulte estas páginas de Scholia para los coronavirus humanos (HCoV):
+Además, aproveche la funcionalidad '/missing' de Scholia para otras anotaciones útiles. Por ejemplo, consulte éstas páginas de Scholia para los coronavirus humanos:
 
 * [Falta para MERS](https://tools.wmflabs.org/scholia/topic/Q4902157/missing)
 * [Falta para HCoV NL63](https://tools.wmflabs.org/scholia/topic/Q8351095/missing)

@@ -66,7 +66,7 @@ Wikipediaと同様に、Wikidataにも特定地域におけるパンデミック
 
 ### イタリアでの感染者数の推移
 
-もちろん、<topic>イタリア</topic>における状況は欧州人の脳裏に強烈に焼きつきます。WikidataのQ識別子をオランダに変えてみます。
+もちろん、<topic>イタリア</topic>における状況は欧州人の脳裏に強烈に焼きつきます。WikidataのQ識別子をイタリアに変えてみます。
 
 <sparql>progressionIT</sparql>
 

@@ -4,7 +4,7 @@
 
 ## Genomas
 
-Quizás la primera pregunta debería ser, qué <a name="tp1">genomas</a> se han medido para el virus SARS-CoV-2:
+Quizás la primera pregunta debería ser: Qué <a name="tp1">genomas</a> se han medido para el virus SARS-CoV-2:
 
 **SPARQL** [sparql/genomes.rq](sparql/genomes.code.html) ([ejecutar](https://query.wikidata.org/embed.html#SELECT%20%3Fgenome%20WHERE%20%7B%0A%20%20wd%3AQ82069695%20wdt%3AP527%2Fwdt%3AP6800%20%3Fgenome%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A%0A), [editar](https://query.wikidata.org/#SELECT%20%3Fgenome%20WHERE%20%7B%0A%20%20wd%3AQ82069695%20wdt%3AP527%2Fwdt%3AP6800%20%3Fgenome%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A%0A))
 
@@ -1385,7 +1385,7 @@ Que devuelve:
   </tr>
 </table>
 
-### Todos los proteínas del coronavirus humano
+### Todos las proteínas del coronavirus humano
 
 Y todas las proteínas que obtenemos con:
 
@@ -1864,7 +1864,7 @@ Que devuelve:
   </tr>
 </table>
 
-## References
+## Referencias
 
 1. <a name="citeref1"></a>Meldal BHM, Bye-A-Jee H, Gajdoš L, Hammerová Z, Horácková A, Melicher F, et al. Complex Portal 2018: extended content and enhanced visualization tools for macromolecular complexes. NAR. 2018 Oct 24;47(D1):D550–8.  doi:[10.1093/NAR/GKY1001](https://doi.org/10.1093/NAR/GKY1001) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKY1001))
 2. <a name="citeref2"></a>Burley SK, Berman HM, Kleywegt G, Markley JL, Nakamura H, Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. Methods in Molecular Biology. 2017 Jan 1;1607:627–41.  doi:[10.1007/978-1-4939-7000-1_26](https://doi.org/10.1007/978-1-4939-7000-1_26) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1007/978-1-4939-7000-1_26))

@@ -101,6 +101,9 @@ Listado de estos síntomas:
     <td><a href="https://tools.wmflabs.org/scholia/Q2260058">escalofrío</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q3245488">congestion nasal</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q3508755">síndrome gripal</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
   </tr>
   <tr>
@@ -114,7 +117,7 @@ Listado de estos síntomas:
 <a name="sec:ensayos"></a>
 ## Ensayos clínicos
 
-Aunque lejos de estar completo, <a name="tp3">ensayos clínicos</a> registrados en <a name="tp4">clinictrials.gov</a> están llegando a Wikidata. La siguiente consulta enumera una serie de ensayos clínicos con COVID-19 como tema principal:
+Aún lejos de estar completo, <a name="tp3">ensayos clínicos</a> registrados en <a name="tp4">clinictrials.gov</a> están llegando a Wikidata. La siguiente consulta enumera una serie de ensayos clínicos con COVID-19 como tema principal:
 
 **SPARQL** [sparql/clinicalTrials.rq](sparql/clinicalTrials.code.html) ([ejecutar](https://query.wikidata.org/embed.html#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WHERE%20%7B%0A%20%20VALUES%20%3Ftopic%20%7B%0A%20%20%20%20wd%3AQ84263196%20wd%3AQ82069695%0A%20%20%7D%0A%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%0A), [editar](https://query.wikidata.org/#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WHERE%20%7B%0A%20%20VALUES%20%3Ftopic%20%7B%0A%20%20%20%20wd%3AQ84263196%20wd%3AQ82069695%0A%20%20%7D%0A%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%0A))
 

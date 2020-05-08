@@ -70,6 +70,9 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q2260058">悪寒</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q3245488">鼻詰まり</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q3508755">インフルエンザ様症状</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
   </tr>
   <tr>

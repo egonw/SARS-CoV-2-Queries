@@ -30,7 +30,7 @@ Lo que nos muestra para los coronavirus humanos estos artículos:
 
 ## Progresión
 
-Sin embargo, podemos estar más interesados en la cantidad de casos a lo largo del tiempo. Entonces necesitamos una consulta más compleja y adecuada para calificadores de sentencias:
+Sin embargo, podemos estar más interesados en la cantidad de casos a lo largo del tiempo. Entonces necesitamos una consulta más compleja y adecuada para calificadores de declaraciones:
 
 <sparql>earthAllCases</sparql>
 

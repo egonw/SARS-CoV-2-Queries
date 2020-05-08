@@ -1,6 +1,6 @@
 <section level="#" label="virus">Virus</section>
 
-Los coronavirus no son nuevos y algunos de ellos son bastante inofensivos. Por ejemplo, los coronavirus humanos HCoV-229E y HCoV-OC43 normalmente dan como resultado un común frío [<cite>Q36641750</cite>]. Sin embargo, para los <topic>coronavirus relacionados con el síndrome respiratorio agudo graves</topic> (<topic>coronavirus relacionado con el SARS</topic>), esto es diferente. SARS-CoV-2, por supuesto, es el tema principal de este libro.
+Los coronavirus no son nuevos y algunos de ellos son bastante inofensivos. Por ejemplo, los coronavirus humanos HCoV-229E y HCoV-OC43 normalmente dan como resultado un resfriado común [<cite>Q36641750</cite>]. Sin embargo, para los <topic>coronavirus relacionados con el síndrome respiratorio agudo graves</topic> (<topic>coronavirus relacionado con el SARS</topic>), esto es diferente. SARS-CoV-2, por supuesto, es el tema principal de este libro.
 
 ## Todos los coronavirus relacionados con el SARS
 

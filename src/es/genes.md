@@ -2,7 +2,7 @@
 
 ## Genomas
 
-Quizás la primera pregunta debería ser, qué <topic>genomas</topic> se han medido para el virus SARS-CoV-2:
+Quizás la primera pregunta debería ser: Qué <topic>genomas</topic> se han medido para el virus SARS-CoV-2:
 
 <sparql>genomes</sparql>
 
@@ -95,7 +95,7 @@ Que devuelve:
 
 <out>virusGenesAll</out>
 
-### Todos los proteínas del coronavirus humano
+### Todos las proteínas del coronavirus humano
 
 Y todas las proteínas que obtenemos con:
 
@@ -105,7 +105,7 @@ Que devuelve:
 
 <out>virusProteinsAll</out>
 
-## References
+## Referencias
 
 <references/>
 

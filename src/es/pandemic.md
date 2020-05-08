@@ -10,9 +10,9 @@ Lo que nos da:
 
 ## <topic>Transmisión</topic> de virus 
 
-La propagación del virus ocurre porque el virus se transmite con demasiada facilidad de un humano a otro. Todos deben saber acerca de mantener una distancia, porque las pequeñas gotas debido, por ejemplo, a la tos, contendrán el virus.
+La propagación del virus ocurre porque se transmite con demasiada facilidad de un humano a otro. Todos deben tener conocimiento de mantener una adecuada distancia, a causa de las pequeñas gotas, por ejemplo, a tos que contendrán el virus.
 
-Pero también se encuentra que el SARS-CoV-2 sobrevive una cierta cantidad de tiempo después de eso, por ejemplo, en superficies. Podemos hacer la siguiente consulta para enumerar qué artículos vinculan los coronavirus humanos a la supervivencia en <topic>superficies planas</topic>:
+Pero también se encuentra que el SARS-CoV-2 sobrevive una cierta cantidad de tiempo después de ser expulsado, por ejemplo, en superficies. Podemos hacer la siguiente consulta para enumerar qué artículos vinculan los coronavirus humanos a la supervivencia en <topic>superficies planas</topic>:
 
 <sparql>surfacesCounts</sparql>
 
@@ -30,7 +30,7 @@ Lo que nos muestra para los coronavirus humanos estos artículos:
 
 ## Progresión
 
-Sin embargo, podemos estar más interesados en la cantidad de casos a lo largo del tiempo. Entonces necesitamos una consulta más compleja adecuada para calificadores de sentencias:
+Sin embargo, podemos estar más interesados en la cantidad de casos a lo largo del tiempo. Entonces necesitamos una consulta más compleja y adecuada para calificadores de declaraciones:
 
 <sparql>earthAllCases</sparql>
 

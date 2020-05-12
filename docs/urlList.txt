@@ -11,6 +11,7 @@ https://tools.wmflabs.org/scholia/Q16000326
 https://tools.wmflabs.org/scholia/Q16023751
 https://tools.wmflabs.org/scholia/Q16532287
 https://tools.wmflabs.org/scholia/Q165399
+https://tools.wmflabs.org/scholia/Q167844
 https://tools.wmflabs.org/scholia/Q16848886
 https://tools.wmflabs.org/scholia/Q16908525
 https://tools.wmflabs.org/scholia/Q16955738
@@ -30,6 +31,7 @@ https://tools.wmflabs.org/scholia/Q16993274
 https://tools.wmflabs.org/scholia/Q17149812
 https://tools.wmflabs.org/scholia/Q18032025
 https://tools.wmflabs.org/scholia/Q18032037
+https://tools.wmflabs.org/scholia/Q183425
 https://tools.wmflabs.org/scholia/Q186889
 https://tools.wmflabs.org/scholia/Q188008
 https://tools.wmflabs.org/scholia/Q188269

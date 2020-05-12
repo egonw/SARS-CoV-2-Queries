@@ -57,7 +57,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2020-07-01T00:00:00Z</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q89991818">High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2</a> (<a href="http://www.wikidata.org/entity/Q89991818">edit</a>)</td>
-    <td></td>
+    <td><a href="https://doi.org/10.3201/EID2607.200282">10.3201/EID2607.200282</a></td>
   </tr>
   <tr>
     <td>2020-06-17T00:00:00Z</td>

@@ -28,6 +28,18 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><b>identifier</b></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q93704421">Study of the Efficacy and Safety of a Single Administration of Olokizumab and RPH-104 With Standard Therapy in Patients With Severe Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q93704421">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04380519</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q93704421">Study of the Efficacy and Safety of a Single Administration of Olokizumab and RPH-104 With Standard Therapy in Patients With Severe Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q93704421">edit</a>)</td>
+    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q42824827">fase 3 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04380519</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q92392147">COVID-19: A Pilot Study of Adaptive Immunity and Anti-PD1</a> (<a href="http://www.wikidata.org/entity/Q92392147">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q7041828">Nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
@@ -1277,7 +1289,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q89154108">Tocilizumab in COVID-19 Pneumonia (TOCIVID-19)</a> (<a href="http://www.wikidata.org/entity/Q89154108">edit</a>)</td>
-    <td></td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q425154">tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04317092</td>
   </tr>

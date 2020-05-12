@@ -43,7 +43,19 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q114085">鼻炎</a> (<a href="http://www.wikidata.org/entity/Q114085">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q167844">結膜炎</a> (<a href="http://www.wikidata.org/entity/Q167844">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q183425">腹痛</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q186889">吐き気</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q188008">呼吸困難</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q254327">食欲不振</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q344873">急性呼吸窮迫症候群</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>

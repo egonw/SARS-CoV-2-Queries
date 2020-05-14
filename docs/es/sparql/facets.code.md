@@ -143,9 +143,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q89966200">Pandemic predictions and preparations prior to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q90085156">Impacto medioambiental de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
   </tr>
   <tr>
@@ -170,7 +167,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q90859234">Impact of the 2019-20 coronavirus pandemic on international relations</a> (<a href="http://www.wikidata.org/entity/Q90859234">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q91104866">Social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91104866">social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q91280428">Protestas contra la cuarentena por la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q91280428">edit</a>)</td>

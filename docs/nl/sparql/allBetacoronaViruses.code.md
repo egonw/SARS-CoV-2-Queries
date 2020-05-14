@@ -58,6 +58,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509486">2509486</a></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16984813">London1_novel CoV 2012</a> (<a href="http://www.wikidata.org/entity/Q16984813">edit</a>)</td>
     <td></td>
   </tr>
@@ -88,6 +92,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16988144">Pipistrellus bat coronavirus HKU5</a> (<a href="http://www.wikidata.org/entity/Q16988144">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694008">694008</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89160148">Rabbit Coronavirus HKU14</a> (<a href="http://www.wikidata.org/entity/Q89160148">edit</a>)</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57879935">Rousettus bat coronavirus GCCDC1</a> (<a href="http://www.wikidata.org/entity/Q57879935">edit</a>)</td>

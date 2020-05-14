@@ -101,7 +101,7 @@ Listado de estos síntomas:
     <td><a href="https://tools.wmflabs.org/scholia/Q485831">linfopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q606216">ageusia en los pavos</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q606216">ageusia</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q647099">hemoptisis</a> (<a href="http://www.wikidata.org/entity/Q647099">edit</a>)</td>

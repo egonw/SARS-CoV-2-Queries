@@ -109,11 +109,11 @@ Se debe enfatizar que los anticuerpos son específicos para cada proteína y cad
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q41088356">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q41088356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51628462">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q51628462">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51628462">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q51628462">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q41088356">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q41088356">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -492,14 +492,6 @@ Esto da:
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q422212">Budesonida</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q203174">talidomida</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
     <td>2</td>
   </tr>
@@ -509,6 +501,14 @@ Esto da:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q28209496">remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q422212">Budesonida</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -553,18 +553,6 @@ Esto da:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q27088384">piclidenoson</a> (<a href="http://www.wikidata.org/entity/Q27088384">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q668093">Atorvastatina</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q417097">levamisol</a> (<a href="http://www.wikidata.org/entity/Q417097">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -613,6 +601,18 @@ Esto da:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q668093">Atorvastatina</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q417097">levamisol</a> (<a href="http://www.wikidata.org/entity/Q417097">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

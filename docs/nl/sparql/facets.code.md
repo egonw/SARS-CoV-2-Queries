@@ -17,7 +17,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><b>facet</b></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q83493517">timeline of the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q83493517">timeline of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q83741704">geografische verspreiding SARS-CoV-2 in 2019 en 2020</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
@@ -143,9 +143,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q89966200">Pandemic predictions and preparations prior to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q90085156">Impact of the 2019–20 coronavirus pandemic on the environment</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
   </tr>
   <tr>
@@ -170,7 +167,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q90859234">Impact of the 2019-20 coronavirus pandemic on international relations</a> (<a href="http://www.wikidata.org/entity/Q90859234">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q91104866">Social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91104866">social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q91280428">Protests over responses to the 2020 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91280428">edit</a>)</td>

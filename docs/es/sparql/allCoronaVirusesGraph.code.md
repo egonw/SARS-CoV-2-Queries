@@ -566,6 +566,36 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89160148">Rabbit Coronavirus HKU14</a> (<a href="http://www.wikidata.org/entity/Q89160148">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91516543">Cetacean coronavirus</a> (<a href="http://www.wikidata.org/entity/Q91516543">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91554593">sparrow coronavirus HKU17</a> (<a href="http://www.wikidata.org/entity/Q91554593">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91555774">FalCoV UAE-HKU27</a> (<a href="http://www.wikidata.org/entity/Q91555774">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91559255">Tylonycteris robustula bat coronavirus HKU33</a> (<a href="http://www.wikidata.org/entity/Q91559255">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q91560702">Rousettus bat coronavirus HKU10</a> (<a href="http://www.wikidata.org/entity/Q91560702">edit</a>)</td>
     <td></td>

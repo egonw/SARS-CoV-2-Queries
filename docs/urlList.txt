@@ -5479,6 +5479,7 @@ https://tools.wmflabs.org/scholia/Q89155457
 https://tools.wmflabs.org/scholia/Q89155498
 https://tools.wmflabs.org/scholia/Q89155499
 https://tools.wmflabs.org/scholia/Q89155518
+https://tools.wmflabs.org/scholia/Q89160148
 https://tools.wmflabs.org/scholia/Q89181902
 https://tools.wmflabs.org/scholia/Q89196979
 https://tools.wmflabs.org/scholia/Q89196980
@@ -7148,6 +7149,7 @@ https://tools.wmflabs.org/scholia/Q91514361
 https://tools.wmflabs.org/scholia/Q91514368
 https://tools.wmflabs.org/scholia/Q91514534
 https://tools.wmflabs.org/scholia/Q91515617
+https://tools.wmflabs.org/scholia/Q91516543
 https://tools.wmflabs.org/scholia/Q91516545
 https://tools.wmflabs.org/scholia/Q91516583
 https://tools.wmflabs.org/scholia/Q91516600
@@ -7320,6 +7322,8 @@ https://tools.wmflabs.org/scholia/Q91554014
 https://tools.wmflabs.org/scholia/Q91554051
 https://tools.wmflabs.org/scholia/Q91554086
 https://tools.wmflabs.org/scholia/Q91554260
+https://tools.wmflabs.org/scholia/Q91554593
+https://tools.wmflabs.org/scholia/Q91555774
 https://tools.wmflabs.org/scholia/Q91556054
 https://tools.wmflabs.org/scholia/Q91556080
 https://tools.wmflabs.org/scholia/Q91556134
@@ -7327,6 +7331,7 @@ https://tools.wmflabs.org/scholia/Q91556173
 https://tools.wmflabs.org/scholia/Q91556185
 https://tools.wmflabs.org/scholia/Q91556324
 https://tools.wmflabs.org/scholia/Q91556361
+https://tools.wmflabs.org/scholia/Q91556617
 https://tools.wmflabs.org/scholia/Q91556778
 https://tools.wmflabs.org/scholia/Q91557259
 https://tools.wmflabs.org/scholia/Q91557497
@@ -7339,6 +7344,7 @@ https://tools.wmflabs.org/scholia/Q91558923
 https://tools.wmflabs.org/scholia/Q91558959
 https://tools.wmflabs.org/scholia/Q91559069
 https://tools.wmflabs.org/scholia/Q91559188
+https://tools.wmflabs.org/scholia/Q91559255
 https://tools.wmflabs.org/scholia/Q91559734
 https://tools.wmflabs.org/scholia/Q91560702
 https://tools.wmflabs.org/scholia/Q91560776

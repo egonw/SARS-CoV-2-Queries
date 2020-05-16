@@ -149,7 +149,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q90290885">List of healthcare workers who died during COVID-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q90290885">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q90416196">face masks during the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q90416196">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q90416196">Mondneusbescherming tijdens de coronapandemie</a> (<a href="http://www.wikidata.org/entity/Q90416196">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q90456853">Impact of the 2019–20 coronavirus pandemic on the military</a> (<a href="http://www.wikidata.org/entity/Q90456853">edit</a>)</td>

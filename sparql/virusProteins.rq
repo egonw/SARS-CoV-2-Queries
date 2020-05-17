@@ -1,4 +1,4 @@
-SELECT ?protein ?proteinLabel ?refseq ?uniprot WHERE {
+SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
   ?protein wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q8054 .
   OPTIONAL { ?protein wdt:P637 ?refseq }
   OPTIONAL { ?protein wdt:P352 ?uniprot }

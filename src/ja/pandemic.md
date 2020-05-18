@@ -93,4 +93,3 @@ Wikipediaと同様に、Wikidataにも特定地域におけるパンデミック
 ### 死者数
 
 <sparql>graphDeaths</sparql>
-

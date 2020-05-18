@@ -286,7 +286,7 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q79334742">[SARS-CoV: 2. Modeling SARS epidemic]</a> (<a href="http://www.wikidata.org/entity/Q79334742">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87000965">The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87000965">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4558,11 +4558,11 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q39934277">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q39934277">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q46084425">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q46084425">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q46084425">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q46084425">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q39934277">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q39934277">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4799,6 +4799,10 @@ ORDER BY ?virusLabel ?workLabel
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40568559">The severe acute respiratory syndrome (SARS) coronavirus NTPase/helicase belongs to a distinct class of 5' to 3' viral helicases.</a> (<a href="http://www.wikidata.org/entity/Q40568559">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87000965">The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87000965">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

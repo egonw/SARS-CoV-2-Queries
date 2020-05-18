@@ -275,6 +275,6 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 ## 参考文献
 
 1. <a name="citeref1"></a>Missing
-2. <a name="citeref2"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM. 2020 Feb 20;382(8):727–33.  doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
+2. <a name="citeref2"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM [Internet]. 2020 Feb 20;382(8):727–33. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7092803/ doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
 3. <a name="citeref3"></a>Federhen S. The NCBI Taxonomy database. NAR. 2012 Jan;40(Database issue):D136-43.  doi:[10.1093/NAR/GKR1178](https://doi.org/10.1093/NAR/GKR1178) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKR1178))
 

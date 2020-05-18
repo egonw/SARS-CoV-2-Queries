@@ -196,6 +196,16 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">ベータコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89160148">Rabbit Coronavirus HKU14</a> (<a href="http://www.wikidata.org/entity/Q89160148">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q16532287">ベータコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754667">Embecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q92109519">Myodes coronavirus 2JL14</a> (<a href="http://www.wikidata.org/entity/Q92109519">edit</a>)</td>
     <td></td>

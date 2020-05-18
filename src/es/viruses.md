@@ -1,10 +1,10 @@
 <section level="#" label="virus">Virus</section>
 
-Los coronavirus no son nuevos y algunos de ellos son bastante inofensivos. Por ejemplo, los coronavirus humanos HCoV-229E y HCoV-OC43 normalmente dan como resultado un común frío [<cite>Q36641750</cite>]. Sin embargo, para los <topic>coronavirus relacionados con el síndrome respiratorio agudo graves</topic> (<topic>coronavirus relacionado con el SARS</topic>), esto es diferente. SARS-CoV-2, por supuesto, es el tema principal de este libro.
+Los coronavirus no son nuevos y algunos de ellos son bastante inofensivos. Por ejemplo, los coronavirus humanos HCoV-229E y HCoV-OC43 normalmente dan como resultado un resfriado común [<cite>Q36641750</cite>]. Sin embargo, para los <topic>coronavirus relacionados con el síndrome respiratorio agudo graves</topic> (<topic>coronavirus relacionado con el SARS</topic>), esto es diferente. SARS-CoV-2, por supuesto, es el tema principal de este libro.
 
 ## Todos los coronavirus relacionados con el SARS
 
-El <topic>virus</topic> <topic>SARS-CoV-2</topic> no es el primer <topic>coronavirus</topic> (CoV). De hecho, se conocen bastantes CoV relacionados con el SARS, como se desprende de esta [Lista de taxonomía de NCBI](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
+El <topic>virus</topic> <topic>SARS-CoV-2</topic> no es el primer <topic>coronavirus</topic> (CoV). De hecho, se conocen bastantes CoV relacionados con el SARS, como se mensiona en esta [Lista de taxonomía de NCBI](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
 
 Primero enumeramos todos los virus SARSr-CoV en Wikidata:
 
@@ -24,7 +24,7 @@ Podemos usar esta consulta para enumerar estos:
 
 <sparql>humanCoronaviruses</sparql>
 
-Esto nos da un buen punto de partida para estudiar el virus con más detalle:
+Esto nos da un buen punto de partida para estudiar el virus con más detalladamente:
 
 <out>humanCoronaviruses</out>
 
@@ -34,11 +34,11 @@ Pero los coronavirus relacionados con el SARS son solo un subgrupo. Otro subgrup
 
 <sparql>allBetacoronaViruses</sparql>
 
-Debido a que hay bastantes en Wikidata, preferimos hacer un gráfico de dependencia de gráficos:
+Debido a que hay bastantes en Wikidata, preferimos hacer un gráfico de dependencia:
 
 <sparql>allBetacoronaVirusesGraph</sparql>
 
-Esto da esta salida:
+Esto da la siguiente salida:
 
 <iframe>allBetacoronaVirusesGraph</iframe>
 
@@ -52,7 +52,7 @@ Nuevamente, preferimos hacer un gráfico de dependencia de gráficos:
 
 <sparql>allCoronaVirusesGraph</sparql>
 
-Esto da esta salida:
+Esto da la siguiente salida:
 
 <iframe>allCoronaVirusesGraph</iframe>
 

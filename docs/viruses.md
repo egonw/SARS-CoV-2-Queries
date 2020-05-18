@@ -7,7 +7,7 @@ Coronaviruses are not new and some of them are pretty harmless. For example,
 the human coronaviruses HCoV-229E and HCoV-OC43 normally result in a common
 cold [<a href="#citeref1">1</a>]. However, for the
 <a name="tp1">severe acute respiratory syndrome-related coronaviruses</a> (<a name="tp2">SARSr viruses</a>)
-this is different. SARS-CoV-2, of course, is the main topic of this book.
+this is different. SARS-CoV-2, of course, is the main topic of this book [<a href="#citeref2">2</a>].
 
 ## All SARSr viruses
 
@@ -66,7 +66,7 @@ these two lists do not fully overlap.
 <a name="sec:sevenhuman"></a>
 ## The seven coronaviruses that infect human
 
-However, for the current pandemic, the seven human corona viruses may be of particular interest [<a href="#citeref2">2</a>].
+However, for the current pandemic, the seven human corona viruses may be of particular interest [<a href="#citeref3">3</a>].
 We can use this query to just list these:
 
 **SPARQL** [sparql/humanCoronaviruses.rq](sparql/humanCoronaviruses.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A))
@@ -231,7 +231,7 @@ ORDER BY ?virusLabel ?workLabel
 
 ## NCBI Taxonomy IDs
 
-For the coronaviruses we can list the <a name="tp6">NCBI Taxonomy</a> [<a href="#citeref3">3</a>] identifiers with:
+For the coronaviruses we can list the <a name="tp6">NCBI Taxonomy</a> [<a href="#citeref4">4</a>] identifiers with:
 
 **SPARQL** [sparql/allSARSCoVVirusesTaxonomy.rq](sparql/allSARSCoVVirusesTaxonomy.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ278567%20.%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ278567%20.%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -279,7 +279,8 @@ This gives us:
 ## References
 
 1. <a name="citeref1"></a>Pyrc K, Berkhout B, van der Hoek L. The novel human coronaviruses NL63 and HKU1. J Virol. 2006 Nov 1;81(7):3051–7.  doi:[10.1128/JVI.01466-06](https://doi.org/10.1128/JVI.01466-06) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1128/JVI.01466-06))
-2. <a name="citeref2"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM. 2020 Feb 20;382(8):727–33.  doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
-3. <a name="citeref3"></a>Federhen S. The NCBI Taxonomy database. NAR. 2012 Jan;40(Database issue):D136-43.  doi:[10.1093/NAR/GKR1178](https://doi.org/10.1093/NAR/GKR1178) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKR1178))
+2. <a name="citeref2"></a>Gorbalenya AE, Baker SC, Baric RS, de Groot RJ, Drosten C, Gulyaev AA, et al. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nature Microbiology. 2020 Mar 2;5:536–544.  doi:[10.1038/S41564-020-0695-Z](https://doi.org/10.1038/S41564-020-0695-Z) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1038/S41564-020-0695-Z))
+3. <a name="citeref3"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM [Internet]. 2020 Feb 20;382(8):727–33. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7092803/ doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
+4. <a name="citeref4"></a>Federhen S. The NCBI Taxonomy database. NAR. 2012 Jan;40(Database issue):D136-43.  doi:[10.1093/NAR/GKR1178](https://doi.org/10.1093/NAR/GKR1178) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKR1178))
 
 

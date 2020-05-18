@@ -3,11 +3,11 @@
 <a name="sec:virus"></a>
 # Virus
 
-Los coronavirus no son nuevos y algunos de ellos son bastante inofensivos. Por ejemplo, los coronavirus humanos HCoV-229E y HCoV-OC43 normalmente dan como resultado un común frío [<a href="#citeref1">1</a>]. Sin embargo, para los <a name="tp1">coronavirus relacionados con el síndrome respiratorio agudo graves</a> (<a name="tp2">coronavirus relacionado con el SARS</a>), esto es diferente. SARS-CoV-2, por supuesto, es el tema principal de este libro.
+Los coronavirus no son nuevos y algunos de ellos son bastante inofensivos. Por ejemplo, los coronavirus humanos HCoV-229E y HCoV-OC43 normalmente dan como resultado un resfriado común [<a href="#citeref1">1</a>]. Sin embargo, para los <a name="tp1">coronavirus relacionados con el síndrome respiratorio agudo graves</a> (<a name="tp2">coronavirus relacionado con el SARS</a>), esto es diferente. SARS-CoV-2, por supuesto, es el tema principal de este libro.
 
 ## Todos los coronavirus relacionados con el SARS
 
-El <a name="tp3">virus</a> <a name="tp4">SARS-CoV-2</a> no es el primer <a name="tp5">coronavirus</a> (CoV). De hecho, se conocen bastantes CoV relacionados con el SARS, como se desprende de esta [Lista de taxonomía de NCBI](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
+El <a name="tp3">virus</a> <a name="tp4">SARS-CoV-2</a> no es el primer <a name="tp5">coronavirus</a> (CoV). De hecho, se conocen bastantes CoV relacionados con el SARS, como se mensiona en esta [Lista de taxonomía de NCBI](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
 
 Primero enumeramos todos los virus SARSr-CoV en Wikidata:
 
@@ -81,7 +81,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 }
 ```
 
-Esto nos da un buen punto de partida para estudiar el virus con más detalle:
+Esto nos da un buen punto de partida para estudiar el virus con más detalladamente:
 
 <table>
   <tr>
@@ -132,7 +132,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 } ORDER BY ?virusLabel
 ```
 
-Debido a que hay bastantes en Wikidata, preferimos hacer un gráfico de dependencia de gráficos:
+Debido a que hay bastantes en Wikidata, preferimos hacer un gráfico de dependencia:
 
 **SPARQL** [sparql/allBetacoronaVirusesGraph.rq](sparql/allBetacoronaVirusesGraph.code.html) ([ejecutar](https://query.wikidata.org/embed.html#%23defaultView%3AGraph%0ASELECT%20%3Fparent%20%3FparentLabel%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ16532287%20.%0A%20%20%3Fvirus%20wdt%3AP171%20%3Fparent%20.%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A), [editar](https://query.wikidata.org/#%23defaultView%3AGraph%0ASELECT%20%3Fparent%20%3FparentLabel%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ16532287%20.%0A%20%20%3Fvirus%20wdt%3AP171%20%3Fparent%20.%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -146,7 +146,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
 }
 ```
 
-Esto da esta salida:
+Esto da la siguiente salida:
 
 <iframe
   style="width: 95%; height: 50vh; border: none;"
@@ -184,7 +184,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
 }
 ```
 
-Esto da esta salida:
+Esto da la siguiente salida:
 
 <iframe
   style="width: 95%; height: 50vh; border: none;"
@@ -273,7 +273,7 @@ Esto nos da:
 ## Referencias
 
 1. <a name="citeref1"></a>Pyrc K, Berkhout B, van der Hoek L. The novel human coronaviruses NL63 and HKU1. J Virol. 2006 Nov 1;81(7):3051–7.  doi:[10.1128/JVI.01466-06](https://doi.org/10.1128/JVI.01466-06) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1128/JVI.01466-06))
-2. <a name="citeref2"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM. 2020 Feb 20;382(8):727–33.  doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
+2. <a name="citeref2"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM [Internet]. 2020 Feb 20;382(8):727–33. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7092803/ doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
 3. <a name="citeref3"></a>Federhen S. The NCBI Taxonomy database. NAR. 2012 Jan;40(Database issue):D136-43.  doi:[10.1093/NAR/GKR1178](https://doi.org/10.1093/NAR/GKR1178) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKR1178))
 
 

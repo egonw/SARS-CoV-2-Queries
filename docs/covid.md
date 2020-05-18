@@ -75,10 +75,22 @@ Listing these symptoms:
     <td><a href="https://tools.wmflabs.org/scholia/Q114085">rhinitis</a> (<a href="http://www.wikidata.org/entity/Q114085">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q167844">conjunctivitis</a> (<a href="http://www.wikidata.org/entity/Q167844">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q183425">abdominal pain</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q186889">nausea</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q188008">dyspnea</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q344873">adult respiratory distress syndrome</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q254327">anorexia</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q344873">acute respiratory distress syndrome</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q468433">anosmia</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
@@ -100,6 +112,9 @@ Listing these symptoms:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q2260058">chills</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q3245488">nasal congestion</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q3508755">influenza like illness</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>

@@ -12,14 +12,14 @@ Los anticuerpos están ganando interés. La siguiente consulta enumera artículo
 
 <sparql>antibodies</sparql>
 
-Se debe enfatizar que los anticuerpos son específicos para cada proteína y cada coronavirus tiene proteínas diferentes, y esta lista es solo para incluir en la lista la literatura relevante para leer, no para sacar conclusiones de:
+Se debe enfatizar que los anticuerpos son específicos para cada proteína y cada coronavirus tiene proteínas diferentes, y esta lista es solo para incluir en la literatura relevante para leer, no para sacar conclusiones de:
 
 <out>antibodies</out>
 
 ## Reutilización de drogas
 
 La sección <xref>ensayos</xref> ya incluía una descripción general de los ensayos clínicos.
-Da una idea de los síntomas que preocupan a las personas. También proporciona información sobre qué <topic>medicamentos</topic> se estudian para <topic>reutilización</topic>.
+Este da una idea de los síntomas que preocupan a las personas. También proporciona información sobre qué <topic>medicamentos</topic> se estudian para la <topic>reutilización</topic>.
 Algunos de estos han recibido mucha atención, otros menos.
 
 La siguiente consulta enumera el número de ensayos clínicos por <topic>intervención</topic>:

@@ -46,6 +46,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509486">2509486</a></td>
   </tr>
   <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88383088">Human coronavirus HKU1 (isolate N1)</a> (<a href="http://www.wikidata.org/entity/Q88383088">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
   </tr>
@@ -68,6 +72,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57754685">Nobecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754685">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509502">2509502</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q89160148">Rabbit Coronavirus HKU14</a> (<a href="http://www.wikidata.org/entity/Q89160148">edit</a>)</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q57879935">Rousettus bat coronavirus GCCDC1</a> (<a href="http://www.wikidata.org/entity/Q57879935">edit</a>)</td>

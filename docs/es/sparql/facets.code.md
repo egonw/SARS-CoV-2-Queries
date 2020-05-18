@@ -50,7 +50,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87625383">Impact of the 2019–20 coronavirus pandemic on aviation</a> (<a href="http://www.wikidata.org/entity/Q87625383">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87625383">Impacto en la aviación de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q87625383">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87625385">Impacto en el cine por la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q87625385">edit</a>)</td>
@@ -62,7 +62,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q87747992">Impact of the 2019–20 coronavirus pandemic on music</a> (<a href="http://www.wikidata.org/entity/Q87747992">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q87760968">Impact of the 2019–20 coronavirus pandemic on education</a> (<a href="http://www.wikidata.org/entity/Q87760968">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87760968">Impacto en la educación de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q87760968">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q87774378">timeline of the 2019–20 coronavirus pandemic in March 2020</a> (<a href="http://www.wikidata.org/entity/Q87774378">edit</a>)</td>
@@ -143,9 +143,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q89966200">Pandemic predictions and preparations prior to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q90085156">Impacto medioambiental de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
   </tr>
   <tr>
@@ -170,7 +167,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q90859234">Impact of the 2019-20 coronavirus pandemic on international relations</a> (<a href="http://www.wikidata.org/entity/Q90859234">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q91104866">Social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q91104866">social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q91280428">Protestas contra la cuarentena por la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q91280428">edit</a>)</td>

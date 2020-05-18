@@ -102,7 +102,7 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q79334742">[SARS-CoV: 2. Modeling SARS epidemic]</a> (<a href="http://www.wikidata.org/entity/Q79334742">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87000965">The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87000965">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -3190,11 +3190,11 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q45632163">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q45632163">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q47407432">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q47407432">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q47407432">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q47407432">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q45632163">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q45632163">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4687,6 +4687,10 @@ ORDER BY ?virusLabel ?workLabel
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://tools.wmflabs.org/scholia/Q40568559">The severe acute respiratory syndrome (SARS) coronavirus NTPase/helicase belongs to a distinct class of 5' to 3' viral helicases.</a> (<a href="http://www.wikidata.org/entity/Q40568559">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q87000965">The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87000965">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -381,7 +381,7 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q425154">tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
@@ -564,10 +564,6 @@ This gives:
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q668093">atorvastatin</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q239778">bromhexine</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
     <td>1</td>
   </tr>
@@ -613,6 +609,10 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q668093">atorvastatin</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

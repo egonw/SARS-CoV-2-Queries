@@ -65,8 +65,7 @@ Deseos, comentarios, y pull requests pueden ser enviados a
 5.3.2. [Todos los proteínas relacionados con el SARS](genes.md#todos-los-proteínas-relacionados-con-el-sars) <br />
 5.4. [Todos los coronavirus humanos](genes.md#todos-los-coronavirus-humanos) <br />
 5.4.1. [Todos los genes del coronavirus humano](genes.md#todos-los-genes-del-coronavirus-humano) <br />
-5.4.2. [Todos los proteínas del coronavirus humano](genes.md#todos-los-proteínas-del-coronavirus-humano) <br />
-5.5. [References](genes.md#references) <br />
+5.4.2. [Todos las proteínas del coronavirus humano](genes.md#todos-las-proteínas-del-coronavirus-humano) <br />
 6. [El humano](human.md) <br />
 6.1. [Genes y proteínas que interactúan](human.md#genes-y-proteínas-que-interactúan) <br />
 6.2. [Procesos biológicos](human.md#procesos-biológicos) <br />

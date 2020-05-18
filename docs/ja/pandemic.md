@@ -20,7 +20,7 @@ SELECT ?numberOfCases  WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>3349786</td>
+    <td>4425485</td>
   </tr>
 </table>
 
@@ -225,7 +225,7 @@ SELECT ?date ?numberOfCases WHERE {
 
 ### イタリアでの感染者数の推移
 
-もちろん、<a name="tp6">イタリア</a>における状況は欧州人の脳裏に強烈に焼きつきます。WikidataのQ識別子をオランダに変えてみます。
+もちろん、<a name="tp6">イタリア</a>における状況は欧州人の脳裏に強烈に焼きつきます。WikidataのQ識別子をオランダからイタリアに変えてみます。
 
 **SPARQL** [sparql/progressionIT.rq](sparql/progressionIT.code.html) ([実行](https://query.wikidata.org/embed.html#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A), [編集](https://query.wikidata.org/#SELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ84104992%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fdate%29%0A))
 

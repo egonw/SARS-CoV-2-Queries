@@ -6,3 +6,4 @@ sparql/*.out
 toc.*txt
 topics.*tsv
 indexList.??.md
+urlList.txt

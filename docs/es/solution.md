@@ -36,7 +36,7 @@ SELECT ?virus ?virusLabel ?work ?workLabel WITH {
 ORDER BY ?virusLabel ?workLabel
 ```
 
-Se debe enfatizar que los anticuerpos son específicos para cada proteína y cada coronavirus tiene proteínas diferentes, y esta lista es solo para incluir en la lista la literatura relevante para leer, no para sacar conclusiones de:
+Se debe enfatizar que los anticuerpos son específicos para cada proteína y cada coronavirus tiene proteínas diferentes, y esta lista es solo para incluir en la literatura relevante para leer, no para sacar conclusiones de:
 
 <table>
   <tr>
@@ -109,11 +109,11 @@ Se debe enfatizar que los anticuerpos son específicos para cada proteína y cad
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q51628462">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q51628462">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q41088356">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q41088356">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q41088356">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q41088356">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q51628462">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q51628462">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -320,7 +320,7 @@ Se debe enfatizar que los anticuerpos son específicos para cada proteína y cad
 ## Reutilización de drogas
 
 La sección ?? ya incluía una descripción general de los ensayos clínicos.
-Da una idea de los síntomas que preocupan a las personas. También proporciona información sobre qué <a name="tp2">medicamentos</a> se estudian para <a name="tp3">reutilización</a>.
+Este da una idea de los síntomas que preocupan a las personas. También proporciona información sobre qué <a name="tp2">medicamentos</a> se estudian para la <a name="tp3">reutilización</a>.
 Algunos de estos han recibido mucha atención, otros menos.
 
 La siguiente consulta enumera el número de ensayos clínicos por <a name="tp4">intervención</a>:
@@ -373,7 +373,7 @@ Esto da:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q425154">tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
@@ -556,10 +556,6 @@ Esto da:
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q668093">Atorvastatina</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q239778">Bromhexina</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
     <td>1</td>
   </tr>
@@ -605,6 +601,10 @@ Esto da:
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.wmflabs.org/scholia/Q668093">Atorvastatina</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

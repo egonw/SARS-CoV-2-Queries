@@ -20,10 +20,10 @@ SELECT ?genome WHERE {
     <td>https://gisaid.org/CoV2020</td>
   </tr>
   <tr>
-    <td>https://www.ncbi.nlm.nih.gov/genome/86693</td>
+    <td>https://www.ncbi.nlm.nih.gov/assembly/GCF_009858895.2</td>
   </tr>
   <tr>
-    <td>https://www.ncbi.nlm.nih.gov/assembly/GCF_009858895.2</td>
+    <td>https://www.ncbi.nlm.nih.gov/genome/86693</td>
   </tr>
   <tr>
     <td>https://www.ncbi.nlm.nih.gov/nuccore/1798174254</td>

@@ -4,7 +4,7 @@
 # ウイルス
 
 コロナウイルスは新しいものではなく、その仲間には全く危険ではないものもあります。
-たとえば、ヒトコロナウイルスHCoV-229EおよびHCoV-OC43は通常よくある風邪[<a href="#citeref1">1</a>]を引き起こします。しかし、<a name="tp1">重症急性呼吸器症候群に関連するコロナウイルス</a>（<a name="tp2">SARSrウイルス</a>）は異なります。そしてSRAS-CoV-2が本文書のメイントピックです。
+たとえば、ヒトコロナウイルスHCoV-229EおよびHCoV-OC43は通常よくある風邪[<a href="#citeref1">1</a>]を引き起こします。しかし、<a name="tp1">重症急性呼吸器症候群に関連するコロナウイルス</a>（<a name="tp2">SARSrウイルス</a>）は異なります。そしてSRAS-CoV-2が本文書[<a href="#citeref2">2</a>]のメイントピックです。
 
 ## 全てのSARSrウイルス
 
@@ -62,7 +62,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 <a name="sec:sevenhuman"></a>
 ## ヒトに感染する7つのコロナウイルス
 
-しかし、現在のパンデミックにおいては、7つのヒトコロナウイルスが特に関心を集めるでしょう[<a href="#citeref2">2</a>]。
+しかし、現在のパンデミックにおいては、7つのヒトコロナウイルスが特に関心を集めるでしょう[<a href="#citeref3">3</a>]。
 以下のクエリでこれらだけを取得できます。
 
 **SPARQL** [sparql/humanCoronaviruses.rq](sparql/humanCoronaviruses.code.html) ([実行](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A), [編集](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A))
@@ -227,7 +227,7 @@ ORDER BY ?virusLabel ?workLabel
 
 ## NCBI Taxonomy IDs
 
-コロナウイルスについて、<a name="tp6">NCBI Taxonomy</a> [<a href="#citeref3">3</a>]識別子のリストを取得します。
+コロナウイルスについて、<a name="tp6">NCBI Taxonomy</a> [<a href="#citeref4">4</a>]識別子のリストを取得します。
 
 **SPARQL** [sparql/allSARSCoVVirusesTaxonomy.rq](sparql/allSARSCoVVirusesTaxonomy.code.html) ([実行](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ278567%20.%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A), [編集](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20%3Fvirus%20wdt%3AP171%2B%20wd%3AQ278567%20.%0A%20%20OPTIONAL%20%7B%20%3Fvirus%20wdt%3AP685%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -275,6 +275,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 ## 参考文献
 
 1. <a name="citeref1"></a>Missing
-2. <a name="citeref2"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM [Internet]. 2020 Feb 20;382(8):727–33. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7092803/ doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
-3. <a name="citeref3"></a>Federhen S. The NCBI Taxonomy database. NAR. 2012 Jan;40(Database issue):D136-43.  doi:[10.1093/NAR/GKR1178](https://doi.org/10.1093/NAR/GKR1178) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKR1178))
+2. <a name="citeref2"></a>Gorbalenya AE, Baker SC, Baric RS, de Groot RJ, Drosten C, Gulyaev AA, et al. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nature Microbiology. 2020 Mar 2;5:536–544.  doi:[10.1038/S41564-020-0695-Z](https://doi.org/10.1038/S41564-020-0695-Z) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1038/S41564-020-0695-Z))
+3. <a name="citeref3"></a>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. NEJM [Internet]. 2020 Feb 20;382(8):727–33. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7092803/ doi:[10.1056/NEJMOA2001017](https://doi.org/10.1056/NEJMOA2001017) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1056/NEJMOA2001017))
+4. <a name="citeref4"></a>Federhen S. The NCBI Taxonomy database. NAR. 2012 Jan;40(Database issue):D136-43.  doi:[10.1093/NAR/GKR1178](https://doi.org/10.1093/NAR/GKR1178) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKR1178))
 

@@ -331,6 +331,18 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2020-05-16T00:00:00Z</td>
     <td>43870</td>
   </tr>
+  <tr>
+    <td>2020-05-17T00:00:00Z</td>
+    <td>43995</td>
+  </tr>
+  <tr>
+    <td>2020-05-18T00:00:00Z</td>
+    <td>44141</td>
+  </tr>
+  <tr>
+    <td>2020-05-19T00:00:00Z</td>
+    <td>44249</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

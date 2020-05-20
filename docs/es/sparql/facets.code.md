@@ -32,7 +32,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://tools.wmflabs.org/scholia/Q84897850">timeline of the 2019–20 coronavirus pandemic in November 2019 - January 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q85173778">Desinformación sobre la pandemia de coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q85173778">desinformación sobre la pandemia de coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://tools.wmflabs.org/scholia/Q85173855">2019–20 coronavirus outbreak data tables</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>

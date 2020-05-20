@@ -218,7 +218,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509514">2509514</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754667">Embecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754667">エンベコウイルス亜属</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509481">2509481</a></td>
   </tr>
   <tr>
@@ -226,11 +226,11 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509486">2509486</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754679">Merbecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754679">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754679">メルベコウイルス亜属</a> (<a href="http://www.wikidata.org/entity/Q57754679">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509494">2509494</a></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q57754685">Nobecovirus</a> (<a href="http://www.wikidata.org/entity/Q57754685">edit</a>)</td>
+    <td><a href="https://tools.wmflabs.org/scholia/Q57754685">ノベコウイルス亜属</a> (<a href="http://www.wikidata.org/entity/Q57754685">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509502">2509502</a></td>
   </tr>
   <tr>

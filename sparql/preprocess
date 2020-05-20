@@ -23,6 +23,7 @@ formatterURLs.put("pdb", "https://www.rcsb.org/structure/#{1}")
 formatterURLs.put("uniprot", "https://www.uniprot.org/uniprot/#{1}")
 formatterURLs.put("doi", "https://doi.org/#{1}")
 formatterURLs.put("cpx", "https://www.ebi.ac.uk/complexportal/complex/#{1}")
+formatterURLs.put("guideToPharma", "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=#{1}")
 
 if (bioclipse.isOnline()) {
   resultsData = bioclipse.sparqlRemote(

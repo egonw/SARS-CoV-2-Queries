@@ -68,7 +68,7 @@ for (i=1;i<=results.rowCount;i++) {
         println "    <td></td>"
       } else {
         qid = qidURL.substring(31)
-        scholiaURL = "https://tools.wmflabs.org/scholia/$qid"
+        scholiaURL = "https://scholia.toolforge.org/$qid"
         println "    <td><a href=\"$scholiaURL\">${results.get(i, label)}</a> (<a href=\"$qidURL\">edit</a>)</td>"
         if (lang == "en") urlList << "${scholiaURL}\n"
       }

@@ -70,6 +70,9 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q485831">lymphopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q576349">brain diseases</a> (<a href="http://www.wikidata.org/entity/Q576349">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q606216">ageusia</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
   </tr>
   <tr>
@@ -86,12 +89,6 @@ SELECT ?symptom ?symptomLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3508755">influenza like illness</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3961647">cytokine release syndrome</a> (<a href="http://www.wikidata.org/entity/Q3961647">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q55093125">neurologic manifestation</a> (<a href="http://www.wikidata.org/entity/Q55093125">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

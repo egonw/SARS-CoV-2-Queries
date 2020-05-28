@@ -101,6 +101,9 @@ Listado de estos síntomas:
     <td><a href="https://scholia.toolforge.org/Q485831">linfopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q576349">encefalopatía</a> (<a href="http://www.wikidata.org/entity/Q576349">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q606216">ageusia</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
   </tr>
   <tr>
@@ -117,12 +120,6 @@ Listado de estos síntomas:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3508755">síndrome gripal</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3961647">síndrome de liberación de citoquinas</a> (<a href="http://www.wikidata.org/entity/Q3961647">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q55093125">manifestación neurológica</a> (<a href="http://www.wikidata.org/entity/Q55093125">edit</a>)</td>
   </tr>
 </table>
 

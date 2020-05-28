@@ -108,6 +108,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>4525497</td>
   </tr>
   <tr>
+    <td>2020-05-20T00:00:00Z</td>
+    <td>4789205</td>
+  </tr>
+  <tr>
     <td>2020-05-19T00:00:00Z</td>
     <td>4731458</td>
   </tr>
@@ -116,8 +120,16 @@ SELECT ?date ?numberOfCases WHERE {
     <td>4618821</td>
   </tr>
   <tr>
-    <td>2020-05-20T00:00:00Z</td>
-    <td>4789205</td>
+    <td>2020-05-23T00:00:00Z</td>
+    <td>5103006</td>
+  </tr>
+  <tr>
+    <td>2020-05-21T00:00:00Z</td>
+    <td>4893186</td>
+  </tr>
+  <tr>
+    <td>2020-05-22T00:00:00Z</td>
+    <td>4993470</td>
   </tr>
   <tr>
     <td>2020-01-28T00:00:00Z</td>

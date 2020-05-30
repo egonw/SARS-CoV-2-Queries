@@ -364,11 +364,11 @@ This gives:
     <td>14</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
@@ -384,14 +384,6 @@ This gives:
     <td>6</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q188269">interferon</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
     <td>4</td>
   </tr>
@@ -400,7 +392,15 @@ This gives:
     <td>4</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q57055">acetaminophen</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
@@ -432,15 +432,15 @@ This gives:
     <td>3</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q193598">DL-ascorbic acid</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q288280">ACE inhibitor</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q193598">DL-ascorbic acid</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
@@ -450,6 +450,22 @@ This gives:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q165399">azithromycin</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
     <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q203174">thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q28209496">remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
@@ -500,72 +516,8 @@ This gives:
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q203174">thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q28209496">remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q422212">budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
     <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q1215575">naproxen</a> (<a href="http://www.wikidata.org/entity/Q1215575">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q249619">immunosuppressive drug</a> (<a href="http://www.wikidata.org/entity/Q249619">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q188724">non-steroidal anti-inflammatory drug</a> (<a href="http://www.wikidata.org/entity/Q188724">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q5515384">gabexate</a> (<a href="http://www.wikidata.org/entity/Q5515384">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q20817234">thymalfasin</a> (<a href="http://www.wikidata.org/entity/Q20817234">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q50840582">Angiotensin II</a> (<a href="http://www.wikidata.org/entity/Q50840582">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q5119448">Ciclesonide</a> (<a href="http://www.wikidata.org/entity/Q5119448">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27161510">(5R)-24,25-Dihydroxyvitamin D</a> (<a href="http://www.wikidata.org/entity/Q27161510">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q49872458">Ergocalciferols</a> (<a href="http://www.wikidata.org/entity/Q49872458">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q419618">deferoxamine</a> (<a href="http://www.wikidata.org/entity/Q419618">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27088384">piclidenoson</a> (<a href="http://www.wikidata.org/entity/Q27088384">edit</a>)</td>
-    <td>1</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q239778">bromhexine</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
@@ -613,6 +565,54 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q1215575">naproxen</a> (<a href="http://www.wikidata.org/entity/Q1215575">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q249619">immunosuppressive drug</a> (<a href="http://www.wikidata.org/entity/Q249619">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q188724">non-steroidal anti-inflammatory drug</a> (<a href="http://www.wikidata.org/entity/Q188724">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q5515384">gabexate</a> (<a href="http://www.wikidata.org/entity/Q5515384">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q20817234">thymalfasin</a> (<a href="http://www.wikidata.org/entity/Q20817234">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q50840582">Angiotensin II</a> (<a href="http://www.wikidata.org/entity/Q50840582">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q5119448">Ciclesonide</a> (<a href="http://www.wikidata.org/entity/Q5119448">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q27161510">(5R)-24,25-Dihydroxyvitamin D</a> (<a href="http://www.wikidata.org/entity/Q27161510">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q49872458">Ergocalciferols</a> (<a href="http://www.wikidata.org/entity/Q49872458">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q419618">deferoxamine</a> (<a href="http://www.wikidata.org/entity/Q419618">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q27088384">piclidenoson</a> (<a href="http://www.wikidata.org/entity/Q27088384">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

@@ -326,6 +326,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q91554349">QuaCoV UAE-HKU30</a> (<a href="http://www.wikidata.org/entity/Q91554349">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q91554593">sparrow coronavirus HKU17</a> (<a href="http://www.wikidata.org/entity/Q91554593">edit</a>)</td>
     <td></td>
   </tr>
@@ -334,11 +338,19 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q91556362">Erinaceus amurensis hedgehog coronavirus HKU31</a> (<a href="http://www.wikidata.org/entity/Q91556362">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91559255">Tylonycteris robustula bat coronavirus HKU33</a> (<a href="http://www.wikidata.org/entity/Q91559255">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q91560228">Rhinolophus sinicus bat coronavirus HKU32</a> (<a href="http://www.wikidata.org/entity/Q91560228">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

@@ -34,6 +34,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q91556362">Erinaceus amurensis hedgehog coronavirus HKU31</a> (<a href="http://www.wikidata.org/entity/Q91556362">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1965093">1965093</a></td>
   </tr>

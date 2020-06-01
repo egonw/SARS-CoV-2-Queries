@@ -1,4 +1,4 @@
-// Copyright (c) 2018-2019  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2018-2020  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
@@ -77,10 +77,26 @@ lines.each { String line ->
     def instruction = new XmlSlurper().parseText(line)
     def srcLines = new File("sparql/${instruction.text()}.verbatim.${lang}.md").readLines()
     srcLines.each { String srcLine -> println srcLine }
-  } else if (line.startsWith("<out>")) {
+  } else if (line.startsWith("<out")) {
     def instruction = new XmlSlurper().parseText(line)
     def srcLines = new File("sparql/${instruction.text()}.${lang}.out").readLines()
-    srcLines.each { String srcLine -> println srcLine }
+    def recordsProcessed = 0
+    def recordsToOutput = 10000 // okay, so if the output has more, it will truncate them nevertheless #TODO
+    if (!instruction.@limit.isEmpty())
+      recordsToOutput = Integer.parseInt(instruction.@limit.text())
+    srcLines.each { String srcLine ->
+      if (srcLine.contains("<tr")) {
+        if (recordsProcessed == recordsToOutput) {
+          def message = "[sparql/${instruction.text()}.rq](sparql/${instruction.text()}.code.html)"
+          println "  <tr><td colspan=\"2\">This table is truncated. See the full table at ${message}.</td></tr>"
+          println "</table>"
+        }
+        recordsProcessed += 1
+      }
+      if (recordsProcessed < recordsToOutput) {
+        println srcLine
+      }
+    }
   } else if (line.startsWith("<iframe>")) {
     def instruction = new XmlSlurper().parseText(line)
     def srcLines = new File("sparql/${instruction.text()}.iframe.${lang}.md").readLines()

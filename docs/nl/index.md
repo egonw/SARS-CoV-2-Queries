@@ -1,5 +1,20 @@
 [ [en](../index.md) [ja](../ja/index.md) **nl** [es](../es/index.md)  ]
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "inLanguage": "nl",
+  "name": "Wikidata zoekopdrachten voor het SARS-CoV-2 virus en de pandemie",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear": "2020",
+  "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
+}
+</script>
+
 # Wikidata zoekopdrachten voor het SARS-CoV-2 virus en de pandemie
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen
@@ -23,13 +38,12 @@ maar alle SPARQL zoekopdrachten in dit boek kunnen gebruikt worden als
 1.1. [Ontbrekende onderwerpen](intro.md#ontbrekende-onderwerpen) <br />
 1.2. [Andere annotatie](intro.md#andere-annotatie) <br />
 2. [Virussen](viruses.md) <br />
-2.1. [Alle SARSr virussen](viruses.md#alle-sarsr-virussen) <br />
-2.2. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
-2.3. [All betacoronaviruses](viruses.md#all-betacoronaviruses) <br />
-2.4. [All coronaviruses](viruses.md#all-coronaviruses) <br />
-2.5. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
-2.5.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
-2.6. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
+2.1. [Alle SARS-gerelateerde virussen](viruses.md#alle-sars-gerelateerde-virussen) <br />
+2.2. [De zeven coronavirusen die mensen infecteren](viruses.md#de-zeven-coronavirusen-die-mensen-infecteren) <br />
+2.3. [Alle betacoronavirusen](viruses.md#alle-betacoronavirusen) <br />
+2.4. [Alle coronavirusen](viruses.md#alle-coronavirusen) <br />
+2.4.1. [Virussen vergelijken](viruses.md#virussen-vergelijken) <br />
+2.5. [NCBI Taxonomie nummers](viruses.md#ncbi-taxonomie-nummers) <br />
 6. [De mens](human.md) <br />
 6.1. [Gen en eiwit interacties](human.md#gen-en-eiwit-interacties) <br />
 6.2. [Biologische processen](human.md#biologische-processen) <br />

@@ -19,7 +19,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 } GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10
 ```
 
-結果として10件の論文を得ます（全てを取得するには、`LIMIT 10`をクエリから取り除きます）。
+結果として10件の論文を得ます。
 
 <table>
   <tr>
@@ -86,7 +86,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 } GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10
 ```
 
-これにより、現在以下の結果を得ます（全てを取得したい場合は`LIMIT 10`を取り除きます）。
+これにより、現在以下の結果を得ます。
 
 <table>
   <tr>

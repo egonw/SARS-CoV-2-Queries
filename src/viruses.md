@@ -20,7 +20,7 @@ This gives us:
 
 <out>allSARSCoVViruses</out>
 
-If we compare this list with that in Section <xref>sevenhuman</xref> we not that
+If we compare this list with that in Section <xref>sevenhuman</xref> we note that
 these two lists do not fully overlap.
 
 <section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>

@@ -26,7 +26,7 @@ It must be stressed that antibodies are specific for every protein and every
 coronavirus has different proteins, and this list is just to shortlist relevant
 literature for reading, not to draw conclusions from:
 
-<out>antibodies</out>
+<out limit="15">antibodies</out>
 
 ## Drug repurposing
 
@@ -44,7 +44,7 @@ The following query lists the number of clinical trials by <topic>intervention</
 
 This gives:
 
-<out>clinicalTrialsByIntervention</out>
+<out limit="15">clinicalTrialsByIntervention</out>
 
 Importantly, this list only gives an idea of what intervention have received more
 attention than others. And it is essential to realize that attention is not a measure

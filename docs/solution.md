@@ -359,7 +359,16 @@ literature for reading, not to draw conclusions from:
 The Section [3.3](covid.md#sec:trials) already listed an overview of clinical trials.
 It gives an idea of what symptoms people are worried about. It also gives
 insight in what <a name="tp2">drugs</a> are studied for <a name="tp3">repurposing</a>.
-Some of these have received a lot of attention, others less so.
+Some of these have received a lot of attention, others less so. They look like
+this:
+
+<iframe
+  style="width: 95%; height: 50vh; border: none;"
+  src="https://query.wikidata.org/embed.html#%23defaultView%3AImageGrid%0ASELECT%20%3Fintervention%20%3FinterventionLabel%20%3Fimage%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fintervention%20%28COUNT%28DISTINCT%20%3Ftrial%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%20%20VALUES%20%3Ftopic%20%7B%20wd%3AQ84263196%20wd%3AQ82069695%20%7D%0A%20%20%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP921%20%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%20GROUP%20BY%20%3Fintervention%0A%20%20%20%20ORDER%20BY%20DESC%28%3Fcount%29%0A%20%20%20%20LIMIT%2010%0A%7D%20AS%20%25COMPOUNDS%20WHERE%20%7B%0A%20%20INCLUDE%20%25COMPOUNDS%0A%20%20%3Fintervention%20wdt%3AP117%20%3Fimage%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fcount%29%0A"
+
+  referrerpolicy="origin"
+  sandbox="allow-scripts allow-same-origin allow-popups" >
+</iframe>
 
 The following query lists the number of clinical trials by <a name="tp4">intervention</a>:
 

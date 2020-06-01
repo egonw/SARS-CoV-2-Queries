@@ -17,6 +17,11 @@ the human coronaviruses and also annotated with the term '<topic>antibody</topic
 
 <sparql>antibodies</sparql>
 
+The list is getting long, so let's first show the number of articles about
+antibodies for each virus:
+
+<out>antibodyCounts</out>
+
 It must be stressed that antibodies are specific for every protein and every
 coronavirus has different proteins, and this list is just to shortlist relevant
 literature for reading, not to draw conclusions from:

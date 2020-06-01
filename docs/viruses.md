@@ -60,7 +60,7 @@ This gives us:
   </tr>
 </table>
 
-If we compare this list with that in Section [2.2](#sec:sevenhuman) we not that
+If we compare this list with that in Section [2.2](#sec:sevenhuman) we note that
 these two lists do not fully overlap.
 
 <a name="sec:sevenhuman"></a>

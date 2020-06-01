@@ -8,6 +8,21 @@ lang = "en"
 if (input.substring(4).contains("/"))
   lang = input.substring(4,4+input.substring(4).indexOf("/"))
 
+labels = [
+  "truncatedTable": [
+    "en": "This table is truncated. See the full table at",
+    "nl": "Deze tabel is niet compleet. De volledige inhoud is te vinden op",
+    "ja": "This table is truncated. See the full table at",
+    "es": "This table is truncated. See the full table at"
+  ],
+  "missing": [
+    "en": "Missing",
+    "nl": "Ontbreekt",
+    "ja": "Missing",
+    "es": "Missing"
+  ]
+]
+
 bibliography = new HashMap<String,String>();
 def bibLines = new File("references.dat").readLines()
 bibLines.each { String line ->
@@ -88,7 +103,7 @@ lines.each { String line ->
       if (srcLine.contains("<tr")) {
         if (recordsProcessed == recordsToOutput) {
           def message = "<a href=\"sparql/${instruction.text()}.code.html\">sparql/${instruction.text()}.rq</a>"
-          println "  <tr><td colspan=\"2\">This table is truncated. See the full table at ${message}.</td></tr>"
+          println "  <tr><td colspan=\"2\">${labels["truncatedTable"][lang]} ${message}</td></tr>"
           println "</table>"
         }
         recordsProcessed += 1
@@ -131,7 +146,7 @@ lines.each { String line ->
         if (bibliography.get(cites) != null) {
           bibList += bibliography.get(cites) + "\n"
         } else {
-          bibList += "Missing\n"
+          bibList += "${labels["missing"][lang]}\n"
         }
         replacement = "<a href=\"#citeref${refCounter}\">${refCounter}</a>"
       } else {

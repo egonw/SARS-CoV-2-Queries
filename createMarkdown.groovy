@@ -87,7 +87,7 @@ lines.each { String line ->
     srcLines.each { String srcLine ->
       if (srcLine.contains("<tr")) {
         if (recordsProcessed == recordsToOutput) {
-          def message = "[sparql/${instruction.text()}.rq](sparql/${instruction.text()}.code.html)"
+          def message = "<a href=\"sparql/${instruction.text()}.code.html\">sparql/${instruction.text()}.rq</a>"
           println "  <tr><td colspan=\"2\">This table is truncated. See the full table at ${message}.</td></tr>"
           println "</table>"
         }

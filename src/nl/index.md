@@ -1,3 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "inLanguage": "nl",
+  "name": "Wikidata zoekopdrachten voor het SARS-CoV-2 virus en de pandemie",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear": "2020",
+  "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
+}
+</script>
+
 # Wikidata zoekopdrachten voor het SARS-CoV-2 virus en de pandemie
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen

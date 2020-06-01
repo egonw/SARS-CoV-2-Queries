@@ -7,9 +7,10 @@ SELECT ?intervention ?interventionLabel ?image WITH {
            wdt:P4844 ?intervention .
   } GROUP BY ?intervention
     ORDER BY DESC(?count)
-    LIMIT 10
+    LIMIT 25
 } AS %COMPOUNDS WHERE {
   INCLUDE %COMPOUNDS
   ?intervention wdt:P117 ?image .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
 } ORDER BY DESC(?count)
+  LIMIT 10

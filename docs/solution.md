@@ -41,6 +41,36 @@ SELECT ?virus ?virusLabel ?work ?workLabel WITH {
 ORDER BY ?virusLabel ?workLabel
 ```
 
+The list is getting long, so let's first show the number of articles about
+antibodies for each virus:
+
+<table>
+  <tr>
+    <td><b>virus</b></td>
+    <td><b>count</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td>48</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td>1</td>
+  </tr>
+</table>
+
 It must be stressed that antibodies are specific for every protein and every
 coronavirus has different proteins, and this list is just to shortlist relevant
 literature for reading, not to draw conclusions from:

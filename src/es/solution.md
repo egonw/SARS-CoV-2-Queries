@@ -12,6 +12,10 @@ Los anticuerpos están ganando interés. La siguiente consulta enumera artículo
 
 <sparql>antibodies</sparql>
 
+La lista se está haciendo larga, así que primero vamos a mostrar la cantidad de artículos sobre anticuerpos para cada virus:
+
+<out>antibodyCounts</out>
+
 Se debe enfatizar que los anticuerpos son específicos para cada proteína y cada coronavirus tiene proteínas diferentes, y esta lista es solo para incluir en la literatura relevante para leer, no para sacar conclusiones de:
 
 <out limit="15">antibodies</out>

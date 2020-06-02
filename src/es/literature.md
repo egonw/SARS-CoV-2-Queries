@@ -8,7 +8,7 @@ Estas consultas enumeran los últimos 10 <topic>artículos</topic> sobre una ser
 
 <sparql>litSARSCoV2</sparql>
 
-Esto le da estos 10 documentos (elimine el `LIMIT 10` de la consulta para obtener todos):
+Esto le da estos 10 documentos:
 
 <out limit="10">litSARSCoV2</out>
 
@@ -18,7 +18,7 @@ También podemos consultar artículos sobre los genes:
 
 <sparql>litSARSCoV2Genes</sparql>
 
-Que actualmente da (elimine el `LIMIT 10` para obtener todo):
+Que actualmente da:
 
 <out limit="10">litSARSCoV2Genes</out>
 

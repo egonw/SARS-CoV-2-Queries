@@ -12,15 +12,21 @@ Los anticuerpos están ganando interés. La siguiente consulta enumera artículo
 
 <sparql>antibodies</sparql>
 
+La lista se está haciendo larga, así que primero vamos a mostrar la cantidad de artículos sobre anticuerpos para cada virus:
+
+<out>antibodyCounts</out>
+
 Se debe enfatizar que los anticuerpos son específicos para cada proteína y cada coronavirus tiene proteínas diferentes, y esta lista es solo para incluir en la literatura relevante para leer, no para sacar conclusiones de:
 
-<out>antibodies</out>
+<out limit="15">antibodies</out>
 
 ## Reutilización de drogas
 
 La sección <xref>ensayos</xref> ya incluía una descripción general de los ensayos clínicos.
 Este da una idea de los síntomas que preocupan a las personas. También proporciona información sobre qué <topic>medicamentos</topic> se estudian para la <topic>reutilización</topic>.
-Algunos de estos han recibido mucha atención, otros menos.
+Algunos de estos han recibido mucha atención, otros menos. Ellos se ven asi:
+
+<iframe>interventionStructures</iframe>
 
 La siguiente consulta enumera el número de ensayos clínicos por <topic>intervención</topic>:
 
@@ -28,7 +34,7 @@ La siguiente consulta enumera el número de ensayos clínicos por <topic>interve
 
 Esto da:
 
-<out>clinicalTrialsByIntervention</out>
+<out limit="15">clinicalTrialsByIntervention</out>
 
 Es importante destacar que esta lista solo da una idea de qué intervención ha recibido más atención que otras. Y es esencial darse cuenta de que la atención no es una medida de éxito.
 

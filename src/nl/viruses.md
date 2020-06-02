@@ -7,7 +7,7 @@ de
 <topic>severe acute respiratory syndrome-gerelateerde coronavirussen</topic> (<topic>SARSr virussen</topic>)
 is dat anders. Want SARS-CoV-2 is het hoofdonderwerp van dit boek.
 
-## Alle SARSr virussen
+## Alle SARS-gerelateerde virussen
 
 Het <topic>SARS-CoV-2</topic> <topic>virus</topic> is niet het eerste <topic>coronavirus</topic> (CoV). Er zijn
 namelijk behoorlijk veel SARS-gerelateerde CoVs bekend, zoals duidelijk is in
@@ -21,72 +21,61 @@ Dit geeft ons:
 
 <out>allSARSCoVViruses</out>
 
-If we compare this list with that in Section <xref>sevenhuman</xref> we not that
-these two lists do not fully overlap.
+Als we dit vergelijken met de lijst in Sectie <xref>sevenhuman</xref>, dan zien we dat
+deze twee lijsten niet helemaal overlappen.
 
-<section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>
+<section level="##" label="sevenhuman">De zeven coronavirusen die mensen infecteren</section>
 
-However, for the current pandemic, the seven human corona viruses may be of particular interest [<cite>Q86729469</cite>].
-We can use this query to just list these:
+Maar voor de huidige pandemie zijn deze zeven menselijke coronavirusen relevanter [<cite>Q86729469</cite>].
+We kunnen de volgende zoekopdracht gebruiken om alleen deze te laten zien:
 
 <sparql>humanCoronaviruses</sparql>
 
-This gives us a good starting point to study the virus in more detail:
+Dat geeft ons een goed startpunt om het virus in meer detail te bekijken:
 
 <out>humanCoronaviruses</out>
 
-## All betacoronaviruses
+## Alle betacoronavirusen
 
-But the SARS-related coronavirusses is just a subgroup. Another subgroup of coronaviruses is that of the betacoronaviruses:
+Maar de SARS-gerelateerde coronevirussen zijn maar een mogelijke subgroep. Een andere groep is die van de betacoronavirusen:
 
 <sparql>allBetacoronaViruses</sparql>
 
-Because there are quite a few of them in Wikidata, we rather make a graph dependency plot:
+Omdat Wikidata behoorlijk veel van deze virussen beschrijft, kunnen we beter een netwerkvisualisaite maken:
 
 <sparql>allBetacoronaVirusesGraph</sparql>
 
-This gives this output
+Dat geeft dit:
 
 <iframe>allBetacoronaVirusesGraph</iframe>
 
-## All coronaviruses
+## Alle coronavirusen
 
-The full list of coronaviruses looks like this:
+De volledige lijst van alle coronavirusen kunnen we opvragen met deze zoekopdracht:
 
 <sparql>allCoronaViruses</sparql>
 
-Again, we rather make a graph dependency plot:
+Opnieuw, deze visualiseren we liever als een netwerk:
 
 <sparql>allCoronaVirusesGraph</sparql>
 
-This gives this output
+Dat geeft deze uitkomsten:
 
 <iframe>allCoronaVirusesGraph</iframe>
 
-<section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>
+### Virussen vergelijken
 
-However, for the current pandemic, the seven human corona viruses may be of particular interest [<cite>Q86729469</cite>].
-We can use this query to just list these:
-
-<sparql>humanCoronaviruses</sparql>
-
-This gives us a good starting point to study the virus in more detail:
-
-<out>humanCoronaviruses</out>
-
-### Comparing viruses
-
-We can also query for articles that compare a human coronavirus with another coronavirus:
+We kunnen ook artikelen opvragen die menselijke coronavirussen vergelijken met andere coronavirussen:
 
 <sparql>compareViruses</sparql>
 
-## NCBI Taxonomy IDs
+## NCBI Taxonomie nummers
 
-For the coronaviruses we can list the <topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>] identifiers with:
+Voor de coronavirussen kunnen we ook de <topic>NCBI Taxonomie</topic> [<cite>Q28740981</cite>] nummers opvragen met:
 
 <sparql>allSARSCoVVirusesTaxonomy</sparql>
 
-This gives us:
+Dat geeft:
 
 <out>allSARSCoVVirusesTaxonomy</out>
 

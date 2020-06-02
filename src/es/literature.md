@@ -10,7 +10,7 @@ Estas consultas enumeran los últimos 10 <topic>artículos</topic> sobre una ser
 
 Esto le da estos 10 documentos (elimine el `LIMIT 10` de la consulta para obtener todos):
 
-<out>litSARSCoV2</out>
+<out limit="10">litSARSCoV2</out>
 
 ### Literatura sobre SARS-CoV-2 genes
 
@@ -20,7 +20,7 @@ También podemos consultar artículos sobre los genes:
 
 Que actualmente da (elimine el `LIMIT 10` para obtener todo):
 
-<out>litSARSCoV2Genes</out>
+<out limit="10">litSARSCoV2Genes</out>
 
 ### Literatura sobre SARS-CoV-2 proteínas
 
@@ -30,7 +30,7 @@ Y sobre las proteínas del virus:
 
 Que actualmente da:
 
-<out>litSARSCoV2Proteins</out>
+<out limit="10">litSARSCoV2Proteins</out>
 
 ## Literatura sobre los coronavirus
 
@@ -40,7 +40,7 @@ Como se describe en el capítulo <xref>virus</xref>, el SARS-Cov-2 es uno de los
 
 Esto le da estos 10 documentos:
 
-<out>litCoronaviruses</out>
+<out limit="10">litCoronaviruses</out>
 
 ### Literatura sobre los coronavirus humanos
 

@@ -1,4 +1,4 @@
-[ [en](../covid.md) **ja**  ]
+[ [en](../covid.md) **ja** [es](../es/covid.md)  ]
 
 # COVID-19
 
@@ -27,67 +27,79 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><b>symptom</b></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q86">頭痛</a> (<a href="http://www.wikidata.org/entity/Q86">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q86">頭痛</a> (<a href="http://www.wikidata.org/entity/Q86">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q5445">貧血</a> (<a href="http://www.wikidata.org/entity/Q5445">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5445">貧血</a> (<a href="http://www.wikidata.org/entity/Q5445">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q9690">疲労</a> (<a href="http://www.wikidata.org/entity/Q9690">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q9690">疲労</a> (<a href="http://www.wikidata.org/entity/Q9690">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q35805">咳嗽</a> (<a href="http://www.wikidata.org/entity/Q35805">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35805">咳嗽</a> (<a href="http://www.wikidata.org/entity/Q35805">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q38933">発熱</a> (<a href="http://www.wikidata.org/entity/Q38933">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38933">発熱</a> (<a href="http://www.wikidata.org/entity/Q38933">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q40878">下痢</a> (<a href="http://www.wikidata.org/entity/Q40878">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40878">下痢</a> (<a href="http://www.wikidata.org/entity/Q40878">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q101991">炎症</a> (<a href="http://www.wikidata.org/entity/Q101991">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q101991">炎症</a> (<a href="http://www.wikidata.org/entity/Q101991">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q105688">低酸素症</a> (<a href="http://www.wikidata.org/entity/Q105688">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105688">低酸素症</a> (<a href="http://www.wikidata.org/entity/Q105688">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q114085">鼻炎</a> (<a href="http://www.wikidata.org/entity/Q114085">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q114085">鼻炎</a> (<a href="http://www.wikidata.org/entity/Q114085">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q188008">呼吸困難</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q167844">結膜炎</a> (<a href="http://www.wikidata.org/entity/Q167844">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q344873">急性呼吸窮迫症候群</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q183425">腹痛</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q468433">嗅覚脱失</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q186889">吐き気</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q474959">筋肉痛</a> (<a href="http://www.wikidata.org/entity/Q474959">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q188008">呼吸困難</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q485831">リンパ球減少症</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q254327">食欲不振</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q606216">味覚消失</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q344873">急性呼吸窮迫症候群</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q647099">喀血</a> (<a href="http://www.wikidata.org/entity/Q647099">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q468433">嗅覚脱失</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q767485">呼吸不全</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q474959">筋肉痛</a> (<a href="http://www.wikidata.org/entity/Q474959">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2260058">悪寒</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q485831">リンパ球減少症</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q3508755">インフルエンザ様症状</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q576349">脳症</a> (<a href="http://www.wikidata.org/entity/Q576349">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q3961647">サイトカイン放出症候群</a> (<a href="http://www.wikidata.org/entity/Q3961647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q606216">味覚消失</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q55093125">neurologic manifestation</a> (<a href="http://www.wikidata.org/entity/Q55093125">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q647099">喀血</a> (<a href="http://www.wikidata.org/entity/Q647099">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q767485">呼吸不全</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q2260058">悪寒</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3245488">鼻詰まり</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3508755">インフルエンザ様症状</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
   </tr>
 </table>
 

@@ -1,4 +1,4 @@
-L10N := nl ja
+L10N := nl ja es
 LANGS ?= en ${L10N}
 
 SOURCES := $(shell find src -name "*.md")
@@ -7,7 +7,7 @@ METAS := references.dat toc.txt indexList.i.md sections.txt
 
 SUBDIRS := sparql
 
-all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
+all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md docs/urlList.txt
 	@cp sparql/*.code.en.md docs/sparql
 	@rename.ul 'en.md' 'md' docs/sparql/*.md
 	@for lang in $(L10N) ; do \
@@ -18,6 +18,9 @@ all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
 	@for lang in $(L10N) ; do \
 		cp indexList.$$lang.md docs/$$lang/indexList.md ; \
 	done
+
+docs/urlList.txt: urlList.txt
+	@sort urlList.txt | uniq > docs/urlList.txt
 
 sections.txt: order.txt ${SOURCES}
 	@echo "Indexing the sections"

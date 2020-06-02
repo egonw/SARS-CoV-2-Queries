@@ -1,4 +1,4 @@
-[ **en** [ja](ja/index.md) [nl](nl/index.md)  ]
+[ **en** [ja](ja/index.md) [nl](nl/index.md) [es](es/index.md)  ]
 
 <script type="application/ld+json">
 {
@@ -26,7 +26,7 @@ License: [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa
 This book is written in Markdown with additional instructions that are preprocessed.
 This project was started after [this tweet by Maulik Kamdar](https://twitter.com/maulikkamdar/status/1239599404098740225)
 and hopes to contribute to [Wikidata:WikiProject COVID-19](https://www.wikidata.org/wiki/Wikidata:WikiProject_COVID-19).
-Wishes, comments, and pull requests can be send to
+Wishes, comments, and pull requests can be sent to
 [this GitHub repository](https://github.com/egonw/SARS-CoV-2-Queries/). If you like this effort, please
 star this GitHub repository! While the book itself has the CC-BY-SA, all SPARQL queries in this book can be used
 under the [CCZero license/waiver](https://creativecommons.org/share-your-work/public-domain/cc0/).
@@ -41,9 +41,8 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 2.2. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
 2.3. [All betacoronaviruses](viruses.md#all-betacoronaviruses) <br />
 2.4. [All coronaviruses](viruses.md#all-coronaviruses) <br />
-2.5. [The seven coronaviruses that infect human](viruses.md#the-seven-coronaviruses-that-infect-human) <br />
-2.5.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
-2.6. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
+2.4.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
+2.5. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
 3.1. [SARS-CoV-2](covid.md#sars-cov-2) <br />
 3.2. [Symptoms](covid.md#symptoms) <br />
@@ -94,3 +93,4 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 ## Translations
 
 * [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/ja/) by Yayamamo
+* [Español](https://egonw.github.io/SARS-CoV-2-Queries/es/) by Marvin Martens, Sharon and Carolina Prado

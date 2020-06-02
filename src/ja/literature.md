@@ -8,9 +8,9 @@
 
 <sparql>litSARSCoV2</sparql>
 
-結果として10件の論文を得ます（全てを取得するには、`LIMIT 10`をクエリから取り除きます）。
+結果として10件の論文を得ます。
 
-<out>litSARSCoV2</out>
+<out limit="10">litSARSCoV2</out>
 
 ### SARS-CoV-2遺伝子について
 
@@ -18,9 +18,9 @@
 
 <sparql>litSARSCoV2Genes</sparql>
 
-これにより、現在以下の結果を得ます（全てを取得したい場合は`LIMIT 10`を取り除きます）。
+これにより、現在以下の結果を得ます。
 
-<out>litSARSCoV2Genes</out>
+<out limit="10">litSARSCoV2Genes</out>
 
 ### SARS-CoV-2タンパク質について
 
@@ -30,7 +30,7 @@
 
 結果は現在、以下の通りです。
 
-<out>litSARSCoV2Proteins</out>
+<out limit="10">litSARSCoV2Proteins</out>
 
 ## コロナウイルスについて
 
@@ -40,7 +40,7 @@
 
 次の10件を取得できます。
 
-<out>litCoronaviruses</out>
+<out limit="10">litCoronaviruses</out>
 
 ### ヒトのコロナウイルスについて
 

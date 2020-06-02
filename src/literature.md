@@ -12,9 +12,9 @@ are very basic, and only use the 'main subject' property.
 
 <sparql>litSARSCoV2</sparql>
 
-This gives these 10 papers (remove the `LIMIT 10` from the query to get all):
+This gives these 10 papers:
 
-<out>litSARSCoV2</out>
+<out limit="10">litSARSCoV2</out>
 
 ### about SARS-CoV-2 genes
 
@@ -22,9 +22,9 @@ We can also query for articles about the genes:
 
 <sparql>litSARSCoV2Genes</sparql>
 
-Which currently returns (remove the `LIMIT 10` to get all):
+Which currently returns:
 
-<out>litSARSCoV2Genes</out>
+<out limit="10">litSARSCoV2Genes</out>
 
 ### about SARS-CoV-2 proteins
 
@@ -34,7 +34,7 @@ And about the virus proteins:
 
 Which currently returns:
 
-<out>litSARSCoV2Proteins</out>
+<out limit="10">litSARSCoV2Proteins</out>
 
 ## about coronaviruses
 
@@ -45,7 +45,7 @@ can infect humans.
 
 This gives these 10 papers:
 
-<out>litCoronaviruses</out>
+<out limit="10">litCoronaviruses</out>
 
 ### about human coronaviruses
 

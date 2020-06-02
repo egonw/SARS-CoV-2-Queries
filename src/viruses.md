@@ -4,7 +4,7 @@ Coronaviruses are not new and some of them are pretty harmless. For example,
 the human coronaviruses HCoV-229E and HCoV-OC43 normally result in a common
 cold [<cite>Q36641750</cite>]. However, for the
 <topic>severe acute respiratory syndrome-related coronaviruses</topic> (<topic>SARSr viruses</topic>)
-this is different. SARS-CoV-2, of course, is the main topic of this book.
+this is different. SARS-CoV-2, of course, is the main topic of this book [<cite>Q87000965</cite>].
 
 ## All SARSr viruses
 
@@ -20,7 +20,7 @@ This gives us:
 
 <out>allSARSCoVViruses</out>
 
-If we compare this list with that in Section <xref>sevenhuman</xref> we not that
+If we compare this list with that in Section <xref>sevenhuman</xref> we note that
 these two lists do not fully overlap.
 
 <section level="##" label="sevenhuman">The seven coronaviruses that infect human</section>

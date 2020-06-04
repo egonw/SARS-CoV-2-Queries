@@ -19,7 +19,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 } GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10
 ```
 
-Esto le da estos 10 documentos (elimine el `LIMIT 10` de la consulta para obtener todos):
+Esto le da estos 10 documentos:
 
 <table>
   <tr>
@@ -86,7 +86,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 } GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date) LIMIT 10
 ```
 
-Que actualmente da (elimine el `LIMIT 10` para obtener todo):
+Que actualmente da:
 
 <table>
   <tr>

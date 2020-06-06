@@ -31,6 +31,11 @@ files.each { file ->
         end = line.indexOf("</out>")
         text = line.substring(start + 5, end)
         println "" + text + suffix
+      } else if (line.contains("<iframe>")) {
+        start = line.indexOf("<iframe>")
+        end = line.indexOf("</iframe>")
+        text = line.substring(start + 8, end)
+        println "" + text + suffix
       }
     } catch (Exception exception) {
       println "Error reading line: " + line

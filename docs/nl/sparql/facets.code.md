@@ -71,7 +71,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q87796964">Human rights issues during the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87796964">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87865677">impact on internet functioning of the 2019-2020 coronavirus disease pandemic</a> (<a href="http://www.wikidata.org/entity/Q87865677">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87865677">Impact of the 2019-2020 Coronavirus pandemic on the internet</a> (<a href="http://www.wikidata.org/entity/Q87865677">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87866152">quarantine for the 2019-2020 coronavirus disease pandemic</a> (<a href="http://www.wikidata.org/entity/Q87866152">edit</a>)</td>
@@ -192,6 +192,15 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q94981718">Impact of the COVID-19 pandemic on other health issues</a> (<a href="http://www.wikidata.org/entity/Q94981718">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q95743242">coronavirus disease COVID-19 in Russia's care homes for the elderly and disabled</a> (<a href="http://www.wikidata.org/entity/Q95743242">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q95982336">Global Pride</a> (<a href="http://www.wikidata.org/entity/Q95982336">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96048874">timeline of the 2019–20 coronavirus pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
   </tr>
 </table>
 ## Broncode voorbeelden

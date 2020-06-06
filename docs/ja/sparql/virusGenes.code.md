@@ -18,7 +18,7 @@ SELECT ?gene ?geneLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/43740568">43740568</a></td>
   </tr>
   <tr>

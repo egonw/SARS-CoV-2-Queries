@@ -169,7 +169,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

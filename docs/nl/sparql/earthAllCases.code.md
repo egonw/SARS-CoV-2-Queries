@@ -550,6 +550,30 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2020-05-28T00:00:00Z</td>
     <td>5593631</td>
   </tr>
+  <tr>
+    <td>2020-05-29T00:00:00Z</td>
+    <td>5701337</td>
+  </tr>
+  <tr>
+    <td>2020-05-30T00:00:00Z</td>
+    <td>5817385</td>
+  </tr>
+  <tr>
+    <td>2020-05-31T00:00:00Z</td>
+    <td>5934936</td>
+  </tr>
+  <tr>
+    <td>2020-06-01T00:00:00Z</td>
+    <td>6057853</td>
+  </tr>
+  <tr>
+    <td>2020-06-02T00:00:00Z</td>
+    <td>6194533</td>
+  </tr>
+  <tr>
+    <td>2020-06-03T00:00:00Z</td>
+    <td>6287771</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

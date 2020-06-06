@@ -474,6 +474,48 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td><a href="https://www.uniprot.org/uniprot/P0DTD3">P0DTD3</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022196">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q96022196">edit</a>)</td>
+    <td>YP_009724395.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022202">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q96022202">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022209">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q96022209">edit</a>)</td>
+    <td>YP_009725318.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022214">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q96022214">edit</a>)</td>
+    <td>YP_009724391.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022219">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q96022219">edit</a>)</td>
+    <td>YP_009724392.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022223">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q96022223">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022229">ORF10 protein</a> (<a href="http://www.wikidata.org/entity/Q96022229">edit</a>)</td>
+    <td>YP_009725255.1</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88366225">Spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88366225">edit</a>)</td>
     <td>YP_003767.1</td>

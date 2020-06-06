@@ -149,7 +149,7 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 and COVID-19 Pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
   </tr>
   <tr>
@@ -324,6 +324,11 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94994433">Uncharacterized protein 14</a> (<a href="http://www.wikidata.org/entity/Q94994433">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 and COVID-19 Pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89227548">ORF10 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89227548">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88799649">Hijack of Ubiquitination by SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88799649">edit</a>)</td>
   </tr>
@@ -351,6 +356,11 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89686805">Non-structural protein 9 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89686805">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90518826">Pathogenesis of SARS-CoV-2 Mediated by nsp9/nsp10 Complex</a> (<a href="http://www.wikidata.org/entity/Q90518826">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95970330">ER stress response in Coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q95970330">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

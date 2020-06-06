@@ -32,7 +32,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>7789</td>
+    <td>8043</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -40,7 +40,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td>1031</td>
+    <td>1032</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>

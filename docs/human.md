@@ -50,8 +50,8 @@ This gives us these numbers of papers:
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q412214">Dipeptidyl peptidase 4</a> (<a href="http://www.wikidata.org/entity/Q412214">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -60,8 +60,8 @@ This gives us these numbers of papers:
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q412214">Dipeptidyl peptidase 4</a> (<a href="http://www.wikidata.org/entity/Q412214">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ This gives us these numbers of papers:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q14905314">MASP2</a> (<a href="http://www.wikidata.org/entity/Q14905314">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ This gives us these numbers of papers:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q14905314">MASP2</a> (<a href="http://www.wikidata.org/entity/Q14905314">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -304,7 +304,7 @@ it is expected to grow quickly too:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 and COVID-19 Pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
   </tr>
   <tr>
@@ -479,6 +479,11 @@ it is expected to grow quickly too:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94994433">Uncharacterized protein 14</a> (<a href="http://www.wikidata.org/entity/Q94994433">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 and COVID-19 Pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89227548">ORF10 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89227548">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88799649">Hijack of Ubiquitination by SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q88799649">edit</a>)</td>
   </tr>
@@ -506,6 +511,11 @@ it is expected to grow quickly too:
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89686805">Non-structural protein 9 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89686805">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90518826">Pathogenesis of SARS-CoV-2 Mediated by nsp9/nsp10 Complex</a> (<a href="http://www.wikidata.org/entity/Q90518826">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95970330">ER stress response in Coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q95970330">edit</a>)</td>
   </tr>
 </table>
 

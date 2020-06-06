@@ -31,6 +31,48 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89455671">3C-like proteinase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89455671">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89457107">non-structural protein 9 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89457107">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89457519">nucleoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89457519">edit</a>)</td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P59595">P59595</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89459410">spike protein S2 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89459410">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89465097">non-structural protein 7 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89465097">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89465384">uridylate-specific endoribonuclease [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89465384">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89560415">non-structural protein 8 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89560415">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89560425">papain-like proteinase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89560425">edit</a>)</td>
     <td></td>
     <td></td>
@@ -276,52 +318,10 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89455671">3C-like proteinase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89455671">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89457107">non-structural protein 9 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89457107">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89457519">nucleoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89457519">edit</a>)</td>
-    <td></td>
-    <td><a href="https://www.uniprot.org/uniprot/P59595">P59595</a></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89458416">spike glycoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89458416">edit</a>)</td>
     <td>NP_828851.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P59594">P59594</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89459410">spike protein S2 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89459410">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89465097">non-structural protein 7 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89465097">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89465384">uridylate-specific endoribonuclease [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89465384">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89560415">non-structural protein 8 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89560415">edit</a>)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -394,6 +394,48 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td><a href="https://scholia.toolforge.org/Q94994433">Uncharacterized protein 14</a> (<a href="http://www.wikidata.org/entity/Q94994433">edit</a>)</td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD3">P0DTD3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022196">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q96022196">edit</a>)</td>
+    <td>YP_009724395.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022202">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q96022202">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022209">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q96022209">edit</a>)</td>
+    <td>YP_009725318.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022214">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q96022214">edit</a>)</td>
+    <td>YP_009724391.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022219">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q96022219">edit</a>)</td>
+    <td>YP_009724392.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022223">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q96022223">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96022229">ORF10 protein</a> (<a href="http://www.wikidata.org/entity/Q96022229">edit</a>)</td>
+    <td>YP_009725255.1</td>
+    <td></td>
   </tr>
 </table>
 ## Ejemplos de código

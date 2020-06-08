@@ -9,7 +9,7 @@ fs.readFile('references.qids', 'utf8', async function (err, file) {
       append: function (entry) {
         return entry.DOI
           ? ' doi:[' + entry.DOI + '](https://doi.org/' + entry.DOI + ')' +
-            ' ([Scholia](https://tools.wmflabs.org/scholia/doi/' + entry.DOI + "))"
+            ' ([Scholia](https://scholia.toolforge.org/doi/' + entry.DOI + "))"
           : '';
       }
     }))

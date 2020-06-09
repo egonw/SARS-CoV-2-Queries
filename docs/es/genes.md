@@ -2125,7 +2125,7 @@ Que devuelve:
 
 ## Referencias
 
-1. <a name="citeref1"></a>Meldal BHM, Bye-A-Jee H, Gajdoš L, Hammerová Z, Horácková A, Melicher F, et al. Complex Portal 2018: extended content and enhanced visualization tools for macromolecular complexes. NAR. 2019 Jan 1;47(D1):D550–8.  doi:[10.1093/NAR/GKY1001](https://doi.org/10.1093/NAR/GKY1001) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1093/NAR/GKY1001))
-2. <a name="citeref2"></a>Burley SK, Berman HM, Kleywegt G, Markley JL, Nakamura H, Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. Methods in Molecular Biology. 2017 Jan 1;1607:627–41.  doi:[10.1007/978-1-4939-7000-1_26](https://doi.org/10.1007/978-1-4939-7000-1_26) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.1007/978-1-4939-7000-1_26))
+1. <a name="citeref1"></a>Meldal BHM, Bye-A-Jee H, Gajdoš L, Hammerová Z, Horácková A, Melicher F, et al. Complex Portal 2018: extended content and enhanced visualization tools for macromolecular complexes. NAR. 2019 Jan 1;47(D1):D550–8.  doi:[10.1093/NAR/GKY1001](https://doi.org/10.1093/NAR/GKY1001) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY1001))
+2. <a name="citeref2"></a>Burley SK, Berman HM, Kleywegt G, Markley JL, Nakamura H, Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. Methods in Molecular Biology. 2017 Jan 1;1607:627–41.  doi:[10.1007/978-1-4939-7000-1_26](https://doi.org/10.1007/978-1-4939-7000-1_26) ([Scholia](https://scholia.toolforge.org/doi/10.1007/978-1-4939-7000-1_26))
 
 

@@ -65,13 +65,7 @@ Listado de estos síntomas:
     <td><a href="https://scholia.toolforge.org/Q40878">diarrea</a> (<a href="http://www.wikidata.org/entity/Q40878">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q101991">inflamación</a> (<a href="http://www.wikidata.org/entity/Q101991">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q105688">hipoxia</a> (<a href="http://www.wikidata.org/entity/Q105688">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q114085">rinitis</a> (<a href="http://www.wikidata.org/entity/Q114085">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q167844">conjuntivitis</a> (<a href="http://www.wikidata.org/entity/Q167844">edit</a>)</td>
@@ -114,6 +108,9 @@ Listado de estos síntomas:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q2260058">escalofrío</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q2603200">neumonía viral</a> (<a href="http://www.wikidata.org/entity/Q2603200">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3245488">congestion nasal</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>

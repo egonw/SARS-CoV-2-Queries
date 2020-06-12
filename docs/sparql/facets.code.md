@@ -80,7 +80,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q87898060">Impact of the 2019–20 coronavirus pandemic on religion</a> (<a href="http://www.wikidata.org/entity/Q87898060">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88027839">list of deaths from the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88027839">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88027839">list of deaths due to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q88027839">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88221447">non-pharmaceutical countermeasure</a> (<a href="http://www.wikidata.org/entity/Q88221447">edit</a>)</td>

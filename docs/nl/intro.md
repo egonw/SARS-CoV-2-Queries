@@ -5,7 +5,7 @@
 [Wikidata](https://wikidata.org/) is een bruikbare bron voor gelinkte data [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>].
 Het [Wikicite](http://wikicite.org/) project heeft de uitdaging opgepakt om alle wetenschappelijke
 literatuur (geciteerd in Wikipedia) hieraan toe te voegen [<a href="#citeref3">3</a>].
-En geïnspireerd door [Scholia](https://tools.wmflabs.org/scholia/) [<a href="#citeref4">4</a>],
+En geïnspireerd door [Scholia](https://scholia.toolforge.org/) [<a href="#citeref4">4</a>],
 verzamelt dit electronische boek zoekopdrachten die relevant zijn voor de huidige
 pandemie.
 
@@ -28,13 +28,13 @@ Er is nog een andere manier om bij te dragen, door gebruik te maken van de
 '/missing' functionaliteit van Scholia. Bijvoorbeeld, kijk eens naar de volgende
 Scholia pagina's over de menselijke coronavirusen (HCoVs):
 
-* [Ontbrekend voor MERS](https://tools.wmflabs.org/scholia/topic/Q4902157/missing)
-* [Ontbrekend voor HCoV NL63](https://tools.wmflabs.org/scholia/topic/Q8351095/missing)
-* [Ontbrekend voor HCoV 2229E](https://tools.wmflabs.org/scholia/topic/Q16983356/missing)
-* [Ontbrekend voor HCoV HKU1](https://tools.wmflabs.org/scholia/topic/Q16983360/missing)
-* [Ontbrekend voor OC43](https://tools.wmflabs.org/scholia/topic/Q16991954/missing)
-* [Ontbrekend voor SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695/missing)
-* [Ontbrekend voor SARS-CoV-1](https://tools.wmflabs.org/scholia/topic/Q85438966/missing)
+* [Ontbrekend voor MERS](https://scholia.toolforge.org/topic/Q4902157/missing)
+* [Ontbrekend voor HCoV NL63](https://scholia.toolforge.org/topic/Q8351095/missing)
+* [Ontbrekend voor HCoV 2229E](https://scholia.toolforge.org/topic/Q16983356/missing)
+* [Ontbrekend voor HCoV HKU1](https://scholia.toolforge.org/topic/Q16983360/missing)
+* [Ontbrekend voor OC43](https://scholia.toolforge.org/topic/Q16991954/missing)
+* [Ontbrekend voor SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695/missing)
+* [Ontbrekend voor SARS-CoV-1](https://scholia.toolforge.org/topic/Q85438966/missing)
 
 ## Bronnen
 

@@ -1,14 +1,14 @@
 # Literature
 
 These queries list the latest 10 <topic>articles</topic> about a number of topics. It is
-no replacement for [Scholia](https://tools.wmflabs.org/scholia/) [<cite>Q63433973</cite>],
+no replacement for [Scholia](https://scholia.toolforge.org/) [<cite>Q63433973</cite>],
 which has a much richer overview of <topic>literature</topic> on the topic. Each section
 includes a link to the Scholia page for that topic. The queries used here
 are very basic, and only use the 'main subject' property.
 
 ## about SARS-CoV-2
 
-[SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695) is the name of the virus.
+[SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695) is the name of the virus.
 
 <sparql>litSARSCoV2</sparql>
 

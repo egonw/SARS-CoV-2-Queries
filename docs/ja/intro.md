@@ -2,7 +2,7 @@
 
 # 導入
 
-[Wikidata](https://wikidata.org/)はリンクトデータネットワークにおいて有益な資源です [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>]。[Wikicite](http://wikicite.org/)プロジェクトはWikipediaで引用されている全ての学術論文をロードするというチャレンジをしました [<a href="#citeref3">3</a>]。[Scholia](https://tools.wmflabs.org/scholia/)[<a href="#citeref4">4</a>]に触発され、本文書には学術誌の編集者に有益なたくさんのクエリを集めました。
+[Wikidata](https://wikidata.org/)はリンクトデータネットワークにおいて有益な資源です [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>]。[Wikicite](http://wikicite.org/)プロジェクトはWikipediaで引用されている全ての学術論文をロードするというチャレンジをしました [<a href="#citeref3">3</a>]。[Scholia](https://scholia.toolforge.org/)[<a href="#citeref4">4</a>]に触発され、本文書には学術誌の編集者に有益なたくさんのクエリを集めました。
 
 ## トピックに新たに注釈をつける
 
@@ -12,13 +12,13 @@
 
 さらに、他の有益な注釈のために、Scholiaの「/missing」機能を利用してください。例えば、ヒトのコロナウイルス（HCoVs）に関する次のScholiaのページをご確認ください。
 
-* [Missing for MERS](https://tools.wmflabs.org/scholia/topic/Q4902157/missing)
-* [Missing for HCoV NL63](https://tools.wmflabs.org/scholia/topic/Q8351095/missing)
-* [Missing for HCoV 2229E](https://tools.wmflabs.org/scholia/topic/Q16983356/missing)
-* [Missing for HCoV HKU1](https://tools.wmflabs.org/scholia/topic/Q16983360/missing)
-* [Missing for OC43](https://tools.wmflabs.org/scholia/topic/Q16991954/missing)
-* [Missing for SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695/missing)
-* [Missing for SARS-CoV-1](https://tools.wmflabs.org/scholia/topic/Q85438966/missing)
+* [Missing for MERS](https://scholia.toolforge.org/topic/Q4902157/missing)
+* [Missing for HCoV NL63](https://scholia.toolforge.org/topic/Q8351095/missing)
+* [Missing for HCoV 2229E](https://scholia.toolforge.org/topic/Q16983356/missing)
+* [Missing for HCoV HKU1](https://scholia.toolforge.org/topic/Q16983360/missing)
+* [Missing for OC43](https://scholia.toolforge.org/topic/Q16991954/missing)
+* [Missing for SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695/missing)
+* [Missing for SARS-CoV-1](https://scholia.toolforge.org/topic/Q85438966/missing)
 
 ## 参考文献
 

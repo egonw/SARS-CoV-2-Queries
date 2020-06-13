@@ -2,11 +2,11 @@
 
 # 文献
 
-これらのクエリはいくつかの課題に関する最新10件分の<a name="tp1">記事</a>を取得します。これは、 [Scholia](https://tools.wmflabs.org/scholia/) [<a href="#citeref1">1</a>]とは異なります。Scholiaは特定の課題について遥かに豊かな<a name="tp2">文献</a>の概要が得られます。各節ではScholiaへのリンクを含めています。ここでのクエリはとても基本的なもので、「主題」プロパティのみを利用します。
+これらのクエリはいくつかの課題に関する最新10件分の<a name="tp1">記事</a>を取得します。これは、 [Scholia](https://scholia.toolforge.org/) [<a href="#citeref1">1</a>]とは異なります。Scholiaは特定の課題について遥かに豊かな<a name="tp2">文献</a>の概要が得られます。各節ではScholiaへのリンクを含めています。ここでのクエリはとても基本的なもので、「主題」プロパティのみを利用します。
 
 ## SARS-CoV-2について
 
-[SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695)がこのウイルスの名前です。
+[SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695)がこのウイルスの名前です。
 
 **SPARQL** [sparql/litSARSCoV2.rq](sparql/litSARSCoV2.code.html) ([実行](https://query.wikidata.org/embed.html#SELECT%20%28MAX%28%3Fdates%29%20as%20%3Fdate%29%20%3Fwork%20%3FworkLabel%20%3Fdoi%20WHERE%20%7B%0A%20%20%3Fwork%20wdt%3AP921%20wd%3AQ82069695%20.%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP577%20%3Fdates%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP356%20%3Fdoi%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fwork%20%3FworkLabel%20%3Fdoi%20ORDER%20BY%20DESC%28%3Fdate%29%0A), [編集](https://query.wikidata.org/#SELECT%20%28MAX%28%3Fdates%29%20as%20%3Fdate%29%20%3Fwork%20%3FworkLabel%20%3Fdoi%20WHERE%20%7B%0A%20%20%3Fwork%20wdt%3AP921%20wd%3AQ82069695%20.%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP577%20%3Fdates%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP356%20%3Fdoi%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fwork%20%3FworkLabel%20%3Fdoi%20ORDER%20BY%20DESC%28%3Fdate%29%0A))
 

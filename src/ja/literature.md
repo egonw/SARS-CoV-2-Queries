@@ -1,10 +1,10 @@
 # 文献
 
-これらのクエリはいくつかの課題に関する最新10件分の<topic>記事</topic>を取得します。これは、 [Scholia](https://tools.wmflabs.org/scholia/) [<cite>Q63433973</cite>]とは異なります。Scholiaは特定の課題について遥かに豊かな<topic>文献</topic>の概要が得られます。各節ではScholiaへのリンクを含めています。ここでのクエリはとても基本的なもので、「主題」プロパティのみを利用します。
+これらのクエリはいくつかの課題に関する最新10件分の<topic>記事</topic>を取得します。これは、 [Scholia](https://scholia.toolforge.org/) [<cite>Q63433973</cite>]とは異なります。Scholiaは特定の課題について遥かに豊かな<topic>文献</topic>の概要が得られます。各節ではScholiaへのリンクを含めています。ここでのクエリはとても基本的なもので、「主題」プロパティのみを利用します。
 
 ## SARS-CoV-2について
 
-[SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695)がこのウイルスの名前です。
+[SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695)がこのウイルスの名前です。
 
 <sparql>litSARSCoV2</sparql>
 

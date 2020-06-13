@@ -1,10 +1,10 @@
 # Literatura
 
-Estas consultas enumeran los últimos 10 <topic>artículos</topic> sobre una serie de temas. No reemplaza a [Scholia](https://tools.wmflabs.org/scholia/) [<cite>Q63433973</cite>], que tiene una visión mucho más rica de la <topic>literatura</topic> sobre el tema. Cada sección incluye un enlace a la página de Scholia para ese tema. Las consultas utilizadas aquí son muy básicas y solo utilizan la propiedad 'sujeto principal'.
+Estas consultas enumeran los últimos 10 <topic>artículos</topic> sobre una serie de temas. No reemplaza a [Scholia](https://scholia.toolforge.org/) [<cite>Q63433973</cite>], que tiene una visión mucho más rica de la <topic>literatura</topic> sobre el tema. Cada sección incluye un enlace a la página de Scholia para ese tema. Las consultas utilizadas aquí son muy básicas y solo utilizan la propiedad 'sujeto principal'.
 
 ## Literatura sobre SARS-CoV-2
 
-[SARS-CoV-2](https://tools.wmflabs.org/scholia/topic/Q82069695) es el nombre del virus.
+[SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695) es el nombre del virus.
 
 <sparql>litSARSCoV2</sparql>
 

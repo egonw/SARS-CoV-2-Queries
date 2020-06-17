@@ -516,6 +516,18 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96356074">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q96356074">edit</a>)</td>
+    <td>YP_009724393.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96356076">ORF6 protein</a> (<a href="http://www.wikidata.org/entity/Q96356076">edit</a>)</td>
+    <td>YP_009724394.1</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88366225">Spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88366225">edit</a>)</td>
     <td>YP_003767.1</td>

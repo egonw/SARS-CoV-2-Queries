@@ -83,6 +83,11 @@ ORDER BY DESC(?count)
     <td>2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175930">protein E</a> (<a href="http://www.wikidata.org/entity/Q88175930">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88175320">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88175320">edit</a>)</td>
     <td>1</td>

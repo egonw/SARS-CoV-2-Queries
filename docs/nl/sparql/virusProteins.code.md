@@ -238,6 +238,18 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96356074">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q96356074">edit</a>)</td>
+    <td>YP_009724393.1</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96356076">ORF6 protein</a> (<a href="http://www.wikidata.org/entity/Q96356076">edit</a>)</td>
+    <td>YP_009724394.1</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

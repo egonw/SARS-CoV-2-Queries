@@ -58,6 +58,10 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96027644">Comparing the Binding Interactions in the Receptor Binding Domains of SARS-CoV-2 and SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q96027644">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q91565585">Developing antibody tests for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q91565585">edit</a>)</td>
   </tr>
   <tr>
@@ -78,6 +82,10 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96232960">Immune Responses to SARS-CoV, MERS-CoV and SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96232960">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90776980">Interaction between RAAS inhibitors and ACE2 in the context of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q90776980">edit</a>)</td>
   </tr>
   <tr>
@@ -91,6 +99,10 @@ ORDER BY ?virusLabel ?workLabel
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96348222">Preparing for emerging respiratory pathogens such as SARS-CoV, MERS-CoV, and SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96348222">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -3190,11 +3202,11 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q47407432">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q47407432">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q45632163">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q45632163">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q45632163">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q45632163">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q47407432">Prevalence of non-pneumonic infections with SARS-correlated virus.</a> (<a href="http://www.wikidata.org/entity/Q47407432">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4446,11 +4458,11 @@ ORDER BY ?virusLabel ?workLabel
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q46084425">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q46084425">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39934277">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q39934277">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39934277">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q39934277">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q46084425">The RNA polymerase activity of SARS-coronavirus nsp12 is primer dependent.</a> (<a href="http://www.wikidata.org/entity/Q46084425">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

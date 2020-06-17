@@ -289,6 +289,18 @@ ORDER BY ?virusLabel ?workLabel
     <td><a href="https://scholia.toolforge.org/Q87000965">The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87000965">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96027644">Comparing the Binding Interactions in the Receptor Binding Domains of SARS-CoV-2 and SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q96027644">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96232960">Immune Responses to SARS-CoV, MERS-CoV and SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96232960">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96348222">Preparing for emerging respiratory pathogens such as SARS-CoV, MERS-CoV, and SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96348222">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33904997">A 219-mer CHO-expressing receptor-binding domain of SARS-CoV S protein induces potent immune responses and protective immunity</a> (<a href="http://www.wikidata.org/entity/Q33904997">edit</a>)</td>
   </tr>

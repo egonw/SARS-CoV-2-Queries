@@ -143,6 +143,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q89966200">Pandemic predictions and preparations prior to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q90085156">Impact of the 2019–20 coronavirus pandemic on the environment</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
   </tr>
   <tr>
@@ -194,13 +197,16 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q94981718">Impact of the COVID-19 pandemic on other health issues</a> (<a href="http://www.wikidata.org/entity/Q94981718">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q95743242">coronavirus disease COVID-19 in Russia's care homes for the elderly and disabled</a> (<a href="http://www.wikidata.org/entity/Q95743242">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q95982336">Global Pride</a> (<a href="http://www.wikidata.org/entity/Q95982336">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96048874">timeline of the 2019–20 coronavirus pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96246183">response to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q96246183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96336226">Q96336226</a> (<a href="http://www.wikidata.org/entity/Q96336226">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

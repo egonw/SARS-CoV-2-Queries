@@ -34,7 +34,7 @@ ORDER BY DESC(?count)
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
@@ -57,13 +57,13 @@ ORDER BY DESC(?count)
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q412214">DPP-4</a> (<a href="http://www.wikidata.org/entity/Q412214">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16532287">ベータコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q16532287">ベータコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q412214">DPP-4</a> (<a href="http://www.wikidata.org/entity/Q412214">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -74,6 +74,26 @@ ORDER BY DESC(?count)
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14875321">アンジオテンシン変換酵素2</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18032037">腫瘍壊死因子α</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21173156">BCL2 like 1</a> (<a href="http://www.wikidata.org/entity/Q21173156">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q408476">Bcl-2結合Xタンパク質</a> (<a href="http://www.wikidata.org/entity/Q408476">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q581324">フーリン</a> (<a href="http://www.wikidata.org/entity/Q581324">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -97,38 +117,18 @@ ORDER BY DESC(?count)
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q18032037">腫瘍壊死因子α</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q21173156">BCL2 like 1</a> (<a href="http://www.wikidata.org/entity/Q21173156">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q408476">Bcl-2結合Xタンパク質</a> (<a href="http://www.wikidata.org/entity/Q408476">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14865236">インターロイキン-6</a> (<a href="http://www.wikidata.org/entity/Q14865236">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18032025">TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q18032025">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -144,6 +144,11 @@ ORDER BY DESC(?count)
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q2830638">アラニンアミノペプチダーゼ</a> (<a href="http://www.wikidata.org/entity/Q2830638">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -556,11 +561,6 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89045266">Type I Interferon Induction and Signaling During SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q89045266">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89269854">Activation of NLRP3 Inflammasome by SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89269854">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">2019新型コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

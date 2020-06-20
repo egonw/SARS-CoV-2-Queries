@@ -215,12 +215,6 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96022214">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q96022214">edit</a>)</td>
-    <td>YP_009724391.1</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q96022219">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q96022219">edit</a>)</td>
     <td>YP_009724392.1</td>
     <td></td>

@@ -328,12 +328,6 @@ Lo que nos da estas proteínas:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96022214">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q96022214">edit</a>)</td>
-    <td>YP_009724391.1</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q96022219">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q96022219">edit</a>)</td>
     <td>YP_009724392.1</td>
     <td></td>
@@ -789,12 +783,6 @@ Que devuelve:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89454460">replicase polyprotein 1ab [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89454460">edit</a>)</td>
-    <td></td>
-    <td><a href="https://www.uniprot.org/uniprot/P0C6X7">P0C6X7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89455299">2'-O-methyltransferase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89455299">edit</a>)</td>
     <td></td>
     <td></td>
@@ -1076,6 +1064,12 @@ Que devuelve:
     <td><a href="https://www.uniprot.org/uniprot/A0A663DJA2">A0A663DJA2</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89454460">replicase polyprotein 1ab [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89454460">edit</a>)</td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0C6X7">P0C6X7</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89458416">spike glycoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89458416">edit</a>)</td>
     <td>NP_828851.1</td>
@@ -1169,12 +1163,6 @@ Que devuelve:
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96022209">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q96022209">edit</a>)</td>
     <td>YP_009725318.1</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q96022214">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q96022214">edit</a>)</td>
-    <td>YP_009724391.1</td>
     <td></td>
   </tr>
   <tr>
@@ -2089,12 +2077,6 @@ Que devuelve:
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96022209">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q96022209">edit</a>)</td>
     <td>YP_009725318.1</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q96022214">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q96022214">edit</a>)</td>
-    <td>YP_009724391.1</td>
     <td></td>
   </tr>
   <tr>

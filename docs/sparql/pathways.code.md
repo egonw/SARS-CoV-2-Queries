@@ -364,11 +364,6 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89269854">Activation of NLRP3 Inflammasome by SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89269854">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89269930">Downregulation of ACE2 expression by SARS-CoV infection and SARS-CoV Spike protein.</a> (<a href="http://www.wikidata.org/entity/Q89269930">edit</a>)</td>
   </tr>

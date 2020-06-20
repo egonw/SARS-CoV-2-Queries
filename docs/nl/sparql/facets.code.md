@@ -208,6 +208,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96336226">Q96336226</a> (<a href="http://www.wikidata.org/entity/Q96336226">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96419281">source tracing for SARS-Cov-2</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

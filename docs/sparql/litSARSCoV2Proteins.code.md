@@ -66,6 +66,16 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1038/S41586-020-2368-8">10.1038/S41586-020-2368-8</a></td>
   </tr>
   <tr>
+    <td>2020-05-06T00:00:00Z</td>
+    <td><a href="https://scholia.toolforge.org/Q94589965">Cell entry mechanisms of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q94589965">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2003138117">10.1073/PNAS.2003138117</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-30T00:00:00Z</td>
+    <td><a href="https://scholia.toolforge.org/Q94470555">A SARS-CoV-2 protein interaction map reveals targets for drug repurposing</a> (<a href="http://www.wikidata.org/entity/Q94470555">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-020-2286-9">10.1038/S41586-020-2286-9</a></td>
+  </tr>
+  <tr>
     <td>2020-04-29T00:00:00Z</td>
     <td><a href="https://scholia.toolforge.org/Q94450568">An in-silico evaluation of different Saikosaponins for their potency against SARS-CoV-2 using NSP15 and fusion spike glycoprotein as targets</a> (<a href="http://www.wikidata.org/entity/Q94450568">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/07391102.2020.1762741">10.1080/07391102.2020.1762741</a></td>
@@ -134,6 +144,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-20T00:00:00Z</td>
     <td><a href="https://scholia.toolforge.org/Q88219766">Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors</a> (<a href="http://www.wikidata.org/entity/Q88219766">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABB3405">10.1126/SCIENCE.ABB3405</a></td>
+  </tr>
+  <tr>
+    <td>2020-03-20T00:00:00Z</td>
+    <td><a href="https://scholia.toolforge.org/Q88978164">The first-in-class peptide binder to the SARS-CoV-2 spike protein</a> (<a href="http://www.wikidata.org/entity/Q88978164">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.03.19.999318">10.1101/2020.03.19.999318</a></td>
   </tr>
   <tr>
     <td>2020-03-18T00:00:00Z</td>
@@ -224,6 +239,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-02-20T00:00:00Z</td>
     <td><a href="https://scholia.toolforge.org/Q88974655">Structure, function and antigenicity of the SARS-CoV-2 spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88974655">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.02.19.956581">10.1101/2020.02.19.956581</a></td>
+  </tr>
+  <tr>
+    <td>2020-02-20T00:00:00Z</td>
+    <td><a href="https://scholia.toolforge.org/Q93843827">Potential inhibitors against papain-like protease of novel coronavirus (SARS-CoV-2) from FDA approved drugs</a> (<a href="http://www.wikidata.org/entity/Q93843827">edit</a>)</td>
+    <td><a href="https://doi.org/10.26434/CHEMRXIV.11860011">10.26434/CHEMRXIV.11860011</a></td>
   </tr>
   <tr>
     <td>2020-02-17T00:00:00Z</td>

@@ -71,7 +71,7 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
     <td><a href="https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=3125">3125</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88200603">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
     <td>YP_009724391.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC3">P0DTC3</a></td>
     <td><a href="https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=3115">3115</a></td>
@@ -211,12 +211,6 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96022209">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q96022209">edit</a>)</td>
     <td>YP_009725318.1</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96022214">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q96022214">edit</a>)</td>
-    <td>YP_009724391.1</td>
     <td></td>
     <td></td>
   </tr>

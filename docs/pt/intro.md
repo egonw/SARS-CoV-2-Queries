@@ -6,7 +6,7 @@ O [Wikidata](https://wikidata.org/) é um recurso útidl da rede de dados conect
 O projeto [Wikicite](http://wikicite.org/) aceitou o desafio de colocar no Wikidata todas as publicações acadêmicas citadas na Wikipédia [<a href="#citeref3">3</a>]. Inspirado pelo
 [Scholia](https://scholia.toolforge.org/) [<a href="#citeref4">4</a>], este livro eletrônico recolhe uma série de buscas úteis para editores de revista e relevantes para a pandemia atual.
 
-## Agregar anotações faltantes sobre tópicos; 
+## Agregar anotações faltantes sobre tópicos 
 
 Ao ler o livro, encontrará muitas buscas que só são possíveis por outros trabalhos no Wikidata: do WikiProject COVID-19, de Wikicite, y  de esforços de muitos indivíduos por todo o mundo. Como o Wikidata é uma base de dados aberta, todos podem contribuir. Uma das formas mais fáceis é anotar artigos no Wikidata com 'tópicos principais'. O conteúd do capítulo sobre literatura, por exemplo, depende muito dissol. Se deseja ajudar, você pode começar buscando artigos mencionados nesse livro e anotando o tema principal, por exemplo.
 

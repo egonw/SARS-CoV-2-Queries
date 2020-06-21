@@ -224,7 +224,7 @@ SELECT DISTINCT ?virus ?virusLabel ?work ?workLabel WITH {
 ORDER BY ?virusLabel ?workLabel
 ```
 
-## ID de taxonomia de NCBI
+## ID de taxonomia do NCBI
 
 Para os coronavírus, podemos enumerar os identificadores do <a name="tp6">NCBI Taxonomy</a> [<a href="#citeref4">4</a>] com:
 

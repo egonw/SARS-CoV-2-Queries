@@ -30,35 +30,35 @@ Desejos, comentários e pull requests podem ser enviados a [este repositorio do 
 ## Conteúdos
 
 1. [Introdução](intro.md) <br />
-1.1. [Agregar anotação de tema faltante](intro.md#agregar-anotación-de-tema-faltante) <br />
-1.2. [Outras anotações](intro.md#otras-anotaciones) <br />
+1.1. [Agregar anotações faltantes sobre tópicos](intro.md#agregar-anotações-faltantes-sobre-tópicos) <br />
+1.2. [Outras anotações](intro.md#outras-anotações) <br />
 2. [Virus](viruses.md) <br />
-2.1. [Todos os coronavirus relacionados com o SARS](viruses.md#todos-los-coronavirus-relacionados-con-el-sars) <br />
-2.2. [Os sete coronavírus que infectam humanos](viruses.md#los-siete-coronavirus-que-infectan-a-los-humanos) <br />
-2.3. [Todos os betacoronavírus](viruses.md#todos-los-betacoronavirus) <br />
-2.4. [Todos os coronavírus](viruses.md#todos-los-coronavirus) <br />
-2.4.1. [Comparação de vírus](viruses.md#comparación-de-virus) <br />
+2.1. [Todos os coronavírus relacionados com a SARS](viruses.md#todo-os-coronavirus-relacionados-com-sars) <br />
+2.2. [Os sete coronavírus que infectam humanos](viruses.md#os-sete-coronavirus-que-infectam-humanos) <br />
+2.3. [Todos os betacoronavírus](viruses.md#todos-os-betacoronavirus) <br />
+2.4. [Todos os coronavírus](viruses.md#todos-os-coronavirus) <br />
+2.4.1. [Comparação de diferentes vírus](viruses.md#comparacao-de-virus) <br />
 2.5. [ID de taxonomia do NCBI](viruses.md#id-de-taxonomía-de-ncbi) <br />
 3. [COVID-19](covid.md) <br />
 3.1. [SARS-CoV-2](covid.md#sars-cov-2) <br />
-3.2. [Sintomas](covid.md#síntomas) <br />
-3.3. [Ensaios clínicos](covid.md#ensayos-clínicos) <br />
+3.2. [Sintomas](covid.md#sintomas) <br />
+3.3. [Ensaios clínicos](covid.md#ensaios-clínicos) <br />
 4. [A pandemia](pandemic.md) <br />
-4.1. [<topic>Transmissão</topic> do virus](pandemic.md#<topic>transmisión</topic>-de-virus) <br />
-4.2. [Progressão](pandemic.md#progresión) <br />
-4.3. [Progressão regional](pandemic.md#progresión-regional) <br />
-4.3.1. [Progressão nos Países Baixos](pandemic.md#progresión-en-los-países-bajos) <br />
-4.3.2. [Progresión en Italia](pandemic.md#progresión-en-italia) <br />
-4.3.3. [Progressão nos Estados Unidos](pandemic.md#progresión-en-los-estados-unidos) <br />
-4.4. [Progressão regional graficada](pandemic.md#progresión-regional-graficada) <br />
+4.1. [<a name="tp2">Transmissão</a> do vírus ](pandemic.md#transmissao-do-virus) <br />
+4.2. [Progressão](pandemic.md#progressao) <br />
+4.3. [Progressão regional](pandemic.md#progressao-regional) <br />
+4.3.1. [Progressão nos Países Baixos](pandemic.md#progressao-nos-países-baixos) <br />
+4.3.2. [progressão na Itália](pandemic.md#progressao-na-italia) <br />
+4.3.3. [Progressão nos Estados Unidos](pandemic.md#progressao-nos-estados-unidos) <br />
+4.4. [Progressão regional graficada](pandemic.md#progressao-regional-graficada) <br />
 4.4.1. [Casos](pandemic.md#casos) <br />
 4.4.2. [Falecidos](pandemic.md#fallecidos) <br />
-5. [Genomas, Genes y Proteínas](genes.md) <br />
+5. [Genomas, Genes e Proteínas](genes.md) <br />
 5.1. [Genomas](genes.md#genomas) <br />
 5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
 5.2.1. [Genes](genes.md#genes) <br />
 5.2.2. [Proteínas](genes.md#proteínas) <br />
-5.2.3. [Complejos proteicos](genes.md#complejos-proteicos) <br />
+5.2.3. [Complexos proteicos](genes.md#complejos-proteicos) <br />
 5.3. [Todos los virus relacionados con el SARS](genes.md#todos-los-virus-relacionados-con-el-sars) <br />
 5.3.1. [Todos los genes relacionados con el SARS](genes.md#todos-los-genes-relacionados-con-el-sars) <br />
 5.3.2. [Todos los proteínas relacionados con el SARS](genes.md#todos-los-proteínas-relacionados-con-el-sars) <br />
@@ -66,17 +66,17 @@ Desejos, comentários e pull requests podem ser enviados a [este repositorio do 
 5.4.1. [Todos los genes del coronavirus humano](genes.md#todos-los-genes-del-coronavirus-humano) <br />
 5.4.2. [Todos las proteínas del coronavirus humano](genes.md#todos-las-proteínas-del-coronavirus-humano) <br />
 6. [El humano](human.md) <br />
-6.1. [Genes y proteínas que interactúan](human.md#genes-y-proteínas-que-interactúan) <br />
-6.2. [Procesos biológicos](human.md#procesos-biológicos) <br />
-7. [Rumo a uma solução](solution.md) <br />
-7.1. [Anticuerpos](solution.md#anticuerpos) <br />
-7.2. [Reutilización de drogas](solution.md#reutilización-de-drogas) <br />
+6.1. [Genes e proteínas que interagem](human.md#genes-e-proteínas-que-interagem) <br />
+6.2. [Processos biológicos](human.md#processos-biológicos) <br />
+7. [Rumo a uma solução](solucao.md) <br />
+7.1. [Anticorpos](solution.md#anticorpos) <br />
+7.2. [Reuso de medicamentos](solution.md#reuso-de-medicamentos) <br />
 8. [Literatura](literature.md) <br />
 8.1. [Literatura sobre SARS-CoV-2](literature.md#literatura-sobre-sars-cov-2) <br />
-8.1.1. [Literatura sobre genes do SARS-CoV-2](literature.md#literatura-sobre-sars-cov-2-genes) <br />
-8.1.2. [Literatura sobre proteínas do SARS-CoV-2](literature.md#literatura-sobre-sars-cov-2-proteínas) <br />
-8.2. [Literatura sobre los coronavirus](literature.md#literatura-sobre-los-coronavirus) <br />
-8.2.1. [Literatura sobre los coronavirus humanos](literature.md#literatura-sobre-los-coronavirus-humanos) <br />
+8.1.1. [Literatura sobre genes do SARS-CoV-2](literature.md#literatura-sobre-genes-do-sars-cov-2) <br />
+8.1.2. [Literatura sobre proteínas do SARS-CoV-2](literature.md#literatura-sobre-proteinas-do-sars-cov-2) <br />
+8.2. [Literatura sobre os coronavirus](literature.md#literatura-sobre-os-coronavirus) <br />
+8.2.1. [Literatura sobre los coronavirus humanos](literature.md#literatura-sobre-os-coronavirus-humanos) <br />
 
 [Index](indexList.md) <br />
 

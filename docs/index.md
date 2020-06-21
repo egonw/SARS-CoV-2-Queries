@@ -1,4 +1,4 @@
-[ **en** [ja](ja/index.md) [nl](nl/index.md) [es](es/index.md)  ]
+[ **en** [ja](ja/index.md) [nl](nl/index.md) [es](es/index.md) [pt](pt/index.md)  ]
 
 <script type="application/ld+json">
 {

@@ -52,20 +52,20 @@ Desejos, comentários e pull requests podem ser enviados a [este repositorio do 
 4.3.3. [Progressão nos Estados Unidos](pandemic.md#progressao-nos-estados-unidos) <br />
 4.4. [Progressão regional graficada](pandemic.md#progressao-regional-graficada) <br />
 4.4.1. [Casos](pandemic.md#casos) <br />
-4.4.2. [Falecidos](pandemic.md#fallecidos) <br />
+4.4.2. [Falecidos](pandemic.md#falecidos) <br />
 5. [Genomas, Genes e Proteínas](genes.md) <br />
 5.1. [Genomas](genes.md#genomas) <br />
 5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
 5.2.1. [Genes](genes.md#genes) <br />
 5.2.2. [Proteínas](genes.md#proteínas) <br />
-5.2.3. [Complexos proteicos](genes.md#complejos-proteicos) <br />
-5.3. [Todos los virus relacionados con el SARS](genes.md#todos-los-virus-relacionados-con-el-sars) <br />
-5.3.1. [Todos los genes relacionados con el SARS](genes.md#todos-los-genes-relacionados-con-el-sars) <br />
-5.3.2. [Todos los proteínas relacionados con el SARS](genes.md#todos-los-proteínas-relacionados-con-el-sars) <br />
-5.4. [Todos los coronavirus humanos](genes.md#todos-los-coronavirus-humanos) <br />
-5.4.1. [Todos los genes del coronavirus humano](genes.md#todos-los-genes-del-coronavirus-humano) <br />
-5.4.2. [Todos las proteínas del coronavirus humano](genes.md#todos-las-proteínas-del-coronavirus-humano) <br />
-6. [El humano](human.md) <br />
+5.2.3. [Complexos proteicos](genes.md#complexos-proteicos) <br />
+5.3. [Todos os virus relacionados com o SARS](genes.md#todos-os-virus-relacionados-com-o-sars) <br />
+5.3.1. [Todos os genes relacionados com o SARS](genes.md#todos-os-genes-relacionados-com-o-sars) <br />
+5.3.2. [Todas as proteínas relacionadas com o SARS](genes.md#todas-as-proteínas-relacionadas-com-o-sars) <br />
+5.4. [Todos os coronavirus humanos](genes.md#todos-os-coronavirus-humanos) <br />
+5.4.1. [Todos os genes do coronavirus humano](genes.md#todos-os-genes-do-coronavirus-humano) <br />
+5.4.2. [Todos as proteínas do  coronavirus humano](genes.md#todos-las-proteínas-del-coronavirus-humano) <br />
+6. [O humano](human.md) <br />
 6.1. [Genes e proteínas que interagem](human.md#genes-e-proteínas-que-interagem) <br />
 6.2. [Processos biológicos](human.md#processos-biológicos) <br />
 7. [Rumo a uma solução](solucao.md) <br />

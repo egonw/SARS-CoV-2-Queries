@@ -359,12 +359,11 @@ O que nos dá essas proteínas:
   </tr>
 </table>
 
-### Complejos proteicos
+### Complexos proteicos
 
-Gracias al trabajo realizado por un equipo en el 
-[BioHackathon en línea en April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
-estructuras macromoleculares del [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<a href="#citeref1">1</a>]
-han estado entrando en Wikidata:
+Graças ao trabalho realizado por uma equipe no  [BioHackathon online em April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
+as estruturas macromoleculares do [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<a href="#citeref1">1</a>]
+foram inseridas no Wikidata:
 
 **SPARQL** [sparql/complexes.rq](sparql/complexes.code.html) ([executar](https://query.wikidata.org/embed.html#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A), [editar](https://query.wikidata.org/#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -376,7 +375,7 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
 }
 ```
 
-Listado de estos complejos:
+Lista destes complexos:
 
 <table>
   <tr>
@@ -429,9 +428,9 @@ Listado de estos complejos:
   </tr>
 </table>
 
-#### Estructuras PDB
+#### Estruturas do PDB
 
-Para las proteínas, podemos consultar las <a name="tp6">estructuras PDB</a> [<a href="#citeref2">2</a>]:
+Para as proteínas, podemos consultar as <a name="tp6">estruturas do PDB</a> [<a href="#citeref2">2</a>]:
 
 **SPARQL** [sparql/virusProteinsPDB.rq](sparql/virusProteinsPDB.code.html) ([executar](https://query.wikidata.org/embed.html#SELECT%20%3Fprotein%20%3FproteinLabel%20%3Frefseq%20%3Funiprot%20%3Fpdb%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fprotein%20wdt%3AP638%20%3Fpdb%20.%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP637%20%3Frefseq%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP352%20%3Funiprot%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A), [editar](https://query.wikidata.org/#SELECT%20%3Fprotein%20%3FproteinLabel%20%3Frefseq%20%3Funiprot%20%3Fpdb%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fprotein%20wdt%3AP638%20%3Fpdb%20.%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP637%20%3Frefseq%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP352%20%3Funiprot%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -445,7 +444,7 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?pdb WHERE {
 }
 ```
 
-Lo que nos da:
+O que nos dá:
 
 <table>
   <tr>
@@ -576,13 +575,14 @@ Lo que nos da:
   </tr>
 </table>
 
-## Todos los virus relacionados con el SARS
+## Todos os virus relacionados com o SARS
 
-Al igual que en la consulta anterior, también podemos solicitar todos los genes y proteínas de todos los virus relacionados con el SARS. Esto se hace con las siguientes consultas.
+Assim comoa a consulta anterior, também podemos buscar todos os genes e proteínas de todos os vírus relacionados com o SARS. Isso se faz com as seguintes consultas: 
 
-### Todos los genes relacionados con el SARS
 
-Todos los genes que obtenemos con:
+### Todos os genes relacionados com o SARS
+
+Todos os genes que obtemos com:
 
 **SPARQL** [sparql/virusGenesSARSr.rq](sparql/virusGenesSARSr.code.html) ([executar](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fgene%20%3FgeneLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ16000326%20%23%20SL-CoV-WIV1%0A%20%20%20%20wd%3AQ88162038%20%23%20Bat%20SARS%20coronavirus%20Rp1%0A%20%20%20%20wd%3AQ85939995%20%23%20SHC014-CoV%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ34967815%20%23%20SARS%20coronavirus%0A%20%20%20%20wd%3AQ85438966%20%23%20severe%20acute%20respiratory%20syndrome%20coronavirus%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARSr-CoV%20%2F%20SARS-CoV%0A%20%20%7D%0A%20%20%3Fgene%20wdt%3AP703%20%3Fvirus%20%3B%20wdt%3AP31%20wd%3AQ7187%20.%0A%20%20OPTIONAL%20%7B%20%3Fgene%20wdt%3AP351%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A), [editar](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fgene%20%3FgeneLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ16000326%20%23%20SL-CoV-WIV1%0A%20%20%20%20wd%3AQ88162038%20%23%20Bat%20SARS%20coronavirus%20Rp1%0A%20%20%20%20wd%3AQ85939995%20%23%20SHC014-CoV%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ34967815%20%23%20SARS%20coronavirus%0A%20%20%20%20wd%3AQ85438966%20%23%20severe%20acute%20respiratory%20syndrome%20coronavirus%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARSr-CoV%20%2F%20SARS-CoV%0A%20%20%7D%0A%20%20%3Fgene%20wdt%3AP703%20%3Fvirus%20%3B%20wdt%3AP31%20wd%3AQ7187%20.%0A%20%20OPTIONAL%20%7B%20%3Fgene%20wdt%3AP351%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -603,7 +603,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbi WHERE {
 }
 ```
 
-Que devuelve:
+Que devolve:
 
 <table>
   <tr>
@@ -1197,13 +1197,13 @@ Que retorna:
   </tr>
 </table>
 
-## Todos los coronavirus humanos
+## Todos os coronavirus humanos
 
-Al igual que en la consulta anterior, también podemos pedir todos los genes y proteínas. Esto se hace con las siguientes consultas.
+Como na busca anterior, também podemos pedir por todos os genes e proteínas. Isso se faz com as seguintes buscas:
 
-### Todos los genes del coronavirus humano
+### Todos os genes de coronavirus humano
 
-Todos los genes que obtenemos con:
+Todos os genes que obtemos são:
 
 **SPARQL** [sparql/virusGenesAll.rq](sparql/virusGenesAll.code.html) ([executar](https://query.wikidata.org/embed.html#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fgene%20%3FgeneLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20%3Fgene%20wdt%3AP703%20%3Fvirus%20%3B%20wdt%3AP31%20wd%3AQ7187%20.%0A%20%20OPTIONAL%20%7B%20%3Fgene%20wdt%3AP351%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A), [editar](https://query.wikidata.org/#SELECT%20%3Fvirus%20%3FvirusLabel%20%3Fgene%20%3FgeneLabel%20%3Fncbi%20WHERE%20%7B%0A%20%20VALUES%20%3Fvirus%20%7B%0A%20%20%20%20wd%3AQ82069695%20%23%20SARS-CoV-2%0A%20%20%20%20wd%3AQ16983360%20%23%20HKU1%0A%20%20%20%20wd%3AQ16991954%20%23%20OC43%0A%20%20%20%20wd%3AQ8351095%20%20%23%20NL63%20%0A%20%20%20%20wd%3AQ16983356%20%23%20229E%0A%20%20%20%20wd%3AQ4902157%20%20%23%20MERS-CoV%0A%20%20%20%20wd%3AQ278567%20%20%20%23%20SARS-CoV%0A%20%20%7D%0A%20%20%3Fgene%20wdt%3AP703%20%3Fvirus%20%3B%20wdt%3AP31%20wd%3AQ7187%20.%0A%20%20OPTIONAL%20%7B%20%3Fgene%20wdt%3AP351%20%3Fncbi%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -1224,7 +1224,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbi WHERE {
 }
 ```
 
-Que devuelve:
+Que devolve:
 
 <table>
   <tr>

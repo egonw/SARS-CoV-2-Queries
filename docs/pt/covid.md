@@ -1,0 +1,146 @@
+[ [en](../covid.md) [ja](../ja/covid.md) [pt](../human.md)  **pt**  ]
+
+# COVID-19
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "InfectiousDisease",
+  "name": "COVID-19"
+}
+</script>
+
+Este capítulo traz informações sobre a COVID-19.
+
+## SARS-CoV-2
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Taxon",
+  "name": "SARS-CoV-2",
+  "taxonRank": "species"
+}
+</script>
+
+<a name="tp1">COVID-19</a> é a doença causada pelo vírus SARS-CoV-2 <a name="tp2">SARS-CoV-2</a>.
+
+## Síntomas
+
+A consulta abaixo lista os sintomas, mas a fonte e a frequência desses sintomas estão delineadas na entrada Wikidata do COVID-19.
+
+De qualquer forma, uma visão geral aproximada dos sintomas pode ser listada com esta busca:
+
+**SPARQL** [sparql/symptoms.rq](sparql/symptoms.code.html) ([executar](https://query.wikidata.org/embed.html#SELECT%20%3Fsymptom%20%3FsymptomLabel%20WHERE%20%7B%0A%20%20wd%3AQ84263196%20wdt%3AP780%20%3Fsymptom%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A), [editar](https://query.wikidata.org/#SELECT%20%3Fsymptom%20%3FsymptomLabel%20WHERE%20%7B%0A%20%20wd%3AQ84263196%20wdt%3AP780%20%3Fsymptom%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%0A))
+
+```sparql
+SELECT ?symptom ?symptomLabel WHERE {
+  wd:Q84263196 wdt:P780 ?symptom .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en". }
+}
+```
+
+Lista destes sintomas:
+
+<table>
+  <tr>
+    <td><b>sintoma</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q86">dor de cabeça</a> (<a href="http://www.wikidata.org/entity/Q86">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q5445">anemia</a> (<a href="http://www.wikidata.org/entity/Q5445">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q9690">cansaço</a> (<a href="http://www.wikidata.org/entity/Q9690">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q35805">tosse</a> (<a href="http://www.wikidata.org/entity/Q35805">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q38933">febre</a> (<a href="http://www.wikidata.org/entity/Q38933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q40878">diarreia</a> (<a href="http://www.wikidata.org/entity/Q40878">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105688">hipóxia</a> (<a href="http://www.wikidata.org/entity/Q105688">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q167844">conjuntivite</a> (<a href="http://www.wikidata.org/entity/Q167844">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q183425">dor abdominal</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q186889">náusea</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q188008">disnea</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q254327">anorexia</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q344873">síndrome de dificuldade respiratória aguda</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q468433">anosmia</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q474959">mialgia</a> (<a href="http://www.wikidata.org/entity/Q474959">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q485831">linfopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q576349">encefalopatía</a> (<a href="http://www.wikidata.org/entity/Q576349">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q606216">ageusia</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q647099">hemoptise</a> (<a href="http://www.wikidata.org/entity/Q647099">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q767485">insuficiência respiratória</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q2260058">escalafrios</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q2603200">pneumonia viral</a> (<a href="http://www.wikidata.org/entity/Q2603200">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3245488">congestão nasal</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3508755">síndrome gripal</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
+  </tr>
+</table>
+
+<a name="sec:ensayos"></a>
+## Ensaios clínicos
+
+Apesar de não ser uma lista completa, <a name="tp3">ensaios clínicos</a> registrados em <a name="tp4">clinictrials.gov</a> estão chegando ao Wikidata. A consulta a seguir lista uma série de ensaios clínicos com COVID-19 como o tópico principal:
+
+**SPARQL** [sparql/clinicalTrials.rq](sparql/clinicalTrials.code.html) ([executar](https://query.wikidata.org/embed.html#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WHERE%20%7B%0A%20%20VALUES%20%3Ftopic%20%7B%0A%20%20%20%20wd%3AQ84263196%20wd%3AQ82069695%0A%20%20%7D%0A%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%0A), [editar](https://query.wikidata.org/#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WHERE%20%7B%0A%20%20VALUES%20%3Ftopic%20%7B%0A%20%20%20%20wd%3AQ84263196%20wd%3AQ82069695%0A%20%20%7D%0A%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%0A))
+
+```sparql
+SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?identifier WHERE {
+  VALUES ?topic {
+    wd:Q84263196 wd:Q82069695
+  }
+  ?trial wdt:P31 wd:Q30612 ;
+         wdt:P921 ?topic ;
+         wdt:P6099 ?phase ;
+         wdt:P3098 ?identifier .
+  OPTIONAL {
+    ?trial wdt:P4844 ?intervention .
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en". }
+} ORDER BY DESC(?identifier)
+```
+
+Esta lista tornou-se muito longa. Clique em um dos links acima para listá-los todos.

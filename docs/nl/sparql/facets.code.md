@@ -74,7 +74,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q87865677">Impact of the 2019-2020 Coronavirus pandemic on the internet</a> (<a href="http://www.wikidata.org/entity/Q87865677">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87866152">quarantine for the 2019-2020 coronavirus disease pandemic</a> (<a href="http://www.wikidata.org/entity/Q87866152">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87866152">COVID-19 pandemic lockdown</a> (<a href="http://www.wikidata.org/entity/Q87866152">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87898060">Impact of the 2019–20 coronavirus pandemic on religion</a> (<a href="http://www.wikidata.org/entity/Q87898060">edit</a>)</td>
@@ -143,7 +143,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q89966200">Pandemic predictions and preparations prior to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90085156">Impact of the 2019–20 coronavirus pandemic on the environment</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90085156">Impact of the COVID-19 pandemic on the environment</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
@@ -189,6 +189,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92600442">timeline of the 2019–20 coronavirus pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q94320820">Impact of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q94320820">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q94981621">Impact of the COVID-19 pandemic on healthcare workers</a> (<a href="http://www.wikidata.org/entity/Q94981621">edit</a>)</td>

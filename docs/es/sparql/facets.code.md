@@ -119,7 +119,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q89016387">timeline of the 2019–20 coronavirus pandemic in April 2020</a> (<a href="http://www.wikidata.org/entity/Q89016387">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q89031984">cancelled music event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89031984">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89031984">evento cancelado por la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q89031984">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89033277">postponed sports event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89033277">edit</a>)</td>
@@ -189,6 +189,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92600442">timeline of the 2019–20 coronavirus pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q94320820">Impact of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q94320820">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q94981621">Impact of the COVID-19 pandemic on healthcare workers</a> (<a href="http://www.wikidata.org/entity/Q94981621">edit</a>)</td>

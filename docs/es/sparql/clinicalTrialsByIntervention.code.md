@@ -27,15 +27,15 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>42</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q422438">Cloroquina</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td>14</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td>14</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q422438">Cloroquina</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>6</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q57055">paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
@@ -59,15 +59,15 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q188269">interferón</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q207843">óxido nítrico</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q57055">paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q188269">interferón</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
@@ -167,6 +167,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q422212">Budesonida</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q203174">talidomida</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
     <td>2</td>
   </tr>
@@ -183,8 +187,36 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422212">Budesonida</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
-    <td>2</td>
+    <td><a href="https://scholia.toolforge.org/Q159683">ácido cítrico</a> (<a href="http://www.wikidata.org/entity/Q159683">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q409728">citrato de trisodio</a> (<a href="http://www.wikidata.org/entity/Q409728">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q27126379">sildenafil citrate</a> (<a href="http://www.wikidata.org/entity/Q27126379">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q211509">Oseltamivir</a> (<a href="http://www.wikidata.org/entity/Q211509">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3765251">Darunavir</a> (<a href="http://www.wikidata.org/entity/Q3765251">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q420360">Fentolamina</a> (<a href="http://www.wikidata.org/entity/Q420360">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3836750">Lopinavir/ritonavir</a> (<a href="http://www.wikidata.org/entity/Q3836750">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td>1</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q1215575">naproxeno</a> (<a href="http://www.wikidata.org/entity/Q1215575">edit</a>)</td>
@@ -235,6 +267,18 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q668093">Atorvastatina</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q417097">levamisol</a> (<a href="http://www.wikidata.org/entity/Q417097">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q239778">Bromhexina</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
     <td>1</td>
   </tr>
@@ -248,50 +292,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q66559285">immunoglobulin</a> (<a href="http://www.wikidata.org/entity/Q66559285">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q159683">ácido cítrico</a> (<a href="http://www.wikidata.org/entity/Q159683">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q409728">citrato de trisodio</a> (<a href="http://www.wikidata.org/entity/Q409728">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27126379">sildenafil citrate</a> (<a href="http://www.wikidata.org/entity/Q27126379">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q211509">Oseltamivir</a> (<a href="http://www.wikidata.org/entity/Q211509">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3765251">Darunavir</a> (<a href="http://www.wikidata.org/entity/Q3765251">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q420360">Fentolamina</a> (<a href="http://www.wikidata.org/entity/Q420360">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3836750">Lopinavir/ritonavir</a> (<a href="http://www.wikidata.org/entity/Q3836750">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q668093">Atorvastatina</a> (<a href="http://www.wikidata.org/entity/Q668093">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q417097">levamisol</a> (<a href="http://www.wikidata.org/entity/Q417097">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27132391">formoterol fumarate</a> (<a href="http://www.wikidata.org/entity/Q27132391">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

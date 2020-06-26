@@ -240,6 +240,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td>8385440</td>
   </tr>
   <tr>
+    <td>2020-06-20T00:00:00Z</td>
+    <td>8525042</td>
+  </tr>
+  <tr>
+    <td>2020-06-21T00:00:00Z</td>
+    <td>8708008</td>
+  </tr>
+  <tr>
     <td>2020-01-28T00:00:00Z</td>
     <td>4596</td>
   </tr>

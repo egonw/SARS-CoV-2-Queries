@@ -1,3 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "inLanguage": "ja-JP",
+  "name": "SARS-CoV-2ウイルス及びパンデミックに関するWikidataのクエリ集",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear": "2020",
+  "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
+}
+</script>
 # SARS-CoV-2ウイルス及びパンデミックに関するWikidataのクエリ集
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen

@@ -28,6 +28,19 @@ literature for reading, not to draw conclusions from:
 
 <out limit="15">antibodies</out>
 
+## Vaccines
+
+In time, we may have a vaccine that could provide us with a level of immunity
+to protect us against SARS-CoV-2. Several vaccines-candidates are being
+studied right now [<cite>Q91131712</cite>].
+We can list the vaccines given in Wikidata with this query:
+
+<sparql>vaccines</sparql>
+
+It currently list not many:
+
+<out limit="15">vaccines</out>
+
 ## Drug repurposing
 
 The Section <xref>trials</xref> already listed an overview of clinical trials.

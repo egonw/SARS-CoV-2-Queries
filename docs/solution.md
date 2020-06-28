@@ -137,6 +137,37 @@ literature for reading, not to draw conclusions from:
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/antibodies.code.html">sparql/antibodies.rq</a></td></tr>
 </table>
 
+## Vaccines
+
+In time, we may have a vaccine that could provide us with a level of immunity
+to protect us against SARS-CoV-2. Several vaccines-candidates are being
+studied right now [<a href="#citeref2">2</a>].
+We can list the vaccines given in Wikidata with this query:
+
+**SPARQL** [sparql/vaccines.rq](sparql/vaccines.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fvaccine%20%3FvaccineLabel%20%3Ffor%20%3FforLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Ffor%20%7B%20wd%3AQ84263196%20%7D%0A%20%20%3Fvaccine%20wdt%3AP31%20wd%3AQ134808%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP1924%20%3Ffor%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fvaccine%20%3FvaccineLabel%20%3Ffor%20%3FforLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Ffor%20%7B%20wd%3AQ84263196%20%7D%0A%20%20%3Fvaccine%20wdt%3AP31%20wd%3AQ134808%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP1924%20%3Ffor%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%0A))
+
+```sparql
+SELECT ?vaccine ?vaccineLabel ?for ?forLabel WHERE {
+  VALUES ?for { wd:Q84263196 }
+  ?vaccine wdt:P31 wd:Q134808 ;
+           wdt:P1924 ?for .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?vaccine)
+```
+
+It currently list not many:
+
+<table>
+  <tr>
+    <td><b>vaccine</b></td>
+    <td><b>for</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+  </tr>
+</table>
+
 ## Drug repurposing
 
 The Section [3.3](covid.md#sec:trials) already listed an overview of clinical trials.
@@ -186,11 +217,11 @@ This gives:
     <td>14</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
@@ -206,14 +237,6 @@ This gives:
     <td>6</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q188269">interferon</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
     <td>4</td>
   </tr>
@@ -222,7 +245,15 @@ This gives:
     <td>4</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q57055">acetaminophen</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
@@ -239,5 +270,6 @@ of success.
 ## References
 
 1. <a name="citeref1"></a>Lu S, Lu S. Timely development of vaccines against SARS-CoV-2. Emerging microbes & infections. 2020 Mar 8;9(1):542–4.  doi:[10.1080/22221751.2020.1737580](https://doi.org/10.1080/22221751.2020.1737580) ([Scholia](https://scholia.toolforge.org/doi/10.1080/22221751.2020.1737580))
+2. <a name="citeref2"></a>Le TT, Andreadakis Z, Kumar A, Román RG, Tollefsen S, Saville M, et al. The COVID-19 vaccine development landscape. Nat Rev Drug Discov. 2020 Apr 9;  doi:[10.1038/D41573-020-00073-5](https://doi.org/10.1038/D41573-020-00073-5) ([Scholia](https://scholia.toolforge.org/doi/10.1038/D41573-020-00073-5))
 
 

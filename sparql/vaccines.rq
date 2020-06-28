@@ -1,0 +1,6 @@
+SELECT ?vaccine ?vaccineLabel ?for ?forLabel WHERE {
+  VALUES ?for { wd:Q84263196 }
+  ?vaccine wdt:P31 wd:Q134808 ;
+           wdt:P1924 ?for .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?vaccine)

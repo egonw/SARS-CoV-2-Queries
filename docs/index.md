@@ -76,7 +76,8 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 6.2. [Biological processes](human.md#biological-processes) <br />
 7. [Towards a solution](solution.md) <br />
 7.1. [Antibodies](solution.md#antibodies) <br />
-7.2. [Drug repurposing](solution.md#drug-repurposing) <br />
+7.2. [Vaccines](solution.md#vaccines) <br />
+7.3. [Drug repurposing](solution.md#drug-repurposing) <br />
 8. [Literature](literature.md) <br />
 8.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
 8.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />

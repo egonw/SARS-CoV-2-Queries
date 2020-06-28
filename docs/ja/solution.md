@@ -180,11 +180,11 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>14</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422438">クロロキン</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">リトナビル</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422618">リトナビル</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">クロロキン</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
     <td>14</td>
   </tr>
   <tr>
@@ -192,12 +192,20 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>12</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td>11</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q425154">トシリズマブ</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
     <td>6</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q410074">ロサルタン</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td>4</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q188269">インターフェロン</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
@@ -208,15 +216,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q57055">パラセタモール</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">ロサルタン</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>

@@ -455,7 +455,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435627">Treatment of COVID-19 Patients With Anti-interleukin Drugs</a> (<a href="http://www.wikidata.org/entity/Q89435627">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q415411">Anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q415411">anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">fase 4 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04330638</td>
   </tr>
@@ -977,13 +977,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154305">Efficacy and Safety of Emapalumab and Anakinra in Reducing Hyperinflammation and Respiratory Distress in Patients With COVID-19 Infection.</a> (<a href="http://www.wikidata.org/entity/Q89154305">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q415411">Anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q415411">anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04324021</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154305">Efficacy and Safety of Emapalumab and Anakinra in Reducing Hyperinflammation and Respiratory Distress in Patients With COVID-19 Infection.</a> (<a href="http://www.wikidata.org/entity/Q89154305">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q415411">Anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q415411">anakinra</a> (<a href="http://www.wikidata.org/entity/Q415411">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">fase 3 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04324021</td>
   </tr>

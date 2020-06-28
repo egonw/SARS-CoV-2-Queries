@@ -1547,7 +1547,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87078390">Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87078390">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04292899</td>
   </tr>
@@ -1583,13 +1583,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824069">第I相試験</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
@@ -1643,19 +1643,19 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87076197">Fingolimod in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87076197">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04280588</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04278963</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04278963</td>
   </tr>
@@ -1691,7 +1691,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q86273774">The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86273774">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">2019新型コロナウイルスによる急性呼吸器疾患</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04273581</td>
   </tr>

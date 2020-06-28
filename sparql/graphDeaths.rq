@@ -1,7 +1,7 @@
 #defaultView:LineChart
 SELECT
 ?deathsPointInTime ?deaths
-?countryLabel
+?country ?countryLabel
 WHERE {
   ?item wdt:P31 wd:Q3241045.
   ?item wdt:P17 ?country.
@@ -12,4 +12,4 @@ WHERE {
   { ?item wdt:P1269 wd:Q81068910. } UNION
   { ?item wdt:P361 wd:Q83741704. }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-} ORDER BY ASC(?countryLabel)
+} ORDER BY ASC(?countryLabel) DESC(??deathsPointInTime)

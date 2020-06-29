@@ -132,6 +132,45 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/antibodies.code.html">sparql/antibodies.rq</a></td></tr>
 </table>
 
+## ワクチン
+
+いつかは、SARS-CoV-2から我々を守ってくれるワクチンが得られるかもしれません。
+現時点で幾つかの候補が研究されています[<a href="#citeref2">2</a>]。
+それらのうち、Wikidataに収められているものを以下のクエリで取得できます。
+
+**SPARQL** [sparql/vaccines.rq](sparql/vaccines.code.html) ([実行](https://query.wikidata.org/embed.html#SELECT%20%3Fvaccine%20%3FvaccineLabel%20%3Ftype%20%3FtypeLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Ffor%20%7B%20wd%3AQ84263196%20%7D%0A%20%20%3Fvaccine%20wdt%3AP31%20%2F%20wdt%3AP279%3F%20wd%3AQ134808%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP1924%20%3Ffor%20.%0A%20%20%3Fvaccine%20wdt%3AP31%20%3Ftype%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%0A), [編集](https://query.wikidata.org/#SELECT%20%3Fvaccine%20%3FvaccineLabel%20%3Ftype%20%3FtypeLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Ffor%20%7B%20wd%3AQ84263196%20%7D%0A%20%20%3Fvaccine%20wdt%3AP31%20%2F%20wdt%3AP279%3F%20wd%3AQ134808%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP1924%20%3Ffor%20.%0A%20%20%3Fvaccine%20wdt%3AP31%20%3Ftype%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%0A))
+
+```sparql
+SELECT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
+  VALUES ?for { wd:Q84263196 }
+  ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
+           wdt:P1924 ?for .
+  ?vaccine wdt:P31 ?type .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?vaccine)
+```
+
+現状ではそれほど多くありません。
+
+<table>
+  <tr>
+    <td><b>vaccine</b></td>
+    <td><b>type</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96695067">mRNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q96695067">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q134808">vaccine</a> (<a href="http://www.wikidata.org/entity/Q134808">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96695266">INO-4800</a> (<a href="http://www.wikidata.org/entity/Q96695266">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q134808">vaccine</a> (<a href="http://www.wikidata.org/entity/Q134808">edit</a>)</td>
+  </tr>
+</table>
+
 ## 既存薬再開発
 
 [3.3](covid.md#sec:trials)章で既に臨床試験の概要を取得しました。
@@ -232,4 +271,5 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
 ## 参考文献
 
 1. <a name="citeref1"></a>Lu S, Lu S. Timely development of vaccines against SARS-CoV-2. Emerging microbes & infections. 2020 Mar 8;9(1):542–4.  doi:[10.1080/22221751.2020.1737580](https://doi.org/10.1080/22221751.2020.1737580) ([Scholia](https://scholia.toolforge.org/doi/10.1080/22221751.2020.1737580))
+2. <a name="citeref2"></a>Le TT, Andreadakis Z, Kumar A, Román RG, Tollefsen S, Saville M, et al. The COVID-19 vaccine development landscape. Nat Rev Drug Discov. 2020 Apr 9;  doi:[10.1038/D41573-020-00073-5](https://doi.org/10.1038/D41573-020-00073-5) ([Scholia](https://scholia.toolforge.org/doi/10.1038/D41573-020-00073-5))
 

@@ -23,6 +23,18 @@ SARS-CoV-2の問題に対して現状では解決方法がありません。
 
 <out limit="15">antibodies</out>
 
+## ワクチン
+
+いつかは、SARS-CoV-2から我々を守ってくれるワクチンが得られるかもしれません。
+現時点で幾つかの候補が研究されています[<cite>Q91131712</cite>]。
+それらのうち、Wikidataに収められているものを以下のクエリで取得できます。
+
+<sparql>vaccines</sparql>
+
+現状ではそれほど多くありません。
+
+<out limit="15">vaccines</out>
+
 ## 既存薬再開発
 
 <xref>trials</xref>章で既に臨床試験の概要を取得しました。

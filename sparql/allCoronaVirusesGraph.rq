@@ -4,4 +4,4 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   ?virus wdt:P171 ?parent .
   OPTIONAL { ?virus wdt:P685 ?ncbi }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-}
+} ORDER BY ASC(?parent) ASC(?virus)

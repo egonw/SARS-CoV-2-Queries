@@ -24,19 +24,19 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q421094">hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td>42</td>
+    <td>43</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>

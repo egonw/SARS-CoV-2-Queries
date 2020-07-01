@@ -24,19 +24,19 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td>42</td>
+    <td>43</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td>14</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td>14</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
@@ -51,6 +51,14 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>6</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q410074">Losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q188269">Interferon</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
     <td>4</td>
   </tr>
@@ -59,15 +67,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q57055">Paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
@@ -99,14 +99,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q193598">Ascorbinezuur</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td>3</td>
   </tr>
@@ -115,24 +107,20 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q193598">Ascorbinezuur</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q7041828">nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q165399">Azithromycine</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
     <td>3</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q203174">Thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q28209496">Remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
-    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q21057316">coal tar pitch volatiles</a> (<a href="http://www.wikidata.org/entity/Q21057316">edit</a>)</td>
@@ -183,56 +171,20 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422212">Budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q203174">Thalidomide</a> (<a href="http://www.wikidata.org/entity/Q203174">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q239778">Broomhexine</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q413299">bevacizumab</a> (<a href="http://www.wikidata.org/entity/Q413299">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q576104">pasgeborene</a> (<a href="http://www.wikidata.org/entity/Q576104">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q28209496">Remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q27132395">fingolimod hydrochloride</a> (<a href="http://www.wikidata.org/entity/Q27132395">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q66559285">Immunoglobuline</a> (<a href="http://www.wikidata.org/entity/Q66559285">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q159683">citroenzuur</a> (<a href="http://www.wikidata.org/entity/Q159683">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q409728">Trinatriumcitraat</a> (<a href="http://www.wikidata.org/entity/Q409728">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27126379">sildenafil citrate</a> (<a href="http://www.wikidata.org/entity/Q27126379">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q211509">Oseltamivir</a> (<a href="http://www.wikidata.org/entity/Q211509">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3765251">Darunavir</a> (<a href="http://www.wikidata.org/entity/Q3765251">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q420360">Phentolamine</a> (<a href="http://www.wikidata.org/entity/Q420360">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3836750">Lopinavir/ritonavir</a> (<a href="http://www.wikidata.org/entity/Q3836750">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q422212">Budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q1215575">naproxen</a> (<a href="http://www.wikidata.org/entity/Q1215575">edit</a>)</td>
@@ -280,6 +232,54 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q27088384">piclidenoson</a> (<a href="http://www.wikidata.org/entity/Q27088384">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q239778">Broomhexine</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q576104">pasgeborene</a> (<a href="http://www.wikidata.org/entity/Q576104">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q27132395">fingolimod hydrochloride</a> (<a href="http://www.wikidata.org/entity/Q27132395">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q66559285">Immunoglobuline</a> (<a href="http://www.wikidata.org/entity/Q66559285">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q159683">citroenzuur</a> (<a href="http://www.wikidata.org/entity/Q159683">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q409728">Trinatriumcitraat</a> (<a href="http://www.wikidata.org/entity/Q409728">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q27126379">sildenafil citrate</a> (<a href="http://www.wikidata.org/entity/Q27126379">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q211509">Oseltamivir</a> (<a href="http://www.wikidata.org/entity/Q211509">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3765251">Darunavir</a> (<a href="http://www.wikidata.org/entity/Q3765251">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q420360">Phentolamine</a> (<a href="http://www.wikidata.org/entity/Q420360">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3836750">Lopinavir/ritonavir</a> (<a href="http://www.wikidata.org/entity/Q3836750">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

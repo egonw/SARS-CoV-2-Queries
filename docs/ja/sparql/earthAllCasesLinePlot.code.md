@@ -108,16 +108,16 @@ SELECT ?date ?numberOfCases WHERE {
     <td>4525497</td>
   </tr>
   <tr>
-    <td>2020-05-18</td>
-    <td>4618821</td>
-  </tr>
-  <tr>
     <td>2020-05-20</td>
     <td>4789205</td>
   </tr>
   <tr>
     <td>2020-05-19</td>
     <td>4731458</td>
+  </tr>
+  <tr>
+    <td>2020-05-18</td>
+    <td>4618821</td>
   </tr>
   <tr>
     <td>2020-05-23</td>
@@ -144,16 +144,12 @@ SELECT ?date ?numberOfCases WHERE {
     <td>5404512</td>
   </tr>
   <tr>
-    <td>2020-05-28</td>
-    <td>5593631</td>
-  </tr>
-  <tr>
     <td>2020-05-27</td>
     <td>5488825</td>
   </tr>
   <tr>
-    <td>2020-05-29</td>
-    <td>5701337</td>
+    <td>2020-05-28</td>
+    <td>5593631</td>
   </tr>
   <tr>
     <td>2020-05-30</td>
@@ -162,6 +158,10 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-05-31</td>
     <td>5934936</td>
+  </tr>
+  <tr>
+    <td>2020-05-29</td>
+    <td>5701337</td>
   </tr>
   <tr>
     <td>2020-06-02</td>
@@ -246,6 +246,38 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-06-21</td>
     <td>8708008</td>
+  </tr>
+  <tr>
+    <td>2020-06-22</td>
+    <td>8860331</td>
+  </tr>
+  <tr>
+    <td>2020-06-23</td>
+    <td>8993659</td>
+  </tr>
+  <tr>
+    <td>2020-06-24</td>
+    <td>9129146</td>
+  </tr>
+  <tr>
+    <td>2020-06-25</td>
+    <td>9296202</td>
+  </tr>
+  <tr>
+    <td>2020-06-26</td>
+    <td>9473214</td>
+  </tr>
+  <tr>
+    <td>2020-06-27</td>
+    <td>9653048</td>
+  </tr>
+  <tr>
+    <td>2020-06-28</td>
+    <td>9843073</td>
+  </tr>
+  <tr>
+    <td>2020-06-29</td>
+    <td>10021401</td>
   </tr>
   <tr>
     <td>2020-01-28</td>

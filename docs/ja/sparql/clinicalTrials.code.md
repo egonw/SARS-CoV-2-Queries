@@ -28,6 +28,54 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><b>identifier</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q421094">ヒドロキシクロロキン</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q421094">ヒドロキシクロロキン</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">クロロキン</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">クロロキン</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422585">ロピナビル</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422585">ロピナビル</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">リトナビル</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">リトナビル</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q95719961">Dose-Confirmation Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1273 COVID-19 Vaccine in Adults Aged 18 Years and Older</a> (<a href="http://www.wikidata.org/entity/Q95719961">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>

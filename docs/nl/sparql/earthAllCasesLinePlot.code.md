@@ -8,9 +8,9 @@ SELECT ?date ?numberOfCases WHERE {
   ?numberOfCasesStat ps:P1603 ?numberOfCases ;
                      pq:P585 ?date .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "nl,en". }
-}
+} ORDER BY ASC(?date)
 ```
-[uitvoeren](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A) of [bewerken](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%0A)
+[uitvoeren](https://query.wikidata.org/embed.html#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A) of [bewerken](https://query.wikidata.org/#%23defaultView%3ALineChart%0ASELECT%20%3Fdate%20%3FnumberOfCases%20WHERE%20%7B%0A%20%20wd%3AQ81068910%20p%3AP1603%20%3FnumberOfCasesStat%20.%0A%20%20%3FnumberOfCasesStat%20ps%3AP1603%20%3FnumberOfCases%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pq%3AP585%20%3Fdate%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fdate%29%0A)
 
 
 ### Resultaten
@@ -20,72 +20,124 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>2020-01-28</td>
-    <td>4596</td>
+    <td>2020-01-20</td>
+    <td>282</td>
   </tr>
   <tr>
-    <td>2020-02-03</td>
-    <td>17391</td>
-  </tr>
-  <tr>
-    <td>2020-02-15</td>
-    <td>67102</td>
-  </tr>
-  <tr>
-    <td>2020-01-26</td>
-    <td>2014</td>
-  </tr>
-  <tr>
-    <td>2020-01-31</td>
-    <td>9826</td>
-  </tr>
-  <tr>
-    <td>2020-01-30</td>
-    <td>7818</td>
-  </tr>
-  <tr>
-    <td>2020-02-01</td>
-    <td>11953</td>
-  </tr>
-  <tr>
-    <td>2020-02-25</td>
-    <td>80239</td>
-  </tr>
-  <tr>
-    <td>2020-02-14</td>
-    <td>64437</td>
-  </tr>
-  <tr>
-    <td>2020-02-16</td>
-    <td>69267</td>
-  </tr>
-  <tr>
-    <td>2020-02-13</td>
-    <td>46997</td>
-  </tr>
-  <tr>
-    <td>2020-02-11</td>
-    <td>43103</td>
+    <td>2020-01-21</td>
+    <td>314</td>
   </tr>
   <tr>
     <td>2020-01-23</td>
     <td>581</td>
   </tr>
   <tr>
-    <td>2020-02-22</td>
-    <td>77794</td>
+    <td>2020-01-24</td>
+    <td>846</td>
+  </tr>
+  <tr>
+    <td>2020-01-25</td>
+    <td>1320</td>
+  </tr>
+  <tr>
+    <td>2020-01-26</td>
+    <td>2014</td>
+  </tr>
+  <tr>
+    <td>2020-01-27</td>
+    <td>2798</td>
+  </tr>
+  <tr>
+    <td>2020-01-28</td>
+    <td>4596</td>
+  </tr>
+  <tr>
+    <td>2020-01-29</td>
+    <td>6065</td>
+  </tr>
+  <tr>
+    <td>2020-01-30</td>
+    <td>7818</td>
+  </tr>
+  <tr>
+    <td>2020-01-31</td>
+    <td>9826</td>
+  </tr>
+  <tr>
+    <td>2020-02-01</td>
+    <td>11953</td>
   </tr>
   <tr>
     <td>2020-02-02</td>
     <td>14557</td>
   </tr>
   <tr>
-    <td>2020-02-21</td>
-    <td>76769</td>
+    <td>2020-02-03</td>
+    <td>17391</td>
   </tr>
   <tr>
-    <td>2020-02-29</td>
-    <td>85403</td>
+    <td>2020-02-04</td>
+    <td>20630</td>
+  </tr>
+  <tr>
+    <td>2020-02-05</td>
+    <td>24554</td>
+  </tr>
+  <tr>
+    <td>2020-02-06</td>
+    <td>28276</td>
+  </tr>
+  <tr>
+    <td>2020-02-07</td>
+    <td>31481</td>
+  </tr>
+  <tr>
+    <td>2020-02-08</td>
+    <td>34886</td>
+  </tr>
+  <tr>
+    <td>2020-02-09</td>
+    <td>37558</td>
+  </tr>
+  <tr>
+    <td>2020-02-10</td>
+    <td>40554</td>
+  </tr>
+  <tr>
+    <td>2020-02-11</td>
+    <td>43103</td>
+  </tr>
+  <tr>
+    <td>2020-02-12</td>
+    <td>45171</td>
+  </tr>
+  <tr>
+    <td>2020-02-13</td>
+    <td>46997</td>
+  </tr>
+  <tr>
+    <td>2020-02-13</td>
+    <td>60329</td>
+  </tr>
+  <tr>
+    <td>2020-02-14</td>
+    <td>64437</td>
+  </tr>
+  <tr>
+    <td>2020-02-14</td>
+    <td>49053</td>
+  </tr>
+  <tr>
+    <td>2020-02-15</td>
+    <td>67102</td>
+  </tr>
+  <tr>
+    <td>2020-02-15</td>
+    <td>50580</td>
+  </tr>
+  <tr>
+    <td>2020-02-16</td>
+    <td>69267</td>
   </tr>
   <tr>
     <td>2020-02-16</td>
@@ -96,68 +148,24 @@ SELECT ?date ?numberOfCases WHERE {
     <td>71429</td>
   </tr>
   <tr>
-    <td>2020-02-05</td>
-    <td>24554</td>
-  </tr>
-  <tr>
-    <td>2020-01-25</td>
-    <td>1320</td>
-  </tr>
-  <tr>
-    <td>2020-02-26</td>
-    <td>81109</td>
-  </tr>
-  <tr>
     <td>2020-02-18</td>
     <td>73332</td>
-  </tr>
-  <tr>
-    <td>2020-03-02</td>
-    <td>88948</td>
-  </tr>
-  <tr>
-    <td>2020-02-28</td>
-    <td>83652</td>
-  </tr>
-  <tr>
-    <td>2020-02-04</td>
-    <td>20630</td>
-  </tr>
-  <tr>
-    <td>2020-02-20</td>
-    <td>75748</td>
-  </tr>
-  <tr>
-    <td>2020-02-15</td>
-    <td>50580</td>
-  </tr>
-  <tr>
-    <td>2020-01-20</td>
-    <td>282</td>
-  </tr>
-  <tr>
-    <td>2020-01-29</td>
-    <td>6065</td>
-  </tr>
-  <tr>
-    <td>2020-01-24</td>
-    <td>846</td>
   </tr>
   <tr>
     <td>2020-02-19</td>
     <td>75204</td>
   </tr>
   <tr>
-    <td>2020-02-27</td>
-    <td>82294</td>
+    <td>2020-02-20</td>
+    <td>75748</td>
   </tr>
   <tr>
-    <td>2020-02-13</td>
-    <td>60329</td>
+    <td>2020-02-21</td>
+    <td>76769</td>
   </tr>
   <tr>
-    <td>2020-02-07</td>
-    <td>31481</td>
+    <td>2020-02-22</td>
+    <td>77794</td>
   </tr>
   <tr>
     <td>2020-02-23</td>
@@ -168,88 +176,92 @@ SELECT ?date ?numberOfCases WHERE {
     <td>79331</td>
   </tr>
   <tr>
-    <td>2020-01-21</td>
-    <td>314</td>
+    <td>2020-02-25</td>
+    <td>80239</td>
   </tr>
   <tr>
-    <td>2020-02-12</td>
-    <td>45171</td>
+    <td>2020-02-26</td>
+    <td>81109</td>
   </tr>
   <tr>
-    <td>2020-02-14</td>
-    <td>49053</td>
+    <td>2020-02-27</td>
+    <td>82294</td>
   </tr>
   <tr>
-    <td>2020-02-08</td>
-    <td>34886</td>
+    <td>2020-02-28</td>
+    <td>83652</td>
   </tr>
   <tr>
-    <td>2020-02-10</td>
-    <td>40554</td>
-  </tr>
-  <tr>
-    <td>2020-01-27</td>
-    <td>2798</td>
-  </tr>
-  <tr>
-    <td>2020-02-06</td>
-    <td>28276</td>
-  </tr>
-  <tr>
-    <td>2020-02-09</td>
-    <td>37558</td>
+    <td>2020-02-29</td>
+    <td>85403</td>
   </tr>
   <tr>
     <td>2020-03-01</td>
     <td>87137</td>
   </tr>
   <tr>
-    <td>2020-03-12</td>
-    <td>125048</td>
-  </tr>
-  <tr>
-    <td>2020-03-04</td>
-    <td>93090</td>
+    <td>2020-03-02</td>
+    <td>88948</td>
   </tr>
   <tr>
     <td>2020-03-03</td>
     <td>90869</td>
   </tr>
   <tr>
-    <td>2020-03-17</td>
-    <td>179112</td>
-  </tr>
-  <tr>
-    <td>2020-03-22</td>
-    <td>292142</td>
-  </tr>
-  <tr>
-    <td>2020-03-08</td>
-    <td>105586</td>
+    <td>2020-03-04</td>
+    <td>93090</td>
   </tr>
   <tr>
     <td>2020-03-05</td>
     <td>95333</td>
   </tr>
   <tr>
-    <td>2020-03-11</td>
-    <td>118326</td>
+    <td>2020-03-06</td>
+    <td>98192</td>
   </tr>
   <tr>
     <td>2020-03-07</td>
     <td>101927</td>
   </tr>
   <tr>
+    <td>2020-03-08</td>
+    <td>105586</td>
+  </tr>
+  <tr>
+    <td>2020-03-09</td>
+    <td>109578</td>
+  </tr>
+  <tr>
+    <td>2020-03-10</td>
+    <td>113702</td>
+  </tr>
+  <tr>
+    <td>2020-03-11</td>
+    <td>118326</td>
+  </tr>
+  <tr>
+    <td>2020-03-12</td>
+    <td>125048</td>
+  </tr>
+  <tr>
     <td>2020-03-13</td>
     <td>132758</td>
+  </tr>
+  <tr>
+    <td>2020-03-14</td>
+    <td>142539</td>
   </tr>
   <tr>
     <td>2020-03-15</td>
     <td>153517</td>
   </tr>
   <tr>
-    <td>2020-03-09</td>
-    <td>109578</td>
+    <td>2020-03-16</td>
+    <td>167511</td>
+  </tr>
+  <tr>
+    <td>2020-03-17</td>
+    <td>179112</td>
   </tr>
   <tr>
     <td>2020-03-18</td>
@@ -260,32 +272,36 @@ SELECT ?date ?numberOfCases WHERE {
     <td>209839</td>
   </tr>
   <tr>
-    <td>2020-03-14</td>
-    <td>142539</td>
-  </tr>
-  <tr>
-    <td>2020-03-16</td>
-    <td>167511</td>
+    <td>2020-03-20</td>
+    <td>234073</td>
   </tr>
   <tr>
     <td>2020-03-21</td>
     <td>266073</td>
   </tr>
   <tr>
-    <td>2020-03-10</td>
-    <td>113702</td>
+    <td>2020-03-22</td>
+    <td>292142</td>
   </tr>
   <tr>
-    <td>2020-03-20</td>
-    <td>234073</td>
+    <td>2020-03-23</td>
+    <td>332930</td>
   </tr>
   <tr>
-    <td>2020-03-06</td>
-    <td>98192</td>
+    <td>2020-03-24</td>
+    <td>372757</td>
+  </tr>
+  <tr>
+    <td>2020-03-25</td>
+    <td>414179</td>
   </tr>
   <tr>
     <td>2020-03-26</td>
     <td>462684</td>
+  </tr>
+  <tr>
+    <td>2020-03-27</td>
+    <td>509164</td>
   </tr>
   <tr>
     <td>2020-03-28</td>
@@ -296,36 +312,20 @@ SELECT ?date ?numberOfCases WHERE {
     <td>634835</td>
   </tr>
   <tr>
-    <td>2020-03-25</td>
-    <td>414179</td>
-  </tr>
-  <tr>
-    <td>2020-03-24</td>
-    <td>372757</td>
-  </tr>
-  <tr>
-    <td>2020-03-27</td>
-    <td>509164</td>
-  </tr>
-  <tr>
-    <td>2020-03-23</td>
-    <td>332930</td>
+    <td>2020-03-30</td>
+    <td>693224</td>
   </tr>
   <tr>
     <td>2020-03-31</td>
     <td>750890</td>
   </tr>
   <tr>
-    <td>2020-04-02</td>
-    <td>896450</td>
-  </tr>
-  <tr>
     <td>2020-04-01</td>
     <td>823626</td>
   </tr>
   <tr>
-    <td>2020-03-30</td>
-    <td>693224</td>
+    <td>2020-04-02</td>
+    <td>896450</td>
   </tr>
   <tr>
     <td>2020-04-03</td>
@@ -508,20 +508,16 @@ SELECT ?date ?numberOfCases WHERE {
     <td>4525497</td>
   </tr>
   <tr>
-    <td>2020-05-20</td>
-    <td>4789205</td>
+    <td>2020-05-18</td>
+    <td>4618821</td>
   </tr>
   <tr>
     <td>2020-05-19</td>
     <td>4731458</td>
   </tr>
   <tr>
-    <td>2020-05-18</td>
-    <td>4618821</td>
-  </tr>
-  <tr>
-    <td>2020-05-23</td>
-    <td>5103006</td>
+    <td>2020-05-20</td>
+    <td>4789205</td>
   </tr>
   <tr>
     <td>2020-05-21</td>
@@ -530,6 +526,10 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2020-05-22</td>
     <td>4993470</td>
+  </tr>
+  <tr>
+    <td>2020-05-23</td>
+    <td>5103006</td>
   </tr>
   <tr>
     <td>2020-05-24</td>
@@ -552,6 +552,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>5593631</td>
   </tr>
   <tr>
+    <td>2020-05-29</td>
+    <td>5701337</td>
+  </tr>
+  <tr>
     <td>2020-05-30</td>
     <td>5817385</td>
   </tr>
@@ -560,16 +564,12 @@ SELECT ?date ?numberOfCases WHERE {
     <td>5934936</td>
   </tr>
   <tr>
-    <td>2020-05-29</td>
-    <td>5701337</td>
+    <td>2020-06-01</td>
+    <td>6057853</td>
   </tr>
   <tr>
     <td>2020-06-02</td>
     <td>6194533</td>
-  </tr>
-  <tr>
-    <td>2020-06-01</td>
-    <td>6057853</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

@@ -37,7 +37,13 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q105688">hipoxia</a> (<a href="http://www.wikidata.org/entity/Q105688">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q160796">delírium</a> (<a href="http://www.wikidata.org/entity/Q160796">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q167844">conjuntivitis</a> (<a href="http://www.wikidata.org/entity/Q167844">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q170082">psicosis</a> (<a href="http://www.wikidata.org/entity/Q170082">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q183425">dolor abdominal</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
@@ -47,6 +53,9 @@ SELECT ?symptom ?symptomLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q188008">disnea</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q199615">encefalitis</a> (<a href="http://www.wikidata.org/entity/Q199615">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q254327">anorexia</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
@@ -71,6 +80,9 @@ SELECT ?symptom ?symptomLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q647099">hemoptisis</a> (<a href="http://www.wikidata.org/entity/Q647099">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q720026">lesión cerebral</a> (<a href="http://www.wikidata.org/entity/Q720026">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q767485">insuficiencia respiratoria</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>

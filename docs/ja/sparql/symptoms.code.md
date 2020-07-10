@@ -37,7 +37,13 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q105688">低酸素症</a> (<a href="http://www.wikidata.org/entity/Q105688">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q160796">せん妄</a> (<a href="http://www.wikidata.org/entity/Q160796">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q167844">結膜炎</a> (<a href="http://www.wikidata.org/entity/Q167844">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q170082">精神病</a> (<a href="http://www.wikidata.org/entity/Q170082">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q183425">腹痛</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
@@ -47,6 +53,9 @@ SELECT ?symptom ?symptomLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q188008">呼吸困難</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q199615">脳炎</a> (<a href="http://www.wikidata.org/entity/Q199615">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q254327">食欲不振</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
@@ -71,6 +80,9 @@ SELECT ?symptom ?symptomLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q647099">喀血</a> (<a href="http://www.wikidata.org/entity/Q647099">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q720026">脳損傷</a> (<a href="http://www.wikidata.org/entity/Q720026">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q767485">呼吸不全</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>

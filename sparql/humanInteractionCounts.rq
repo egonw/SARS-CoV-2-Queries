@@ -9,4 +9,4 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?count WITH {
   INCLUDE %ARTICLES
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }
-ORDER BY DESC(?count)
+ORDER BY DESC(?count) ?virus ?gene

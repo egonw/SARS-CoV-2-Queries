@@ -76,6 +76,8 @@ for (i=1;i<=results.rowCount;i++) {
       value = results.get(i, label)
       if (value == null) {
         value = ""
+      } else if ("date".equals(label)) {
+        value = value.substring(0,10) // only keep the date part
       } else if (formatterURLs.containsKey(label)) {
         url = formatterURLs.get(label).replace("#{1}", value)
         value = "<a href=\"$url\">" + value + "</a>"

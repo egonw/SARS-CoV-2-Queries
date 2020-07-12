@@ -21,37 +21,37 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
-    <td>2020-05-18T00:00:00Z</td>
+    <td>2020-05-18</td>
     <td><a href="https://scholia.toolforge.org/Q95624520">Molecular conservation and Differential mutation on ORF3a gene in Indian SARS-CoV2 genomes</a> (<a href="http://www.wikidata.org/entity/Q95624520">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.05.14.096107">10.1101/2020.05.14.096107</a></td>
   </tr>
   <tr>
-    <td>2020-04-30T00:00:00Z</td>
+    <td>2020-04-30</td>
     <td><a href="https://scholia.toolforge.org/Q94470555">A SARS-CoV-2 protein interaction map reveals targets for drug repurposing</a> (<a href="http://www.wikidata.org/entity/Q94470555">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-020-2286-9">10.1038/S41586-020-2286-9</a></td>
   </tr>
   <tr>
-    <td>2020-04-12T00:00:00Z</td>
+    <td>2020-04-12</td>
     <td><a href="https://scholia.toolforge.org/Q95623958">Positive selection of ORF3a and ORF8 genes drives the evolution of SARS-CoV-2 during the 2020 COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q95623958">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.04.10.035964">10.1101/2020.04.10.035964</a></td>
   </tr>
   <tr>
-    <td>2020-03-11T00:00:00Z</td>
+    <td>2020-03-11</td>
     <td><a href="https://scholia.toolforge.org/Q88198219">From SARS and MERS CoVs to SARS‐CoV‐2: Moving toward more biased codon usage in viral structural and nonstructural genes</a> (<a href="http://www.wikidata.org/entity/Q88198219">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.25754">10.1002/JMV.25754</a></td>
   </tr>
   <tr>
-    <td>2020-03-10T00:00:00Z</td>
+    <td>2020-03-10</td>
     <td><a href="https://scholia.toolforge.org/Q88197712">Genetic evolution analysis of 2019 novel coronavirus and coronavirus from other species</a> (<a href="http://www.wikidata.org/entity/Q88197712">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.MEEGID.2020.104285">10.1016/J.MEEGID.2020.104285</a></td>
   </tr>
   <tr>
-    <td>2020-02-18T00:00:00Z</td>
+    <td>2020-02-18</td>
     <td><a href="https://scholia.toolforge.org/Q87461510">Virus against virus: a potential treatment for 2019-nCov (SARS-CoV-2) and other RNA viruses</a> (<a href="http://www.wikidata.org/entity/Q87461510">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41422-020-0290-0">10.1038/S41422-020-0290-0</a></td>
   </tr>
   <tr>
-    <td>2007-07-20T00:00:00Z</td>
+    <td>2007-07-20</td>
     <td><a href="https://scholia.toolforge.org/Q80654151">Expression, post-translational modification and biochemical characterization of proteins encoded by subgenomic mRNA8 of the severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q80654151">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/J.1742-4658.2007.05947.X">10.1111/J.1742-4658.2007.05947.X</a></td>
   </tr>

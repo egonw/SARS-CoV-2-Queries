@@ -4,4 +4,4 @@ SELECT ?date ?numberOfCases WHERE {
   ?numberOfCasesStat ps:P1603 ?numberOfCases ;
                      pq:P585 ?date .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-}
+} ORDER BY ASC(?date)

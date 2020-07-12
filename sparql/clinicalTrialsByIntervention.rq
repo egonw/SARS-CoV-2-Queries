@@ -7,4 +7,4 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
          wdt:P4844 ?intervention .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 } GROUP BY ?intervention ?interventionLabel
-  ORDER BY DESC(?trials)
+  ORDER BY DESC(?trials) ASC(?intervention)

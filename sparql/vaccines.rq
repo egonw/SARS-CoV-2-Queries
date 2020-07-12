@@ -1,0 +1,7 @@
+SELECT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
+  VALUES ?for { wd:Q84263196 }
+  ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
+           wdt:P1924 ?for .
+  ?vaccine wdt:P31 ?type .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?vaccine)

@@ -17,4 +17,4 @@ SELECT DISTINCT ?virus ?virusLabel ?work ?workLabel WITH {
   INCLUDE %ARTICLES
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }
-ORDER BY ?virusLabel ?workLabel
+ORDER BY ?virusLabel ?virus ?workLabel ?work

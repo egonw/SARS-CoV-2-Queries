@@ -20,22 +20,22 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
-    <td>2020-04-01T00:00:00Z</td>
+    <td>2020-04-01</td>
     <td><a href="https://scholia.toolforge.org/Q87675797">[Recommendations for critically ill patients with COVID-19]</a> (<a href="http://www.wikidata.org/entity/Q87675797">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S00063-020-00674-3">10.1007/S00063-020-00674-3</a></td>
   </tr>
   <tr>
-    <td>2020-03-27T00:00:00Z</td>
+    <td>2020-03-27</td>
     <td><a href="https://scholia.toolforge.org/Q89046119">A new threat from an old enemy: Re‑emergence of coronavirus (Review)</a> (<a href="http://www.wikidata.org/entity/Q89046119">edit</a>)</td>
     <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
   </tr>
   <tr>
-    <td>2020-02-26T00:00:00Z</td>
+    <td>2020-02-26</td>
     <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/JCM9030623">10.3390/JCM9030623</a></td>
   </tr>
   <tr>
-    <td>2020-02-14T00:00:00Z</td>
+    <td>2020-02-14</td>
     <td><a href="https://scholia.toolforge.org/Q88485680">The First Disease X is Caused by a Highly Transmissible Acute Respiratory Syndrome Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q88485680">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S12250-020-00206-5">10.1007/S12250-020-00206-5</a></td>
   </tr>

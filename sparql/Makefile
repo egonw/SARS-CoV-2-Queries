@@ -1,7 +1,7 @@
 LANGS ?= en nl ja es
 
 CODEFILES: \
- $(shell groovy ../findScripts.groovy ../src .out | sort | uniq)
+ $(shell groovy ../findScripts.groovy ../src .en.out | sort | uniq)
 
 .PRECIOUS: %.java %.groovy
 
@@ -16,7 +16,7 @@ clean:
 allScriptsCompiled: ${CODEFILES}
 	@touch allScriptsCompiled
 
-%.out: %.rq md.*.template
+%.en.out: %.rq md.*.template
 	@echo -n "doing $@ ... "
 	@for lang in $(LANGS) ; do \
 		echo -n "$$lang " ; \

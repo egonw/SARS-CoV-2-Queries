@@ -94,6 +94,12 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04380519</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q92273970">Trial Evaluating the Efficacy of Local Budesonide Therapy in the Management of Hyposmia in COVID-19 Patients Without Signs of Severity</a> (<a href="http://www.wikidata.org/entity/Q92273970">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422212">Budesonida</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">fase 3 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04361474</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q92392147">COVID-19: A Pilot Study of Adaptive Immunity and Anti-PD1</a> (<a href="http://www.wikidata.org/entity/Q92392147">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q7041828">Nivolumab</a> (<a href="http://www.wikidata.org/entity/Q7041828">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>

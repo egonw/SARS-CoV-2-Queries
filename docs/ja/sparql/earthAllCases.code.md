@@ -698,6 +698,26 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2020-07-04</td>
     <td>10922324</td>
   </tr>
+  <tr>
+    <td>2020-07-05</td>
+    <td>11125245</td>
+  </tr>
+  <tr>
+    <td>2020-07-06</td>
+    <td>11327790</td>
+  </tr>
+  <tr>
+    <td>2020-07-07</td>
+    <td>11500302</td>
+  </tr>
+  <tr>
+    <td>2020-07-08</td>
+    <td>11669259</td>
+  </tr>
+  <tr>
+    <td>2020-07-09</td>
+    <td>11874226</td>
+  </tr>
 </table>
 ## コード例
 ### curl

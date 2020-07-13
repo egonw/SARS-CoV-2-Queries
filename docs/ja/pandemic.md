@@ -22,7 +22,7 @@ SELECT ?numberOfCases  WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>10922324</td>
+    <td>11874226</td>
   </tr>
 </table>
 

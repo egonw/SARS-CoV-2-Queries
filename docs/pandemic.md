@@ -29,7 +29,7 @@ Which gives us:
 ## Virus <a name="tp2">transmission</a>
 
 The spread of the virus happens because the virus is too easily transmitted from
-one human to another. Every should know about keeping a distance, because
+one human to another. Everyone should know about keeping a distance, because
 small droplets due to, for example, coughing will contain the virus [citation needed].
 
 But SARS-CoV-2 is also found to survive a certain amount of time after that,

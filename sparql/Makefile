@@ -20,7 +20,7 @@ allScriptsCompiled: ${CODEFILES}
 	@echo -n "doing $@ ... "
 	@for lang in $(LANGS) ; do \
 		echo -n "$$lang " ; \
-		groovy preprocess $< $$lang > `echo "$@" | sed s/.out/.$$lang.out/` ; \
+		groovy preprocess $< $$lang > `echo "$@" | sed s/.en.out/.$$lang.out/` ; \
 		groovy postprocess $< $$lang ; \
 	done
 	@echo ""

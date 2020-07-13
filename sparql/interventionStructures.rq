@@ -11,6 +11,6 @@ SELECT ?intervention ?interventionLabel ?image WITH {
 } AS %COMPOUNDS WHERE {
   INCLUDE %COMPOUNDS
   ?intervention wdt:P117 ?image .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 } ORDER BY DESC(?count)
   LIMIT 10

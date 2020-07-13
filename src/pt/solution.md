@@ -22,7 +22,7 @@ Deve-se enfatizar que os anticorpos são específicos para cada proteína e cada
 
 ## Reuso de medicamentos
 
-A seção <xref>ensaios clínicos</xref>  inclui uma descrição geral dos ensaios clínicos. Esta aqui dá uma ideia dos sintomas que preocupam às pessoas. Também traz informações sobre quais medicamentos se estudam para <topic>reuso</topic>.
+A seção <xref>trials</xref>  inclui uma descrição geral dos ensaios clínicos. Esta aqui dá uma ideia dos sintomas que preocupam às pessoas. Também traz informações sobre quais medicamentos se estudam para <topic>reuso</topic>.
 Alguns destes tem recebido mais atenção, outros menos. 
 
 

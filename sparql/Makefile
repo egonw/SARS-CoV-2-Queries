@@ -1,4 +1,4 @@
-LANGS ?= en nl ja es
+LANGS ?= en nl ja es pt
 
 CODEFILES: \
  $(shell groovy ../findScripts.groovy ../src .en.out | sort | uniq)

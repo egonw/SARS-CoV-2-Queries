@@ -45,3 +45,4 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 
 * [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/ja/) by Yayamamo
 * [Español](https://egonw.github.io/SARS-CoV-2-Queries/es/) by Marvin Martens, Sharon and Carolina Prado
+* [Português](https://egonw.github.io/SARS-CoV-2-Queries/pt/) by Tiago Lubiana

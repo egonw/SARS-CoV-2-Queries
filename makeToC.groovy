@@ -17,7 +17,8 @@ refSectionLabels = [
   "en": "References",
   "es": "Referencias",
   "nl": "Bronnen",
-  "ja": "References"
+  "ja": "References",
+  "pt": "Referências"
 ]
 
 chapters = "order.txt"

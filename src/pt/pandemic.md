@@ -10,9 +10,9 @@ O que nos dá (até o momento que o documento foi gerado):
 
 ## <topic>Transmissão</topic> do vírus 
 
-A propagação do vírus tão rápida ocorre por sua facilidade de pular de um humano a outro. Todos devem entender a importância de manter uma distância adequada para evitar, entre outras coisas, as gotículas que podem carregar o vírus. 
+A propagação do vírus tão rápida ocorre por sua facilidade de pular de um humano a outro. Todos devem entender a importância de manter uma distância adequada para evitar, entre outras coisas, as gotículas projetadas pela tosse que podem carregar o vírus [citação necessária]. 
 
-O SARS-CoV-2 também sobrevive por um tempo ambiente após ser expelido. Podemos, com essa busca, listar artigos referentes à permanência do vírus em< <topic>superficies planas</topic>:
+O SARS-CoV-2 sobrevive por algum tempo após ser expelido, por exemplo, em superfícies [citação necessária]. Podemos, com essa busca, listar artigos referentes à permanência do vírus em <topic>superficies planas</topic>:
 
 <sparql>surfacesCounts</sparql>
 

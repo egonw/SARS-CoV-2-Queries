@@ -36,7 +36,7 @@ Isso nos dá:
 
 <out limit="15">clinicalTrialsByIntervention</out>
 
-É importatne destacar que essa lista só dá uma ideia de quais intervenções tiveram mais atenção que as outras. É essencial perceber que atenção NÃO é uma medida de sucesso. 
+É importante destacar que essa lista só dá uma ideia de quais intervenções tiveram mais atenção que as outras. É essencial perceber que atenção NÃO é uma medida de sucesso. 
 
 ## Referências
 

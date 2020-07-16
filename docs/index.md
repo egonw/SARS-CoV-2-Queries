@@ -87,7 +87,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 
 [Index](indexList.md) <br />
 
-## Authors and contributors
+## Authors and content contributors
 
 * Addshore
 * Daniel Mietchen
@@ -98,3 +98,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 * [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/ja/) by Yayamamo
 * [Español](https://egonw.github.io/SARS-CoV-2-Queries/es/) by Marvin Martens, Sharon and Carolina Prado
 * [Português](https://egonw.github.io/SARS-CoV-2-Queries/pt/) by Tiago Lubiana
+
+## Other contributions
+
+* Nuno Nunes

@@ -222,7 +222,7 @@ Isso nos dá:
   <tr><td colspan="2">null <a href="sparql/clinicalTrialsByIntervention.code.html">sparql/clinicalTrialsByIntervention.rq</a></td></tr>
 </table>
 
-É importatne destacar que essa lista só dá uma ideia de quais intervenções tiveram mais atenção que as outras. É essencial percer que atenção NÃO é uma medida de sucesso. 
+É importatne destacar que essa lista só dá uma ideia de quais intervenções tiveram mais atenção que as outras. É essencial perceber que atenção NÃO é uma medida de sucesso. 
 
 ## Referências
 

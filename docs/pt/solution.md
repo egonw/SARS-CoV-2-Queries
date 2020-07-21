@@ -54,12 +54,12 @@ A lista está crescendo bastante, então vamos mostrar somente a quantidade de a
     <td>16</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q16983356">Coronavírus humano 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q16983356">Coronavírus humano 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Coronavírus humano OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -77,6 +77,10 @@ Deve-se enfatizar que os anticorpos são específicos para cada proteína e cada
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90485002">CoroNAT: Coronavirus neuraliserende antistof terapi</a> (<a href="http://www.wikidata.org/entity/Q90485002">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96223435">Potently neutralizing human antibodies that block SARS-CoV-2 receptor binding and protect animals</a> (<a href="http://www.wikidata.org/entity/Q96223435">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Coronavírus humano 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
@@ -121,10 +125,6 @@ Deve-se enfatizar que os anticorpos são específicos para cada proteína e cada
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35881133">Antibodies to SARS coronavirus in civets.</a> (<a href="http://www.wikidata.org/entity/Q35881133">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q47734783">Antibody response and viraemia during the course of severe acute respiratory syndrome (SARS)-associated coronavirus infection.</a> (<a href="http://www.wikidata.org/entity/Q47734783">edit</a>)</td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/antibodies.code.html">sparql/antibodies.rq</a></td></tr>
 </table>
@@ -222,7 +222,7 @@ Isso nos dá:
   <tr><td colspan="2">null <a href="sparql/clinicalTrialsByIntervention.code.html">sparql/clinicalTrialsByIntervention.rq</a></td></tr>
 </table>
 
-É importatne destacar que essa lista só dá uma ideia de quais intervenções tiveram mais atenção que as outras. É essencial perceber que atenção NÃO é uma medida de sucesso. 
+É importante destacar que essa lista só dá uma ideia de quais intervenções tiveram mais atenção que as outras. É essencial perceber que atenção NÃO é uma medida de sucesso. 
 
 ## Referências
 

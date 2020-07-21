@@ -89,6 +89,9 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q576349">脳症</a> (<a href="http://www.wikidata.org/entity/Q576349">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q599982">enanthem</a> (<a href="http://www.wikidata.org/entity/Q599982">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q606216">味覚消失</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>
   </tr>
   <tr>

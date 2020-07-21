@@ -35,28 +35,8 @@ This gives these 10 papers:
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90617531">Establishment and validation of a pseudovirus neutralization assay for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q90617531">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1743767">10.1080/22221751.2020.1743767</a></td>
-  </tr>
-  <tr>
-    <td>2020-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q90454781">COVID-19: What implications for sexual and reproductive health and rights globally?</a> (<a href="http://www.wikidata.org/entity/Q90454781">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/26410397.2020.1746065">10.1080/26410397.2020.1746065</a></td>
-  </tr>
-  <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90625396">Clinical observation and management of COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q90625396">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1741327">10.1080/22221751.2020.1741327</a></td>
-  </tr>
-  <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90625688">The different clinical characteristics of corona virus disease cases between children and their families in China - the character of children with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q90625688">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1744483">10.1080/22221751.2020.1744483</a></td>
-  </tr>
-  <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90502868">Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia</a> (<a href="http://www.wikidata.org/entity/Q90502868">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1746199">10.1080/22221751.2020.1746199</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
@@ -70,8 +50,28 @@ This gives these 10 papers:
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q96291596">Genetic cluster analysis of SARS-CoV-2 and the identification of those responsible for the major outbreaks in various countries</a> (<a href="http://www.wikidata.org/entity/Q96291596">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1773745">10.1080/22221751.2020.1773745</a></td>
+    <td><a href="https://scholia.toolforge.org/Q90502868">Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia</a> (<a href="http://www.wikidata.org/entity/Q90502868">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1746199">10.1080/22221751.2020.1746199</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q90617531">Establishment and validation of a pseudovirus neutralization assay for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q90617531">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1743767">10.1080/22221751.2020.1743767</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q90625396">Clinical observation and management of COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q90625396">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1741327">10.1080/22221751.2020.1741327</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q90625688">The different clinical characteristics of corona virus disease cases between children and their families in China - the character of children with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q90625688">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1744483">10.1080/22221751.2020.1744483</a></td>
+  </tr>
+  <tr>
+    <td>2020-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q96222128">Dynamic surveillance of SARS-CoV-2 shedding and neutralizing antibody in children with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96222128">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1772677">10.1080/22221751.2020.1772677</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -607,7 +607,7 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>19</td>
+    <td>21</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -676,17 +676,17 @@ Where the counts are:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90143910">protein non-structural 8a [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q90143910">edit</a>)</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89457107">non-structural protein 9 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89457107">edit</a>)</td>
     <td>5</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89455299">2'-O-methyltransferase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89455299">edit</a>)</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90143910">protein non-structural 8a [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q90143910">edit</a>)</td>
     <td>5</td>
   </tr>
   <tr>
@@ -730,11 +730,6 @@ Where the counts are:
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q94647436">Non-structural protein 12 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q94647436">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90285330">protein non-structural 8b [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q90285330">edit</a>)</td>
     <td>3</td>
@@ -742,6 +737,11 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88660576">nucleoprotein</a> (<a href="http://www.wikidata.org/entity/Q88660576">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94647436">Non-structural protein 12 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q94647436">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
@@ -860,11 +860,6 @@ Where the counts are:
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q94648377">Non-structural protein 13 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q94648377">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89599893">Replicase polyprotein 1a</a> (<a href="http://www.wikidata.org/entity/Q89599893">edit</a>)</td>
     <td>1</td>
@@ -872,6 +867,11 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88660589">NS4B protein</a> (<a href="http://www.wikidata.org/entity/Q88660589">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94648377">Non-structural protein 13 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q94648377">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

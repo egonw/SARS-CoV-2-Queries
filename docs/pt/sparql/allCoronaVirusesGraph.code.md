@@ -237,11 +237,6 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q91560702">Rousettus bat coronavirus HKU10</a> (<a href="http://www.wikidata.org/entity/Q91560702">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q92050731">Soracovirus</a> (<a href="http://www.wikidata.org/entity/Q92050731">edit</a>)</td>
     <td></td>
   </tr>
@@ -449,6 +444,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://scholia.toolforge.org/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q57758320">Rhinolophus ferrumequinum alphacoronavirus HuB-2013</a> (<a href="http://www.wikidata.org/entity/Q57758320">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501926">2501926</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91560702">Rousettus bat coronavirus HKU10</a> (<a href="http://www.wikidata.org/entity/Q91560702">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1241933">1241933</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754596">Duvinacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754596">edit</a>)</td>

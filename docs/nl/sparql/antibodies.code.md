@@ -112,6 +112,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
     <td><a href="https://scholia.toolforge.org/Q90485002">CoroNAT: Coronavirus neuraliserende antistof terapi</a> (<a href="http://www.wikidata.org/entity/Q90485002">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96223435">Potently neutralizing human antibodies that block SARS-CoV-2 receptor binding and protect animals</a> (<a href="http://www.wikidata.org/entity/Q96223435">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30785119">A human SARS-CoV neutralizing antibody against epitope on S2 protein.</a> (<a href="http://www.wikidata.org/entity/Q30785119">edit</a>)</td>
   </tr>

@@ -135,6 +135,11 @@ Isso nos dá esse número de documentos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18032025">TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q18032025">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q581324">Furin, paired basic amino acid cleaving enzyme</a> (<a href="http://www.wikidata.org/entity/Q581324">edit</a>)</td>
     <td>1</td>
   </tr>

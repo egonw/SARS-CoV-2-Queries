@@ -51,6 +51,13 @@ ORDER BY DESC(?date) ?doi ?virus
     <td><a href="https://doi.org/10.1177/0022034520933589">10.1177/0022034520933589</a></td>
   </tr>
   <tr>
+    <td>2020-05-23</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18032025">TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q18032025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96223294">Age-related expression of SARS-CoV-2 priming protease TMPRSS2 in the developing lung</a> (<a href="http://www.wikidata.org/entity/Q96223294">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.05.22.111187">10.1101/2020.05.22.111187</a></td>
+  </tr>
+  <tr>
     <td>2020-05-06</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q581324">Furin, paired basic amino acid cleaving enzyme</a> (<a href="http://www.wikidata.org/entity/Q581324">edit</a>)</td>

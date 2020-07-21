@@ -789,8 +789,63 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q262">アルジェリア</a> (<a href="http://www.wikidata.org/entity/Q262">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-07-20</td>
+    <td>2281</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-20</td>
+    <td>2373</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-19</td>
+    <td>2246</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-19</td>
+    <td>2260</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>2204</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>2220</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>2133</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>2178</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>2072</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>2112</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-07-15</td>
     <td>1987</td>
+    <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-15</td>
+    <td>2050</td>
     <td><a href="https://scholia.toolforge.org/Q414">アルゼンチン</a> (<a href="http://www.wikidata.org/entity/Q414">edit</a>)</td>
   </tr>
   <tr>
@@ -2979,6 +3034,31 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q794">イラン</a> (<a href="http://www.wikidata.org/entity/Q794">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-07-21</td>
+    <td>28084</td>
+    <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-20</td>
+    <td>27497</td>
+    <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-19</td>
+    <td>26816</td>
+    <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>26273</td>
+    <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>25602</td>
+    <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-07-16</td>
     <td>24915</td>
     <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
@@ -3529,8 +3609,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-07-15</td>
-    <td>3797</td>
+    <td>2020-07-20</td>
+    <td>4239</td>
     <td><a href="https://scholia.toolforge.org/Q252">インドネシア</a> (<a href="http://www.wikidata.org/entity/Q252">edit</a>)</td>
   </tr>
   <tr>
@@ -4959,6 +5039,36 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q408">オーストラリア</a> (<a href="http://www.wikidata.org/entity/Q408">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-07-19</td>
+    <td>711</td>
+    <td><a href="https://scholia.toolforge.org/Q40">オーストリア</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>711</td>
+    <td><a href="https://scholia.toolforge.org/Q40">オーストリア</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>711</td>
+    <td><a href="https://scholia.toolforge.org/Q40">オーストリア</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>711</td>
+    <td><a href="https://scholia.toolforge.org/Q40">オーストリア</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-15</td>
+    <td>710</td>
+    <td><a href="https://scholia.toolforge.org/Q40">オーストリア</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-14</td>
+    <td>709</td>
+    <td><a href="https://scholia.toolforge.org/Q40">オーストリア</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-07-13</td>
     <td>708</td>
     <td><a href="https://scholia.toolforge.org/Q40">オーストリア</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
@@ -5790,12 +5900,12 @@ WHERE {
   </tr>
   <tr>
     <td>2020-04-29</td>
-    <td>2904</td>
+    <td>1761</td>
     <td><a href="https://scholia.toolforge.org/Q16">カナダ</a> (<a href="http://www.wikidata.org/entity/Q16">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-29</td>
-    <td>1761</td>
+    <td>2904</td>
     <td><a href="https://scholia.toolforge.org/Q16">カナダ</a> (<a href="http://www.wikidata.org/entity/Q16">edit</a>)</td>
   </tr>
   <tr>
@@ -5815,12 +5925,12 @@ WHERE {
   </tr>
   <tr>
     <td>2020-04-22</td>
-    <td>647</td>
+    <td>1871</td>
     <td><a href="https://scholia.toolforge.org/Q16">カナダ</a> (<a href="http://www.wikidata.org/entity/Q16">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-22</td>
-    <td>1871</td>
+    <td>647</td>
     <td><a href="https://scholia.toolforge.org/Q16">カナダ</a> (<a href="http://www.wikidata.org/entity/Q16">edit</a>)</td>
   </tr>
   <tr>
@@ -7132,6 +7242,31 @@ WHERE {
     <td>2020-03-29</td>
     <td>1</td>
     <td><a href="https://scholia.toolforge.org/Q1246">コソボ共和国</a> (<a href="http://www.wikidata.org/entity/Q1246">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-20</td>
+    <td>6929</td>
+    <td><a href="https://scholia.toolforge.org/Q739">コロンビア</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-19</td>
+    <td>6736</td>
+    <td><a href="https://scholia.toolforge.org/Q739">コロンビア</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>6516</td>
+    <td><a href="https://scholia.toolforge.org/Q739">コロンビア</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>6288</td>
+    <td><a href="https://scholia.toolforge.org/Q739">コロンビア</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>6029</td>
+    <td><a href="https://scholia.toolforge.org/Q739">コロンビア</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-07-15</td>
@@ -10604,6 +10739,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q948">チュニジア</a> (<a href="http://www.wikidata.org/entity/Q948">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-07-18</td>
+    <td>8445</td>
+    <td><a href="https://scholia.toolforge.org/Q298">チリ</a> (<a href="http://www.wikidata.org/entity/Q298">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-07-07</td>
     <td>6434</td>
     <td><a href="https://scholia.toolforge.org/Q298">チリ</a> (<a href="http://www.wikidata.org/entity/Q298">edit</a>)</td>
@@ -11109,6 +11249,56 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q945">トーゴ</a> (<a href="http://www.wikidata.org/entity/Q945">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-07-18</td>
+    <td>9084</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>9083</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>9082</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-15</td>
+    <td>9078</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-14</td>
+    <td>9071</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-13</td>
+    <td>9068</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-12</td>
+    <td>9064</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-11</td>
+    <td>9063</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
+    <td>9060</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-09</td>
+    <td>9054</td>
+    <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-07-08</td>
     <td>9048</td>
     <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
@@ -11525,7 +11715,7 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-16</td>
-    <td>13</td>
+    <td>12</td>
     <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
   </tr>
   <tr>
@@ -11555,7 +11745,7 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-10</td>
-    <td>2</td>
+    <td>3</td>
     <td><a href="https://scholia.toolforge.org/Q183">ドイツ</a> (<a href="http://www.wikidata.org/entity/Q183">edit</a>)</td>
   </tr>
   <tr>
@@ -11887,6 +12077,11 @@ WHERE {
     <td>2020-03-28</td>
     <td>1</td>
     <td><a href="https://scholia.toolforge.org/Q1033">ナイジェリア</a> (<a href="http://www.wikidata.org/entity/Q1033">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-14</td>
+    <td>99</td>
+    <td><a href="https://scholia.toolforge.org/Q811">ニカラグア</a> (<a href="http://www.wikidata.org/entity/Q811">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-23</td>
@@ -12367,6 +12562,36 @@ WHERE {
     <td>2020-04-07</td>
     <td>1</td>
     <td><a href="https://scholia.toolforge.org/Q790">ハイチ</a> (<a href="http://www.wikidata.org/entity/Q790">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td>596</td>
+    <td><a href="https://scholia.toolforge.org/Q28">ハンガリー</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-20</td>
+    <td>596</td>
+    <td><a href="https://scholia.toolforge.org/Q28">ハンガリー</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-19</td>
+    <td>596</td>
+    <td><a href="https://scholia.toolforge.org/Q28">ハンガリー</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>596</td>
+    <td><a href="https://scholia.toolforge.org/Q28">ハンガリー</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>595</td>
+    <td><a href="https://scholia.toolforge.org/Q28">ハンガリー</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>595</td>
+    <td><a href="https://scholia.toolforge.org/Q28">ハンガリー</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-07-15</td>
@@ -13809,6 +14034,46 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q733">パラグアイ</a> (<a href="http://www.wikidata.org/entity/Q733">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-07-19</td>
+    <td>62</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>58</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>55</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>49</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-15</td>
+    <td>47</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-14</td>
+    <td>45</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-13</td>
+    <td>41</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-12</td>
+    <td>37</td>
+    <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-07-11</td>
     <td>32</td>
     <td><a href="https://scholia.toolforge.org/Q219060">パレスチナ国</a> (<a href="http://www.wikidata.org/entity/Q219060">edit</a>)</td>
@@ -14100,17 +14365,17 @@ WHERE {
   </tr>
   <tr>
     <td>2020-05-06</td>
-    <td>737</td>
-    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
-  </tr>
-  <tr>
-    <td>2020-05-06</td>
     <td>25809</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-06</td>
     <td>1850</td>
+    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-05-06</td>
+    <td>737</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14195,11 +14460,6 @@ WHERE {
   </tr>
   <tr>
     <td>2020-04-27</td>
-    <td>1683</td>
-    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
-  </tr>
-  <tr>
-    <td>2020-04-27</td>
     <td>23293</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
@@ -14214,8 +14474,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-26</td>
-    <td>1663</td>
+    <td>2020-04-27</td>
+    <td>1683</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14234,8 +14494,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-25</td>
-    <td>1643</td>
+    <td>2020-04-26</td>
+    <td>1663</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14254,8 +14514,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-24</td>
-    <td>1612</td>
+    <td>2020-04-25</td>
+    <td>1643</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14274,8 +14534,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-23</td>
-    <td>1578</td>
+    <td>2020-04-24</td>
+    <td>1612</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14294,8 +14554,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-22</td>
-    <td>1527</td>
+    <td>2020-04-23</td>
+    <td>1578</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14314,8 +14574,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-21</td>
-    <td>1502</td>
+    <td>2020-04-22</td>
+    <td>1527</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14334,8 +14594,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-20</td>
-    <td>1468</td>
+    <td>2020-04-21</td>
+    <td>1502</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14354,13 +14614,13 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-19</td>
-    <td>1376</td>
+    <td>2020-04-20</td>
+    <td>1468</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-19</td>
-    <td>1433</td>
+    <td>1376</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14376,6 +14636,11 @@ WHERE {
   <tr>
     <td>2020-04-19</td>
     <td>7649</td>
+    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-04-19</td>
+    <td>1433</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14540,11 +14805,6 @@ WHERE {
   </tr>
   <tr>
     <td>2020-04-10</td>
-    <td>948</td>
-    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
-  </tr>
-  <tr>
-    <td>2020-04-10</td>
     <td>4599</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
@@ -14559,8 +14819,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-09</td>
-    <td>905</td>
+    <td>2020-04-10</td>
+    <td>948</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14579,8 +14839,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-08</td>
-    <td>846</td>
+    <td>2020-04-09</td>
+    <td>905</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14599,8 +14859,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-07</td>
-    <td>790</td>
+    <td>2020-04-08</td>
+    <td>846</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14616,6 +14876,11 @@ WHERE {
   <tr>
     <td>2020-04-07</td>
     <td>10328</td>
+    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-04-07</td>
+    <td>790</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14635,11 +14900,6 @@ WHERE {
   </tr>
   <tr>
     <td>2020-04-05</td>
-    <td>696</td>
-    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
-  </tr>
-  <tr>
-    <td>2020-04-05</td>
     <td>8078</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
@@ -14654,8 +14914,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-04</td>
-    <td>651</td>
+    <td>2020-04-05</td>
+    <td>696</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14674,8 +14934,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-03</td>
-    <td>597</td>
+    <td>2020-04-04</td>
+    <td>651</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14684,8 +14944,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-02</td>
-    <td>555</td>
+    <td>2020-04-03</td>
+    <td>597</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14694,8 +14954,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-04-01</td>
-    <td>501</td>
+    <td>2020-04-02</td>
+    <td>555</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14704,8 +14964,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-31</td>
-    <td>440</td>
+    <td>2020-04-01</td>
+    <td>501</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14714,8 +14974,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-30</td>
-    <td>400</td>
+    <td>2020-03-31</td>
+    <td>440</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14724,8 +14984,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-29</td>
-    <td>350</td>
+    <td>2020-03-30</td>
+    <td>400</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14734,8 +14994,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-28</td>
-    <td>312</td>
+    <td>2020-03-29</td>
+    <td>350</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14744,8 +15004,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-27</td>
-    <td>266</td>
+    <td>2020-03-28</td>
+    <td>312</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14754,8 +15014,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-26</td>
-    <td>230</td>
+    <td>2020-03-27</td>
+    <td>266</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14764,8 +15024,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-25</td>
-    <td>188</td>
+    <td>2020-03-26</td>
+    <td>230</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14774,8 +15034,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-24</td>
-    <td>165</td>
+    <td>2020-03-25</td>
+    <td>188</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14784,8 +15044,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-23</td>
-    <td>145</td>
+    <td>2020-03-24</td>
+    <td>165</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14794,13 +15054,18 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-03-22</td>
-    <td>112</td>
+    <td>2020-03-23</td>
+    <td>145</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-03-22</td>
     <td>674</td>
+    <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-03-22</td>
+    <td>112</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14815,12 +15080,12 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-20</td>
-    <td>81</td>
+    <td>450</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-03-20</td>
-    <td>450</td>
+    <td>81</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14845,12 +15110,12 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-18</td>
-    <td>44</td>
+    <td>244</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-03-18</td>
-    <td>244</td>
+    <td>44</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14890,12 +15155,12 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-14</td>
-    <td>19</td>
+    <td>79</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-03-14</td>
-    <td>79</td>
+    <td>19</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -14915,12 +15180,12 @@ WHERE {
   </tr>
   <tr>
     <td>2020-03-11</td>
-    <td>9</td>
+    <td>48</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-03-11</td>
-    <td>48</td>
+    <td>9</td>
     <td><a href="https://scholia.toolforge.org/Q142">フランス</a> (<a href="http://www.wikidata.org/entity/Q142">edit</a>)</td>
   </tr>
   <tr>
@@ -16257,6 +16522,16 @@ WHERE {
     <td>2020-03-19</td>
     <td>3</td>
     <td><a href="https://scholia.toolforge.org/Q419">ペルー</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>857</td>
+    <td><a href="https://scholia.toolforge.org/Q783">ホンジュラス</a> (<a href="http://www.wikidata.org/entity/Q783">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>835</td>
+    <td><a href="https://scholia.toolforge.org/Q783">ホンジュラス</a> (<a href="http://www.wikidata.org/entity/Q783">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-07-15</td>
@@ -17844,8 +18119,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q217">モルドバ</a> (<a href="http://www.wikidata.org/entity/Q217">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-07-14</td>
-    <td>257</td>
+    <td>2020-07-19</td>
+    <td>273</td>
     <td><a href="https://scholia.toolforge.org/Q1028">モロッコ</a> (<a href="http://www.wikidata.org/entity/Q1028">edit</a>)</td>
   </tr>
   <tr>
@@ -18117,6 +18392,31 @@ WHERE {
     <td>2020-04-13</td>
     <td>5</td>
     <td><a href="https://scholia.toolforge.org/Q1014">リベリア</a> (<a href="http://www.wikidata.org/entity/Q1014">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-20</td>
+    <td>111</td>
+    <td><a href="https://scholia.toolforge.org/Q32">ルクセンブルク</a> (<a href="http://www.wikidata.org/entity/Q32">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-19</td>
+    <td>111</td>
+    <td><a href="https://scholia.toolforge.org/Q32">ルクセンブルク</a> (<a href="http://www.wikidata.org/entity/Q32">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>111</td>
+    <td><a href="https://scholia.toolforge.org/Q32">ルクセンブルク</a> (<a href="http://www.wikidata.org/entity/Q32">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>111</td>
+    <td><a href="https://scholia.toolforge.org/Q32">ルクセンブルク</a> (<a href="http://www.wikidata.org/entity/Q32">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>111</td>
+    <td><a href="https://scholia.toolforge.org/Q32">ルクセンブルク</a> (<a href="http://www.wikidata.org/entity/Q32">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-07-15</td>
@@ -19069,6 +19369,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q218">ルーマニア</a> (<a href="http://www.wikidata.org/entity/Q218">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-07-16</td>
+    <td>40</td>
+    <td><a href="https://scholia.toolforge.org/Q822">レバノン</a> (<a href="http://www.wikidata.org/entity/Q822">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-07-15</td>
     <td>38</td>
     <td><a href="https://scholia.toolforge.org/Q822">レバノン</a> (<a href="http://www.wikidata.org/entity/Q822">edit</a>)</td>
@@ -19232,6 +19537,11 @@ WHERE {
     <td>2020-03-19</td>
     <td>4</td>
     <td><a href="https://scholia.toolforge.org/Q822">レバノン</a> (<a href="http://www.wikidata.org/entity/Q822">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-05-24</td>
+    <td>3541</td>
+    <td><a href="https://scholia.toolforge.org/Q159">ロシア</a> (<a href="http://www.wikidata.org/entity/Q159">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-23</td>
@@ -19580,12 +19890,12 @@ WHERE {
   </tr>
   <tr>
     <td>2020-04-27</td>
-    <td>4643</td>
+    <td>4</td>
     <td><a href="https://scholia.toolforge.org/Q148">中華人民共和国</a> (<a href="http://www.wikidata.org/entity/Q148">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-27</td>
-    <td>4</td>
+    <td>4643</td>
     <td><a href="https://scholia.toolforge.org/Q148">中華人民共和国</a> (<a href="http://www.wikidata.org/entity/Q148">edit</a>)</td>
   </tr>
   <tr>
@@ -20084,7 +20394,7 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q148">中華人民共和国</a> (<a href="http://www.wikidata.org/entity/Q148">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-07-15</td>
+    <td>2020-07-20</td>
     <td>7</td>
     <td><a href="https://scholia.toolforge.org/Q865">中華民国</a> (<a href="http://www.wikidata.org/entity/Q865">edit</a>)</td>
   </tr>

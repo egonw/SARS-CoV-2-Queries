@@ -303,6 +303,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90485002">CoroNAT: Coronavirus neuraliserende antistof terapi</a> (<a href="http://www.wikidata.org/entity/Q90485002">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96223435">Potently neutralizing human antibodies that block SARS-CoV-2 receptor binding and protect animals</a> (<a href="http://www.wikidata.org/entity/Q96223435">edit</a>)</td>
+  </tr>
 </table>
 ## コード例
 ### curl

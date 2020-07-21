@@ -317,6 +317,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
     <td><a href="https://scholia.toolforge.org/Q96348222">Preparing for emerging respiratory pathogens such as SARS-CoV, MERS-CoV, and SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96348222">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96766478">Serologic cross-reactivity of SARS-CoV-2 with endemic and seasonal Betacoronaviruses</a> (<a href="http://www.wikidata.org/entity/Q96766478">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33904997">A 219-mer CHO-expressing receptor-binding domain of SARS-CoV S protein induces potent immune responses and protective immunity</a> (<a href="http://www.wikidata.org/entity/Q33904997">edit</a>)</td>
   </tr>

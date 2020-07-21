@@ -738,6 +738,30 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2020-07-14</td>
     <td>12964809</td>
   </tr>
+  <tr>
+    <td>2020-07-15</td>
+    <td>13150645</td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td>13378853</td>
+  </tr>
+  <tr>
+    <td>2020-07-17</td>
+    <td>13616593</td>
+  </tr>
+  <tr>
+    <td>2020-07-18</td>
+    <td>13876441</td>
+  </tr>
+  <tr>
+    <td>2020-07-19</td>
+    <td>14043176</td>
+  </tr>
+  <tr>
+    <td>2020-07-20</td>
+    <td>14348858</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

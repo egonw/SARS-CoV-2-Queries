@@ -355,7 +355,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91560702">Rousettus bat coronavirus HKU10</a> (<a href="http://www.wikidata.org/entity/Q91560702">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1241933">1241933</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92050731">Soracovirus</a> (<a href="http://www.wikidata.org/entity/Q92050731">edit</a>)</td>

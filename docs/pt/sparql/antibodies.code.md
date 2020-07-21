@@ -36,6 +36,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
     <td><a href="https://scholia.toolforge.org/Q90485002">CoroNAT: Coronavirus neuraliserende antistof terapi</a> (<a href="http://www.wikidata.org/entity/Q90485002">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96223435">Potently neutralizing human antibodies that block SARS-CoV-2 receptor binding and protect animals</a> (<a href="http://www.wikidata.org/entity/Q96223435">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Coronavírus humano 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40614291">Antibody to virus components in volunteers experimentally infected with human coronavirus 229E group viruses.</a> (<a href="http://www.wikidata.org/entity/Q40614291">edit</a>)</td>
   </tr>

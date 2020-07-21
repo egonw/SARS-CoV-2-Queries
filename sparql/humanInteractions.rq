@@ -11,4 +11,4 @@ SELECT ?date ?virus ?virusLabel ?gene ?geneLabel ?work ?workLabel ?doi WITH {
   OPTIONAL { ?work wdt:P356 ?doi . }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }
-ORDER BY DESC(?date) ?doi ?virus
+ORDER BY DESC(?date) ?doi ?virus ?gene

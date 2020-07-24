@@ -244,6 +244,12 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97616551">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q97616551">edit</a>)</td>
+    <td>YP_009724391.1</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 ## Code examples
 ### curl

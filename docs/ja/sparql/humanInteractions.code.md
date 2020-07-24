@@ -30,6 +30,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q14875321">アンジオテンシン変換酵素2</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97531023">SARS-CoV-2 infection in the lungs of human ACE2 transgenic mice causes severe inflammation, immune cell infiltration, and compromised respiratory function</a> (<a href="http://www.wikidata.org/entity/Q97531023">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.07.09.196188">10.1101/2020.07.09.196188</a></td>
+  </tr>
+  <tr>
     <td>2020-06-08</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
@@ -77,6 +84,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://scholia.toolforge.org/Q14875321">アンジオテンシン変換酵素2</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q94938805">SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues</a> (<a href="http://www.wikidata.org/entity/Q94938805">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2020.04.035">10.1016/J.CELL.2020.04.035</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-22</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18053181">PIKFYVE</a> (<a href="http://www.wikidata.org/entity/Q18053181">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95606465">Inhibition of PIKfyve kinase prevents infection by EBOV and SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95606465">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.04.21.053058">10.1101/2020.04.21.053058</a></td>
   </tr>
   <tr>
     <td>2020-04-20</td>

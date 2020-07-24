@@ -50,7 +50,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q87491759">domestic responses to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87491759">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87625383">Impactos da pandemia de COVID-19 na aviação</a> (<a href="http://www.wikidata.org/entity/Q87625383">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87625383">impactos da pandemia de COVID-19 na aviação</a> (<a href="http://www.wikidata.org/entity/Q87625383">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87625385">Impactos da pandemia de COVID-19 no cinema</a> (<a href="http://www.wikidata.org/entity/Q87625385">edit</a>)</td>
@@ -62,7 +62,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q87747992">Impactos da pandemia de COVID-19 na indústria musical</a> (<a href="http://www.wikidata.org/entity/Q87747992">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87760968">Impactos da pandemia de COVID-19 na educação</a> (<a href="http://www.wikidata.org/entity/Q87760968">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87760968">impactos da pandemia de COVID-19 na educação</a> (<a href="http://www.wikidata.org/entity/Q87760968">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87774378">Cronologia da pandemia de COVID-19 em março de 2020</a> (<a href="http://www.wikidata.org/entity/Q87774378">edit</a>)</td>
@@ -89,7 +89,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q88240100">COVID-19 intensive care treatment occurrence</a> (<a href="http://www.wikidata.org/entity/Q88240100">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88293861">Impact of the 2019–20 coronavirus pandemic on the food industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88293861">impact of the 2019–20 coronavirus pandemic on the food industry</a> (<a href="http://www.wikidata.org/entity/Q88293861">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88293962">Cobertura da mídia sobre à pandemia de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q88293962">edit</a>)</td>
@@ -146,7 +146,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q89966200">Pandemic predictions and preparations prior to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90085156">Impact of the COVID-19 pandemic on the environment</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90085156">impact of the COVID-19 pandemic on the environment</a> (<a href="http://www.wikidata.org/entity/Q90085156">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
@@ -161,16 +161,16 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q90456853">Impact of the 2019–20 coronavirus pandemic on the military</a> (<a href="http://www.wikidata.org/entity/Q90456853">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90630881">Impact of the 2019–20 coronavirus pandemic on public transport</a> (<a href="http://www.wikidata.org/entity/Q90630881">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90630881">impact of the 2019–20 coronavirus pandemic on public transport</a> (<a href="http://www.wikidata.org/entity/Q90630881">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90840968">Impact of the 2019–20 coronavirus pandemic on domestic violence</a> (<a href="http://www.wikidata.org/entity/Q90840968">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90840968">impact of the 2019–20 coronavirus pandemic on domestic violence</a> (<a href="http://www.wikidata.org/entity/Q90840968">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90840989">Impact of the 2019–20 coronavirus pandemic on tourism</a> (<a href="http://www.wikidata.org/entity/Q90840989">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90859234">Impact of the 2019-20 coronavirus pandemic on international relations</a> (<a href="http://www.wikidata.org/entity/Q90859234">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90859234">impact of the 2019-20 coronavirus pandemic on international relations</a> (<a href="http://www.wikidata.org/entity/Q90859234">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91104866">social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>

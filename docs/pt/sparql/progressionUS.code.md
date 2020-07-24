@@ -21,7 +21,7 @@ SELECT ?date ?numberOfCases WHERE {
   </tr>
   <tr>
     <td>2020-07-07</td>
-    <td>3018306</td>
+    <td>4038967</td>
   </tr>
   <tr>
     <td>2020-06-30</td>

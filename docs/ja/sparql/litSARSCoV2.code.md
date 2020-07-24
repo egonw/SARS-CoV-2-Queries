@@ -100,6 +100,36 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1080/23744235.2020.1772992">10.1080/23744235.2020.1772992</a></td>
   </tr>
   <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q97621314">Ebola prepared these countries for coronavirus — but now even they are floundering</a> (<a href="http://www.wikidata.org/entity/Q97621314">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/D41586-020-02173-Z">10.1038/D41586-020-02173-Z</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-15</td>
+    <td><a href="https://scholia.toolforge.org/Q97555602">Potently neutralizing and protective human antibodies against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q97555602">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-020-2548-6">10.1038/S41586-020-2548-6</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-14</td>
+    <td><a href="https://scholia.toolforge.org/Q97556695">An mRNA Vaccine against SARS-CoV-2 - Preliminary Report</a> (<a href="http://www.wikidata.org/entity/Q97556695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1056/NEJMOA2022483">10.1056/NEJMOA2022483</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q97530995">Replication-competent vesicular stomatitis virus vaccine vector protects against SARS-CoV-2-mediated pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q97530995">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.07.09.196386">10.1101/2020.07.09.196386</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q97531023">SARS-CoV-2 infection in the lungs of human ACE2 transgenic mice causes severe inflammation, immune cell infiltration, and compromised respiratory function</a> (<a href="http://www.wikidata.org/entity/Q97531023">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.07.09.196188">10.1101/2020.07.09.196188</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-07</td>
+    <td><a href="https://scholia.toolforge.org/Q97553514">Remdesivir Inhibits SARS-CoV-2 in Human Lung Cells and Chimeric SARS-CoV Expressing the SARS-CoV-2 RNA Polymerase in Mice</a> (<a href="http://www.wikidata.org/entity/Q97553514">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELREP.2020.107940">10.1016/J.CELREP.2020.107940</a></td>
+  </tr>
+  <tr>
     <td>2020-07-06</td>
     <td><a href="https://scholia.toolforge.org/Q97079028">Novel multiple swab method enables high efficiency in SARS-CoV-2 screenings without loss of sensitivity for screening of a complete population</a> (<a href="http://www.wikidata.org/entity/Q97079028">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/TRF.15973">10.1111/TRF.15973</a></td>
@@ -7893,6 +7923,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-05-29</td>
     <td><a href="https://scholia.toolforge.org/Q96026170">Relationship between ACE-inhibitors, ARBs and SARS-CoV-2 infection: where are we?</a> (<a href="http://www.wikidata.org/entity/Q96026170">edit</a>)</td>
     <td><a href="https://doi.org/10.23736/S0026-4725.20.05271-8">10.23736/S0026-4725.20.05271-8</a></td>
+  </tr>
+  <tr>
+    <td>2020-05-29</td>
+    <td><a href="https://scholia.toolforge.org/Q96031942">Suitability and Sufficiency of telehealth clinician-observed participant-collected samples for SARS-CoV2 testing: the iCollect Cohort Pilot Study</a> (<a href="http://www.wikidata.org/entity/Q96031942">edit</a>)</td>
+    <td><a href="https://doi.org/10.2196/19731">10.2196/19731</a></td>
   </tr>
   <tr>
     <td>2020-05-29</td>

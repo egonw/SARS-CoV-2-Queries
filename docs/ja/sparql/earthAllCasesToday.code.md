@@ -582,6 +582,12 @@ SELECT ?numberOfCases  WHERE {
   <tr>
     <td>15012731</td>
   </tr>
+  <tr>
+    <td>15296926</td>
+  </tr>
+  <tr>
+    <td>15581009</td>
+  </tr>
 </table>
 ## コード例
 ### curl

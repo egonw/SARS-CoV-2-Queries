@@ -588,6 +588,12 @@ Lo que nos da:
   <tr>
     <td>15012731</td>
   </tr>
+  <tr>
+    <td>15296926</td>
+  </tr>
+  <tr>
+    <td>15581009</td>
+  </tr>
 </table>
 
 ## <a name="tp2">Transmisión</a> de virus 

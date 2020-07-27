@@ -12,4 +12,4 @@ WHERE {
   { ?item wdt:P1269 wd:Q81068910. } UNION
   { ?item wdt:P361 wd:Q83741704. }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-} ORDER BY ASC(?countryLabel) DESC(?date)
+} ORDER BY ASC(?countryLabel) DESC(?date) DESC(?deaths)

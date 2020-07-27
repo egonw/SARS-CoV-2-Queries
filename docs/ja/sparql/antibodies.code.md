@@ -305,6 +305,18 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97548551">Analytical and clinical validation of an ELISA for specific SARS-CoV-2 IgG, IgA and IgM antibodies</a> (<a href="http://www.wikidata.org/entity/Q97548551">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97595739">Antibody responses to SARS-CoV-2 short-lived</a> (<a href="http://www.wikidata.org/entity/Q97595739">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97685371">Characteristics and roles of SARS-CoV-2 specific antibodies in patients with different severities of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q97685371">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90485002">CoroNAT: Coronavirus neuraliserende antistof terapi</a> (<a href="http://www.wikidata.org/entity/Q90485002">edit</a>)</td>
   </tr>
   <tr>
@@ -322,6 +334,14 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96223435">Potently neutralizing human antibodies that block SARS-CoV-2 receptor binding and protect animals</a> (<a href="http://www.wikidata.org/entity/Q96223435">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97686370">Rapid Decay of Anti-SARS-CoV-2 Antibodies in Persons with Mild Covid-19</a> (<a href="http://www.wikidata.org/entity/Q97686370">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97686378">Rapid Decay of Anti-SARS-CoV-2 Antibodies in Persons with Mild Covid-19</a> (<a href="http://www.wikidata.org/entity/Q97686378">edit</a>)</td>
   </tr>
 </table>
 ## コード例

@@ -51310,6 +51310,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.02.05.920009">10.1101/2020.02.05.920009</a></td>
   </tr>
   <tr>
+    <td>2020-02-07</td>
+    <td><a href="https://scholia.toolforge.org/Q89606309">Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China</a> (<a href="http://www.wikidata.org/entity/Q89606309">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CHOM.2020.02.001">10.1016/J.CHOM.2020.02.001</a></td>
+  </tr>
+  <tr>
     <td>2020-02-06</td>
     <td><a href="https://scholia.toolforge.org/Q87410200">Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020</a> (<a href="http://www.wikidata.org/entity/Q87410200">edit</a>)</td>
     <td><a href="https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000062">10.2807/1560-7917.ES.2020.25.5.2000062</a></td>

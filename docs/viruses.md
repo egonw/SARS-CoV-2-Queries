@@ -56,6 +56,18 @@ This gives us:
     <td><a href="https://scholia.toolforge.org/Q88162038">Bat SARS coronavirus Rp1</a> (<a href="http://www.wikidata.org/entity/Q88162038">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97709258">Bat SARS CoV Rf1</a> (<a href="http://www.wikidata.org/entity/Q97709258">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/347537">347537</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97709416">Bat SARS CoV Rm1</a> (<a href="http://www.wikidata.org/entity/Q97709416">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/347536">347536</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97709493">Bat SARS CoV Rp3</a> (<a href="http://www.wikidata.org/entity/Q97709493">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
+  </tr>
 </table>
 
 If we compare this list with that in Section [2.2](#sec:sevenhuman) we note that
@@ -271,6 +283,18 @@ This gives us:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88162038">Bat SARS coronavirus Rp1</a> (<a href="http://www.wikidata.org/entity/Q88162038">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97709258">Bat SARS CoV Rf1</a> (<a href="http://www.wikidata.org/entity/Q97709258">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/347537">347537</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97709416">Bat SARS CoV Rm1</a> (<a href="http://www.wikidata.org/entity/Q97709416">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/347536">347536</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97709493">Bat SARS CoV Rp3</a> (<a href="http://www.wikidata.org/entity/Q97709493">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
   </tr>
 </table>
 

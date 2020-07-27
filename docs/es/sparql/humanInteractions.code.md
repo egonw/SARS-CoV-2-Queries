@@ -30,6 +30,48 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q581324">Furin, paired basic amino acid cleaving enzyme</a> (<a href="http://www.wikidata.org/entity/Q581324">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-16</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97518534">Increased expression of ACE2, the SARS-CoV-2 entry receptor, in alveolar and bronchial epithelium of smokers and COPD subjects</a> (<a href="http://www.wikidata.org/entity/Q97518534">edit</a>)</td>
+    <td><a href="https://doi.org/10.1183/13993003.02378-2020">10.1183/13993003.02378-2020</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-14</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97529401">The SARS-CoV-2 receptor, ACE-2, is expressed on many different cell types: implications for ACE-inhibitor- and angiotensin II receptor blocker-based antihypertensive therapies-reply</a> (<a href="http://www.wikidata.org/entity/Q97529401">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S11739-020-02436-7">10.1007/S11739-020-02436-7</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-13</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q14916427">FURIN</a> (<a href="http://www.wikidata.org/entity/Q14916427">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97525757">Is FURIN gene expression in salivary glands related to SARS-CoV-2 infectivity through saliva?</a> (<a href="http://www.wikidata.org/entity/Q97525757">edit</a>)</td>
+    <td><a href="https://doi.org/10.1136/JCLINPATH-2020-206788">10.1136/JCLINPATH-2020-206788</a></td>
+  </tr>
+  <tr>
     <td>2020-07-10</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14875321">Enzima convertidora de angiotensina II</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>

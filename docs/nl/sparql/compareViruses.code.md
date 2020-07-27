@@ -134,6 +134,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Menselijk coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q37336376">Chimeric exchange of coronavirus nsp5 proteases</a> (<a href="http://www.wikidata.org/entity/Q37336376">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16991954">Menselijk coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q37247481">Clinical impact of human coronaviruses 229E and OC43 infection in diverse adult populations.</a> (<a href="http://www.wikidata.org/entity/Q37247481">edit</a>)</td>
   </tr>
   <tr>
@@ -3698,10 +3702,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q47709393">Modular organization of SARS coronavirus nucleocapsid protein.</a> (<a href="http://www.wikidata.org/entity/Q47709393">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21245141">Molecular advances in the cell biology of SARS-CoV and current disease prevention strategies</a> (<a href="http://www.wikidata.org/entity/Q21245141">edit</a>)</td>
   </tr>
   <tr>
@@ -4027,10 +4027,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q51657769">Questions about comparative genomics of SARS coronavirus isolates.</a> (<a href="http://www.wikidata.org/entity/Q51657769">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q44570340">RNA recognition and cleavage by the SARS coronavirus endoribonuclease.</a> (<a href="http://www.wikidata.org/entity/Q44570340">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -3226,6 +3226,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-07-03</td>
+    <td><a href="https://scholia.toolforge.org/Q97067438">Severe Acute Respiratory Syndrome Coronavirus 2 Prevalence, Seroprevalence, and Exposure Among Evacuees from Wuhan, China, 2020</a> (<a href="http://www.wikidata.org/entity/Q97067438">edit</a>)</td>
+    <td><a href="https://doi.org/10.3201/EID2609.201590">10.3201/EID2609.201590</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-03</td>
     <td><a href="https://scholia.toolforge.org/Q97068879">Unlocking children's voices during SARS-CoV-2 coronavirus (COVID-19) pandemic lockdown</a> (<a href="http://www.wikidata.org/entity/Q97068879">edit</a>)</td>
     <td><a href="https://doi.org/10.1136/ARCHDISCHILD-2020-319894">10.1136/ARCHDISCHILD-2020-319894</a></td>
   </tr>
@@ -4003,6 +4008,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-07-01</td>
     <td><a href="https://scholia.toolforge.org/Q97691368">[Analysis of fatality rates case of SARS-CoV-2 infection in the Autonomous Communities of Spain]</a> (<a href="http://www.wikidata.org/entity/Q97691368">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.SEMERG.2020.06.013">10.1016/J.SEMERG.2020.06.013</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-01</td>
+    <td><a href="https://scholia.toolforge.org/Q97940518">Virus-host interactome and proteomic survey of PBMCs from COVID-19 patients reveal potential virulence factors influencing SARS-CoV-2 pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q97940518">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.MEDJ.2020.07.002">10.1016/J.MEDJ.2020.07.002</a></td>
   </tr>
   <tr>
     <td>2020-06-30</td>

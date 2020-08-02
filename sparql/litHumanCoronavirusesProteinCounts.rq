@@ -19,4 +19,4 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?count WITH {
   INCLUDE %ARTICLES
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 }
-ORDER BY DESC(?count)
+ORDER BY DESC(?count) ?virus ?protein

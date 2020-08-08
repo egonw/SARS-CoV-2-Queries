@@ -53134,6 +53134,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://scholia.toolforge.org/Q95719961">Dose-Confirmation Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1273 COVID-19 Vaccine in Adults Aged 18 Years and Older</a> (<a href="http://www.wikidata.org/entity/Q95719961">edit</a>)</td>
     <td></td>
   </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://scholia.toolforge.org/Q98121875">LSE COVID-19 Blog</a> (<a href="http://www.wikidata.org/entity/Q98121875">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 ## コード例
 ### curl

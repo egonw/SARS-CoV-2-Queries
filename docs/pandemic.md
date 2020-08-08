@@ -22,6 +22,15 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>18902735</td>
+  </tr>
+  <tr>
+    <td>18614177</td>
+  </tr>
+  <tr>
+    <td>18354342</td>
+  </tr>
+  <tr>
     <td>18142718</td>
   </tr>
   <tr>

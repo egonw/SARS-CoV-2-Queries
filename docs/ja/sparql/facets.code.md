@@ -83,9 +83,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q88333605">ソーシャルメディア上でのコロナウイルス感染症流行</a> (<a href="http://www.wikidata.org/entity/Q88333605">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88385577">2019-20年コロナウイルス感染症流行の間の国際援助</a> (<a href="http://www.wikidata.org/entity/Q88385577">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q88545234">コロナパーティー</a> (<a href="http://www.wikidata.org/entity/Q88545234">edit</a>)</td>
   </tr>
   <tr>
@@ -216,6 +213,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97356784">COVID-19 pandemic-related famines</a> (<a href="http://www.wikidata.org/entity/Q97356784">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97671359">2019-20年コロナウイルス感染症流行の間の国際援助</a> (<a href="http://www.wikidata.org/entity/Q97671359">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97770079">Corona party</a> (<a href="http://www.wikidata.org/entity/Q97770079">edit</a>)</td>

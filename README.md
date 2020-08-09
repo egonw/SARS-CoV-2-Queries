@@ -10,7 +10,9 @@ Otherwise, read the [online version](https://egonw.github.io/SARS-CoV-2-Queries/
 
 ## Translations
 
-* [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/ja/)
+* [Japanese](https://egonw.github.io/SARS-CoV-2-Queries/ja/) by Yayamamo
+* [Español](https://egonw.github.io/SARS-CoV-2-Queries/es/) by Marvin Martens, Sharon and Carolina Prado
+* [Português](https://egonw.github.io/SARS-CoV-2-Queries/pt/) by Tiago Lubiana
 
 ## Licenses
 

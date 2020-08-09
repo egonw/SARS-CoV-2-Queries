@@ -5010,6 +5010,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95628083">Broad sarbecovirus neutralizing antibodies define a key site of vulnerability on the SARS-CoV-2 spike protein</a> (<a href="http://www.wikidata.org/entity/Q95628083">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89916836">COVID-19 pneumonia: what has CT taught us?</a> (<a href="http://www.wikidata.org/entity/Q89916836">edit</a>)</td>
   </tr>
   <tr>
@@ -5031,6 +5035,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90404371">Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020</a> (<a href="http://www.wikidata.org/entity/Q90404371">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95601210">Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q95601210">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -5082,6 +5090,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96642659">Sarbecovirus comparative genomics elucidates gene content of SARS-CoV-2 and functional impact of COVID-19 pandemic mutations</a> (<a href="http://www.wikidata.org/entity/Q96642659">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96766478">Serologic cross-reactivity of SARS-CoV-2 with endemic and seasonal Betacoronaviruses</a> (<a href="http://www.wikidata.org/entity/Q96766478">edit</a>)</td>
   </tr>
   <tr>
@@ -5095,6 +5107,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87000965">The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87000965">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">重症急性呼吸器症候群コロナウイルス2型</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96221693">[Source of the COVID-19 pandemic: ecology and genetics of coronaviruses (Betacoronavirus: Coronaviridae) SARS-CoV, SARS-CoV-2 (subgenus Sarbecovirus), and MERS-CoV (subgenus Merbecovirus).]</a> (<a href="http://www.wikidata.org/entity/Q96221693">edit</a>)</td>
   </tr>
 </table>
 ## コード例

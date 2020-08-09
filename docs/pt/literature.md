@@ -956,5 +956,5 @@ Onde encontramos:
 
 ## Referências
 
-1. <a name="citeref1"></a>Rasberry L, Willighagen E, Nielsen FÅ, Mietchen D. Robustifying Scholia: paving the way for knowledge discovery and research assessment through Wikidata [Internet]. Vol. 5, Research Ideas and Outcomes. 2019. 16 p. Available from: https://riojournal.com/article/35820/ doi:[10.3897/RIO.5.E35820](https://doi.org/10.3897/RIO.5.E35820) ([Scholia](https://scholia.toolforge.org/doi/10.3897/RIO.5.E35820))
+1. <a name="citeref1"></a>Rasberry L, Willighagen E, Nielsen FÅ, Mietchen D. Robustifying Scholia: paving the way for knowledge discovery and research assessment through Wikidata. RIO Journal [Internet]. 2019 May 2;5. Available from: https://riojournal.com/article/35820/ doi:[10.3897/RIO.5.E35820](https://doi.org/10.3897/RIO.5.E35820) ([Scholia](https://scholia.toolforge.org/doi/10.3897/RIO.5.E35820))
 

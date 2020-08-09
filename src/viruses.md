@@ -10,7 +10,8 @@ this is different. SARS-CoV-2, of course, is the main topic of this book [<cite>
 
 The <topic>SARS-CoV-2</topic> <topic>virus</topic> is not the first <topic>coronavirus</topic> (CoV). In fact,
 quite a few SARS-related CoVs are known, as clear from this
-[NCBI Taxonomy list](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock).
+[NCBI Taxonomy list](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=694009&lvl=3&keep=1&srchmode=1&unlock)
+[<cite>Q28740981</cite>,<cite>Q98169475</cite>].
 
 We first list all the SARSr-CoV viruses in Wikidata:
 
@@ -70,7 +71,7 @@ We can also query for articles that compare a human coronavirus with another cor
 
 ## NCBI Taxonomy IDs
 
-For the coronaviruses we can list the <topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>] identifiers with:
+For the coronaviruses we can list the <topic>NCBI Taxonomy</topic> [<cite>Q28740981</cite>,<cite>Q98169475</cite>] identifiers with:
 
 <sparql>allSARSCoVVirusesTaxonomy</sparql>
 

@@ -21,7 +21,10 @@
 
 © 2020 Addshore, Daniel Mietchen, Egon Willighagen
 
+[![DOI](https://zenodo.org/badge/247777238.svg)](https://zenodo.org/badge/latestdoi/247777238)
+
 Editor: [Egon L. Willighagen](https://orcid.org/0000-0001-7542-0286)
+Translators: Yayamamo, Marvin Martens, Sharon and Carolina Prado, Tiago Lubiana
 
 License: [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -32,6 +35,17 @@ Wishes, comments, and pull requests can be sent to
 [this GitHub repository](https://github.com/egonw/SARS-CoV-2-Queries/). If you like this effort, please
 star this GitHub repository! While the book itself has the CC-BY-SA, all SPARQL queries in this book can be used
 under the [CCZero license/waiver](https://creativecommons.org/share-your-work/public-domain/cc0/).
+
+## How to cite
+
+This is how to cite the English version of the book:
+
+* Addshore & Mietchen, D. & Willighagen, E. (2020). Wikidata Queries around the SARS-CoV-2 virus and pandemic. Maastricht, NL: Zenodo. https://doi.org/10.5281/zenodo.3977414
+
+To cite on of the translations:
+
+* Addshore & Mietchen, D. & Willighagen, E. (2020). SARS-CoV-2ウイルス及びパンデミックに関するWikidataのクエリ集 (Yayamamo, Trans.). Maastricht, NL: Zenodo. (Original work published in 2020). https://doi.org/10.5281/zenodo.3977414
+* Addshore & Mietchen, D. & Willighagen, E. (2020). Consultas de Wikidata sobre el virus de SARS-CoV-2 y la pandemia (M. Martens & S. Prado & C. Prado, Trans.). Maastricht, NL: Zenodo. (Original work published in 2020. https://doi.org/10.5281/zenodo.3977414
 
 ## Contents
 

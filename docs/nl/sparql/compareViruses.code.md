@@ -190,10 +190,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30203307">Risks to healthcare workers with emerging diseases: lessons from MERS-CoV, Ebola, SARS, and avian flu.</a> (<a href="http://www.wikidata.org/entity/Q30203307">edit</a>)</td>
   </tr>
   <tr>
@@ -242,6 +238,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q84316035">TMPRSS2 Contributes to Virus Spread and Immunopathology in the Airways of Murine Models after Coronavirus Infection</a> (<a href="http://www.wikidata.org/entity/Q84316035">edit</a>)</td>
   </tr>
   <tr>
@@ -262,15 +262,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88198219">From SARS and MERS CoVs to SARS‐CoV‐2: Moving toward more biased codon usage in viral structural and nonstructural genes</a> (<a href="http://www.wikidata.org/entity/Q88198219">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90010785">Mystery deepens over animal source of coronavirus</a> (<a href="http://www.wikidata.org/entity/Q90010785">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -318,6 +310,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88198219">From SARS and MERS CoVs to SARS‐CoV‐2: Moving toward more biased codon usage in viral structural and nonstructural genes</a> (<a href="http://www.wikidata.org/entity/Q88198219">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89866691">Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses</a> (<a href="http://www.wikidata.org/entity/Q89866691">edit</a>)</td>
   </tr>
   <tr>
@@ -335,6 +331,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87945289">Novel coronavirus 2019-nCoV: prevalence, biological and clinical characteristics comparison with SARS-CoV and MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q87945289">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

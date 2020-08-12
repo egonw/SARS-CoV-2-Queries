@@ -31,126 +31,126 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   </tr>
   <tr>
     <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
   </tr>
   <tr>
     <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
   </tr>
   <tr>
     <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q581324">Furin, paired basic amino acid cleaving enzyme</a> (<a href="http://www.wikidata.org/entity/Q581324">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
   </tr>
   <tr>
     <td>2020-07-16</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97518534">Increased expression of ACE2, the SARS-CoV-2 entry receptor, in alveolar and bronchial epithelium of smokers and COPD subjects</a> (<a href="http://www.wikidata.org/entity/Q97518534">edit</a>)</td>
     <td><a href="https://doi.org/10.1183/13993003.02378-2020">10.1183/13993003.02378-2020</a></td>
   </tr>
   <tr>
     <td>2020-07-14</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97529401">The SARS-CoV-2 receptor, ACE-2, is expressed on many different cell types: implications for ACE-inhibitor- and angiotensin II receptor blocker-based antihypertensive therapies-reply</a> (<a href="http://www.wikidata.org/entity/Q97529401">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S11739-020-02436-7">10.1007/S11739-020-02436-7</a></td>
   </tr>
   <tr>
     <td>2020-07-13</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14916427">FURIN</a> (<a href="http://www.wikidata.org/entity/Q14916427">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97525757">Is FURIN gene expression in salivary glands related to SARS-CoV-2 infectivity through saliva?</a> (<a href="http://www.wikidata.org/entity/Q97525757">edit</a>)</td>
     <td><a href="https://doi.org/10.1136/JCLINPATH-2020-206788">10.1136/JCLINPATH-2020-206788</a></td>
   </tr>
   <tr>
     <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14875321">ACE2</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97531023">SARS-CoV-2 infection in the lungs of human ACE2 transgenic mice causes severe inflammation, immune cell infiltration, and compromised respiratory function</a> (<a href="http://www.wikidata.org/entity/Q97531023">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.07.09.196188">10.1101/2020.07.09.196188</a></td>
   </tr>
   <tr>
     <td>2020-06-08</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96221150">Single-cell RNA analysis on ACE2 expression provides insights into SARS-CoV-2 potential entry into the bloodstream and heart injury</a> (<a href="http://www.wikidata.org/entity/Q96221150">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JCP.29802">10.1002/JCP.29802</a></td>
   </tr>
   <tr>
     <td>2020-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96031030">TMPRSS2 and ACE2 Coexpression in SARS-CoV-2 Salivary Glands Infection</a> (<a href="http://www.wikidata.org/entity/Q96031030">edit</a>)</td>
     <td><a href="https://doi.org/10.1177/0022034520933589">10.1177/0022034520933589</a></td>
   </tr>
   <tr>
     <td>2020-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96031030">TMPRSS2 and ACE2 Coexpression in SARS-CoV-2 Salivary Glands Infection</a> (<a href="http://www.wikidata.org/entity/Q96031030">edit</a>)</td>
     <td><a href="https://doi.org/10.1177/0022034520933589">10.1177/0022034520933589</a></td>
   </tr>
   <tr>
     <td>2020-05-23</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18032025">TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q18032025">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96223294">Age-related expression of SARS-CoV-2 priming protease TMPRSS2 in the developing lung</a> (<a href="http://www.wikidata.org/entity/Q96223294">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.05.22.111187">10.1101/2020.05.22.111187</a></td>
   </tr>
   <tr>
     <td>2020-05-21</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q95601060">Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q95601060">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2020.05.027">10.1016/J.CELL.2020.05.027</a></td>
   </tr>
   <tr>
     <td>2020-05-06</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q94589965">Cell entry mechanisms of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q94589965">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.2003138117">10.1073/PNAS.2003138117</a></td>
   </tr>
   <tr>
     <td>2020-05-06</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q581324">Furin, paired basic amino acid cleaving enzyme</a> (<a href="http://www.wikidata.org/entity/Q581324">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q94589965">Cell entry mechanisms of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q94589965">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.2003138117">10.1073/PNAS.2003138117</a></td>
   </tr>
   <tr>
     <td>2020-04-27</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14875321">ACE2</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q94938805">SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues</a> (<a href="http://www.wikidata.org/entity/Q94938805">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2020.04.035">10.1016/J.CELL.2020.04.035</a></td>
   </tr>
   <tr>
     <td>2020-04-22</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18053181">PIKFYVE</a> (<a href="http://www.wikidata.org/entity/Q18053181">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q95606465">Inhibition of PIKfyve kinase prevents infection by EBOV and SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95606465">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.04.21.053058">10.1101/2020.04.21.053058</a></td>
   </tr>
   <tr>
     <td>2020-04-20</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q95628508">Broad and differential animal ACE2 receptor usage by SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95628508">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.04.19.048710">10.1101/2020.04.19.048710</a></td>
   </tr>
   <tr>
     <td>2020-04-08</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q91703665">Angiotensin Converting Enzyme 2: SARS-CoV-2 Receptor and Regulator of the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q91703665">edit</a>)</td>
     <td><a href="https://doi.org/10.1161/CIRCRESAHA.120.317015">10.1161/CIRCRESAHA.120.317015</a></td>
@@ -164,56 +164,56 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   </tr>
   <tr>
     <td>2020-04-01</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87830056">The proximal origin of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87830056">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41591-020-0820-9">10.1038/S41591-020-0820-9</a></td>
   </tr>
   <tr>
     <td>2020-03-27</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88978459">ACE2 Expression is Increased in the Lungs of Patients with Comorbidities Associated with Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q88978459">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.03.21.20040261">10.1101/2020.03.21.20040261</a></td>
   </tr>
   <tr>
     <td>2020-03-05</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14865236">IL6</a> (<a href="http://www.wikidata.org/entity/Q14865236">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87755922">Effective Treatment of Severe COVID-19 Patients with Tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q87755922">edit</a>)</td>
     <td><a href="https://doi.org/10.12074/202003.00026">10.12074/202003.00026</a></td>
   </tr>
   <tr>
     <td>2020-03-04</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90027115">Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics</a> (<a href="http://www.wikidata.org/entity/Q90027115">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/DDR.21656">10.1002/DDR.21656</a></td>
   </tr>
   <tr>
     <td>2020-03-04</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292103">SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor</a> (<a href="http://www.wikidata.org/entity/Q88292103">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2020.02.052">10.1016/J.CELL.2020.02.052</a></td>
   </tr>
   <tr>
     <td>2020-03-04</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292103">SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor</a> (<a href="http://www.wikidata.org/entity/Q88292103">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2020.02.052">10.1016/J.CELL.2020.02.052</a></td>
   </tr>
   <tr>
     <td>2020-03-04</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87726414">Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2</a> (<a href="http://www.wikidata.org/entity/Q87726414">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABB2762">10.1126/SCIENCE.ABB2762</a></td>
   </tr>
   <tr>
     <td>2020-03-03</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88291889">Angiotensin-converting enzyme 2 (ACE2) as a SARS-CoV-2 receptor: molecular mechanisms and potential therapeutic target</a> (<a href="http://www.wikidata.org/entity/Q88291889">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S00134-020-05985-9">10.1007/S00134-020-05985-9</a></td>
@@ -227,14 +227,14 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   </tr>
   <tr>
     <td>2020-02-24</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89866691">Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses</a> (<a href="http://www.wikidata.org/entity/Q89866691">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41564-020-0688-Y">10.1038/S41564-020-0688-Y</a></td>
   </tr>
   <tr>
     <td>2020-02-01</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q84225932">The novel coronavirus 2019 (2019-nCoV) uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells</a> (<a href="http://www.wikidata.org/entity/Q84225932">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.01.31.929042">10.1101/2020.01.31.929042</a></td>

@@ -35,7 +35,7 @@ Isso nos dá:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415852">1415852</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2697049">2697049</a></td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@ Isso nos dá um bom ponto de partida para estudá-los:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/31631">31631</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2697049">2697049</a></td>
   </tr>
 </table>
@@ -265,7 +265,7 @@ Isso nos dá:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415852">1415852</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2697049">2697049</a></td>
   </tr>
   <tr>

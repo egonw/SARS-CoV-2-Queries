@@ -10,4 +10,4 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     ?trial wdt:P4844 ?intervention .
   }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-} ORDER BY DESC(?identifier)
+} ORDER BY DESC(?identifier) ASC(?intervention)

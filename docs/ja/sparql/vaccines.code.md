@@ -189,10 +189,6 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q134808">vaccine</a> (<a href="http://www.wikidata.org/entity/Q134808">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
 </table>

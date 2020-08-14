@@ -846,6 +846,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2020-08-10</td>
     <td>19718030</td>
   </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td>19936210</td>
+  </tr>
+  <tr>
+    <td>2020-08-12</td>
+    <td>20162474</td>
+  </tr>
 </table>
 ## Ejemplos de código
 ### curl

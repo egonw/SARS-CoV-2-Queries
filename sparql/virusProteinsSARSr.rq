@@ -12,4 +12,4 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
   OPTIONAL { ?protein wdt:P637 ?refseq }
   OPTIONAL { ?protein wdt:P352 ?uniprot }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-}
+} ORDER BY ASC(?virus) ASC(?protein)

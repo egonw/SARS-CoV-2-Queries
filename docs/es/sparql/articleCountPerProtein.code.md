@@ -6,13 +6,11 @@
 SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   ?protein wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q8054 .
   ?work wdt:P921 ?protein .
-  OPTIONAL { ?work wdt:P577 ?dates . }
-  OPTIONAL { ?work wdt:P356 ?doi . }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
 } GROUP BY ?protein ?proteinLabel
   ORDER BY ASC(?proteinLabel)
 ```
-[ejecutar](https://query.wikidata.org/embed.html#%23defaultView%3ABarChart%0ASELECT%20%3Fprotein%20%3FproteinLabel%20%28COUNT%28%3Fwork%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fwork%20wdt%3AP921%20%3Fprotein%20.%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP577%20%3Fdates%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP356%20%3Fdoi%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fprotein%20%3FproteinLabel%0A%20%20ORDER%20BY%20ASC%28%3FproteinLabel%29%0A) o [editar](https://query.wikidata.org/#%23defaultView%3ABarChart%0ASELECT%20%3Fprotein%20%3FproteinLabel%20%28COUNT%28%3Fwork%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fwork%20wdt%3AP921%20%3Fprotein%20.%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP577%20%3Fdates%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP356%20%3Fdoi%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fprotein%20%3FproteinLabel%0A%20%20ORDER%20BY%20ASC%28%3FproteinLabel%29%0A)
+[ejecutar](https://query.wikidata.org/embed.html#%23defaultView%3ABarChart%0ASELECT%20%3Fprotein%20%3FproteinLabel%20%28COUNT%28%3Fwork%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fwork%20wdt%3AP921%20%3Fprotein%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fprotein%20%3FproteinLabel%0A%20%20ORDER%20BY%20ASC%28%3FproteinLabel%29%0A) o [editar](https://query.wikidata.org/#%23defaultView%3ABarChart%0ASELECT%20%3Fprotein%20%3FproteinLabel%20%28COUNT%28%3Fwork%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fwork%20wdt%3AP921%20%3Fprotein%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fprotein%20%3FproteinLabel%0A%20%20ORDER%20BY%20ASC%28%3FproteinLabel%29%0A)
 
 
 ### Resultados

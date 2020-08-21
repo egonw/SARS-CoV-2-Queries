@@ -1,0 +1,7 @@
+#defaultView:BarChart
+SELECT ?gene ?geneLabel (COUNT(?work) AS ?count) WHERE {
+  ?gene wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q7187 .
+  ?work wdt:P921 ?gene .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+} GROUP BY ?gene ?geneLabel
+  ORDER BY ASC(?geneLabel)

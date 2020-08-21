@@ -18,7 +18,15 @@ This gives these 10 papers:
 
 ### about SARS-CoV-2 genes
 
-We can also query for articles about the genes:
+We can also query for articles about the genes. It breaks down like this:
+
+<iframe>articleCountPerGene</iframe>
+
+We get that bar chart with this query:
+
+<sparql>articleCountPerGene</sparql>
+
+The articles themselves we can list with this query:
 
 <sparql>litSARSCoV2Genes</sparql>
 

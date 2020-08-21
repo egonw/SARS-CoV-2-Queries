@@ -28,7 +28,15 @@ Which currently returns:
 
 ### about SARS-CoV-2 proteins
 
-And about the virus proteins:
+And about the virus proteins we have this distribution of articles:
+
+<iframe>articleCountPerProtein</iframe>
+
+We get that bar chart with this query:
+
+<sparql>articleCountPerProtein</sparql>
+
+The articles themselves we can list with this query:
 
 <sparql>litSARSCoV2Proteins</sparql>
 

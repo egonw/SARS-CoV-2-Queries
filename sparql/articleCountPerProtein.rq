@@ -1,0 +1,9 @@
+#defaultView:BarChart
+SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
+  ?protein wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q8054 .
+  ?work wdt:P921 ?protein .
+  OPTIONAL { ?work wdt:P577 ?dates . }
+  OPTIONAL { ?work wdt:P356 ?doi . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+} GROUP BY ?protein ?proteinLabel
+  ORDER BY ASC(?proteinLabel)

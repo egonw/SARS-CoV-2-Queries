@@ -22,6 +22,10 @@ have the more liberal [CCZero](CC0.md).
 ## Authors and translators
 
 * Addshore
+* Carolina Prado
 * Daniel Mietchen
 * Egon Willighagen
+* Marvin Martens
+* Sharon Prado
+* Tiago Lubiana
 * Yayamamo

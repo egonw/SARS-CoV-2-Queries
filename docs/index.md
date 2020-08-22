@@ -46,6 +46,7 @@ To cite one of the translations:
 
 * Addshore & Mietchen, D. & Willighagen, E. (2020). SARS-CoV-2ウイルス及びパンデミックに関するWikidataのクエリ集 (Yayamamo, Trans.). Maastricht, NL: Zenodo. (Original work published in 2020). [https://doi.org/10.5281/zenodo.3977414](https://doi.org/10.5281/zenodo.3977414)
 * Addshore & Mietchen, D. & Willighagen, E. (2020). Consultas de Wikidata sobre el virus de SARS-CoV-2 y la pandemia (M. Martens & S. Prado & C. Prado, Trans.). Maastricht, NL: Zenodo. (Original work published in 2020. [https://doi.org/10.5281/zenodo.3977414](https://doi.org/10.5281/zenodo.3977414)
+* Addshore & Mietchen, D. & Willighagen, E. (2020). Buscas no Wikidata sobre o vírus SARS-CoV-2 e a pandemia (T. Lubiana, Trans.). Maastricht, NL: Zenodo. (Original work published in 2020. [https://doi.org/10.5281/zenodo.3977414](https://doi.org/10.5281/zenodo.3977414)
 
 ## Contents
 

@@ -29,7 +29,7 @@ SELECT ?gene ?geneLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>

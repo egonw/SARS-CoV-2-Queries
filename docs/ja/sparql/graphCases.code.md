@@ -3630,6 +3630,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q794">イラン</a> (<a href="http://www.wikidata.org/entity/Q794">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-08-22</td>
+    <td>2975701</td>
+    <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-08-21</td>
     <td>2905823</td>
     <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
@@ -10105,6 +10110,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q1246">コソボ共和国</a> (<a href="http://www.wikidata.org/entity/Q1246">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-08-21</td>
+    <td>522138</td>
+    <td><a href="https://scholia.toolforge.org/Q739">コロンビア</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-08-20</td>
     <td>513719</td>
     <td><a href="https://scholia.toolforge.org/Q739">コロンビア</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
@@ -11403,6 +11413,11 @@ WHERE {
     <td>2020-03-29</td>
     <td>10</td>
     <td><a href="https://scholia.toolforge.org/Q858">シリア</a> (<a href="http://www.wikidata.org/entity/Q858">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-08-21</td>
+    <td>56216</td>
+    <td><a href="https://scholia.toolforge.org/Q334">シンガポール</a> (<a href="http://www.wikidata.org/entity/Q334">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-08-20</td>
@@ -25265,6 +25280,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q419">ペルー</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-08-22</td>
+    <td>53381</td>
+    <td><a href="https://scholia.toolforge.org/Q783">ホンジュラス</a> (<a href="http://www.wikidata.org/entity/Q783">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-08-19</td>
     <td>52296</td>
     <td><a href="https://scholia.toolforge.org/Q783">ホンジュラス</a> (<a href="http://www.wikidata.org/entity/Q783">edit</a>)</td>
@@ -31398,6 +31418,11 @@ WHERE {
     <td>2020-01-20</td>
     <td>278</td>
     <td><a href="https://scholia.toolforge.org/Q148">中華人民共和国</a> (<a href="http://www.wikidata.org/entity/Q148">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-08-21</td>
+    <td>487</td>
+    <td><a href="https://scholia.toolforge.org/Q865">中華民国</a> (<a href="http://www.wikidata.org/entity/Q865">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-08-20</td>

@@ -5805,6 +5805,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q229">Chipre</a> (<a href="http://www.wikidata.org/entity/Q229">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-08-21</td>
+    <td>522138</td>
+    <td><a href="https://scholia.toolforge.org/Q739">Colômbia</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-08-20</td>
     <td>513719</td>
     <td><a href="https://scholia.toolforge.org/Q739">Colômbia</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
@@ -13653,6 +13658,11 @@ WHERE {
     <td>2020-04-07</td>
     <td>25</td>
     <td><a href="https://scholia.toolforge.org/Q790">Haiti</a> (<a href="http://www.wikidata.org/entity/Q790">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-08-22</td>
+    <td>53381</td>
+    <td><a href="https://scholia.toolforge.org/Q783">Honduras</a> (<a href="http://www.wikidata.org/entity/Q783">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-08-19</td>
@@ -26145,6 +26155,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q1042">Seychelles</a> (<a href="http://www.wikidata.org/entity/Q1042">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-08-21</td>
+    <td>56216</td>
+    <td><a href="https://scholia.toolforge.org/Q334">Singapura</a> (<a href="http://www.wikidata.org/entity/Q334">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-08-20</td>
     <td>56099</td>
     <td><a href="https://scholia.toolforge.org/Q334">Singapura</a> (<a href="http://www.wikidata.org/entity/Q334">edit</a>)</td>
@@ -28638,6 +28653,11 @@ WHERE {
     <td>2020-01-20</td>
     <td>2</td>
     <td><a href="https://scholia.toolforge.org/Q869">Tailândia</a> (<a href="http://www.wikidata.org/entity/Q869">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-08-21</td>
+    <td>487</td>
+    <td><a href="https://scholia.toolforge.org/Q865">Taiwan</a> (<a href="http://www.wikidata.org/entity/Q865">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-08-20</td>
@@ -31653,6 +31673,11 @@ WHERE {
     <td>2020-02-26</td>
     <td>2</td>
     <td><a href="https://scholia.toolforge.org/Q40">Áustria</a> (<a href="http://www.wikidata.org/entity/Q40">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-08-22</td>
+    <td>2975701</td>
+    <td><a href="https://scholia.toolforge.org/Q668">Índia</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-08-21</td>

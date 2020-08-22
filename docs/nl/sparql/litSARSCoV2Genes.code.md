@@ -26,6 +26,21 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1128/MBIO.01610-20">10.1128/MBIO.01610-20</a></td>
   </tr>
   <tr>
+    <td>2020-06-23</td>
+    <td><a href="https://scholia.toolforge.org/Q97086727">Identification of multiple large deletions in ORF7a resulting in in-frame gene fusions in clinical SARS-CoV-2 isolates</a> (<a href="http://www.wikidata.org/entity/Q97086727">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JCV.2020.104523">10.1016/J.JCV.2020.104523</a></td>
+  </tr>
+  <tr>
+    <td>2020-06-16</td>
+    <td><a href="https://scholia.toolforge.org/Q96435377">SARS-CoV-2 genomic surveillance in Taiwan revealed novel ORF8-deletion mutant and clade possibly associated with infections in Middle East</a> (<a href="http://www.wikidata.org/entity/Q96435377">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1782271">10.1080/22221751.2020.1782271</a></td>
+  </tr>
+  <tr>
+    <td>2020-05-25</td>
+    <td><a href="https://scholia.toolforge.org/Q95602587">Genomic surveillance of SARS-CoV-2 in Thailand reveals mixed imported populations, a local lineage expansion and a virus with truncated ORF7a</a> (<a href="http://www.wikidata.org/entity/Q95602587">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.05.22.20108498">10.1101/2020.05.22.20108498</a></td>
+  </tr>
+  <tr>
     <td>2020-05-18</td>
     <td><a href="https://scholia.toolforge.org/Q95624520">Molecular conservation and Differential mutation on ORF3a gene in Indian SARS-CoV2 genomes</a> (<a href="http://www.wikidata.org/entity/Q95624520">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.05.14.096107">10.1101/2020.05.14.096107</a></td>

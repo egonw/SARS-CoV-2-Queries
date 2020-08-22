@@ -130,6 +130,7 @@ https://scholia.toolforge.org/Q222
 https://scholia.toolforge.org/Q224
 https://scholia.toolforge.org/Q225
 https://scholia.toolforge.org/Q2260058
+https://scholia.toolforge.org/Q22676640
 https://scholia.toolforge.org/Q227
 https://scholia.toolforge.org/Q228
 https://scholia.toolforge.org/Q229

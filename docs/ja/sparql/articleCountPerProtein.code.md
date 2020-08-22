@@ -109,7 +109,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>

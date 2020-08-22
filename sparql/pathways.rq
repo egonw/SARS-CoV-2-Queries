@@ -11,4 +11,4 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
   ?thing wdt:P703 ?virus .
   ?pathway wdt:P31 wd:Q4915012 ; wdt:P527 ?thing .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-}
+} ORDER BY ASC(?virus) ASC(?thing) ASC(?pathway)

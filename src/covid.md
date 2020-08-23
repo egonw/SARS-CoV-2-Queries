@@ -48,13 +48,3 @@ This lists these effects:
 
 <out>effects</out>
 
-<section level="##" label="trials">Clinical trials</section>
-
-While far from complete, <topic>clinical trials</topic> registered in <topic>clinicaltrials.gov</topic> are finding their way
-into Wikidata. The following query lists a number of clinical trials with COVID-19
-as main topic:
-
-<sparql>clinicalTrials</sparql>
-
-This lists has become very long, and click one of the above links
-to list them all.

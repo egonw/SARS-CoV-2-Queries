@@ -229,6 +229,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97965631">Cronologia da pandemia de COVID-19 em agosto de 2020</a> (<a href="http://www.wikidata.org/entity/Q97965631">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98557220">event affected by the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q98557220">edit</a>)</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

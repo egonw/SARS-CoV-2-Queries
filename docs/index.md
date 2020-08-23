@@ -63,7 +63,7 @@ To cite one of the translations:
 3. [COVID-19](covid.md) <br />
 3.1. [SARS-CoV-2](covid.md#sars-cov-2) <br />
 3.2. [Symptoms](covid.md#symptoms) <br />
-3.3. [Clinical trials](covid.md#clinical-trials) <br />
+3.3. [Effects](covid.md#effects) <br />
 4. [The pandemic](pandemic.md) <br />
 4.1. [Virus <topic>transmission</topic>](pandemic.md#virus-<topic>transmission</topic>) <br />
 4.2. [Progression](pandemic.md#progression) <br />
@@ -92,7 +92,8 @@ To cite one of the translations:
 7. [Towards a solution](solution.md) <br />
 7.1. [Antibodies](solution.md#antibodies) <br />
 7.2. [Vaccines](solution.md#vaccines) <br />
-7.3. [Drug repurposing](solution.md#drug-repurposing) <br />
+7.3. [Clinical trials](solution.md#clinical-trials) <br />
+7.4. [Drug repurposing](solution.md#drug-repurposing) <br />
 8. [Literature](literature.md) <br />
 8.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
 8.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />

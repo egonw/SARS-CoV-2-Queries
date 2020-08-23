@@ -36,6 +36,18 @@ Listing these symptoms:
 
 <out>symptoms</out>
 
+## Effects
+
+Besides the above symptoms, the following effects are also observed. Please note that
+the information in Wikidata has more information, because some effects are only observed
+for some people:
+
+<sparql>effects</sparql>
+
+This lists these effects:
+
+<out>effects</out>
+
 <section level="##" label="trials">Clinical trials</section>
 
 While far from complete, <topic>clinical trials</topic> registered in <topic>clinicaltrials.gov</topic> are finding their way

@@ -1,0 +1,6 @@
+SELECT ?effect ?effectLabel WHERE {
+  wd:Q84263196 wdt:P1542 ?effect .
+  MINUS { ?effect wdt:P31 wd:Q12184 }
+  MINUS { ?effect wdt:P31 wd:Q3241045 }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+}

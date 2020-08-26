@@ -83,7 +83,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q27107351">methylprednisolone acetate</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27107351">酢酸メチルプレドニゾロン</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q27106392">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27106392">酢酸デキサメタゾン</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">サルグラモスチム</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>

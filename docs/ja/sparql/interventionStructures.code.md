@@ -65,7 +65,7 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Prednisolone.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q27107351">methylprednisolone acetate</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27107351">酢酸メチルプレドニゾロン</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Methylprednisolone%20acetate.svg</td>
   </tr>
 </table>

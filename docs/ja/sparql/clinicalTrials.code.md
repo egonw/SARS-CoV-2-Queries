@@ -575,7 +575,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435739">Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q89435739">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q27107351">methylprednisolone acetate</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27107351">酢酸メチルプレドニゾロン</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04329650</td>
   </tr>
@@ -899,7 +899,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153372">COVID-19-associated ARDS Treated With Dexamethasone: Alliance Covid-19 Brasil III</a> (<a href="http://www.wikidata.org/entity/Q89153372">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q27106392">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27106392">酢酸デキサメタゾン</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04327401</td>
   </tr>
@@ -929,7 +929,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153456">Sargramostim in Patients With Acute Hypoxic Respiratory Failure Due to COVID-19 (SARPAC)</a> (<a href="http://www.wikidata.org/entity/Q89153456">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">サルグラモスチム</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">第IV相試験</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04326920</td>
   </tr>
@@ -977,7 +977,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153949">Efficacy of Dexamethasone Treatment for Patients With ARDS Caused by COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153949">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q27106392">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27106392">酢酸デキサメタゾン</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">第IV相試験</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04325061</td>
   </tr>
@@ -989,13 +989,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">サルグラモスチム</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824069">第I相試験</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">サルグラモスチム</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>
@@ -1079,13 +1079,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154372">Efficacy of Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome</a> (<a href="http://www.wikidata.org/entity/Q89154372">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q27107351">methylprednisolone acetate</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27107351">酢酸メチルプレドニゾロン</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04323592</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154372">Efficacy of Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome</a> (<a href="http://www.wikidata.org/entity/Q89154372">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q27107351">methylprednisolone acetate</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27107351">酢酸メチルプレドニゾロン</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04323592</td>
   </tr>

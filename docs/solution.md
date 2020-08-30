@@ -172,6 +172,10 @@ It currently list not many:
     <td><a href="https://scholia.toolforge.org/Q96695067">mRNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q96695067">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
@@ -180,8 +184,16 @@ It currently list not many:
     <td><a href="https://scholia.toolforge.org/Q96841548">adenovirus-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
@@ -196,23 +208,11 @@ It currently list not many:
     <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154000">Zydus Cadila Healthcare Limited  COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96695266">INO-4800</a> (<a href="http://www.wikidata.org/entity/Q96695266">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154000">Zydus Cadila Healthcare Limited  COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154226">Osaka University COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154226">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154226">Osaka University COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154226">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154228">Genexine Consortium (GenNBio COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154228">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154000">ZyCoV-D</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/vaccines.code.html">sparql/vaccines.rq</a></td></tr>

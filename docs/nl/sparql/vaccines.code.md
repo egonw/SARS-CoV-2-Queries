@@ -28,6 +28,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96695067">mRNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q96695067">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
@@ -36,8 +40,16 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96841548">adenovirus-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
@@ -52,27 +64,23 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154000">Zydus Cadila Healthcare Limited  COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96695266">INO-4800</a> (<a href="http://www.wikidata.org/entity/Q96695266">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154000">ZyCoV-D</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154000">Zydus Cadila Healthcare Limited  COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154000">ZyCoV-D</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154226">Osaka University COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154226">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154228">GX-19</a> (<a href="http://www.wikidata.org/entity/Q97154228">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154226">Osaka University COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154226">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154228">Genexine Consortium (GenNBio COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154228">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154228">Genexine Consortium (GenNBio COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154228">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154228">GX-19</a> (<a href="http://www.wikidata.org/entity/Q97154228">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>
   <tr>
@@ -100,27 +108,19 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q3560939">inactivated vaccine</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154233">Sinovac COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154233">Sinovac COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3560939">inactivated vaccine</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154234">Gamaleya  Research Institute COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154234">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-Cov2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154234">Gamaleya  Research Institute COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154234">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q96841548">adenovirus-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">Novavax COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">Novavax COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-Cov2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>
@@ -132,51 +132,59 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154237">Vaxine Pty Ltd COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154237">Vaxine Pty Ltd COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154238">Clover Biopharmaceuticals Inc. COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154238">Clover Biopharmaceuticals Inc. COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">CureVac COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154239">CVnCoV</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">CureVac COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154239">CVnCoV</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153934">RNA-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153934">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">BioNTech COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154239">CVnCoV</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">BioNTech COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153934">RNA-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153934">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154241">Imperial College London COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154241">LNP-nCoVsaRNA</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154241">Imperial College London COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154241">LNP-nCoVsaRNA</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153934">RNA-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153934">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154242">People's Liberation Army (PLA) Academy of Military Sciences COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154242">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154241">LNP-nCoVsaRNA</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154242">Arcov</a> (<a href="http://www.wikidata.org/entity/Q97154242">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154242">People's Liberation Army (PLA) Academy of Military Sciences COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154242">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154242">Arcov</a> (<a href="http://www.wikidata.org/entity/Q97154242">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153934">RNA-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153934">edit</a>)</td>
   </tr>
   <tr>
@@ -189,11 +197,59 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96841548">adenovirus-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98652743">AG0301-COVID19</a> (<a href="http://www.wikidata.org/entity/Q98652743">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98652743">AG0301-COVID19</a> (<a href="http://www.wikidata.org/entity/Q98652743">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98655215">Ad26.COV2.S</a> (<a href="http://www.wikidata.org/entity/Q98655215">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98655215">Ad26.COV2.S</a> (<a href="http://www.wikidata.org/entity/Q98655215">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96841548">adenovirus-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98703813">Covaxin / BBV152</a> (<a href="http://www.wikidata.org/entity/Q98703813">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98703813">Covaxin / BBV152</a> (<a href="http://www.wikidata.org/entity/Q98703813">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560939">inactivated vaccine</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98709202">Soberana</a> (<a href="http://www.wikidata.org/entity/Q98709202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98709202">Soberana</a> (<a href="http://www.wikidata.org/entity/Q98709202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98710728">University of Queensland COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q98710728">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98710728">University of Queensland COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q98710728">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98713328">Lunar-COV19</a> (<a href="http://www.wikidata.org/entity/Q98713328">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98713328">Lunar-COV19</a> (<a href="http://www.wikidata.org/entity/Q98713328">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153934">RNA-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153934">edit</a>)</td>
   </tr>
 </table>
 ## Broncode voorbeelden

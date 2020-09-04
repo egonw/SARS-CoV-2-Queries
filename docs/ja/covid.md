@@ -74,9 +74,6 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q254327">食欲不振</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q344873">急性呼吸窮迫症候群</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q468433">嗅覚脱失</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
   </tr>
   <tr>

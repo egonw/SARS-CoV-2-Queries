@@ -124,6 +124,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-Cov2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q97154236">Anhui Zhifei Longcom Biopharmaceutical COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154236">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
@@ -146,6 +150,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154239">CVnCoV</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
@@ -166,6 +174,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154240">BNT162</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153934">RNA-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153934">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154241">LNP-nCoVsaRNA</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
@@ -220,6 +232,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96841548">adenovirus-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q98655215">Ad26.COV2.S</a> (<a href="http://www.wikidata.org/entity/Q98655215">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q98703813">Covaxin / BBV152</a> (<a href="http://www.wikidata.org/entity/Q98703813">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
@@ -228,11 +244,11 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q3560939">inactivated vaccine</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q98709202">Soberana</a> (<a href="http://www.wikidata.org/entity/Q98709202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98709202">Finlay-FR-1</a> (<a href="http://www.wikidata.org/entity/Q98709202">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q98709202">Soberana</a> (<a href="http://www.wikidata.org/entity/Q98709202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98709202">Finlay-FR-1</a> (<a href="http://www.wikidata.org/entity/Q98709202">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153933">Protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>

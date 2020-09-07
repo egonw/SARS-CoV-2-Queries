@@ -506,11 +506,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.02.19.956581">10.1101/2020.02.19.956581</a></td>
   </tr>
   <tr>
-    <td>2020-02-20</td>
-    <td><a href="https://scholia.toolforge.org/Q93843827">Potential inhibitors against papain-like protease of novel coronavirus (SARS-CoV-2) from FDA approved drugs</a> (<a href="http://www.wikidata.org/entity/Q93843827">edit</a>)</td>
-    <td><a href="https://doi.org/10.26434/CHEMRXIV.11860011">10.26434/CHEMRXIV.11860011</a></td>
-  </tr>
-  <tr>
     <td>2020-02-19</td>
     <td><a href="https://scholia.toolforge.org/Q89108866">Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation</a> (<a href="http://www.wikidata.org/entity/Q89108866">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABB2507">10.1126/SCIENCE.ABB2507</a></td>

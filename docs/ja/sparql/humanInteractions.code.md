@@ -436,6 +436,20 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1128/JVI.00090-07">10.1128/JVI.00090-07</a></td>
   </tr>
   <tr>
+    <td>2005-09-01</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21100827">C-type lectin domain family 4 member G</a> (<a href="http://www.wikidata.org/entity/Q21100827">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38323040">LSECtin interacts with filovirus glycoproteins and the spike protein of SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q38323040">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.VIROL.2005.06.026">10.1016/J.VIROL.2005.06.026</a></td>
+  </tr>
+  <tr>
+    <td>2004-11-02</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21100841">C-type lectin domain family 4 member M</a> (<a href="http://www.wikidata.org/entity/Q21100841">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q24307914">CD209L (L-SIGN) is a receptor for severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q24307914">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.0403812101">10.1073/PNAS.0403812101</a></td>
+  </tr>
+  <tr>
     <td>2004-06-01</td>
     <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>

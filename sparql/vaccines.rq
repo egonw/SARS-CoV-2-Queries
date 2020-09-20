@@ -3,5 +3,5 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
            wdt:P1924 ?for .
   ?vaccine wdt:P31 ?type .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 } ORDER BY ASC(?vaccine) ASC(?type)

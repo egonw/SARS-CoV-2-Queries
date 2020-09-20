@@ -135,6 +135,20 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1073/PNAS.2003138117">10.1073/PNAS.2003138117</a></td>
   </tr>
   <tr>
+    <td>2020-05-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21119219">Transmembrane serine protease 4</a> (<a href="http://www.wikidata.org/entity/Q21119219">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94670006">TMPRSS2 and TMPRSS4 promote SARS-CoV-2 infection of human small intestinal enterocytes</a> (<a href="http://www.wikidata.org/entity/Q94670006">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIIMMUNOL.ABC3582">10.1126/SCIIMMUNOL.ABC3582</a></td>
+  </tr>
+  <tr>
+    <td>2020-05-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94670006">TMPRSS2 and TMPRSS4 promote SARS-CoV-2 infection of human small intestinal enterocytes</a> (<a href="http://www.wikidata.org/entity/Q94670006">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIIMMUNOL.ABC3582">10.1126/SCIIMMUNOL.ABC3582</a></td>
+  </tr>
+  <tr>
     <td>2020-04-27</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14875321">Enzima convertidora de angiotensina II</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>

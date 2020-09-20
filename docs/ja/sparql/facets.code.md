@@ -239,7 +239,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q99228019">list of Indonesian health workers due to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q99228019">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q99360983">The COVAX Alliance</a> (<a href="http://www.wikidata.org/entity/Q99360983">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99360983">COVAX</a> (<a href="http://www.wikidata.org/entity/Q99360983">edit</a>)</td>
   </tr>
 </table>
 ## コード例

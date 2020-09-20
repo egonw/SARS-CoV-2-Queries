@@ -539,7 +539,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435639">Randomized, Controlled, Double-blind Clinical Trial Comparing the Efficacy and Safety of Chemoprophylaxis With Hydroxychloroquine in Patients Under Biological Treatment and / or JAK Inhibitors in the Prevention of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q89435639">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q17149812">Janus kinase inhibitor</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q17149812">Janus kinase inhibitors</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">第IV相試験</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04330495</td>
   </tr>
@@ -1217,7 +1217,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154688">Treatment of Moderate to Severe Coronavirus Disease (COVID-19) in Hospitalized Patients</a> (<a href="http://www.wikidata.org/entity/Q89154688">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q17149812">Janus kinase inhibitor</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q17149812">Janus kinase inhibitors</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04321993</td>
   </tr>

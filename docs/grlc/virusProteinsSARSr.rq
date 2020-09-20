@@ -8,6 +8,13 @@
 #+     - es,en
 #+     - pt,en
 
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+
 SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
   VALUES ?virus {
     wd:Q16000326 # SL-CoV-WIV1

@@ -8,6 +8,13 @@
 #+     - es,en
 #+     - pt,en
 
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+
 SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   VALUES ?for { wd:Q84263196 }
   ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;

@@ -8,6 +8,13 @@
 #+     - es,en
 #+     - pt,en
 
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+
 SELECT ?genome WHERE {
   wd:Q82069695 wdt:P527/wdt:P6800 ?genome .
   SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }

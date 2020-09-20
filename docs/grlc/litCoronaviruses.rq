@@ -1,0 +1,17 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
+  ?work wdt:P921 wd:Q57751738 .
+  OPTIONAL { ?work wdt:P577 ?dates . }
+  OPTIONAL { ?work wdt:P356 ?doi . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+} GROUP BY ?work ?workLabel ?doi ORDER BY DESC(?date)
+

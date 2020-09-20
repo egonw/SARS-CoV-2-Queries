@@ -1,0 +1,32 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?date ?work ?workLabel ?virus ?virusLabel ?doi ?pubmed WITH {
+  SELECT (MAX(?dates) as ?date) ?work ?doi ?virus WHERE {
+    VALUES ?virus {
+      wd:Q82069695 # SARS-CoV-2
+      wd:Q16983360 # HKU1
+      wd:Q16991954 # OC43
+      wd:Q8351095  # NL63 
+      wd:Q16983356 # 229E 
+      wd:Q4902157  # MERS-CoV
+      wd:Q278567   # SARS-CoV
+    }
+    ?work wdt:P577 ?dates ;
+          wdt:P921 ?virus .
+  } GROUP BY ?work ?doi ?virus
+} AS %ARTICLES WHERE {
+  INCLUDE %ARTICLES
+  OPTIONAL { ?work wdt:P356 ?doi . }
+  OPTIONAL { ?work wdt:P698 ?pubmed . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+}
+ORDER BY DESC(?date) ?doi ?pubmed ?virus
+

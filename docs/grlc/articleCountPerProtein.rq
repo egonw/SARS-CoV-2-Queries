@@ -1,0 +1,18 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+#defaultView:BarChart
+SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
+  ?protein wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q8054 .
+  ?work wdt:P921 ?protein .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+} GROUP BY ?protein ?proteinLabel
+  ORDER BY ASC(?proteinLabel)
+

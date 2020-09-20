@@ -1,0 +1,16 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?genome WHERE {
+  wd:Q82069695 wdt:P527/wdt:P6800 ?genome .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+}
+
+

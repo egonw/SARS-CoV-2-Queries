@@ -1,0 +1,23 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?virus ?virusLabel ?gene ?geneLabel ?count WITH {
+  SELECT ?virus ?gene (COUNT(DISTINCT ?work) AS ?count) WHERE {
+    ?virus wdt:P171+ wd:Q57751738 .
+    ?work wdt:P921 ?virus, ?gene .
+    ?gene wdt:P703 wd:Q15978631 .
+    { ?gene wdt:P31 wd:Q7187 } UNION { ?gene wdt:P31 wd:Q8054 }
+  } GROUP BY ?virus ?gene
+} AS %ARTICLES WHERE {
+  INCLUDE %ARTICLES
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+}
+ORDER BY DESC(?count) ?virus ?gene
+

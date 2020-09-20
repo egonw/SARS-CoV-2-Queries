@@ -1,0 +1,15 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?numberOfCases  WHERE {
+  wd:Q81068910 wdt:P1603 ?numberOfCases .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+} ORDER BY DESC(?numberOfCases)
+

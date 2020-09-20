@@ -1,0 +1,18 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
+  VALUES ?for { wd:Q84263196 }
+  ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
+           wdt:P1924 ?for .
+  ?vaccine wdt:P31 ?type .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?vaccine) ASC(?type)
+

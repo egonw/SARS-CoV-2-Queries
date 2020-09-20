@@ -1,0 +1,26 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
+  VALUES ?virus {
+    wd:Q82069695 # SARS-CoV-2
+    wd:Q16983360 # HKU1
+    wd:Q16991954 # OC43
+    wd:Q8351095  # NL63 
+    wd:Q16983356 # 229E
+    wd:Q4902157  # MERS-CoV
+    wd:Q278567   # SARS-CoV
+  }
+  ?protein wdt:P703 ?virus ; wdt:P31 wd:Q8054 .
+  OPTIONAL { ?protein wdt:P637 ?refseq }
+  OPTIONAL { ?protein wdt:P352 ?uniprot }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+} ORDER BY ?virus
+

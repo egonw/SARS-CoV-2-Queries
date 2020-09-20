@@ -1,0 +1,21 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
+  VALUES ?topic {
+    wd:Q84263196 wd:Q82069695
+  }
+  ?trial wdt:P31 wd:Q30612 ;
+         wdt:P921  ?topic ;
+         wdt:P4844 ?intervention .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+} GROUP BY ?intervention ?interventionLabel
+  ORDER BY DESC(?trials) ASC(?intervention)
+

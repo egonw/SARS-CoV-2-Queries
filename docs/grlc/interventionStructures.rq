@@ -1,0 +1,27 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+#defaultView:ImageGrid
+SELECT ?intervention ?interventionLabel ?image WITH {
+  SELECT DISTINCT ?intervention (COUNT(DISTINCT ?trial) AS ?count) WHERE {
+    VALUES ?topic { wd:Q84263196 wd:Q82069695 }
+    ?trial wdt:P31 wd:Q30612 ;
+           wdt:P921  ?topic ;
+           wdt:P4844 ?intervention .
+  } GROUP BY ?intervention
+    ORDER BY DESC(?count)
+    LIMIT 25
+} AS %COMPOUNDS WHERE {
+  INCLUDE %COMPOUNDS
+  ?intervention wdt:P117 ?image .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+} ORDER BY DESC(?count)
+  LIMIT 10
+

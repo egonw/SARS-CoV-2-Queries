@@ -1,0 +1,15 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?symptom ?symptomLabel WHERE {
+  wd:Q84263196 wdt:P780 ?symptom .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+}
+

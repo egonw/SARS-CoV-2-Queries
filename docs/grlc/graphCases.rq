@@ -1,0 +1,27 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+#defaultView:LineChart
+SELECT
+?date ?cases
+?country ?countryLabel
+WHERE {
+  ?item wdt:P31 wd:Q3241045.
+  ?item wdt:P17 ?country.
+  ?item p:P1603 ?casesStatement.
+  ?casesStatement ps:P1603 ?cases.
+  FILTER(?cases > 0)
+  ?casesStatement pq:P585 ?date .
+  { ?item wdt:P1269 wd:Q81068910. } UNION
+  { ?item wdt:P361 wd:Q83741704. }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+} ORDER BY ASC(?countryLabel) DESC(?date) DESC(?cases)
+
+

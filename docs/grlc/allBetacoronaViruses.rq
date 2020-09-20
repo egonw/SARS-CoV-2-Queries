@@ -1,0 +1,16 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?virus ?virusLabel ?ncbi WHERE {
+  ?virus wdt:P171+ wd:Q16532287 .
+  OPTIONAL { ?virus wdt:P685 ?ncbi }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+} ORDER BY ?virusLabel
+

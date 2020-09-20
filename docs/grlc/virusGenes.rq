@@ -1,0 +1,16 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?gene ?geneLabel ?ncbi WHERE {
+  ?gene wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q7187 .
+  OPTIONAL { ?gene wdt:P351 ?ncbi }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+}
+

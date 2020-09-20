@@ -1,0 +1,18 @@
+#+ endpoint: https://query.wikidata.org/bigdata/namespace/wdq/sparql
+#+ endpoint_in_url: False
+#+ enumerate:
+#+   - lang:
+#+     - en,en
+#+     - nl,en
+#+     - ja,en
+#+     - es,en
+#+     - pt,en
+
+SELECT ?protein ?proteinLabel ?refseq ?uniprot ?pdb WHERE {
+  ?protein wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q8054 .
+  ?protein wdt:P638 ?pdb .
+  OPTIONAL { ?protein wdt:P637 ?refseq }
+  OPTIONAL { ?protein wdt:P352 ?uniprot }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
+}
+

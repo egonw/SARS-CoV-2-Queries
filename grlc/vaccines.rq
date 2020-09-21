@@ -14,11 +14,12 @@ PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX p: <http://www.wikidata.org/prop/>
 PREFIX bd: <http://www.bigdata.com/rdf#>
 
+
 SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   VALUES ?for { wd:Q84263196 }
   ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
            wdt:P1924 ?for .
   ?vaccine wdt:P31 ?type .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
 } ORDER BY ASC(?vaccine) ASC(?type)
 

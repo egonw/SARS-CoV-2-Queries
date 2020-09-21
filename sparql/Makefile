@@ -23,5 +23,5 @@ allScriptsCompiled: ${CODEFILES}
 		groovy preprocess $< $$lang > `echo "$@" | sed s/.en.out/.$$lang.out/` ; \
 		groovy postprocess $< $$lang ; \
 	done
-	@groovy createGrlc.groovy $< "$(LANGS)" > ../docs/grlc/$<
+	@groovy createGrlc.groovy $< "$(LANGS)" > ../grlc/$<
 	@echo ""

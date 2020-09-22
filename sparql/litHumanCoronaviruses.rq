@@ -12,6 +12,8 @@ SELECT ?date ?work ?workLabel ?virus ?virusLabel ?doi ?pubmed WITH {
     ?work wdt:P577 ?dates ;
           wdt:P921 ?virus .
   } GROUP BY ?work ?doi ?virus
+    ORDER BY DESC(?date)
+    LIMIT 5000
 } AS %ARTICLES WHERE {
   INCLUDE %ARTICLES
   OPTIONAL { ?work wdt:P356 ?doi . }

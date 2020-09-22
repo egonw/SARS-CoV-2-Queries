@@ -13,7 +13,8 @@ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX p: <http://www.wikidata.org/prop/>
 PREFIX bd: <http://www.bigdata.com/rdf#>
-
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 
 SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
   ?protein wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q8054 .

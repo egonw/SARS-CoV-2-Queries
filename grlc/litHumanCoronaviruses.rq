@@ -13,7 +13,8 @@ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX p: <http://www.wikidata.org/prop/>
 PREFIX bd: <http://www.bigdata.com/rdf#>
-
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 
 SELECT ?date ?work ?workLabel ?virus ?virusLabel ?doi ?pubmed WITH {
   SELECT (MAX(?dates) as ?date) ?work ?doi ?virus WHERE {
@@ -29,6 +30,8 @@ SELECT ?date ?work ?workLabel ?virus ?virusLabel ?doi ?pubmed WITH {
     ?work wdt:P577 ?dates ;
           wdt:P921 ?virus .
   } GROUP BY ?work ?doi ?virus
+    ORDER BY DESC(?date)
+    LIMIT 5000
 } AS %ARTICLES WHERE {
   INCLUDE %ARTICLES
   OPTIONAL { ?work wdt:P356 ?doi . }

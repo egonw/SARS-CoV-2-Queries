@@ -167,6 +167,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153934">RNA-based vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153934">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
@@ -204,10 +208,6 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96695266">INO-4800</a> (<a href="http://www.wikidata.org/entity/Q96695266">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154000">ZyCoV-D</a> (<a href="http://www.wikidata.org/entity/Q97154000">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/vaccines.code.html">sparql/vaccines.rq</a></td></tr>
 </table>

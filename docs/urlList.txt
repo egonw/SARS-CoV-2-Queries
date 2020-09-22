@@ -18093,3 +18093,6 @@ https://scholia.toolforge.org/Q99419440
 https://scholia.toolforge.org/Q99419879
 https://scholia.toolforge.org/Q99421648
 https://scholia.toolforge.org/Q99440037
+https://scholia.toolforge.org/Q99518269
+https://scholia.toolforge.org/Q99518966
+https://scholia.toolforge.org/Q99518999

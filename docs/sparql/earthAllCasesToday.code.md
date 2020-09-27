@@ -16,7 +16,16 @@ SELECT ?numberOfCases  WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>30675675</td>
+  </tr>
+  <tr>
     <td>28637952</td>
+  </tr>
+  <tr>
+    <td>26763217</td>
+  </tr>
+  <tr>
+    <td>24854140</td>
   </tr>
   <tr>
     <td>21294845</td>

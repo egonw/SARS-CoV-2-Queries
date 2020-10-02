@@ -35019,24 +35019,24 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95601567">Structural basis for RNA replication by the SARS-CoV-2 polymerase</a> (<a href="http://www.wikidata.org/entity/Q95601567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95610323">Unravelling lead antiviral phytochemicals for the inhibition of SARS-CoV-2 Mpro enzyme through in silico approach</a> (<a href="http://www.wikidata.org/entity/Q95610323">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELL.2020.05.034">10.1016/J.CELL.2020.05.034</a></td>
-    <td>32526208</td>
+    <td><a href="https://doi.org/10.1016/J.LFS.2020.117831">10.1016/J.LFS.2020.117831</a></td>
+    <td>32450166</td>
   </tr>
   <tr>
     <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95601949">Side effects of ruxolitinib in patients with SARS-CoV-2 infection: two case reports</a> (<a href="http://www.wikidata.org/entity/Q95601949">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95606120">Consensus study of risk factors and symptoms of SARS-CoV-2 (COVID-19) using biomedical literature and social media data</a> (<a href="http://www.wikidata.org/entity/Q95606120">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.IJANTIMICAG.2020.106023">10.1016/J.IJANTIMICAG.2020.106023</a></td>
-    <td>32450201</td>
+    <td><a href="https://doi.org/10.1101/2020.05.17.20104729">10.1101/2020.05.17.20104729</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95601015">Chest X-ray features of SARS-CoV-2 in the emergency department: a multicenter experience from northern Italian hospitals</a> (<a href="http://www.wikidata.org/entity/Q95601015">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95606160">Prevalence Threshold and Temporal Interpretation of Screening Tests: The Example of the SARS-CoV-2 (COVID-19) Pandemic</a> (<a href="http://www.wikidata.org/entity/Q95606160">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.RMED.2020.106036">10.1016/J.RMED.2020.106036</a></td>
-    <td>32469732</td>
+    <td><a href="https://doi.org/10.1101/2020.05.17.20104927">10.1101/2020.05.17.20104927</a></td>
+    <td></td>
   </tr>
 </table>
 ## コード例

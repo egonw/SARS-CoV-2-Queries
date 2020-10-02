@@ -114,6 +114,20 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1101/2020.05.22.111187">10.1101/2020.05.22.111187</a></td>
   </tr>
   <tr>
+    <td>2020-05-22</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q412310">Von Willebrandfactor</a> (<a href="http://www.wikidata.org/entity/Q412310">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95647883">Involvement of ADAMTS13 and von Willebrand factor in thromboembolic events in patients infected with SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95647883">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/IJLH.13244">10.1111/IJLH.13244</a></td>
+  </tr>
+  <tr>
+    <td>2020-05-22</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4651006">ADAMTS13</a> (<a href="http://www.wikidata.org/entity/Q4651006">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95647883">Involvement of ADAMTS13 and von Willebrand factor in thromboembolic events in patients infected with SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95647883">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/IJLH.13244">10.1111/IJLH.13244</a></td>
+  </tr>
+  <tr>
     <td>2020-05-21</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>

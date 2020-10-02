@@ -35019,23 +35019,23 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95610323">Unravelling lead antiviral phytochemicals for the inhibition of SARS-CoV-2 Mpro enzyme through in silico approach</a> (<a href="http://www.wikidata.org/entity/Q95610323">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95627528">Performance of six SARS-CoV-2 immunoassays in comparison with microneutralisation</a> (<a href="http://www.wikidata.org/entity/Q95627528">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.LFS.2020.117831">10.1016/J.LFS.2020.117831</a></td>
-    <td>32450166</td>
-  </tr>
-  <tr>
-    <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95606120">Consensus study of risk factors and symptoms of SARS-CoV-2 (COVID-19) using biomedical literature and social media data</a> (<a href="http://www.wikidata.org/entity/Q95606120">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.05.17.20104729">10.1101/2020.05.17.20104729</a></td>
+    <td><a href="https://doi.org/10.1101/2020.05.18.20101618">10.1101/2020.05.18.20101618</a></td>
     <td></td>
   </tr>
   <tr>
     <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95606160">Prevalence Threshold and Temporal Interpretation of Screening Tests: The Example of the SARS-CoV-2 (COVID-19) Pandemic</a> (<a href="http://www.wikidata.org/entity/Q95606160">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95624722">Serologic responses to SARS-CoV-2 infection among hospital staff with mild disease in eastern France</a> (<a href="http://www.wikidata.org/entity/Q95624722">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.05.17.20104927">10.1101/2020.05.17.20104927</a></td>
+    <td><a href="https://doi.org/10.1101/2020.05.19.20101832">10.1101/2020.05.19.20101832</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-05-22</td>
+    <td><a href="https://scholia.toolforge.org/Q95627769">Detection of SARS-CoV-2 from raw patient samples by coupled high temperature reverse transcription and amplification</a> (<a href="http://www.wikidata.org/entity/Q95627769">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.05.19.20103150">10.1101/2020.05.19.20103150</a></td>
     <td></td>
   </tr>
 </table>

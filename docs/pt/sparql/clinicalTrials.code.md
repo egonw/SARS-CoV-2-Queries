@@ -1174,6 +1174,12 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04322773</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q89154576">Colchicine Coronavirus SARS-CoV2 Trial</a> (<a href="http://www.wikidata.org/entity/Q89154576">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q326224">Colchicina</a> (<a href="http://www.wikidata.org/entity/Q326224">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04322682</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q89154592">Colchicine Efficacy in COVID-19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q89154592">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q9268800">gloriosine</a> (<a href="http://www.wikidata.org/entity/Q9268800">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>

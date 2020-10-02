@@ -50,7 +50,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q87719499">Impact of the 2019–20 coronavirus pandemic on television</a> (<a href="http://www.wikidata.org/entity/Q87719499">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87747992">impact of the 2019–20 coronavirus pandemic on music</a> (<a href="http://www.wikidata.org/entity/Q87747992">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87747992">Impacto de la pandemia de enfermedad por coronavirus de 2019-2020 en la industria de la música</a> (<a href="http://www.wikidata.org/entity/Q87747992">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87774378">Timeline of the COVID-19 pandemic in March 2020</a> (<a href="http://www.wikidata.org/entity/Q87774378">edit</a>)</td>

@@ -35019,6 +35019,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-05-22</td>
+    <td><a href="https://scholia.toolforge.org/Q95601567">Structural basis for RNA replication by the SARS-CoV-2 polymerase</a> (<a href="http://www.wikidata.org/entity/Q95601567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELL.2020.05.034">10.1016/J.CELL.2020.05.034</a></td>
+    <td>32526208</td>
+  </tr>
+  <tr>
+    <td>2020-05-22</td>
     <td><a href="https://scholia.toolforge.org/Q95601949">Side effects of ruxolitinib in patients with SARS-CoV-2 infection: two case reports</a> (<a href="http://www.wikidata.org/entity/Q95601949">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.IJANTIMICAG.2020.106023">10.1016/J.IJANTIMICAG.2020.106023</a></td>
@@ -35026,17 +35033,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95603851">Molecular epidemiology of SARS-CoV-2 in Faisalabad, Pakistan: A real-world clinical experience</a> (<a href="http://www.wikidata.org/entity/Q95603851">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q95601015">Chest X-ray features of SARS-CoV-2 in the emergency department: a multicenter experience from northern Italian hospitals</a> (<a href="http://www.wikidata.org/entity/Q95601015">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.MEEGID.2020.104374">10.1016/J.MEEGID.2020.104374</a></td>
-    <td>32450246</td>
-  </tr>
-  <tr>
-    <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95604273">Amplification of human β-glucoronidase gene for appraising the accuracy of negative SARS-CoV-2 RT-PCR results in upper respiratory tract specimens</a> (<a href="http://www.wikidata.org/entity/Q95604273">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.05.20.20105312">10.1101/2020.05.20.20105312</a></td>
-    <td></td>
+    <td><a href="https://doi.org/10.1016/J.RMED.2020.106036">10.1016/J.RMED.2020.106036</a></td>
+    <td>32469732</td>
   </tr>
 </table>
 ## Code examples

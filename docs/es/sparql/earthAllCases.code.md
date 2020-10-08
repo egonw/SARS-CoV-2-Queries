@@ -879,12 +879,32 @@ SELECT ?date ?numberOfCases WHERE {
     <td>26763217</td>
   </tr>
   <tr>
+    <td>2020-09-06</td>
+    <td>26763217</td>
+  </tr>
+  <tr>
+    <td>2020-09-13</td>
+    <td>28637952</td>
+  </tr>
+  <tr>
     <td>2020-09-13</td>
     <td>28637952</td>
   </tr>
   <tr>
     <td>2020-09-20</td>
     <td>30675675</td>
+  </tr>
+  <tr>
+    <td>2020-09-20</td>
+    <td>30675675</td>
+  </tr>
+  <tr>
+    <td>2020-09-27</td>
+    <td>32730945</td>
+  </tr>
+  <tr>
+    <td>2020-10-04</td>
+    <td>34804348</td>
   </tr>
 </table>
 ## Ejemplos de código

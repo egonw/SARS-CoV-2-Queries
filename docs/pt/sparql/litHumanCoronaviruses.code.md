@@ -943,13 +943,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-23</td>
-    <td><a href="https://scholia.toolforge.org/Q99611346">SARS-CoV-2 transmission dynamics should inform policy</a> (<a href="http://www.wikidata.org/entity/Q99611346">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/CID/CIAA1442">10.1093/CID/CIAA1442</a></td>
-    <td>32964919</td>
-  </tr>
-  <tr>
-    <td>2020-09-23</td>
     <td><a href="https://scholia.toolforge.org/Q99611357">Asymptomatic reinfection in two healthcare workers from India with genetically distinct SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99611357">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/CID/CIAA1451">10.1093/CID/CIAA1451</a></td>
@@ -1038,6 +1031,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.15585/MMWR.MM6938E2">10.15585/MMWR.MM6938E2</a></td>
     <td>32970660</td>
+  </tr>
+  <tr>
+    <td>2020-09-23</td>
+    <td><a href="https://scholia.toolforge.org/Q99611346">SARS-CoV-2 transmission dynamics should inform policy</a> (<a href="http://www.wikidata.org/entity/Q99611346">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.2139/SSRN.3692807">10.2139/SSRN.3692807</a></td>
+    <td>32964919</td>
   </tr>
   <tr>
     <td>2020-09-23</td>

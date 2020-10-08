@@ -28,6 +28,12 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><b>identifier</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q98710332">A Randomised, Controlled, Phase 1 Study to Evaluate the Safety and Immunogenicity of a Candidate Adjuvanted Recombinant Protein SARS-COV-2 Vaccine in Healthy Adult Subjects</a> (<a href="http://www.wikidata.org/entity/Q98710332">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824069">第I相試験</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04453852</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q421094">ヒドロキシクロロキン</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>

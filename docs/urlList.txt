@@ -1,4 +1,7 @@
 https://scholia.toolforge.org/Q1000
+https://scholia.toolforge.org/Q100158012
+https://scholia.toolforge.org/Q100158046
+https://scholia.toolforge.org/Q100158616
 https://scholia.toolforge.org/Q1005
 https://scholia.toolforge.org/Q1006
 https://scholia.toolforge.org/Q1007

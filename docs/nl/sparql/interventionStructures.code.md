@@ -33,7 +33,7 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxychloroquine.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422438">Chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Chloroquine.svg</td>
   </tr>
   <tr>

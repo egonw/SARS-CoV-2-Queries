@@ -903,8 +903,8 @@ SELECT ?date ?numberOfCases WHERE {
     <td>32730945</td>
   </tr>
   <tr>
-    <td>2020-10-04</td>
-    <td>34804348</td>
+    <td>2020-10-11</td>
+    <td>37603503</td>
   </tr>
 </table>
 ## Code examples

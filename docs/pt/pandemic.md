@@ -22,6 +22,9 @@ O que nos dá (até o momento que o documento foi gerado):
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>37109851</td>
+  </tr>
+  <tr>
     <td>34804348</td>
   </tr>
   <tr>

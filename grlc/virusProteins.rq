@@ -22,6 +22,6 @@ SELECT ?protein ?proteinLabel ?refseq ?uniprot ?guideToPharma WHERE {
   OPTIONAL { ?protein wdt:P352 ?uniprot }
   OPTIONAL { ?protein wdt:P5458 ?guideToPharma }
   SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
-}
+} ORDER BY ASC(?protein) ASC(?uniprot)
 
 

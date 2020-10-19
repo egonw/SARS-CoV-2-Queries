@@ -19,6 +19,7 @@ if (sparql.contains("<lang/>"))
 
 formatterURLs = new HashMap<String,String>()
 formatterURLs.put("ncbi", "https://www.ncbi.nlm.nih.gov/taxonomy/#{1}")
+formatterURLs.put("ncbigene", "https://www.ncbi.nlm.nih.gov/gene/#{1}")
 formatterURLs.put("pdb", "https://www.rcsb.org/structure/#{1}")
 formatterURLs.put("uniprot", "https://www.uniprot.org/uniprot/#{1}")
 formatterURLs.put("doi", "https://doi.org/#{1}")

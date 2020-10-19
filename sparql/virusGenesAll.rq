@@ -1,4 +1,4 @@
-SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbi WHERE {
+SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   VALUES ?virus {
     wd:Q82069695 # SARS-CoV-2
     wd:Q16983360 # HKU1
@@ -9,6 +9,6 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbi WHERE {
     wd:Q278567   # SARS-CoV
   }
   ?gene wdt:P703 ?virus ; wdt:P31 wd:Q7187 .
-  OPTIONAL { ?gene wdt:P351 ?ncbi }
+  OPTIONAL { ?gene wdt:P351 ?ncbigene }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
-} ORDER BY ?virus ?ncbi ?gene
+} ORDER BY ?virus ?ncbigene ?gene

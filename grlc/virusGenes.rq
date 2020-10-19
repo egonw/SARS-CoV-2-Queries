@@ -16,9 +16,9 @@ PREFIX bd: <http://www.bigdata.com/rdf#>
 PREFIX ps: <http://www.wikidata.org/prop/statement/>
 PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 
-SELECT ?gene ?geneLabel ?ncbi WHERE {
+SELECT ?gene ?geneLabel ?ncbigene WHERE {
   ?gene wdt:P703 wd:Q82069695 ; wdt:P31 wd:Q7187 .
-  OPTIONAL { ?gene wdt:P351 ?ncbi }
+  OPTIONAL { ?gene wdt:P351 ?ncbigene }
   SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }
 }
 

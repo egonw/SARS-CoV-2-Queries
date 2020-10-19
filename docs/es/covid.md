@@ -94,6 +94,9 @@ Listado de estos síntomas:
     <td><a href="https://scholia.toolforge.org/Q254327">anorexia</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q327988">síndrome de desgaste profesional</a> (<a href="http://www.wikidata.org/entity/Q327988">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q468433">anosmia</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
   </tr>
   <tr>

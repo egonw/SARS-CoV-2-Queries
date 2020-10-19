@@ -61,6 +61,9 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q254327">anorexie</a> (<a href="http://www.wikidata.org/entity/Q254327">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q327988">Burn-out</a> (<a href="http://www.wikidata.org/entity/Q327988">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q468433">anosmie</a> (<a href="http://www.wikidata.org/entity/Q468433">edit</a>)</td>
   </tr>
   <tr>

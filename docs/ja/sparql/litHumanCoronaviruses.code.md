@@ -221,6 +221,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>32539306</td>
   </tr>
   <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100701197">Prevention is not adapting to the model of coronavirus spread</a> (<a href="http://www.wikidata.org/entity/Q100701197">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q99596518">High Prevalence of Obesity in Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) Requiring Invasive Mechanical Ventilation</a> (<a href="http://www.wikidata.org/entity/Q99596518">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -34687,13 +34694,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.26126">10.1002/JMV.26126</a></td>
     <td>32492195</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q98658903">[Suspected sepsis in a 10-week-old infant and SARS-CoV-2 detection in cerebrospinal fluid and pharynx]</a> (<a href="http://www.wikidata.org/entity/Q98658903">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S00112-020-00942-8">10.1007/S00112-020-00942-8</a></td>
-    <td>32836394</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

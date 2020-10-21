@@ -30,6 +30,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2020-09-03</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5631153">Heme oxygenase 1</a> (<a href="http://www.wikidata.org/entity/Q5631153">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99213575">The HMOX1 Pathway as a Promising Target for the Treatment and Prevention of SARS-CoV-2 of 2019 (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q99213575">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/IJMS21176412">10.3390/IJMS21176412</a></td>
+  </tr>
+  <tr>
     <td>2020-07-29</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q22676640">Translocase of outer mitochondrial membrane 70</a> (<a href="http://www.wikidata.org/entity/Q22676640">edit</a>)</td>

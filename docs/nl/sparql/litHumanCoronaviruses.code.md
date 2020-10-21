@@ -221,6 +221,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>32539306</td>
   </tr>
   <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100701197">Prevention is not adapting to the model of coronavirus spread</a> (<a href="http://www.wikidata.org/entity/Q100701197">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q99596518">High Prevalence of Obesity in Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) Requiring Invasive Mechanical Ventilation</a> (<a href="http://www.wikidata.org/entity/Q99596518">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -34715,13 +34722,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BIOS.2020.112356">10.1016/J.BIOS.2020.112356</a></td>
     <td>32510339</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q96436532">Prisoners in a pandemic: We should think about detainees during Covid-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q96436532">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.FSISYN.2020.05.004">10.1016/J.FSISYN.2020.05.004</a></td>
-    <td>32548576</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

@@ -34697,6 +34697,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-06-03</td>
+    <td><a href="https://scholia.toolforge.org/Q98658903">[Suspected sepsis in a 10-week-old infant and SARS-CoV-2 detection in cerebrospinal fluid and pharynx]</a> (<a href="http://www.wikidata.org/entity/Q98658903">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00112-020-00942-8">10.1007/S00112-020-00942-8</a></td>
+    <td>32836394</td>
+  </tr>
+  <tr>
+    <td>2020-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q96109998">Prevalence of SARS-CoV-2 Antibodies Among Healthcare Workers at a Tertiary Academic Hospital in New York City</a> (<a href="http://www.wikidata.org/entity/Q96109998">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S11606-020-05926-8">10.1007/S11606-020-05926-8</a></td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.7326/M20-3012">10.7326/M20-3012</a></td>
     <td>32491919</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q96434849">Real-time reverse transcription loop-mediated isothermal amplification for rapid detection of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96434849">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.7717/PEERJ.9278">10.7717/PEERJ.9278</a></td>
-    <td>32547882</td>
   </tr>
 </table>
 ## Code examples

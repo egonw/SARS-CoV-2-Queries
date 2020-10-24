@@ -34725,13 +34725,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q96436532">Prisoners in a pandemic: We should think about detainees during Covid-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q96436532">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.FSISYN.2020.05.004">10.1016/J.FSISYN.2020.05.004</a></td>
-    <td>32548576</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q96225681">An approach towards development of monoclonal IgY antibodies against SARS CoV-2 spike protein (S) using phage display method: A review</a> (<a href="http://www.wikidata.org/entity/Q96225681">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.INTIMP.2020.106654">10.1016/J.INTIMP.2020.106654</a></td>
@@ -35009,6 +35002,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3201/EID2609.202135">10.3201/EID2609.202135</a></td>
     <td>32491982</td>
+  </tr>
+  <tr>
+    <td>2020-06-03</td>
+    <td><a href="https://scholia.toolforge.org/Q96685114">Molecular Insights Into SARS COV-2 Interaction With Cardiovascular Disease: Role of RAAS and MAPK Signaling</a> (<a href="http://www.wikidata.org/entity/Q96685114">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FPHAR.2020.00836">10.3389/FPHAR.2020.00836</a></td>
+    <td>32581799</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

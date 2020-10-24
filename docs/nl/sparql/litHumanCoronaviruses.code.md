@@ -34697,13 +34697,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q98658903">[Suspected sepsis in a 10-week-old infant and SARS-CoV-2 detection in cerebrospinal fluid and pharynx]</a> (<a href="http://www.wikidata.org/entity/Q98658903">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S00112-020-00942-8">10.1007/S00112-020-00942-8</a></td>
-    <td>32836394</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q96109998">Prevalence of SARS-CoV-2 Antibodies Among Healthcare Workers at a Tertiary Academic Hospital in New York City</a> (<a href="http://www.wikidata.org/entity/Q96109998">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S11606-020-05926-8">10.1007/S11606-020-05926-8</a></td>
@@ -34722,6 +34715,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BIOS.2020.112356">10.1016/J.BIOS.2020.112356</a></td>
     <td>32510339</td>
+  </tr>
+  <tr>
+    <td>2020-06-03</td>
+    <td><a href="https://scholia.toolforge.org/Q96436532">Prisoners in a pandemic: We should think about detainees during Covid-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q96436532">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.FSISYN.2020.05.004">10.1016/J.FSISYN.2020.05.004</a></td>
+    <td>32548576</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

@@ -228,6 +228,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td></td>
   </tr>
   <tr>
+    <td>2020-10-02</td>
+    <td><a href="https://scholia.toolforge.org/Q100467876">SARS-CoV-2 infected cells present HLA-I peptides from canonical and out-of-frame ORFs</a> (<a href="http://www.wikidata.org/entity/Q100467876">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.10.02.324145">10.1101/2020.10.02.324145</a></td>
+    <td>33024965</td>
+  </tr>
+  <tr>
     <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q99596518">High Prevalence of Obesity in Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) Requiring Invasive Mechanical Ventilation</a> (<a href="http://www.wikidata.org/entity/Q99596518">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -34722,13 +34729,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.FSISYN.2020.05.004">10.1016/J.FSISYN.2020.05.004</a></td>
     <td>32548576</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q96225681">An approach towards development of monoclonal IgY antibodies against SARS CoV-2 spike protein (S) using phage display method: A review</a> (<a href="http://www.wikidata.org/entity/Q96225681">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.INTIMP.2020.106654">10.1016/J.INTIMP.2020.106654</a></td>
-    <td>32512271</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

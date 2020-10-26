@@ -18,6 +18,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q91561236">BatCoV RaTG13</a> (<a href="http://www.wikidata.org/entity/Q91561236">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2709072">2709072</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q57758339">Bat Hp-betacoronavirus Zhejiang2013</a> (<a href="http://www.wikidata.org/entity/Q57758339">edit</a>)</td>
     <td></td>
   </tr>

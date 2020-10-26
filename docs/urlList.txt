@@ -1,7 +1,9 @@
 https://scholia.toolforge.org/Q1000
+https://scholia.toolforge.org/Q100152858
 https://scholia.toolforge.org/Q100158012
 https://scholia.toolforge.org/Q100158046
 https://scholia.toolforge.org/Q100158616
+https://scholia.toolforge.org/Q100467876
 https://scholia.toolforge.org/Q1005
 https://scholia.toolforge.org/Q1006
 https://scholia.toolforge.org/Q1007
@@ -7780,6 +7782,7 @@ https://scholia.toolforge.org/Q91559734
 https://scholia.toolforge.org/Q91560228
 https://scholia.toolforge.org/Q91560702
 https://scholia.toolforge.org/Q91560776
+https://scholia.toolforge.org/Q91561236
 https://scholia.toolforge.org/Q91561246
 https://scholia.toolforge.org/Q91561253
 https://scholia.toolforge.org/Q91561261

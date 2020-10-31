@@ -34879,6 +34879,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-06-03</td>
+    <td><a href="https://scholia.toolforge.org/Q97545642">Rapid Antibody Testing for SARS-CoV-2 in Asymptomatic and Paucisymptomatic Healthcare Professionals in Hematology and Oncology Units Identifies Undiagnosed Infections</a> (<a href="http://www.wikidata.org/entity/Q97545642">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1097/HS9.0000000000000408">10.1097/HS9.0000000000000408</a></td>
+    <td>32647806</td>
+  </tr>
+  <tr>
+    <td>2020-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q96642659">Sarbecovirus comparative genomics elucidates gene content of SARS-CoV-2 and functional impact of COVID-19 pandemic mutations</a> (<a href="http://www.wikidata.org/entity/Q96642659">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.06.02.130955">10.1101/2020.06.02.130955</a></td>
@@ -34974,13 +34981,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1503/CMAJ.200858">10.1503/CMAJ.200858</a></td>
     <td>32493742</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q96342129">Clinical Insights for Gastroenterology and Hepatology Providers during the COVID-19 Pandemic</a> (<a href="http://www.wikidata.org/entity/Q96342129">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.15403/JGLD-2603">10.15403/JGLD-2603</a></td>
-    <td>32530975</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

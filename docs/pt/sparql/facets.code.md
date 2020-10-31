@@ -191,9 +191,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96048874">Cronologia da pandemia de COVID-19 em junho de 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96246183">response to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q96246183">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q96336226">Q96336226</a> (<a href="http://www.wikidata.org/entity/Q96336226">edit</a>)</td>
   </tr>
   <tr>
@@ -245,7 +242,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q99772823">Cronologia da pandemia de COVID-19 em outubro de 2020</a> (<a href="http://www.wikidata.org/entity/Q99772823">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q100152858">Declaração De Great Barrington</a> (<a href="http://www.wikidata.org/entity/Q100152858">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100152858">Declaração de Great Barrington</a> (<a href="http://www.wikidata.org/entity/Q100152858">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

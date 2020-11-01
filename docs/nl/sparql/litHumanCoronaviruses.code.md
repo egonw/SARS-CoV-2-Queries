@@ -34599,6 +34599,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-06-03</td>
+    <td><a href="https://scholia.toolforge.org/Q98199482">[The role of children in the transmission of SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q98199482">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td>32749807</td>
+  </tr>
+  <tr>
+    <td>2020-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q96121584">First case of acute pancreatitis related to SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q96121584">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/BJS.11741">10.1002/BJS.11741</a></td>
@@ -34869,13 +34876,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/QJMED/HCAA185">10.1093/QJMED/HCAA185</a></td>
     <td>32492142</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q97545642">Rapid Antibody Testing for SARS-CoV-2 in Asymptomatic and Paucisymptomatic Healthcare Professionals in Hematology and Oncology Units Identifies Undiagnosed Infections</a> (<a href="http://www.wikidata.org/entity/Q97545642">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1097/HS9.0000000000000408">10.1097/HS9.0000000000000408</a></td>
-    <td>32647806</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

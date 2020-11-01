@@ -34599,13 +34599,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q98199482">[The role of children in the transmission of SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q98199482">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>32749807</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q96121584">First case of acute pancreatitis related to SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q96121584">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/BJS.11741">10.1002/BJS.11741</a></td>
@@ -34704,6 +34697,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-06-03</td>
+    <td><a href="https://scholia.toolforge.org/Q98658903">[Suspected sepsis in a 10-week-old infant and SARS-CoV-2 detection in cerebrospinal fluid and pharynx]</a> (<a href="http://www.wikidata.org/entity/Q98658903">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00112-020-00942-8">10.1007/S00112-020-00942-8</a></td>
+    <td>32836394</td>
+  </tr>
+  <tr>
+    <td>2020-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q96109998">Prevalence of SARS-CoV-2 Antibodies Among Healthcare Workers at a Tertiary Academic Hospital in New York City</a> (<a href="http://www.wikidata.org/entity/Q96109998">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S11606-020-05926-8">10.1007/S11606-020-05926-8</a></td>
@@ -34722,13 +34722,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BIOS.2020.112356">10.1016/J.BIOS.2020.112356</a></td>
     <td>32510339</td>
-  </tr>
-  <tr>
-    <td>2020-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q96436532">Prisoners in a pandemic: We should think about detainees during Covid-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q96436532">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.FSISYN.2020.05.004">10.1016/J.FSISYN.2020.05.004</a></td>
-    <td>32548576</td>
   </tr>
   <tr>
     <td>2020-06-03</td>
@@ -34876,6 +34869,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/QJMED/HCAA185">10.1093/QJMED/HCAA185</a></td>
     <td>32492142</td>
+  </tr>
+  <tr>
+    <td>2020-06-03</td>
+    <td><a href="https://scholia.toolforge.org/Q97545642">Rapid Antibody Testing for SARS-CoV-2 in Asymptomatic and Paucisymptomatic Healthcare Professionals in Hematology and Oncology Units Identifies Undiagnosed Infections</a> (<a href="http://www.wikidata.org/entity/Q97545642">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1097/HS9.0000000000000408">10.1097/HS9.0000000000000408</a></td>
+    <td>32647806</td>
   </tr>
   <tr>
     <td>2020-06-03</td>

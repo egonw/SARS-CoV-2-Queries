@@ -191,6 +191,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96048874">Cronologia da pandemia de COVID-19 em junho de 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q96058732">Impact of the COVID-19 pandemic on food</a> (<a href="http://www.wikidata.org/entity/Q96058732">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q96336226">Q96336226</a> (<a href="http://www.wikidata.org/entity/Q96336226">edit</a>)</td>
   </tr>
   <tr>
@@ -207,9 +210,6 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96731877">Responses to the COVID-19 pandemic in July 2020</a> (<a href="http://www.wikidata.org/entity/Q96731877">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97356784">COVID-19 pandemic-related famines</a> (<a href="http://www.wikidata.org/entity/Q97356784">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97357752">Covid Watch</a> (<a href="http://www.wikidata.org/entity/Q97357752">edit</a>)</td>

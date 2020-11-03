@@ -31,43 +31,43 @@ Isto te fornece 10 documentos:
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q89613924">Emerging novel coronavirus (2019-nCoV)-current scenario, evolutionary perspective based on genome analysis and recent developments</a> (<a href="http://www.wikidata.org/entity/Q89613924">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/01652176.2020.1727993">10.1080/01652176.2020.1727993</a></td>
+    <td><a href="https://scholia.toolforge.org/Q100401574">An ace model for SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q100401574">edit</a>)</td>
+    <td><a href="https://doi.org/10.1084/JEM.20201748">10.1084/JEM.20201748</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90454781">COVID-19: What implications for sexual and reproductive health and rights globally?</a> (<a href="http://www.wikidata.org/entity/Q90454781">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/26410397.2020.1746065">10.1080/26410397.2020.1746065</a></td>
+    <td><a href="https://scholia.toolforge.org/Q100529061">Generation of Recombinant SARS-CoV-2 Using a Bacterial Artificial Chromosome</a> (<a href="http://www.wikidata.org/entity/Q100529061">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/CPMC.126">10.1002/CPMC.126</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90502868">Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia</a> (<a href="http://www.wikidata.org/entity/Q90502868">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1746199">10.1080/22221751.2020.1746199</a></td>
+    <td><a href="https://scholia.toolforge.org/Q100729868">Reliability of induced sputum test is greater than that of throat swab test for detecting SARS-CoV-2 in patients with COVID-19: A multi-center cross-sectional study</a> (<a href="http://www.wikidata.org/entity/Q100729868">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/21505594.2020.1831342">10.1080/21505594.2020.1831342</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90617531">Establishment and validation of a pseudovirus neutralization assay for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q90617531">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1743767">10.1080/22221751.2020.1743767</a></td>
+    <td><a href="https://scholia.toolforge.org/Q100943359">Similarities between the effect of SARS-CoV-2 and HCV on the cellular level, and the possible role of ion channels in COVID19 progression: a review of potential targets for diagnosis and treatment</a> (<a href="http://www.wikidata.org/entity/Q100943359">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/19336950.2020.1837439">10.1080/19336950.2020.1837439</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90625396">Clinical observation and management of COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q90625396">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1741327">10.1080/22221751.2020.1741327</a></td>
+    <td><a href="https://scholia.toolforge.org/Q100960782">Are children with SARS-CoV-2 infection at high risk for thrombosis? Viscoelastic testing and coagulation profiles in a case series of pediatric patients</a> (<a href="http://www.wikidata.org/entity/Q100960782">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/PBC.28737">10.1002/PBC.28737</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90625688">The different clinical characteristics of corona virus disease cases between children and their families in China - the character of children with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q90625688">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1744483">10.1080/22221751.2020.1744483</a></td>
+    <td><a href="https://scholia.toolforge.org/Q101039654">SARS-CoV-2 and displaced persons in Afghanistan: A blind spot in epidemic preparedness</a> (<a href="http://www.wikidata.org/entity/Q101039654">edit</a>)</td>
+    <td><a href="https://doi.org/10.7189/JOGH.10.020308">10.7189/JOGH.10.020308</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90757765">Renin-angiotensin system inhibitors improve the clinical outcomes of COVID-19 patients with hypertension</a> (<a href="http://www.wikidata.org/entity/Q90757765">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1746200">10.1080/22221751.2020.1746200</a></td>
+    <td><a href="https://scholia.toolforge.org/Q101039696">SARS-CoV-2 in Malawi: Are we sacrificing the Youth in sub-Saharan Africa?</a> (<a href="http://www.wikidata.org/entity/Q101039696">edit</a>)</td>
+    <td><a href="https://doi.org/10.7189/JOGH.10.020336">10.7189/JOGH.10.020336</a></td>
   </tr>
   <tr>
     <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q90757778">Transcriptomic characteristics of bronchoalveolar lavage fluid and peripheral blood mononuclear cells in COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q90757778">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1747363">10.1080/22221751.2020.1747363</a></td>
+    <td><a href="https://scholia.toolforge.org/Q101039745">SARS-CoV-2 updates in a West African population and precautionary measures for sustaining quality antenatal care delivery</a> (<a href="http://www.wikidata.org/entity/Q101039745">edit</a>)</td>
+    <td><a href="https://doi.org/10.7189/JOGH.10.020365">10.7189/JOGH.10.020365</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -319,7 +319,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>13913</td>
+    <td>15306</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -407,21 +407,6 @@ O que nos mostra:
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">Coronavírus humano NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88176280">replicase polyprotein 1ab</a> (<a href="http://www.wikidata.org/entity/Q88176280">edit</a>)</td>
     <td>2</td>
@@ -448,28 +433,18 @@ O que nos mostra:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089689">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089689">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089048">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089048">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88088888">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88088888">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Coronavírus humano 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
@@ -534,6 +509,31 @@ O que nos mostra:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">Coronavírus humano HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88171718">spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88171718">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88089689">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089689">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88089048">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089048">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088888">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88088888">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

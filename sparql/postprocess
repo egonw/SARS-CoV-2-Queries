@@ -133,6 +133,10 @@ for (int type=0; type<mdTypes.size(); type++) {
         line = line.replace("%RUNURL%", runURL);
         line = line + "\n";
       }
+      if (line.contains("%LANG%")) {
+        line = line.replace("%LANG%", lang);
+        line = line + "\n";
+      }
       if (line.contains("%EDITURL%")) {
         line = line.replace("%EDITURL%", editURL);
         line = line + "\n";

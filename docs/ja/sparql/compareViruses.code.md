@@ -4828,7 +4828,8 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
 ## コード例
 ### curl
 ```shell
-curl -o compareViruses.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/compareViruses.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/compareViruses.rq | sed 's+<lang/>+ja+' > compareViruses.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@compareViruses.rq
 ```
 本SPARQLクエリはCC0ライセンスで利用可能です。

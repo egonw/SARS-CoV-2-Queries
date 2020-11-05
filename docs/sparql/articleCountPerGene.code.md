@@ -59,7 +59,8 @@ SELECT ?gene ?geneLabel (COUNT(?work) AS ?count) WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -o articleCountPerGene.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/articleCountPerGene.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/articleCountPerGene.rq | sed 's+<lang/>+en+' > articleCountPerGene.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@articleCountPerGene.rq
 ```
 This SPARQL query is available under CCZero.

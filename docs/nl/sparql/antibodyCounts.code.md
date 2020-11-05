@@ -54,7 +54,8 @@ SELECT ?virus ?virusLabel ?count WITH {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o antibodyCounts.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/antibodyCounts.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/antibodyCounts.rq | sed 's+<lang/>+nl+' > antibodyCounts.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@antibodyCounts.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

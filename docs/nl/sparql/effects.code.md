@@ -42,7 +42,8 @@ SELECT ?effect ?effectLabel WHERE {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o effects.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/effects.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/effects.rq | sed 's+<lang/>+nl+' > effects.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@effects.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

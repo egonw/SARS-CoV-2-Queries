@@ -424,7 +424,8 @@ ORDER BY DESC(?count) ?virus ?protein
 ## コード例
 ### curl
 ```shell
-curl -o litHumanCoronavirusesProteinCounts.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litHumanCoronavirusesProteinCounts.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litHumanCoronavirusesProteinCounts.rq | sed 's+<lang/>+ja+' > litHumanCoronavirusesProteinCounts.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@litHumanCoronavirusesProteinCounts.rq
 ```
 本SPARQLクエリはCC0ライセンスで利用可能です。

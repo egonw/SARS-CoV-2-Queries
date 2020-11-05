@@ -465,7 +465,8 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o virusProteinsSARSr.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/virusProteinsSARSr.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/virusProteinsSARSr.rq | sed 's+<lang/>+nl+' > virusProteinsSARSr.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@virusProteinsSARSr.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

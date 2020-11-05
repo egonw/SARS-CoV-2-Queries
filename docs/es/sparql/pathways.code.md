@@ -321,7 +321,8 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
 ## Ejemplos de código
 ### curl
 ```shell
-curl -o pathways.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/pathways.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/pathways.rq | sed 's+<lang/>+es+' > pathways.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@pathways.rq
 ```
 Esta consulta SPARQL está disponible en CCZero.

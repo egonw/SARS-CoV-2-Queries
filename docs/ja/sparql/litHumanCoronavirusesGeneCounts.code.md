@@ -191,7 +191,8 @@ ORDER BY DESC(?count)
 ## コード例
 ### curl
 ```shell
-curl -o litHumanCoronavirusesGeneCounts.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litHumanCoronavirusesGeneCounts.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litHumanCoronavirusesGeneCounts.rq | sed 's+<lang/>+ja+' > litHumanCoronavirusesGeneCounts.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@litHumanCoronavirusesGeneCounts.rq
 ```
 本SPARQLクエリはCC0ライセンスで利用可能です。

@@ -421,7 +421,8 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 ## コード例
 ### curl
 ```shell
-curl -o allCoronaViruses.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allCoronaViruses.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allCoronaViruses.rq | sed 's+<lang/>+ja+' > allCoronaViruses.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@allCoronaViruses.rq
 ```
 本SPARQLクエリはCC0ライセンスで利用可能です。

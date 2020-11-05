@@ -75,7 +75,8 @@ ORDER BY ?virusLabel ?workLabel
 ## Code examples
 ### curl
 ```shell
-curl -o surfaces.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/surfaces.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/surfaces.rq | sed 's+<lang/>+pt+' > surfaces.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@surfaces.rq
 ```
 This SPARQL query is available under CCZero.

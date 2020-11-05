@@ -574,7 +574,8 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o litSARSCoV2Proteins.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litSARSCoV2Proteins.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litSARSCoV2Proteins.rq | sed 's+<lang/>+nl+' > litSARSCoV2Proteins.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@litSARSCoV2Proteins.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

@@ -157,7 +157,8 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 ## Ejemplos de código
 ### curl
 ```shell
-curl -o allBetacoronaViruses.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allBetacoronaViruses.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allBetacoronaViruses.rq | sed 's+<lang/>+es+' > allBetacoronaViruses.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@allBetacoronaViruses.rq
 ```
 Esta consulta SPARQL está disponible en CCZero.

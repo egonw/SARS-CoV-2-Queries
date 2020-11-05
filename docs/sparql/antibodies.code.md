@@ -347,7 +347,8 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
 ## Code examples
 ### curl
 ```shell
-curl -o antibodies.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/antibodies.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/antibodies.rq | sed 's+<lang/>+en+' > antibodies.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@antibodies.rq
 ```
 This SPARQL query is available under CCZero.

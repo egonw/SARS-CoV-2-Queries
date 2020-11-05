@@ -57,7 +57,8 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o allSARSCoVViruses.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allSARSCoVViruses.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allSARSCoVViruses.rq | sed 's+<lang/>+nl+' > allSARSCoVViruses.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@allSARSCoVViruses.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

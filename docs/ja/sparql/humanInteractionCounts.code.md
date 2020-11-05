@@ -224,7 +224,8 @@ ORDER BY DESC(?count) ?virus ?gene
 ## コード例
 ### curl
 ```shell
-curl -o humanInteractionCounts.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/humanInteractionCounts.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/humanInteractionCounts.rq | sed 's+<lang/>+ja+' > humanInteractionCounts.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@humanInteractionCounts.rq
 ```
 本SPARQLクエリはCC0ライセンスで利用可能です。

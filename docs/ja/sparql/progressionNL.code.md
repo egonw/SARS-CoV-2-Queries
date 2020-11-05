@@ -386,7 +386,8 @@ SELECT ?date ?numberOfCases WHERE {
 ## コード例
 ### curl
 ```shell
-curl -o progressionNL.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/progressionNL.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/progressionNL.rq | sed 's+<lang/>+ja+' > progressionNL.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@progressionNL.rq
 ```
 本SPARQLクエリはCC0ライセンスで利用可能です。

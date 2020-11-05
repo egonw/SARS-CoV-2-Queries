@@ -127,7 +127,8 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
 ## Ejemplos de código
 ### curl
 ```shell
-curl -o articleCountPerProtein.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/articleCountPerProtein.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/articleCountPerProtein.rq | sed 's+<lang/>+es+' > articleCountPerProtein.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@articleCountPerProtein.rq
 ```
 Esta consulta SPARQL está disponible en CCZero.

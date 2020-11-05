@@ -248,7 +248,8 @@ SELECT ?facet ?facetLabel WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -o facets.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/facets.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/facets.rq | sed 's+<lang/>+en+' > facets.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@facets.rq
 ```
 This SPARQL query is available under CCZero.

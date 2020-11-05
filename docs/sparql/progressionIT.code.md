@@ -506,7 +506,8 @@ SELECT ?date ?numberOfCases WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -o progressionIT.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/progressionIT.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/progressionIT.rq | sed 's+<lang/>+en+' > progressionIT.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@progressionIT.rq
 ```
 This SPARQL query is available under CCZero.

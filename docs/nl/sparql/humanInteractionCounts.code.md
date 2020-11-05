@@ -224,7 +224,8 @@ ORDER BY DESC(?count) ?virus ?gene
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o humanInteractionCounts.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/humanInteractionCounts.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/humanInteractionCounts.rq | sed 's+<lang/>+nl+' > humanInteractionCounts.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@humanInteractionCounts.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

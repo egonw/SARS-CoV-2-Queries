@@ -62,7 +62,8 @@ ORDER BY DESC(?count)
 ## Code examples
 ### curl
 ```shell
-curl -o litHumanCoronavirusesCounts.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litHumanCoronavirusesCounts.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litHumanCoronavirusesCounts.rq | sed 's+<lang/>+pt+' > litHumanCoronavirusesCounts.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@litHumanCoronavirusesCounts.rq
 ```
 This SPARQL query is available under CCZero.

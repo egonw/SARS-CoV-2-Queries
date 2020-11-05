@@ -51,7 +51,8 @@ ORDER BY DESC(?count)
 ## Code examples
 ### curl
 ```shell
-curl -o surfacesCounts.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/surfacesCounts.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/surfacesCounts.rq | sed 's+<lang/>+pt+' > surfacesCounts.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@surfacesCounts.rq
 ```
 This SPARQL query is available under CCZero.

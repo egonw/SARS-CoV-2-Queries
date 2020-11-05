@@ -567,7 +567,8 @@ SELECT ?date ?numberOfCases WHERE {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o progressionUS.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/progressionUS.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/progressionUS.rq | sed 's+<lang/>+nl+' > progressionUS.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@progressionUS.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

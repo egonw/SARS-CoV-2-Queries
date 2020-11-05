@@ -699,7 +699,8 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o allCoronaVirusesGraph.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allCoronaVirusesGraph.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/allCoronaVirusesGraph.rq | sed 's+<lang/>+nl+' > allCoronaVirusesGraph.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@allCoronaVirusesGraph.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

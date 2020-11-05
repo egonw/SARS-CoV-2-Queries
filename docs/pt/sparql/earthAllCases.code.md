@@ -902,7 +902,8 @@ SELECT ?date ?numberOfCases WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -o earthAllCases.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/earthAllCases.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/earthAllCases.rq | sed 's+<lang/>+pt+' > earthAllCases.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@earthAllCases.rq
 ```
 This SPARQL query is available under CCZero.

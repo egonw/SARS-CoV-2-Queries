@@ -43,7 +43,8 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o litCoronaviruses.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litCoronaviruses.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/litCoronaviruses.rq | sed 's+<lang/>+nl+' > litCoronaviruses.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@litCoronaviruses.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

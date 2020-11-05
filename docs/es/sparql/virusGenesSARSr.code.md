@@ -166,7 +166,8 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
 ## Ejemplos de código
 ### curl
 ```shell
-curl -o virusGenesSARSr.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/virusGenesSARSr.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/virusGenesSARSr.rq | sed 's+<lang/>+es+' > virusGenesSARSr.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@virusGenesSARSr.rq
 ```
 Esta consulta SPARQL está disponible en CCZero.

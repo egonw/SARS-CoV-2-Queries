@@ -516,7 +516,8 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o humanInteractions.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/humanInteractions.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/humanInteractions.rq | sed 's+<lang/>+nl+' > humanInteractions.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@humanInteractions.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

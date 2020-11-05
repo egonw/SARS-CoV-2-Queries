@@ -32,7 +32,8 @@ SELECT ?genome WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -o genomes.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/genomes.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/genomes.rq | sed 's+<lang/>+en+' > genomes.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@genomes.rq
 ```
 This SPARQL query is available under CCZero.

@@ -72,7 +72,8 @@ SELECT ?intervention ?interventionLabel ?image WITH {
 ## Broncode voorbeelden
 ### curl
 ```shell
-curl -o interventionStructures.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/interventionStructures.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/interventionStructures.rq | sed 's+<lang/>+nl+' > interventionStructures.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@interventionStructures.rq
 ```
 Deze SPARQL zoekopdracht is beschikbaar als CCZero

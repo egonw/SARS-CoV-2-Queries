@@ -65,7 +65,8 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
 ## コード例
 ### curl
 ```shell
-curl -o complexes.rq https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/complexes.rq
+curl -s https://raw.githubusercontent.com/egonw/SARS-CoV-2-Queries/master/sparql/complexes.rq | sed 's+<lang/>+ja+' > complexes.rq
+
 curl -H "Accept: text/tab-separated-values" -G https://query.wikidata.org/bigdata/namespace/wdq/sparql --data-urlencode query@complexes.rq
 ```
 本SPARQLクエリはCC0ライセンスで利用可能です。

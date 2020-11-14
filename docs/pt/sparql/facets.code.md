@@ -143,7 +143,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q90630881">impact of the 2019–20 coronavirus pandemic on public transport</a> (<a href="http://www.wikidata.org/entity/Q90630881">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90840989">Impact of the 2019–20 coronavirus pandemic on tourism</a> (<a href="http://www.wikidata.org/entity/Q90840989">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90840989">impact of the COVID-19 pandemic on tourism</a> (<a href="http://www.wikidata.org/entity/Q90840989">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91104866">social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
@@ -191,7 +191,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96048874">Cronologia da pandemia de COVID-19 em junho de 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96058732">Impact of the COVID-19 pandemic on food</a> (<a href="http://www.wikidata.org/entity/Q96058732">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96058732">impact of the COVID-19 pandemic on food</a> (<a href="http://www.wikidata.org/entity/Q96058732">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96336226">Q96336226</a> (<a href="http://www.wikidata.org/entity/Q96336226">edit</a>)</td>
@@ -225,6 +225,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97965631">Cronologia da pandemia de COVID-19 em agosto de 2020</a> (<a href="http://www.wikidata.org/entity/Q97965631">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98404895">Impactos da pandemia de COVID-19 na Igreja Católica</a> (<a href="http://www.wikidata.org/entity/Q98404895">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98557220">event affected by the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q98557220">edit</a>)</td>

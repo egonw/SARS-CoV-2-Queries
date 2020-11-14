@@ -452,7 +452,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q91560228">Rhinolophus sinicus bat coronavirus HKU32</a> (<a href="http://www.wikidata.org/entity/Q91560228">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91560228">Rhinolophus bat coronavirus HKU32</a> (<a href="http://www.wikidata.org/entity/Q91560228">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2586419">2586419</a></td>
   </tr>
   <tr>

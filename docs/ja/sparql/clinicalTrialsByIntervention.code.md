@@ -306,6 +306,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
     <td>1</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td>1</td>
+  </tr>
 </table>
 ## コード例
 ### curl

@@ -208,12 +208,12 @@ It currently list not many:
     <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q101246544">bacTRL-Spike</a> (<a href="http://www.wikidata.org/entity/Q101246544">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q96695067">mRNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q96695067">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q101246544">bacTRL-Spike</a> (<a href="http://www.wikidata.org/entity/Q101246544">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/vaccines.code.html">sparql/vaccines.rq</a></td></tr>
 </table>
@@ -326,10 +326,10 @@ to list them all, and only 15 are given here:
     <td>NCT04380519</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q92273970">Trial Evaluating the Efficacy of Local Budesonide Therapy in the Management of Hyposmia in COVID-19 Patients Without Signs of Severity</a> (<a href="http://www.wikidata.org/entity/Q92273970">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q422212">budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04361474</td>
+    <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04368728</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrials.code.html">sparql/clinicalTrials.rq</a></td></tr>
 </table>

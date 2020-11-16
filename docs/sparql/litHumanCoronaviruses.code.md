@@ -34928,6 +34928,27 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q97549186">INTRAUTERINE TRANSMISSION OF SARS-COV-2 INFECTION IN A PRETERM INFANT</a> (<a href="http://www.wikidata.org/entity/Q97549186">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1097/INF.0000000000002815">10.1097/INF.0000000000002815</a></td>
+    <td>32658097</td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q97549165">SARS-COV-2 Maternal-Child Transmission: Can It Occur Before Delivery and How Do We Prove It?</a> (<a href="http://www.wikidata.org/entity/Q97549165">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1097/INF.0000000000002820">10.1097/INF.0000000000002820</a></td>
+    <td>32658094</td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q97549178">Probable Vertical Transmission of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q97549178">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1097/INF.0000000000002821">10.1097/INF.0000000000002821</a></td>
+    <td>32658096</td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
     <td><a href="https://scholia.toolforge.org/Q97531310">SARS-CoV-2 Seroprevalence Among Parturient Women</a> (<a href="http://www.wikidata.org/entity/Q97531310">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.07.08.20149179">10.1101/2020.07.08.20149179</a></td>
@@ -35002,27 +35023,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.26434/CHEMRXIV.12622667">10.26434/CHEMRXIV.12622667</a></td>
     <td>32676578</td>
-  </tr>
-  <tr>
-    <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q98206170">Combined Prophylactic and Therapeutic Use Maximizes Hydroxychloroquine Anti-SARS-CoV-2 Effects in vitro</a> (<a href="http://www.wikidata.org/entity/Q98206170">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FMICB.2020.01704">10.3389/FMICB.2020.01704</a></td>
-    <td>32754147</td>
-  </tr>
-  <tr>
-    <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q98206134">Inpatient Neurology Consultations During the Onset of the SARS-CoV-2 New York City Pandemic: A Single Center Case Series</a> (<a href="http://www.wikidata.org/entity/Q98206134">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FNEUR.2020.00805">10.3389/FNEUR.2020.00805</a></td>
-    <td>32754113</td>
-  </tr>
-  <tr>
-    <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q98206036">SARS-CoV-2 Molecular Network Structure</a> (<a href="http://www.wikidata.org/entity/Q98206036">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FPHYS.2020.00870">10.3389/FPHYS.2020.00870</a></td>
-    <td>32754056</td>
   </tr>
   <tr>
     <td>2020-07-10</td>

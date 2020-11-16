@@ -34886,6 +34886,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q97871563">The importance of cycle threshold values in interpreting molecular tests for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q97871563">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.DIAGMICROBIO.2020.115130">10.1016/J.DIAGMICROBIO.2020.115130</a></td>
+    <td>32711184</td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
     <td><a href="https://scholia.toolforge.org/Q97525254">Forensic DNA testing during the SARS-CoV-2 pandemic</a> (<a href="http://www.wikidata.org/entity/Q97525254">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.FSIGEN.2020.102346">10.1016/J.FSIGEN.2020.102346</a></td>
@@ -34928,24 +34935,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q97549186">INTRAUTERINE TRANSMISSION OF SARS-COV-2 INFECTION IN A PRETERM INFANT</a> (<a href="http://www.wikidata.org/entity/Q97549186">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97523088">The practical challenges of making clinical use of the quantitative value for SARS-CoV-2 viral load across several dynamics</a> (<a href="http://www.wikidata.org/entity/Q97523088">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1097/INF.0000000000002815">10.1097/INF.0000000000002815</a></td>
-    <td>32658097</td>
-  </tr>
-  <tr>
-    <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q97549165">SARS-COV-2 Maternal-Child Transmission: Can It Occur Before Delivery and How Do We Prove It?</a> (<a href="http://www.wikidata.org/entity/Q97549165">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1097/INF.0000000000002820">10.1097/INF.0000000000002820</a></td>
-    <td>32658094</td>
-  </tr>
-  <tr>
-    <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q97549178">Probable Vertical Transmission of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q97549178">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1097/INF.0000000000002821">10.1097/INF.0000000000002821</a></td>
-    <td>32658096</td>
+    <td><a href="https://doi.org/10.1093/CID/CIAA958">10.1093/CID/CIAA958</a></td>
+    <td>32645717</td>
   </tr>
   <tr>
     <td>2020-07-10</td>
@@ -35016,6 +35009,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1590/0034-7167-2020-0354">10.1590/0034-7167-2020-0354</a></td>
     <td>32667578</td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q97519096">Self-reported symptoms of SARS-CoV-2 infection in a non-hospitalized population: results from the large Italian web-based EPICOVID19 cross-sectional survey</a> (<a href="http://www.wikidata.org/entity/Q97519096">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.2196/21866">10.2196/21866</a></td>
+    <td>32650305</td>
   </tr>
   <tr>
     <td>2020-07-10</td>

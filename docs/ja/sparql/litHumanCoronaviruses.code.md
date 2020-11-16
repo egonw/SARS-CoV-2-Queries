@@ -34879,13 +34879,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-10</td>
-    <td><a href="https://scholia.toolforge.org/Q97535319">SARS-CoV-2 and Male Infertility: Possible Multifaceted Pathology</a> (<a href="http://www.wikidata.org/entity/Q97535319">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S43032-020-00261-Z">10.1007/S43032-020-00261-Z</a></td>
-    <td>32651900</td>
-  </tr>
-  <tr>
-    <td>2020-07-10</td>
     <td><a href="https://scholia.toolforge.org/Q97871563">The importance of cycle threshold values in interpreting molecular tests for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q97871563">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.DIAGMICROBIO.2020.115130">10.1016/J.DIAGMICROBIO.2020.115130</a></td>
@@ -34897,6 +34890,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.FSIGEN.2020.102346">10.1016/J.FSIGEN.2020.102346</a></td>
     <td>32660901</td>
+  </tr>
+  <tr>
+    <td>2020-07-10</td>
+    <td><a href="https://scholia.toolforge.org/Q98655217">Inhibition of SARS-CoV-2 main protease 3CLpro by means of α-ketoamide and pyridone-containing pharmaceuticals using in silico molecular docking</a> (<a href="http://www.wikidata.org/entity/Q98655217">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.MOLSTRUC.2020.128878">10.1016/J.MOLSTRUC.2020.128878</a></td>
+    <td>32834113</td>
   </tr>
   <tr>
     <td>2020-07-10</td>

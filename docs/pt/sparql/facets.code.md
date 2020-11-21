@@ -29,7 +29,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q84897850">Cronologia da pandemia de COVID-19 em novembro de 2019 — janeiro de 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q85173778">Desinformação na pandemia de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85173778">desinformação na pandemia de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85173855">2019–20 coronavirus outbreak data tables</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>

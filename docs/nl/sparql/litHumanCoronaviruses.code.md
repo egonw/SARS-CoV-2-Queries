@@ -34935,6 +34935,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q97639262">Seroprevalence of Antibodies to SARS-CoV-2 in 10 Sites in the United States, March 23-May 12, 2020</a> (<a href="http://www.wikidata.org/entity/Q97639262">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1001/JAMAINTERNMED.2020.4130">10.1001/JAMAINTERNMED.2020.4130</a></td>
+    <td>32692365</td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
     <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
@@ -34949,10 +34956,24 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98209614">SARS-CoV-2-host dynamics: Increased risk of adverse outcomes of COVID-19 in obesity</a> (<a href="http://www.wikidata.org/entity/Q98209614">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97639341">HIV/SARS-CoV-2 coinfection: a global perspective</a> (<a href="http://www.wikidata.org/entity/Q97639341">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.DSX.2020.07.030">10.1016/J.DSX.2020.07.030</a></td>
-    <td>32755835</td>
+    <td><a href="https://doi.org/10.1002/JMV.26321">10.1002/JMV.26321</a></td>
+    <td>32692406</td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q97638465">Hydroxychloroquine, Dermatology and SARS-CoV-2: Updating an Old Association</a> (<a href="http://www.wikidata.org/entity/Q97638465">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26322">10.1002/JMV.26322</a></td>
+    <td>32691896</td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q97638936">Nucleotide Analogues as Inhibitors of SARS-CoV-2 Polymerase, a Key Drug Target for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q97638936">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1021/ACS.JPROTEOME.0C00392">10.1021/ACS.JPROTEOME.0C00392</a></td>
+    <td>32692185</td>
   </tr>
   <tr>
     <td>2020-07-21</td>
@@ -34998,31 +35019,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98191481">Simulations support the interaction of the SARS-CoV-2 spike protein with nicotinic acetylcholine receptors and suggest subtype specificity</a> (<a href="http://www.wikidata.org/entity/Q98191481">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97639343">Third Trimester Placentas of SARS-CoV-2-Positive Women: Histomorphology, including Viral Immunohistochemistry and in Situ Hybridization</a> (<a href="http://www.wikidata.org/entity/Q97639343">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.16.206680">10.1101/2020.07.16.206680</a></td>
-    <td>32743575</td>
+    <td><a href="https://doi.org/10.1111/HIS.14215">10.1111/HIS.14215</a></td>
+    <td>32692408</td>
   </tr>
   <tr>
     <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98191585">High Community SARS-CoV-2 Antibody Seroprevalence in a Ski Resort Community, Blaine County, Idaho, US. Preliminary Results</a> (<a href="http://www.wikidata.org/entity/Q98191585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97639881">Preliminary evaluation of Roche Cobas Elecsys Anti-SARS-CoV-2 chemiluminescence immunoassay</a> (<a href="http://www.wikidata.org/entity/Q97639881">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.19.20157198">10.1101/2020.07.19.20157198</a></td>
-    <td>32743610</td>
-  </tr>
-  <tr>
-    <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98191536">Clinical Characteristics and Outcomes for 7,995 Patients with SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q98191536">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.19.20157305">10.1101/2020.07.19.20157305</a></td>
-    <td>32743602</td>
-  </tr>
-  <tr>
-    <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98189885">Structure-Based Design with Tag-Based Purification and In-Process Biotinylation Enable Streamlined Development of SARS-CoV-2 Spike Molecular Probes</a> (<a href="http://www.wikidata.org/entity/Q98189885">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2139/SSRN.3639618">10.2139/SSRN.3639618</a></td>
-    <td>32742241</td>
+    <td><a href="https://doi.org/10.1515/CCLM-2020-1042">10.1515/CCLM-2020-1042</a></td>
+    <td>32692698</td>
   </tr>
   <tr>
     <td>2020-07-21</td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.5414/CN110164">10.5414/CN110164</a></td>
     <td>32691730</td>
-  </tr>
-  <tr>
-    <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98190547">RdRp mutations are associated with SARS-CoV-2 genome evolution</a> (<a href="http://www.wikidata.org/entity/Q98190547">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.7717/PEERJ.9587">10.7717/PEERJ.9587</a></td>
-    <td>32742818</td>
   </tr>
 </table>
 ## Broncode voorbeelden

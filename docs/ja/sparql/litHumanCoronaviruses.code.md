@@ -298,6 +298,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>33110566</td>
   </tr>
   <tr>
+    <td>2020-11-20</td>
+    <td><a href="https://scholia.toolforge.org/Q102379553">Analytical methodologies for the detection of SARS-CoV-2 in wastewater: Protocols and future perspectives</a> (<a href="http://www.wikidata.org/entity/Q102379553">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.TRAC.2020.116125">10.1016/J.TRAC.2020.116125</a></td>
+    <td>33235400</td>
+  </tr>
+  <tr>
     <td>2020-11-18</td>
     <td><a href="https://scholia.toolforge.org/Q102146875">A Proposed Framework and Timeline of the Spectrum of Disease Due to SARS-CoV-2 Infection: Illness Beyond Acute Infection and Public Health Implications</a> (<a href="http://www.wikidata.org/entity/Q102146875">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -34942,17 +34949,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98209614">SARS-CoV-2-host dynamics: Increased risk of adverse outcomes of COVID-19 in obesity</a> (<a href="http://www.wikidata.org/entity/Q98209614">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.DSX.2020.07.030">10.1016/J.DSX.2020.07.030</a></td>
-    <td>32755835</td>
-  </tr>
-  <tr>
-    <td>2020-07-21</td>
     <td><a href="https://scholia.toolforge.org/Q98182393">An evidence-based theory of change for reducing SARS-CoV-2 transmission in reopened schools</a> (<a href="http://www.wikidata.org/entity/Q98182393">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.HEALTHPLACE.2020.102398">10.1016/J.HEALTHPLACE.2020.102398</a></td>
     <td>32736311</td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q98661014">An Ayurvedic Perspective along with in Silico Study of the Drugs for the Management of Sars-Cov-2</a> (<a href="http://www.wikidata.org/entity/Q98661014">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JAIM.2020.07.002">10.1016/J.JAIM.2020.07.002</a></td>
+    <td>32837100</td>
   </tr>
   <tr>
     <td>2020-07-21</td>
@@ -35016,13 +35023,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2139/SSRN.3639618">10.2139/SSRN.3639618</a></td>
     <td>32742241</td>
-  </tr>
-  <tr>
-    <td>2020-07-21</td>
-    <td><a href="https://scholia.toolforge.org/Q98238723">COVID-19: The Influence of ACE Genotype and ACE-I and ARBs on the Course of SARS-CoV-2 Infection in Elderly Patients</a> (<a href="http://www.wikidata.org/entity/Q98238723">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2147/CIA.S261516">10.2147/CIA.S261516</a></td>
-    <td>32764907</td>
   </tr>
   <tr>
     <td>2020-07-21</td>

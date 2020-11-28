@@ -27,13 +27,13 @@ SELECT ?effect ?effectLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q344873">acute respiratory distress syndrome</a> (<a href="http://www.wikidata.org/entity/Q344873">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q1076369">cytokine storm</a> (<a href="http://www.wikidata.org/entity/Q1076369">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q1128440">toxic shock syndrome</a> (<a href="http://www.wikidata.org/entity/Q1128440">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q2603200">viral pneumonia</a> (<a href="http://www.wikidata.org/entity/Q2603200">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3961647">cytokine release syndrome</a> (<a href="http://www.wikidata.org/entity/Q3961647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q93629491">pediatric multisystem inflammatory syndrome</a> (<a href="http://www.wikidata.org/entity/Q93629491">edit</a>)</td>

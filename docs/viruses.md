@@ -58,7 +58,7 @@ This gives us:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q91561236">BatCoV RaTG13</a> (<a href="http://www.wikidata.org/entity/Q91561236">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91561236">RaTG13</a> (<a href="http://www.wikidata.org/entity/Q91561236">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2709072">2709072</a></td>
   </tr>
   <tr>
@@ -290,7 +290,7 @@ This gives us:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q91561236">BatCoV RaTG13</a> (<a href="http://www.wikidata.org/entity/Q91561236">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91561236">RaTG13</a> (<a href="http://www.wikidata.org/entity/Q91561236">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2709072">2709072</a></td>
   </tr>
   <tr>

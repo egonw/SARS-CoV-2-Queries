@@ -247,6 +247,18 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q100152858">Great Barrington Declaration</a> (<a href="http://www.wikidata.org/entity/Q100152858">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q103406861">Responses to the COVID-19 pandemic in September 2020</a> (<a href="http://www.wikidata.org/entity/Q103406861">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q103407338">Responses to the COVID-19 pandemic in October 2020</a> (<a href="http://www.wikidata.org/entity/Q103407338">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q103407878">Responses to the COVID-19 pandemic in November 2020</a> (<a href="http://www.wikidata.org/entity/Q103407878">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q103408251">Responses to the COVID-19 pandemic in December 2020</a> (<a href="http://www.wikidata.org/entity/Q103408251">edit</a>)</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

@@ -1858,6 +1858,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q103249221">How China’s ‘Bat Woman’ Hunted Down Viruses from SARS to the New Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q103249221">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35125098">How change of public transportation usage reveals fear of the SARS virus in a city</a> (<a href="http://www.wikidata.org/entity/Q35125098">edit</a>)</td>
   </tr>
   <tr>

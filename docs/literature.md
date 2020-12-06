@@ -34,6 +34,16 @@ This gives these 10 papers:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2021-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q102204033">Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo</a> (<a href="http://www.wikidata.org/entity/Q102204033">edit</a>)</td>
+    <td><a href="https://doi.org/10.1084/JEM.20201993">10.1084/JEM.20201993</a></td>
+  </tr>
+  <tr>
+    <td>2021-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q102372236">Inflammasomes are activated in response to SARS-CoV-2 infection and are associated with COVID-19 severity in patients</a> (<a href="http://www.wikidata.org/entity/Q102372236">edit</a>)</td>
+    <td><a href="https://doi.org/10.1084/JEM.20201707">10.1084/JEM.20201707</a></td>
+  </tr>
+  <tr>
     <td>2020-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q100401574">An ace model for SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q100401574">edit</a>)</td>
     <td><a href="https://doi.org/10.1084/JEM.20201748">10.1084/JEM.20201748</a></td>
@@ -62,16 +72,6 @@ This gives these 10 papers:
     <td>2020-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q101039654">SARS-CoV-2 and displaced persons in Afghanistan: A blind spot in epidemic preparedness</a> (<a href="http://www.wikidata.org/entity/Q101039654">edit</a>)</td>
     <td><a href="https://doi.org/10.7189/JOGH.10.020308">10.7189/JOGH.10.020308</a></td>
-  </tr>
-  <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q101039696">SARS-CoV-2 in Malawi: Are we sacrificing the Youth in sub-Saharan Africa?</a> (<a href="http://www.wikidata.org/entity/Q101039696">edit</a>)</td>
-    <td><a href="https://doi.org/10.7189/JOGH.10.020336">10.7189/JOGH.10.020336</a></td>
-  </tr>
-  <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q101039745">SARS-CoV-2 updates in a West African population and precautionary measures for sustaining quality antenatal care delivery</a> (<a href="http://www.wikidata.org/entity/Q101039745">edit</a>)</td>
-    <td><a href="https://doi.org/10.7189/JOGH.10.020365">10.7189/JOGH.10.020365</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -374,11 +374,11 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>16324</td>
+    <td>16647</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2479</td>
+    <td>2480</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>

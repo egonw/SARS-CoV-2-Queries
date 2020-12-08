@@ -17,7 +17,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><b>facet</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q83493517">timeline of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q83493517">Timeline of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q83741704">geografische verspreiding SARS-CoV-2 in 2019 en 2020</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>

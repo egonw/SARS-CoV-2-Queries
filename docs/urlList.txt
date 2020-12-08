@@ -2766,7 +2766,9 @@ https://scholia.toolforge.org/Q103407878
 https://scholia.toolforge.org/Q103408251
 https://scholia.toolforge.org/Q1036
 https://scholia.toolforge.org/Q1037
+https://scholia.toolforge.org/Q103862307
 https://scholia.toolforge.org/Q1039
+https://scholia.toolforge.org/Q103963349
 https://scholia.toolforge.org/Q1041
 https://scholia.toolforge.org/Q1042
 https://scholia.toolforge.org/Q1044

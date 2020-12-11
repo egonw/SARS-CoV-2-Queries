@@ -40,34 +40,34 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1084/JEM.20201707">10.1084/JEM.20201707</a></td>
   </tr>
   <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q100401574">An ace model for SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q100401574">edit</a>)</td>
-    <td><a href="https://doi.org/10.1084/JEM.20201748">10.1084/JEM.20201748</a></td>
+    <td>2020-12-03</td>
+    <td><a href="https://scholia.toolforge.org/Q103834033">On the Challenges for the Diagnosis of SARS-CoV-2 Based on a Review of Current Methodologies</a> (<a href="http://www.wikidata.org/entity/Q103834033">edit</a>)</td>
+    <td><a href="https://doi.org/10.1021/ACSSENSORS.0C01382">10.1021/ACSSENSORS.0C01382</a></td>
   </tr>
   <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q100529061">Generation of Recombinant SARS-CoV-2 Using a Bacterial Artificial Chromosome</a> (<a href="http://www.wikidata.org/entity/Q100529061">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/CPMC.126">10.1002/CPMC.126</a></td>
+    <td>2020-12-03</td>
+    <td><a href="https://scholia.toolforge.org/Q103837538">Commentary for "Endocrine significance of SARS-CoV-2's reliance on ACE2"</a> (<a href="http://www.wikidata.org/entity/Q103837538">edit</a>)</td>
+    <td><a href="https://doi.org/10.1210/ENDOCR/BQAA222">10.1210/ENDOCR/BQAA222</a></td>
   </tr>
   <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q100729868">Reliability of induced sputum test is greater than that of throat swab test for detecting SARS-CoV-2 in patients with COVID-19: A multi-center cross-sectional study</a> (<a href="http://www.wikidata.org/entity/Q100729868">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/21505594.2020.1831342">10.1080/21505594.2020.1831342</a></td>
+    <td>2020-12-03</td>
+    <td><a href="https://scholia.toolforge.org/Q103838197">How SARS-CoV-2 (COVID-19) spreads within infected hosts - what we know so far</a> (<a href="http://www.wikidata.org/entity/Q103838197">edit</a>)</td>
+    <td><a href="https://doi.org/10.1042/ETLS20200165">10.1042/ETLS20200165</a></td>
   </tr>
   <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q100943359">Similarities between the effect of SARS-CoV-2 and HCV on the cellular level, and the possible role of ion channels in COVID19 progression: a review of potential targets for diagnosis and treatment</a> (<a href="http://www.wikidata.org/entity/Q100943359">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/19336950.2020.1837439">10.1080/19336950.2020.1837439</a></td>
+    <td>2020-12-03</td>
+    <td><a href="https://scholia.toolforge.org/Q103838425">EXPRESS: Development of a High Throughput SARS-CoV-2 Antibody Testing Pathway Using Dried Blood Spot Specimens</a> (<a href="http://www.wikidata.org/entity/Q103838425">edit</a>)</td>
+    <td><a href="https://doi.org/10.1177/0004563220981106">10.1177/0004563220981106</a></td>
   </tr>
   <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q100960782">Are children with SARS-CoV-2 infection at high risk for thrombosis? Viscoelastic testing and coagulation profiles in a case series of pediatric patients</a> (<a href="http://www.wikidata.org/entity/Q100960782">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/PBC.28737">10.1002/PBC.28737</a></td>
+    <td>2020-12-02</td>
+    <td><a href="https://scholia.toolforge.org/Q103824937">THE IMPACT OF SARS-CoV-2 INFECTION ON THE SURGICAL MANAGEMENT OF COLORECTAL CANCER: LESSONS LEARNED FROM A MULTICENTER STUDY IN SPAIN</a> (<a href="http://www.wikidata.org/entity/Q103824937">edit</a>)</td>
+    <td><a href="https://doi.org/10.17235/REED.2020.7460/2020">10.17235/REED.2020.7460/2020</a></td>
   </tr>
   <tr>
-    <td>2020-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q101039654">SARS-CoV-2 and displaced persons in Afghanistan: A blind spot in epidemic preparedness</a> (<a href="http://www.wikidata.org/entity/Q101039654">edit</a>)</td>
-    <td><a href="https://doi.org/10.7189/JOGH.10.020308">10.7189/JOGH.10.020308</a></td>
+    <td>2020-12-02</td>
+    <td><a href="https://scholia.toolforge.org/Q103824939">Pre-Procedural Antibody Testing for SARS-CoV-2 in routine endoscopic practice</a> (<a href="http://www.wikidata.org/entity/Q103824939">edit</a>)</td>
+    <td><a href="https://doi.org/10.17235/REED.2020.7434/2020">10.17235/REED.2020.7434/2020</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -319,7 +319,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>16648</td>
+    <td>16907</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -34991,6 +34991,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-01</td>
+    <td><a href="https://scholia.toolforge.org/Q98185369">The first 100 days of SARS-CoV-2 control in Vietnam</a> (<a href="http://www.wikidata.org/entity/Q98185369">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/CID/CIAA1130">10.1093/CID/CIAA1130</a></td>
+    <td>32738143</td>
+  </tr>
+  <tr>
+    <td>2020-08-01</td>
     <td><a href="https://scholia.toolforge.org/Q98287547">Genomic variance of Open Reading Frames (ORFs) and Spike protein in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q98287547">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1097/JCMA.0000000000000387">10.1097/JCMA.0000000000000387</a></td>
@@ -34998,17 +35005,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-01</td>
+    <td><a href="https://scholia.toolforge.org/Q98185455">Tumor markers as an entry for SARS-CoV-2 infection?</a> (<a href="http://www.wikidata.org/entity/Q98185455">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/FEBS.15499">10.1111/FEBS.15499</a></td>
+    <td>32738184</td>
+  </tr>
+  <tr>
+    <td>2020-08-01</td>
     <td><a href="https://scholia.toolforge.org/Q98391165">How close is SARS-CoV-2 to canine and feline coronaviruses?</a> (<a href="http://www.wikidata.org/entity/Q98391165">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/JSAP.13207">10.1111/JSAP.13207</a></td>
     <td>32785948</td>
-  </tr>
-  <tr>
-    <td>2020-08-01</td>
-    <td><a href="https://scholia.toolforge.org/Q98468973">SARS-CoV-2 Transmission and the Risk of Aerosol-Generating Procedures</a> (<a href="http://www.wikidata.org/entity/Q98468973">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1164/RCCM.2024P13">10.1164/RCCM.2024P13</a></td>
-    <td>32795140</td>
   </tr>
   <tr>
     <td>2020-08-01</td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1714/3405.33886">10.1714/3405.33886</a></td>
     <td>32686779</td>
-  </tr>
-  <tr>
-    <td>2020-08-01</td>
-    <td><a href="https://scholia.toolforge.org/Q98468066">Geographical and temporal distribution of SARS-CoV-2 clades in the WHO European Region, January to June 2020</a> (<a href="http://www.wikidata.org/entity/Q98468066">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2807/1560-7917.ES.2020.25.32.2001410">10.2807/1560-7917.ES.2020.25.32.2001410</a></td>
-    <td>32794443</td>
   </tr>
 </table>
 ## Code examples

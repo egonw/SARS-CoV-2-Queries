@@ -220,15 +220,15 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-Cov2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-Cov2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-Cov2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
@@ -260,31 +260,31 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">CVnCoV</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">CVnCoV</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">CVnCoV</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162b2</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162b2</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162b2</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162b2</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>

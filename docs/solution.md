@@ -327,7 +327,7 @@ to list them all, and only 15 are given here:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97154240">BNT162b2</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04368728</td>
   </tr>

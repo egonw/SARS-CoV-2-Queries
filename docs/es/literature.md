@@ -40,34 +40,34 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1084/JEM.20201707">10.1084/JEM.20201707</a></td>
   </tr>
   <tr>
-    <td>2020-12-03</td>
-    <td><a href="https://scholia.toolforge.org/Q103834033">On the Challenges for the Diagnosis of SARS-CoV-2 Based on a Review of Current Methodologies</a> (<a href="http://www.wikidata.org/entity/Q103834033">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/ACSSENSORS.0C01382">10.1021/ACSSENSORS.0C01382</a></td>
+    <td>2021-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q104104828">Urological tumors treatment in Brazil during the SARS-Cov-2 outbrake</a> (<a href="http://www.wikidata.org/entity/Q104104828">edit</a>)</td>
+    <td><a href="https://doi.org/10.1590/S1677-5538.IBJU.2020.0479.1">10.1590/S1677-5538.IBJU.2020.0479.1</a></td>
   </tr>
   <tr>
-    <td>2020-12-03</td>
-    <td><a href="https://scholia.toolforge.org/Q103837538">Commentary for "Endocrine significance of SARS-CoV-2's reliance on ACE2"</a> (<a href="http://www.wikidata.org/entity/Q103837538">edit</a>)</td>
-    <td><a href="https://doi.org/10.1210/ENDOCR/BQAA222">10.1210/ENDOCR/BQAA222</a></td>
+    <td>2020-12-10</td>
+    <td><a href="https://scholia.toolforge.org/Q104141251"><i>In vitro</i> antimicrobial, physicochemical, pharmacokinetics and molecular docking studies of benzoyl uridine esters against SARS-CoV-2 main protease</a> (<a href="http://www.wikidata.org/entity/Q104141251">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1850358">10.1080/07391102.2020.1850358</a></td>
   </tr>
   <tr>
-    <td>2020-12-03</td>
-    <td><a href="https://scholia.toolforge.org/Q103838197">How SARS-CoV-2 (COVID-19) spreads within infected hosts - what we know so far</a> (<a href="http://www.wikidata.org/entity/Q103838197">edit</a>)</td>
-    <td><a href="https://doi.org/10.1042/ETLS20200165">10.1042/ETLS20200165</a></td>
+    <td>2020-12-10</td>
+    <td><a href="https://scholia.toolforge.org/Q104141476">Estimating the Predictive Value of Negative SARS-CoV-2 Results: A Prospective Study</a> (<a href="http://www.wikidata.org/entity/Q104141476">edit</a>)</td>
+    <td><a href="https://doi.org/10.1017/ICE.2020.1362">10.1017/ICE.2020.1362</a></td>
   </tr>
   <tr>
-    <td>2020-12-03</td>
-    <td><a href="https://scholia.toolforge.org/Q103838425">EXPRESS: Development of a High Throughput SARS-CoV-2 Antibody Testing Pathway Using Dried Blood Spot Specimens</a> (<a href="http://www.wikidata.org/entity/Q103838425">edit</a>)</td>
-    <td><a href="https://doi.org/10.1177/0004563220981106">10.1177/0004563220981106</a></td>
+    <td>2020-12-10</td>
+    <td><a href="https://scholia.toolforge.org/Q104141497">An overview of research on air and environmental contamination with SARS-CoV-2 in healthcare settings</a> (<a href="http://www.wikidata.org/entity/Q104141497">edit</a>)</td>
+    <td><a href="https://doi.org/10.1017/ICE.2020.1366">10.1017/ICE.2020.1366</a></td>
   </tr>
   <tr>
-    <td>2020-12-02</td>
-    <td><a href="https://scholia.toolforge.org/Q103824937">THE IMPACT OF SARS-CoV-2 INFECTION ON THE SURGICAL MANAGEMENT OF COLORECTAL CANCER: LESSONS LEARNED FROM A MULTICENTER STUDY IN SPAIN</a> (<a href="http://www.wikidata.org/entity/Q103824937">edit</a>)</td>
-    <td><a href="https://doi.org/10.17235/REED.2020.7460/2020">10.17235/REED.2020.7460/2020</a></td>
+    <td>2020-12-10</td>
+    <td><a href="https://scholia.toolforge.org/Q104166323">Phylogenetic analysis of SARS-CoV-2 in Boston highlights the impact of superspreading events</a> (<a href="http://www.wikidata.org/entity/Q104166323">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABE3261">10.1126/SCIENCE.ABE3261</a></td>
   </tr>
   <tr>
-    <td>2020-12-02</td>
-    <td><a href="https://scholia.toolforge.org/Q103824939">Pre-Procedural Antibody Testing for SARS-CoV-2 in routine endoscopic practice</a> (<a href="http://www.wikidata.org/entity/Q103824939">edit</a>)</td>
-    <td><a href="https://doi.org/10.17235/REED.2020.7434/2020">10.17235/REED.2020.7434/2020</a></td>
+    <td>2020-12-09</td>
+    <td><a href="https://scholia.toolforge.org/Q104132291">Sensing the interactions between carbohydrate-binding agents and <i>N</i>-linked glycans of SARS-CoV-2 spike glycoprotein using molecular docking and simulation studies</a> (<a href="http://www.wikidata.org/entity/Q104132291">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1851303">10.1080/07391102.2020.1851303</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -190,13 +190,13 @@ Que actualmente da:
   </tr>
   <tr>
     <td>2020-08-17</td>
-    <td><a href="https://scholia.toolforge.org/Q98510279">Structures and distributions of SARS-CoV-2 spike proteins on intact virions</a> (<a href="http://www.wikidata.org/entity/Q98510279">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41586-020-2665-2">10.1038/S41586-020-2665-2</a></td>
+    <td><a href="https://scholia.toolforge.org/Q98513801">ORF8 and ORF3b antibodies are accurate serological markers of early and late SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q98513801">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41590-020-0773-7">10.1038/S41590-020-0773-7</a></td>
   </tr>
   <tr>
     <td>2020-08-17</td>
-    <td><a href="https://scholia.toolforge.org/Q98513801">ORF8 and ORF3b antibodies are accurate serological markers of early and late SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q98513801">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41590-020-0773-7">10.1038/S41590-020-0773-7</a></td>
+    <td><a href="https://scholia.toolforge.org/Q98510279">Structures and distributions of SARS-CoV-2 spike proteins on intact virions</a> (<a href="http://www.wikidata.org/entity/Q98510279">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-020-2665-2">10.1038/S41586-020-2665-2</a></td>
   </tr>
   <tr>
     <td>2020-08-12</td>
@@ -318,7 +318,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>16908</td>
+    <td>17184</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

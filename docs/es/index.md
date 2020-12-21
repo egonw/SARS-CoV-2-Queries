@@ -56,30 +56,30 @@ Deseos, comentarios, y pull requests pueden ser enviados a
 4.4. [Progresión regional graficada](pandemic.md#progresión-regional-graficada) <br />
 4.4.1. [Casos](pandemic.md#casos) <br />
 4.4.2. [Fallecidos](pandemic.md#fallecidos) <br />
-5. [Genomas, Genes y Proteínas](genes.md) <br />
-5.1. [Genomas](genes.md#genomas) <br />
-5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
-5.2.1. [Genes](genes.md#genes) <br />
-5.2.2. [Proteínas](genes.md#proteínas) <br />
-5.2.3. [Complejos proteicos](genes.md#complejos-proteicos) <br />
-5.3. [Todos los virus relacionados con el SARS](genes.md#todos-los-virus-relacionados-con-el-sars) <br />
-5.3.1. [Todos los genes relacionados con el SARS](genes.md#todos-los-genes-relacionados-con-el-sars) <br />
-5.3.2. [Todos los proteínas relacionados con el SARS](genes.md#todos-los-proteínas-relacionados-con-el-sars) <br />
-5.4. [Todos los coronavirus humanos](genes.md#todos-los-coronavirus-humanos) <br />
-5.4.1. [Todos los genes del coronavirus humano](genes.md#todos-los-genes-del-coronavirus-humano) <br />
-5.4.2. [Todos las proteínas del coronavirus humano](genes.md#todos-las-proteínas-del-coronavirus-humano) <br />
-6. [El humano](human.md) <br />
-6.1. [Genes y proteínas que interactúan](human.md#genes-y-proteínas-que-interactúan) <br />
-6.2. [Procesos biológicos](human.md#procesos-biológicos) <br />
-7. [Hacia una solución](solution.md) <br />
-7.1. [Anticuerpos](solution.md#anticuerpos) <br />
-7.2. [Reutilización de drogas](solution.md#reutilización-de-drogas) <br />
-8. [Literatura](literature.md) <br />
-8.1. [Literatura sobre SARS-CoV-2](literature.md#literatura-sobre-sars-cov-2) <br />
-8.1.1. [Literatura sobre SARS-CoV-2 genes](literature.md#literatura-sobre-sars-cov-2-genes) <br />
-8.1.2. [Literatura sobre SARS-CoV-2 proteínas](literature.md#literatura-sobre-sars-cov-2-proteínas) <br />
-8.2. [Literatura sobre los coronavirus](literature.md#literatura-sobre-los-coronavirus) <br />
-8.2.1. [Literatura sobre los coronavirus humanos](literature.md#literatura-sobre-los-coronavirus-humanos) <br />
+6. [Genomas, Genes y Proteínas](genes.md) <br />
+6.1. [Genomas](genes.md#genomas) <br />
+6.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
+6.2.1. [Genes](genes.md#genes) <br />
+6.2.2. [Proteínas](genes.md#proteínas) <br />
+6.2.3. [Complejos proteicos](genes.md#complejos-proteicos) <br />
+6.3. [Todos los virus relacionados con el SARS](genes.md#todos-los-virus-relacionados-con-el-sars) <br />
+6.3.1. [Todos los genes relacionados con el SARS](genes.md#todos-los-genes-relacionados-con-el-sars) <br />
+6.3.2. [Todos los proteínas relacionados con el SARS](genes.md#todos-los-proteínas-relacionados-con-el-sars) <br />
+6.4. [Todos los coronavirus humanos](genes.md#todos-los-coronavirus-humanos) <br />
+6.4.1. [Todos los genes del coronavirus humano](genes.md#todos-los-genes-del-coronavirus-humano) <br />
+6.4.2. [Todos las proteínas del coronavirus humano](genes.md#todos-las-proteínas-del-coronavirus-humano) <br />
+7. [El humano](human.md) <br />
+7.1. [Genes y proteínas que interactúan](human.md#genes-y-proteínas-que-interactúan) <br />
+7.2. [Procesos biológicos](human.md#procesos-biológicos) <br />
+8. [Hacia una solución](solution.md) <br />
+8.1. [Anticuerpos](solution.md#anticuerpos) <br />
+8.2. [Reutilización de drogas](solution.md#reutilización-de-drogas) <br />
+9. [Literatura](literature.md) <br />
+9.1. [Literatura sobre SARS-CoV-2](literature.md#literatura-sobre-sars-cov-2) <br />
+9.1.1. [Literatura sobre SARS-CoV-2 genes](literature.md#literatura-sobre-sars-cov-2-genes) <br />
+9.1.2. [Literatura sobre SARS-CoV-2 proteínas](literature.md#literatura-sobre-sars-cov-2-proteínas) <br />
+9.2. [Literatura sobre los coronavirus](literature.md#literatura-sobre-los-coronavirus) <br />
+9.2.1. [Literatura sobre los coronavirus humanos](literature.md#literatura-sobre-los-coronavirus-humanos) <br />
 
 [Index](indexList.md) <br />
 

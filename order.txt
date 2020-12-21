@@ -2,6 +2,7 @@ intro
 viruses
 covid
 pandemic
+sarscov2
 genes
 human
 solution

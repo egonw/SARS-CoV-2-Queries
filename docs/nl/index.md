@@ -46,9 +46,9 @@ maar alle SPARQL zoekopdrachten in dit boek kunnen gebruikt worden als
 2.4. [Alle coronavirusen](viruses.md#alle-coronavirusen) <br />
 2.4.1. [Virussen vergelijken](viruses.md#virussen-vergelijken) <br />
 2.5. [NCBI Taxonomie nummers](viruses.md#ncbi-taxonomie-nummers) <br />
-6. [De mens](human.md) <br />
-6.1. [Gen en eiwit interacties](human.md#gen-en-eiwit-interacties) <br />
-6.2. [Biologische processen](human.md#biologische-processen) <br />
+7. [De mens](human.md) <br />
+7.1. [Gen en eiwit interacties](human.md#gen-en-eiwit-interacties) <br />
+7.2. [Biologische processen](human.md#biologische-processen) <br />
 
 [Index](indexList.md) <br />
 

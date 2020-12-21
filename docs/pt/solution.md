@@ -131,7 +131,7 @@ Deve-se enfatizar que os anticorpos são específicos para cada proteína e cada
 
 ## Reuso de medicamentos
 
-A seção [7.3](#sec:trials)  inclui uma descrição geral dos ensaios clínicos. Esta aqui dá uma ideia dos sintomas que preocupam às pessoas. Também traz informações sobre quais medicamentos se estudam para <a name="tp2">reuso</a>.
+A seção [8.3](#sec:trials)  inclui uma descrição geral dos ensaios clínicos. Esta aqui dá uma ideia dos sintomas que preocupam às pessoas. Também traz informações sobre quais medicamentos se estudam para <a name="tp2">reuso</a>.
 Alguns destes tem recebido mais atenção, outros menos. 
 
 

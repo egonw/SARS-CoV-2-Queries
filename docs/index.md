@@ -74,32 +74,31 @@ To cite one of the translations:
 4.4. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
 4.4.1. [Cases](pandemic.md#cases) <br />
 4.4.2. [Deaths](pandemic.md#deaths) <br />
-5. [Genomes, Genes, and Proteins](genes.md) <br />
-5.1. [Genomes](genes.md#genomes) <br />
-5.2. [SARS-CoV-2](genes.md#sars-cov-2) <br />
-5.2.1. [Genes](genes.md#genes) <br />
-5.2.2. [Proteins](genes.md#proteins) <br />
-5.2.3. [Protein complexes](genes.md#protein-complexes) <br />
-5.3. [All SARSr viruses](genes.md#all-sarsr-viruses) <br />
-5.3.1. [All SARSr genes](genes.md#all-sarsr-genes) <br />
-5.3.2. [All SARSr proteins](genes.md#all-sarsr-proteins) <br />
-5.4. [All human coronaviruses](genes.md#all-human-coronaviruses) <br />
-5.4.1. [All HCoV genes](genes.md#all-hcov-genes) <br />
-5.4.2. [All HCoV proteins](genes.md#all-hcov-proteins) <br />
-6. [The Human](human.md) <br />
-6.1. [Interacting genes and proteins](human.md#interacting-genes-and-proteins) <br />
-6.2. [Biological processes](human.md#biological-processes) <br />
-7. [Towards a solution](solution.md) <br />
-7.1. [Antibodies](solution.md#antibodies) <br />
-7.2. [Vaccines](solution.md#vaccines) <br />
-7.3. [Clinical trials](solution.md#clinical-trials) <br />
-7.4. [Drug repurposing](solution.md#drug-repurposing) <br />
-8. [Literature](literature.md) <br />
-8.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
-8.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
-8.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
-8.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
-8.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
+5. [SARS-CoV-2](sarscov2.md) <br />
+5.1. [Genomes](sarscov2.md#genomes) <br />
+5.1.1. [Genes](sarscov2.md#genes) <br />
+5.1.2. [Proteins](sarscov2.md#proteins) <br />
+5.1.3. [Protein complexes](sarscov2.md#protein-complexes) <br />
+6. [Genomes, Genes, and Proteins](genes.md) <br />
+6.1. [All SARSr genes](genes.md#all-sarsr-genes) <br />
+6.1.1. [All SARSr proteins](genes.md#all-sarsr-proteins) <br />
+6.2. [All human coronaviruses](genes.md#all-human-coronaviruses) <br />
+6.3. [All HCoV genes](genes.md#all-hcov-genes) <br />
+6.3.1. [All HCoV proteins](genes.md#all-hcov-proteins) <br />
+7. [The Human](human.md) <br />
+7.1. [Interacting genes and proteins](human.md#interacting-genes-and-proteins) <br />
+7.2. [Biological processes](human.md#biological-processes) <br />
+8. [Towards a solution](solution.md) <br />
+8.1. [Antibodies](solution.md#antibodies) <br />
+8.2. [Vaccines](solution.md#vaccines) <br />
+8.3. [Clinical trials](solution.md#clinical-trials) <br />
+8.4. [Drug repurposing](solution.md#drug-repurposing) <br />
+9. [Literature](literature.md) <br />
+9.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
+9.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
+9.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
+9.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
+9.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
 
 [Index](indexList.md) <br />
 

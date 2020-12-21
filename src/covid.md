@@ -7,11 +7,6 @@
   "name": "COVID-19"
 }
 </script>
-
-This Chapter gives information about this disease.
-
-## SARS-CoV-2
-
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -21,7 +16,8 @@ This Chapter gives information about this disease.
 }
 </script>
 
-<topic>COVID-19</topic> is the disease caused by the <topic>SARS-CoV-2</topic> virus.
+This Chapter gives information about this disease.
+<topic>COVID-19</topic> is the disease caused by the <topic>SARS-CoV-2</topic> virus (see Section <xref>sars-cov-2</xref>).
 
 ## Symptoms
 

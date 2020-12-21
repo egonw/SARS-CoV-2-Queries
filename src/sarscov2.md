@@ -1,4 +1,4 @@
-# SARS-CoV-2
+<section level="#" label="sars-cov-2">SARS-CoV-2</section>
 
 ## Genomes
 

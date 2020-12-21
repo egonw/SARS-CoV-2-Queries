@@ -1,0 +1,5 @@
+SELECT ?variant ?variantLabel ?genome WHERE {
+  ?variant wdt:P171 wd:Q82069695 .
+  OPTIONAL { ?variant wdt:P527/wdt:P6800 ?genome }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
+}

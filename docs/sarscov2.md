@@ -36,6 +36,37 @@ Which lists these genome URLs:
   </tr>
 </table>
 
+### Variants
+
+Two variants of the virus genome made it into the international news: a Danish variant and a South-England variant:
+
+<table>
+  <tr>
+    <td><b>variant</b></td>
+    <td><b>genome</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VUI – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td></td>
+  </tr>
+</table>
+
+These were found in Wikidata with this query:
+
+**SPARQL** [sparql/sarscov2Variants.rq](sparql/sarscov2Variants.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fvariant%20%3FvariantLabel%20%3Fgenome%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP171%20wd%3AQ82069695%20.%0A%20%20OPTIONAL%20%7B%20%3Fvariant%20wdt%3AP527%2Fwdt%3AP6800%20%3Fgenome%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fvariant%20%3FvariantLabel%20%3Fgenome%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP171%20wd%3AQ82069695%20.%0A%20%20OPTIONAL%20%7B%20%3Fvariant%20wdt%3AP527%2Fwdt%3AP6800%20%3Fgenome%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A))
+
+```sparql
+SELECT ?variant ?variantLabel ?genome WHERE {
+  ?variant wdt:P171 wd:Q82069695 .
+  OPTIONAL { ?variant wdt:P527/wdt:P6800 ?genome }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+}
+```
+
 ## Genes
 
 The <a name="tp2">RNA</a> of SARS-CoV-2 has been sequenced. Therefore, the <a name="tp3">open reading frames</a> are known and identified.

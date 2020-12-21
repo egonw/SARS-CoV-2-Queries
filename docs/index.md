@@ -61,9 +61,8 @@ To cite one of the translations:
 2.4.1. [Comparing viruses](viruses.md#comparing-viruses) <br />
 2.5. [NCBI Taxonomy IDs](viruses.md#ncbi-taxonomy-ids) <br />
 3. [COVID-19](covid.md) <br />
-3.1. [SARS-CoV-2](covid.md#sars-cov-2) <br />
-3.2. [Symptoms](covid.md#symptoms) <br />
-3.3. [Effects](covid.md#effects) <br />
+3.1. [Symptoms](covid.md#symptoms) <br />
+3.2. [Effects](covid.md#effects) <br />
 4. [The pandemic](pandemic.md) <br />
 4.1. [Virus <topic>transmission</topic>](pandemic.md#virus-<topic>transmission</topic>) <br />
 4.2. [Progression](pandemic.md#progression) <br />
@@ -76,9 +75,11 @@ To cite one of the translations:
 4.4.2. [Deaths](pandemic.md#deaths) <br />
 5. [SARS-CoV-2](sarscov2.md) <br />
 5.1. [Genomes](sarscov2.md#genomes) <br />
-5.1.1. [Genes](sarscov2.md#genes) <br />
-5.1.2. [Proteins](sarscov2.md#proteins) <br />
-5.1.3. [Protein complexes](sarscov2.md#protein-complexes) <br />
+5.1.1. [Variants](sarscov2.md#variants) <br />
+5.2. [Genes](sarscov2.md#genes) <br />
+5.3. [Proteins](sarscov2.md#proteins) <br />
+5.4. [Protein complexes](sarscov2.md#protein-complexes) <br />
+5.4.1. [PDB structures](sarscov2.md#pdb-structures) <br />
 6. [Genomes, Genes, and Proteins](genes.md) <br />
 6.1. [All SARSr genes](genes.md#all-sarsr-genes) <br />
 6.1.1. [All SARSr proteins](genes.md#all-sarsr-proteins) <br />

@@ -10,6 +10,16 @@ Which lists these genome URLs:
 
 <out>genomes</out>
 
+### Variants
+
+Two variants of the virus genome made it into the international news: a Danish variant and a South-England variant:
+
+<out>sarscov2Variants</out>
+
+These were found in Wikidata with this query:
+
+<sparql>sarscov2Variants</sparql>
+
 ## Genes
 
 The <topic>RNA</topic> of SARS-CoV-2 has been sequenced. Therefore, the <topic>open reading frames</topic> are known and identified.

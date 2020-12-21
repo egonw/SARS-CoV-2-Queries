@@ -35,7 +35,7 @@ Which lists these genome URLs:
   </tr>
 </table>
 
-### Genes
+## Genes
 
 The <a name="tp2">RNA</a> of SARS-CoV-2 has been sequenced. Therefore, the <a name="tp3">open reading frames</a> are known and identified.
 We can query for the <a name="tp4">gene</a> information in Wikidata with thie query:
@@ -107,7 +107,7 @@ Which gives us these genes:
   </tr>
 </table>
 
-### Proteins
+## Proteins
 
 Alternatively, we may be interested in the <a name="tp5">proteins</a> of the coronaviruses.
 We can get those with this query:
@@ -375,7 +375,7 @@ Which gives us these proteins:
   </tr>
 </table>
 
-### Protein complexes
+## Protein complexes
 
 Thanks to work done by a team at the online
 [BioHackathon in April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
@@ -445,7 +445,7 @@ Listing these complexes:
   </tr>
 </table>
 
-#### PDB structures
+### PDB structures
 
 For the proteins, we can then query for the <a name="tp6">PDB structures</a> [<a href="#citeref2">2</a>]:
 

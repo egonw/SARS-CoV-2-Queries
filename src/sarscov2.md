@@ -10,7 +10,7 @@ Which lists these genome URLs:
 
 <out>genomes</out>
 
-### Genes
+## Genes
 
 The <topic>RNA</topic> of SARS-CoV-2 has been sequenced. Therefore, the <topic>open reading frames</topic> are known and identified.
 We can query for the <topic>gene</topic> information in Wikidata with thie query:
@@ -21,7 +21,7 @@ Which gives us these genes:
 
 <out>virusGenes</out>
 
-### Proteins
+## Proteins
 
 Alternatively, we may be interested in the <topic>proteins</topic> of the coronaviruses.
 We can get those with this query:
@@ -32,7 +32,7 @@ Which gives us these proteins:
 
 <out>virusProteins</out>
 
-### Protein complexes
+## Protein complexes
 
 Thanks to work done by a team at the online
 [BioHackathon in April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
@@ -45,7 +45,7 @@ Listing these complexes:
 
 <out>complexes</out>
 
-#### PDB structures
+### PDB structures
 
 For the proteins, we can then query for the <topic>PDB structures</topic> [<cite>Q30491855</cite>]:
 

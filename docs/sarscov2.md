@@ -38,7 +38,9 @@ Which lists these genome URLs:
 
 ### Variants
 
-Two variants of the virus genome made it into the international news: a Danish variant and a South-England variant:
+Two variants of the virus genome made it into the international news: a Danish variant, a South-African variant,
+and a South-England variant. It must be noted that many variations are known and the following variants are listed
+because they have been discussed in newspapers:
 
 <table>
   <tr>

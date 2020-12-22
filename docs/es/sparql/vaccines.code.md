@@ -117,11 +117,11 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85795487">Vacuna de ARN</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q85795487">Vacuna de ARN</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">Vacuna contra COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
@@ -142,6 +142,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30612">ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q30612">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q134808">vacuna</a> (<a href="http://www.wikidata.org/entity/Q134808">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
@@ -209,11 +213,11 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560939">vacuna inactivada</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560939">vacuna inactivada</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">Vacuna contra COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
@@ -318,6 +322,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">Vacuna contra COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>

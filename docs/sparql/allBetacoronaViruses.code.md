@@ -18,6 +18,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q57758339">Bat Hp-betacoronavirus Zhejiang2013</a> (<a href="http://www.wikidata.org/entity/Q57758339">edit</a>)</td>
     <td></td>
   </tr>
@@ -44,6 +48,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57773834">China Rattus coronavirus HKU24</a> (<a href="http://www.wikidata.org/entity/Q57773834">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501960">2501960</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92109575">Eidolon bat coronavirus C704</a> (<a href="http://www.wikidata.org/entity/Q92109575">edit</a>)</td>
@@ -140,6 +148,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16993274">Tylonycteris bat coronavirus HKU4</a> (<a href="http://www.wikidata.org/entity/Q16993274">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694007">694007</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VUI – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>

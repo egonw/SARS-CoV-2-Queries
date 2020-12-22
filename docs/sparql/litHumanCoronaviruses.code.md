@@ -34879,17 +34879,24 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-07</td>
-    <td><a href="https://scholia.toolforge.org/Q98615178">Aerosol transmission of SARS-CoV-2? Evidence, prevention and control</a> (<a href="http://www.wikidata.org/entity/Q98615178">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.ENVINT.2020.106039">10.1016/J.ENVINT.2020.106039</a></td>
-    <td>32822927</td>
-  </tr>
-  <tr>
-    <td>2020-08-07</td>
     <td><a href="https://scholia.toolforge.org/Q98657333">Predicted therapeutic targets for COVID-19 disease by inhibiting SARS-CoV-2 and its related receptors</a> (<a href="http://www.wikidata.org/entity/Q98657333">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.IMU.2020.100407">10.1016/J.IMU.2020.100407</a></td>
     <td>32835083</td>
+  </tr>
+  <tr>
+    <td>2020-08-07</td>
+    <td><a href="https://scholia.toolforge.org/Q98298865">Why is pre-exposure prophylaxis with hydroxychloroquine a safe and rationale approach against SARS-COV-2 infection?</a> (<a href="http://www.wikidata.org/entity/Q98298865">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JGAR.2020.07.022">10.1016/J.JGAR.2020.07.022</a></td>
+    <td>32777441</td>
+  </tr>
+  <tr>
+    <td>2020-08-07</td>
+    <td><a href="https://scholia.toolforge.org/Q98298024">SARS-CoV-2 epidemic in African countries-are we losing perspective?</a> (<a href="http://www.wikidata.org/entity/Q98298024">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S1473-3099(20)30563-6">10.1016/S1473-3099(20)30563-6</a></td>
+    <td>32777206</td>
   </tr>
   <tr>
     <td>2020-08-07</td>
@@ -34946,13 +34953,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/JALM/JFAA139">10.1093/JALM/JFAA139</a></td>
     <td>32766840</td>
-  </tr>
-  <tr>
-    <td>2020-08-07</td>
-    <td><a href="https://scholia.toolforge.org/Q98895263">No Evidence of SARS-CoV-2 Seminal Shedding Despite SARS-CoV-2 Persistence in the Upper Respiratory Tract</a> (<a href="http://www.wikidata.org/entity/Q98895263">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/OFID/OFAA325">10.1093/OFID/OFAA325</a></td>
-    <td>32875005</td>
   </tr>
   <tr>
     <td>2020-08-07</td>

@@ -117,11 +117,11 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19ワクチン</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
@@ -145,6 +145,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q134808">ワクチン</a> (<a href="http://www.wikidata.org/entity/Q134808">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
   </tr>
   <tr>
@@ -209,82 +213,82 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3560939">不活性化ワクチン</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154236">Anhui Zhifei Longcom Biopharmaceutical COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154236">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154236">Anhui Zhifei Longcom Biopharmaceutical COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154236">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19ワクチン</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154236">Anhui Zhifei Longcom Biopharmaceutical COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154236">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154236">Anhui Zhifei Longcom Biopharmaceutical COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154236">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154238">SCB-2019</a> (<a href="http://www.wikidata.org/entity/Q97154238">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154240">トジナメラン</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154240">トジナメラン</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154240">トジナメラン</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19ワクチン</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154240">トジナメラン</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q98734151">funded product</a> (<a href="http://www.wikidata.org/entity/Q98734151">edit</a>)</td>
   </tr>
   <tr>
@@ -293,7 +297,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154241">LNP-nCoVsaRNA</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154241">LNP-nCoVsaRNA</a> (<a href="http://www.wikidata.org/entity/Q97154241">edit</a>)</td>
@@ -305,7 +309,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154242">Arcov</a> (<a href="http://www.wikidata.org/entity/Q97154242">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154243">Medicago Inc. COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154243">edit</a>)</td>
@@ -321,6 +325,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87719492">COVID-19ワクチン</a> (<a href="http://www.wikidata.org/entity/Q87719492">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96841548">アデノウイルスに基づくワクチン</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
   </tr>
   <tr>
@@ -373,7 +381,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98713328">Lunar-COV19</a> (<a href="http://www.wikidata.org/entity/Q98713328">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q85795487">RNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98945351">GRAd-COV2</a> (<a href="http://www.wikidata.org/entity/Q98945351">edit</a>)</td>

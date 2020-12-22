@@ -19,6 +19,23 @@ SELECT ?genome WHERE {
 
 Que lista as URLs de genoma:
 
+<table>
+  <tr>
+    <td><b>genome</b></td>
+  </tr>
+  <tr>
+    <td>https://gisaid.org/CoV2020</td>
+  </tr>
+  <tr>
+    <td>https://www.ncbi.nlm.nih.gov/assembly/GCF_009858895.2</td>
+  </tr>
+  <tr>
+    <td>https://www.ncbi.nlm.nih.gov/genome/86693</td>
+  </tr>
+  <tr>
+    <td>https://www.ncbi.nlm.nih.gov/nuccore/1798174254</td>
+  </tr>
+</table>
 
 ## SARS-CoV-2
 
@@ -1802,6 +1819,12 @@ Que retorna:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Coronavírus humano OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88660232">hemagglutinin-esterase</a> (<a href="http://www.wikidata.org/entity/Q88660232">edit</a>)</td>
+    <td>YP_009555240.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P30215">P30215</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16991954">Coronavírus humano OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88657456">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88657456">edit</a>)</td>
     <td>YP_009555243.1</td>
     <td></td>
@@ -1841,12 +1864,6 @@ Que retorna:
     <td><a href="https://scholia.toolforge.org/Q88660220">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88660220">edit</a>)</td>
     <td>YP_009555244.1</td>
     <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16991954">Coronavírus humano OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88660232">hemagglutinin-esterase</a> (<a href="http://www.wikidata.org/entity/Q88660232">edit</a>)</td>
-    <td>YP_009555240.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P30215">P30215</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

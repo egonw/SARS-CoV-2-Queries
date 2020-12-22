@@ -69,6 +69,18 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://scholia.toolforge.org/Q97709493">Bat SARS CoV Rp3</a> (<a href="http://www.wikidata.org/entity/Q97709493">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VUI – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 
 この結果を[2.2](#sec:sevenhuman)章の結果と比較すれば、それらが完全には一致しないことが分かります。
@@ -299,6 +311,18 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97709493">Bat SARS CoV Rp3</a> (<a href="http://www.wikidata.org/entity/Q97709493">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VUI – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
+    <td></td>
   </tr>
 </table>
 

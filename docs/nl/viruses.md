@@ -74,7 +74,7 @@ Dit geeft ons:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">VUI – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -318,7 +318,7 @@ Dat geeft:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">VUI – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

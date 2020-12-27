@@ -106,9 +106,6 @@ Lista destes sintomas:
     <td><a href="https://scholia.toolforge.org/Q485831">linfocitopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q576349">encefalopatia</a> (<a href="http://www.wikidata.org/entity/Q576349">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q599982">enanthem</a> (<a href="http://www.wikidata.org/entity/Q599982">edit</a>)</td>
   </tr>
   <tr>
@@ -131,9 +128,6 @@ Lista destes sintomas:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3245488">congestão nasal</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3508755">síndrome gripal</a> (<a href="http://www.wikidata.org/entity/Q3508755">edit</a>)</td>
   </tr>
 </table>
 

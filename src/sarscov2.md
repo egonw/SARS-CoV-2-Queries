@@ -22,6 +22,22 @@ These were found in Wikidata with this query:
 
 <sparql>sarscov2Variants</sparql>
 
+These variants are all SARS-CoV-2, but a common type of combinations or sequence variants found in them
+gives them different properties. For examples, VUI–202012/01 (also known as B.1.1.7) has a combination
+of 17 sequence variants, see [this write up](https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563).
+It must be noted that many of these 17 sequence variants are found in other SARS-CoV-2 variants too.
+
+We can list all sequence variants listed in Wikidata (out of a few thousand!) with this query:
+
+<sparql>sequenceVariants</sparql>
+
+This gives us this list:
+
+<out>sequenceVariants</out>
+
+Each sequence variant is a change in the genes encoded by the viral DNA and cause a change in the protein encoded
+by that gene. The following two sections lists all genes and proteins.
+
 ## Genes
 
 The <topic>RNA</topic> of SARS-CoV-2 has been sequenced. Therefore, the <topic>open reading frames</topic> are known and identified.

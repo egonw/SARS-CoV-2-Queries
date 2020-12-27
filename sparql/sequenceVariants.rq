@@ -1,0 +1,6 @@
+SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE {
+  ?variant wdt:P3433 ?sequence .
+  ?sequence wdt:P703 / wdt:P171* wd:Q82069695 ;
+            wdt:P703 ?taxon .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

@@ -6,14 +6,19 @@ scholarly publications (cited in Wikipedia) [<cite>Q28843308</cite>]. Inspired b
 [Scholia](https://scholia.toolforge.org/) [<cite>Q41799194</cite>], this electronic books collects
 a number of queries useful to journal editors.
 
+As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
+the [Wikidata:WikiProject COVID-19](https://www.wikidata.org/wiki/Wikidata:WikiProject_COVID-19),
+of Wikicite, and the selflessness efforts by many people around the world
+[<cite>Q99196713</cite>,<cite>Q99440037</cite>,<cite>Q90557988</cite>,<cite>Q102043840</cite>].
+
 ## Adding missing topic annotation
 
-As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
-the Wikidata:WikiProject COVID-19, of Wikicite, and the selflessness efforts by many people around
-the world. Because Wikidata is an open database, everyone can contribute, and one of the easiest
+Because Wikidata is an open database, everyone can contribute, and one of the easiest
 ways to contribute, is annotate articles in Wikidata with 'main subjects'. The content of the
 Literature chapter very much depends on this. If you want to help, get a Wikidata account, browse
 this book for mentioned literature and start adding 'main subject' annotation. 
+[This tutorial](https://laurendupuis.github.io/Scholia_tutorial/)
+explains how to annotation literature with main subjects in Wikidata.
 
 ## Other annotation
 

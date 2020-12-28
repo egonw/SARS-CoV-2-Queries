@@ -10,14 +10,19 @@ scholarly publications (cited in Wikipedia) [<a href="#citeref3">3</a>]. Inspire
 [Scholia](https://scholia.toolforge.org/) [<a href="#citeref4">4</a>], this electronic books collects
 a number of queries useful to journal editors.
 
+As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
+the [Wikidata:WikiProject COVID-19](https://www.wikidata.org/wiki/Wikidata:WikiProject_COVID-19),
+of Wikicite, and the selflessness efforts by many people around the world
+[<a href="#citeref5">5</a>,<a href="#citeref6">6</a>,<a href="#citeref7">7</a>,<a href="#citeref8">8</a>].
+
 ## Adding missing topic annotation
 
-As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
-the Wikidata:WikiProject COVID-19, of Wikicite, and the selflessness efforts by many people around
-the world. Because Wikidata is an open database, everyone can contribute, and one of the easiest
+Because Wikidata is an open database, everyone can contribute, and one of the easiest
 ways to contribute, is annotate articles in Wikidata with 'main subjects'. The content of the
 Literature chapter very much depends on this. If you want to help, get a Wikidata account, browse
 this book for mentioned literature and start adding 'main subject' annotation. 
+[This tutorial](https://laurendupuis.github.io/Scholia_tutorial/)
+explains how to annotation literature with main subjects in Wikidata.
 
 ## Other annotation
 
@@ -38,4 +43,8 @@ For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 2. <a name="citeref2"></a>Waagmeester A, Stupp G, Burgstaller-Muehlbacher S, Good BM, Griffith M, Griffith O, et al. Wikidata as a knowledge graph for the life sciences. eLife. 2020 Mar 17;9.  doi:[10.7554/ELIFE.52614](https://doi.org/10.7554/ELIFE.52614) ([Scholia](https://scholia.toolforge.org/doi/10.7554/ELIFE.52614))
 3. <a name="citeref3"></a>Taraborelli D, Dugan JM, Pintscher L, Mietchen D, Neylon C. WikiCite 2016 Report [Internet]. Wikimedia Commons. 2016 Nov. Available from: https://upload.wikimedia.org/wikipedia/commons/2/2b/WikiCite_2016_report.pdf doi:[10.6084/M9.FIGSHARE.4042530](https://doi.org/10.6084/M9.FIGSHARE.4042530) ([Scholia](https://scholia.toolforge.org/doi/10.6084/M9.FIGSHARE.4042530))
 4. <a name="citeref4"></a>Nielsen FÅ, Mietchen D, Willighagen E. Scholia, Scientometrics and Wikidata. In: The Semantic Web: ESWC 2017 Satellite Events [Internet]. 2017. p. 237–59. Available from: http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/7010/pdf/imm7010.pdf doi:[10.1007/978-3-319-70407-4_36](https://doi.org/10.1007/978-3-319-70407-4_36) ([Scholia](https://scholia.toolforge.org/doi/10.1007/978-3-319-70407-4_36))
+5. <a name="citeref5"></a>Turki H, Jemielniak D, Taieb MAH, Gayo JEL, Aouicha MB, Banat M, et al. Using logical constraints to validate information in collaborative knowledge graphs: a study of COVID-19 on Wikidata. Zenodo. 2020 Aug 30;  doi:[10.5281/ZENODO.4008359](https://doi.org/10.5281/ZENODO.4008359) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.4008359))
+6. <a name="citeref6"></a>Aouicha MB, Turki H, Taieb MAH, Shafee T, Lubiana T, Jemielniak D, et al. Representing COVID-19 information in collaborative knowledge graphs: a study of Wikidata. Zenodo. 2020 Sep 14;  doi:[10.5281/ZENODO.4033382](https://doi.org/10.5281/ZENODO.4033382) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.4033382))
+7. <a name="citeref7"></a>Waagmeester A, Willighagen E, Su AI, Kutmon M, Summer-Kutmon M, Gayo JEL, et al. A protocol for adding knowledge to Wikidata, a case report. bioRxiv.org : the preprint server for biology. 2020.  doi:[10.1101/2020.04.05.026336](https://doi.org/10.1101/2020.04.05.026336) ([Scholia](https://scholia.toolforge.org/doi/10.1101/2020.04.05.026336))
+8. <a name="citeref8"></a>Cappelletti L, Reese JT, Unni D, Callahan TJ, Cappelletti L, Ravanmehr V, et al. KG-COVID-19: a framework to produce customized knowledge graphs for COVID-19 response. Patterns. 2020 Nov 9;100155.  doi:[10.1016/J.PATTER.2020.100155](https://doi.org/10.1016/J.PATTER.2020.100155) ([Scholia](https://scholia.toolforge.org/doi/10.1016/J.PATTER.2020.100155))
 

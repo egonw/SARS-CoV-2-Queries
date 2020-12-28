@@ -8258,6 +8258,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-11-08</td>
+    <td><a href="https://scholia.toolforge.org/Q104530011">RNA 2'-O-methylation modification and its implication in COVID-19 immunity</a> (<a href="http://www.wikidata.org/entity/Q104530011">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41420-020-00358-Z">10.1038/S41420-020-00358-Z</a></td>
+    <td>33298836</td>
+  </tr>
+  <tr>
+    <td>2020-11-08</td>
     <td><a href="https://scholia.toolforge.org/Q101452748">Prevalence of IgG against SARS-CoV-2 and evaluation of a rapid MEDsan IgG test in children seeking medical care</a> (<a href="http://www.wikidata.org/entity/Q101452748">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/CID/CIAA1702">10.1093/CID/CIAA1702</a></td>
@@ -15286,6 +15293,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-15</td>
+    <td><a href="https://scholia.toolforge.org/Q104529925">Imperfect innate immune antagonism renders SARS-CoV-2 vulnerable towards IFN-γ and -λ</a> (<a href="http://www.wikidata.org/entity/Q104529925">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.10.15.340612">10.1101/2020.10.15.340612</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-10-15</td>
     <td><a href="https://scholia.toolforge.org/Q100567380">Characterization of community-wide transmission of SARS-CoV-2 in congregate living settings and local public health-coordinated response during the initial phase of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q100567380">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/IRV.12819">10.1111/IRV.12819</a></td>
@@ -18951,6 +18965,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41420-020-00321-Y">10.1038/S41420-020-00321-Y</a></td>
     <td>33024578</td>
+  </tr>
+  <tr>
+    <td>2020-10-02</td>
+    <td><a href="https://scholia.toolforge.org/Q100427974">SARS-CoV2-mediated suppression of NRF2-signaling reveals potent antiviral and anti-inflammatory activity of 4-octyl-itaconate and dimethyl fumarate</a> (<a href="http://www.wikidata.org/entity/Q100427974">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-020-18764-3">10.1038/S41467-020-18764-3</a></td>
+    <td>33009401</td>
   </tr>
   <tr>
     <td>2020-10-02</td>
@@ -32632,6 +32653,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-20</td>
+    <td><a href="https://scholia.toolforge.org/Q104530041">Structural basis for the multimerization of nonstructural protein nsp9 from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104530041">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1186/S43556-020-00005-0">10.1186/S43556-020-00005-0</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020-08-20</td>
     <td><a href="https://scholia.toolforge.org/Q98576638">Age could be driving variable SARS-CoV-2 epidemic trajectories worldwide</a> (<a href="http://www.wikidata.org/entity/Q98576638">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0237959">10.1371/JOURNAL.PONE.0237959</a></td>
@@ -34809,6 +34837,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98657344">In Silico Identification of Potential Inhibitors of ADP-Ribose Phosphatase of SARS-CoV-2 nsP3 by Combining E-Pharmacophore- and Receptor-Based Virtual Screening of Database</a> (<a href="http://www.wikidata.org/entity/Q98657344">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/SLCT.202001419">10.1002/SLCT.202001419</a></td>
+    <td>32835090</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98383208">Increased mortality in patients with severe SARS-CoV-2 infection admitted within seven days of disease onset</a> (<a href="http://www.wikidata.org/entity/Q98383208">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S00134-020-06202-3">10.1007/S00134-020-06202-3</a></td>
@@ -34837,10 +34872,31 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98460355">Method comparison of SARS-CoV-2 serology assays involving three commercially available platforms and a novel in-house developed enzyme-linked immunosorbent assay</a> (<a href="http://www.wikidata.org/entity/Q98460355">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98663321">Re-reading the SARS-COV-2 Epidemic in Bergamo</a> (<a href="http://www.wikidata.org/entity/Q98663321">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CLINBIOCHEM.2020.08.004">10.1016/J.CLINBIOCHEM.2020.08.004</a></td>
-    <td>32791053</td>
+    <td><a href="https://doi.org/10.1007/S42399-020-00431-9">10.1007/S42399-020-00431-9</a></td>
+    <td>32838185</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98579090">Host-membrane interacting interface of the SARS coronavirus envelope protein: Immense functional potential of C-terminal domain</a> (<a href="http://www.wikidata.org/entity/Q98579090">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.BPC.2020.106452">10.1016/J.BPC.2020.106452</a></td>
+    <td>32818817</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98720898">Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding</a> (<a href="http://www.wikidata.org/entity/Q98720898">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELL.2020.08.012">10.1016/J.CELL.2020.08.012</a></td>
+    <td>32841599</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98944400">The pharmacist's role in SARS-CoV-2 diagnostic testing</a> (<a href="http://www.wikidata.org/entity/Q98944400">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JAPH.2020.08.017">10.1016/J.JAPH.2020.08.017</a></td>
+    <td>32883622</td>
   </tr>
   <tr>
     <td>2020-08-11</td>
@@ -34851,6 +34907,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98579128">SARS-CoV-2 exhibits intra-host genomic plasticity and low-frequency polymorphic quasispecies</a> (<a href="http://www.wikidata.org/entity/Q98579128">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JCV.2020.104585">10.1016/J.JCV.2020.104585</a></td>
+    <td>32818852</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98630364">Structural analysis of experimental drugs binding to the SARS-CoV-2 target TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q98630364">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JMGM.2020.107710">10.1016/J.JMGM.2020.107710</a></td>
@@ -34858,17 +34921,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98392344">Interaction of Drug Candidates with Various SARS-CoV-2 Receptors: An in Silico Study to Combat COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98392344">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98902832">Growth Factor Receptor Signaling Inhibition Prevents SARS-CoV-2 Replication</a> (<a href="http://www.wikidata.org/entity/Q98902832">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/ACS.JPROTEOME.0C00327">10.1021/ACS.JPROTEOME.0C00327</a></td>
-    <td>32786890</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98391628">Comparative analysis of primer-probe sets for RT-qPCR of COVID-19 causative virus (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q98391628">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/ACSINFECDIS.0C00464">10.1021/ACSINFECDIS.0C00464</a></td>
-    <td>32786273</td>
+    <td><a href="https://doi.org/10.1016/J.MOLCEL.2020.08.006">10.1016/J.MOLCEL.2020.08.006</a></td>
+    <td>32877642</td>
   </tr>
   <tr>
     <td>2020-08-11</td>
@@ -34928,59 +34984,31 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98577570">Salivary anti-SARS-CoV-2 IgA as an accessible biomarker of mucosal immunity against COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98577570">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.08.07.20170258">10.1101/2020.08.07.20170258</a></td>
+    <td>32817976</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98577465">Considering indirect benefits is critical when evaluating SARS-CoV-2 vaccine candidates</a> (<a href="http://www.wikidata.org/entity/Q98577465">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.08.07.20170456">10.1101/2020.08.07.20170456</a></td>
+    <td>32817958</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98577340">Ambroxol and Ciprofloxacin Show Activity Against SARS-CoV2 in Vero E6 Cells at Clinically-Relevant Concentrations</a> (<a href="http://www.wikidata.org/entity/Q98577340">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.08.11.245100">10.1101/2020.08.11.245100</a></td>
+    <td>32817934</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98383646">SARS-CoV-2 infection and early mortality of wait-listed and solid organ transplant recipients in England: a national cohort study</a> (<a href="http://www.wikidata.org/entity/Q98383646">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/AJT.16247">10.1111/AJT.16247</a></td>
     <td>32780493</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98387322">Tannins inhibit SARS-CoV-2 through binding with catalytic dyad residues of 3CLpro : An in silico approach with 19 structural different hydrolysable tannins</a> (<a href="http://www.wikidata.org/entity/Q98387322">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1111/JFBC.13432">10.1111/JFBC.13432</a></td>
-    <td>32783247</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98394425">Case of adult large vessel vasculitis after SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q98394425">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/ANNRHEUMDIS-2020-218440">10.1136/ANNRHEUMDIS-2020-218440</a></td>
-    <td>32788398</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98388581">SARS-CoV-2 serological testing changes disease management in a PCR-negative patient</a> (<a href="http://www.wikidata.org/entity/Q98388581">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/BCR-2020-237239">10.1136/BCR-2020-237239</a></td>
-    <td>32784236</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98388586">Severe pre-eclampsia complicated by acute fatty liver disease of pregnancy, HELLP syndrome and acute kidney injury following SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q98388586">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/BCR-2020-237521">10.1136/BCR-2020-237521</a></td>
-    <td>32784239</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98394303">SARS-CoV-2 on the ocular surface: is it truly a novel transmission route?</a> (<a href="http://www.wikidata.org/entity/Q98394303">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/BJOPHTHALMOL-2020-316263">10.1136/BJOPHTHALMOL-2020-316263</a></td>
-    <td>32788324</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98388627">Racial and ethnic disparities in SARS-CoV-2 pandemic: analysis of a COVID-19 observational registry for a diverse US metropolitan population</a> (<a href="http://www.wikidata.org/entity/Q98388627">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/BMJOPEN-2020-039849">10.1136/BMJOPEN-2020-039849</a></td>
-    <td>32784264</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98394287">SARS-CoV-2 and the pandemic of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98394287">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/POSTGRADMEDJ-2020-138386">10.1136/POSTGRADMEDJ-2020-138386</a></td>
-    <td>32788312</td>
   </tr>
   <tr>
     <td>2020-08-11</td>
@@ -35005,38 +35033,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98459060">Facility-Wide Testing for SARS-CoV-2 in Nursing Homes - Seven U.S. Jurisdictions, March-June 2020</a> (<a href="http://www.wikidata.org/entity/Q98459060">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98578430">Characterizing SARS-CoV-2 mutations in the United States</a> (<a href="http://www.wikidata.org/entity/Q98578430">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.15585/MMWR.MM6932E5">10.15585/MMWR.MM6932E5</a></td>
-    <td>32790655</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98390147">Neurological complications of SARS-CoV-2 infection in a 66-year-old man</a> (<a href="http://www.wikidata.org/entity/Q98390147">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.20452/PAMW.15548">10.20452/PAMW.15548</a></td>
-    <td>32785207</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98393531">Pentoxifylline and Oxypurinol: Potential Drugs to Prevent the "Cytokine Release (Storm) Syndrome" Caused by SARS-CoV-2?</a> (<a href="http://www.wikidata.org/entity/Q98393531">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2174/1381612826666200811180232">10.2174/1381612826666200811180232</a></td>
-    <td>32787748</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98459017">SARS-CoV-2/COVID-19 Testing for Research: Willingness to Use Home Specimen Collection Methods</a> (<a href="http://www.wikidata.org/entity/Q98459017">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2196/19471">10.2196/19471</a></td>
-    <td>32790639</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98459022">Temporal and Location Variations, and Link Categories for the Dissemination of COVID-19-related Information on Twitter during the SARS-CoV-2 Outbreak in Europe: Infoveillance Study</a> (<a href="http://www.wikidata.org/entity/Q98459022">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2196/19629">10.2196/19629</a></td>
-    <td>32790641</td>
+    <td><a href="https://doi.org/10.21203/RS.3.RS-49671/V1">10.21203/RS.3.RS-49671/V1</a></td>
+    <td>32818213</td>
   </tr>
 </table>
 ## コード例

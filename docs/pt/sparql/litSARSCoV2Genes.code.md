@@ -21,6 +21,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2020-08-18</td>
+    <td><a href="https://scholia.toolforge.org/Q98614780">Effects of a major deletion in the SARS-CoV-2 genome on the severity of infection and the inflammatory response: an observational cohort study</a> (<a href="http://www.wikidata.org/entity/Q98614780">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S0140-6736(20)31757-8">10.1016/S0140-6736(20)31757-8</a></td>
+  </tr>
+  <tr>
     <td>2020-07-21</td>
     <td><a href="https://scholia.toolforge.org/Q97642415">Discovery and Genomic Characterization of a 382-Nucleotide Deletion in ORF7b and ORF8 during the Early Evolution of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q97642415">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/MBIO.01610-20">10.1128/MBIO.01610-20</a></td>

@@ -9,6 +9,8 @@ no replacement for [Scholia](https://scholia.toolforge.org/) [<a href="#citeref1
 which has a much richer overview of <a name="tp2">literature</a> on the topic. Each section
 includes a link to the Scholia page for that topic. The queries used here
 are very basic, and only use the 'main subject' property.
+[This tutorial](https://laurendupuis.github.io/Scholia_tutorial/)
+explains how to annotation literature with main subjects in Wikidata.
 
 ## about SARS-CoV-2
 

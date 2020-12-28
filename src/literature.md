@@ -5,6 +5,8 @@ no replacement for [Scholia](https://scholia.toolforge.org/) [<cite>Q63433973</c
 which has a much richer overview of <topic>literature</topic> on the topic. Each section
 includes a link to the Scholia page for that topic. The queries used here
 are very basic, and only use the 'main subject' property.
+[This tutorial](https://laurendupuis.github.io/Scholia_tutorial/)
+explains how to annotation literature with main subjects in Wikidata.
 
 ## about SARS-CoV-2
 

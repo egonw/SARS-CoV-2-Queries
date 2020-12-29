@@ -36,6 +36,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1016/J.JCV.2020.104523">10.1016/J.JCV.2020.104523</a></td>
   </tr>
   <tr>
+    <td>2020-06-22</td>
+    <td><a href="https://scholia.toolforge.org/Q96639683">A neutralizing human antibody binds to the N-terminal domain of the Spike protein of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96639683">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABC6952">10.1126/SCIENCE.ABC6952</a></td>
+  </tr>
+  <tr>
     <td>2020-06-16</td>
     <td><a href="https://scholia.toolforge.org/Q96435377">SARS-CoV-2 genomic surveillance in Taiwan revealed novel ORF8-deletion mutant and clade possibly associated with infections in Middle East</a> (<a href="http://www.wikidata.org/entity/Q96435377">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/22221751.2020.1782271">10.1080/22221751.2020.1782271</a></td>
@@ -54,6 +59,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-04-30</td>
     <td><a href="https://scholia.toolforge.org/Q94470555">A SARS-CoV-2 protein interaction map reveals targets for drug repurposing</a> (<a href="http://www.wikidata.org/entity/Q94470555">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-020-2286-9">10.1038/S41586-020-2286-9</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-20</td>
+    <td><a href="https://scholia.toolforge.org/Q94503565">Crystal structure of SARS-CoV-2 nucleocapsid protein RNA binding domain reveals potential unique drug targeting sites</a> (<a href="http://www.wikidata.org/entity/Q94503565">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.APSB.2020.04.009">10.1016/J.APSB.2020.04.009</a></td>
   </tr>
   <tr>
     <td>2020-04-12</td>

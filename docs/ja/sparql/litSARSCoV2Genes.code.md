@@ -31,11 +31,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1128/MBIO.01610-20">10.1128/MBIO.01610-20</a></td>
   </tr>
   <tr>
-    <td>2020-06-23</td>
-    <td><a href="https://scholia.toolforge.org/Q97086727">Identification of multiple large deletions in ORF7a resulting in in-frame gene fusions in clinical SARS-CoV-2 isolates</a> (<a href="http://www.wikidata.org/entity/Q97086727">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JCV.2020.104523">10.1016/J.JCV.2020.104523</a></td>
-  </tr>
-  <tr>
     <td>2020-06-22</td>
     <td><a href="https://scholia.toolforge.org/Q96639683">A neutralizing human antibody binds to the N-terminal domain of the Spike protein of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96639683">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABC6952">10.1126/SCIENCE.ABC6952</a></td>

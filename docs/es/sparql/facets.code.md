@@ -248,6 +248,12 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q100152858">La Declaración De Great Barrington</a> (<a href="http://www.wikidata.org/entity/Q100152858">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q101071358">Timeline of the COVID-19 pandemic in November 2020</a> (<a href="http://www.wikidata.org/entity/Q101071358">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q103083123">Timeline of the COVID-19 pandemic in December 2020</a> (<a href="http://www.wikidata.org/entity/Q103083123">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q103406861">Responses to the COVID-19 pandemic in September 2020</a> (<a href="http://www.wikidata.org/entity/Q103406861">edit</a>)</td>
   </tr>
   <tr>
@@ -258,6 +264,12 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q103408251">Responses to the COVID-19 pandemic in December 2020</a> (<a href="http://www.wikidata.org/entity/Q103408251">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104604502">Timeline of the COVID-19 pandemic in January 2021</a> (<a href="http://www.wikidata.org/entity/Q104604502">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104604512">Responses to the COVID-19 pandemic in January 2021</a> (<a href="http://www.wikidata.org/entity/Q104604512">edit</a>)</td>
   </tr>
 </table>
 ## Ejemplos de código

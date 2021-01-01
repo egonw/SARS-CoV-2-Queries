@@ -77,7 +77,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
-    <td>3</td>
+    <td>7</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104520877">ORF9c protein [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q104520877">edit</a>)</td>

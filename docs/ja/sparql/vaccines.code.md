@@ -277,10 +277,6 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154240">トジナメラン</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28051899">ワクチン候補</a> (<a href="http://www.wikidata.org/entity/Q28051899">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">トジナメラン</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>

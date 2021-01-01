@@ -871,8 +871,24 @@ SELECT ?date ?numberOfCases WHERE {
     <td>21294845</td>
   </tr>
   <tr>
+    <td>2020-08-16</td>
+    <td>21294845</td>
+  </tr>
+  <tr>
+    <td>2020-08-23</td>
+    <td>23057288</td>
+  </tr>
+  <tr>
     <td>2020-08-30</td>
     <td>24854140</td>
+  </tr>
+  <tr>
+    <td>2020-08-30</td>
+    <td>24854140</td>
+  </tr>
+  <tr>
+    <td>2020-09-06</td>
+    <td>26763217</td>
   </tr>
   <tr>
     <td>2020-09-06</td>
@@ -883,8 +899,20 @@ SELECT ?date ?numberOfCases WHERE {
     <td>28637952</td>
   </tr>
   <tr>
+    <td>2020-09-13</td>
+    <td>28637952</td>
+  </tr>
+  <tr>
     <td>2020-09-20</td>
     <td>30675675</td>
+  </tr>
+  <tr>
+    <td>2020-09-20</td>
+    <td>30675675</td>
+  </tr>
+  <tr>
+    <td>2020-09-27</td>
+    <td>32730945</td>
   </tr>
   <tr>
     <td>2020-09-27</td>
@@ -895,6 +923,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td>34804348</td>
   </tr>
   <tr>
+    <td>2020-10-04</td>
+    <td>34804348</td>
+  </tr>
+  <tr>
+    <td>2020-10-11</td>
+    <td>37109851</td>
+  </tr>
+  <tr>
     <td>2020-10-11</td>
     <td>37109851</td>
   </tr>
@@ -903,8 +939,52 @@ SELECT ?date ?numberOfCases WHERE {
     <td>40118333</td>
   </tr>
   <tr>
+    <td>2020-10-18</td>
+    <td>40118333</td>
+  </tr>
+  <tr>
+    <td>2020-10-25</td>
+    <td>43341451</td>
+  </tr>
+  <tr>
+    <td>2020-11-01</td>
+    <td>45968799</td>
+  </tr>
+  <tr>
+    <td>2020-11-08</td>
+    <td>49727316</td>
+  </tr>
+  <tr>
+    <td>2020-11-15</td>
+    <td>53766728</td>
+  </tr>
+  <tr>
+    <td>2020-11-22</td>
+    <td>57882183</td>
+  </tr>
+  <tr>
+    <td>2020-11-29</td>
+    <td>61866635</td>
+  </tr>
+  <tr>
+    <td>2020-12-06</td>
+    <td>65872391</td>
+  </tr>
+  <tr>
+    <td>2020-12-13</td>
+    <td>70476836</td>
+  </tr>
+  <tr>
     <td>2020-12-20</td>
     <td>75129306</td>
+  </tr>
+  <tr>
+    <td>2020-12-20</td>
+    <td>75129306</td>
+  </tr>
+  <tr>
+    <td>2020-12-27</td>
+    <td>79231893</td>
   </tr>
 </table>
 ## Broncode voorbeelden

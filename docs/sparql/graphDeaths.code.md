@@ -4279,6 +4279,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q298">Chile</a> (<a href="http://www.wikidata.org/entity/Q298">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-12-31</td>
+    <td>43213</td>
+    <td><a href="https://scholia.toolforge.org/Q739">Colombia</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-12-30</td>
     <td>42909</td>
     <td><a href="https://scholia.toolforge.org/Q739">Colombia</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
@@ -11689,6 +11694,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q783">Honduras</a> (<a href="http://www.wikidata.org/entity/Q783">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-12-31</td>
+    <td>9537</td>
+    <td><a href="https://scholia.toolforge.org/Q28">Hungary</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-12-30</td>
     <td>9429</td>
     <td><a href="https://scholia.toolforge.org/Q28">Hungary</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
@@ -13159,6 +13169,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q189">Iceland</a> (<a href="http://www.wikidata.org/entity/Q189">edit</a>)</td>
   </tr>
   <tr>
+    <td>2020-12-31</td>
+    <td>148738</td>
+    <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-12-30</td>
     <td>148439</td>
     <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
@@ -14544,8 +14559,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
   </tr>
   <tr>
-    <td>2020-12-30</td>
-    <td>21944</td>
+    <td>2020-12-31</td>
+    <td>22138</td>
     <td><a href="https://scholia.toolforge.org/Q252">Indonesia</a> (<a href="http://www.wikidata.org/entity/Q252">edit</a>)</td>
   </tr>
   <tr>
@@ -18302,6 +18317,11 @@ WHERE {
     <td>2020-04-13</td>
     <td>2</td>
     <td><a href="https://scholia.toolforge.org/Q1020">Malawi</a> (<a href="http://www.wikidata.org/entity/Q1020">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2020-12-31</td>
+    <td>471</td>
+    <td><a href="https://scholia.toolforge.org/Q833">Malaysia</a> (<a href="http://www.wikidata.org/entity/Q833">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-11-24</td>

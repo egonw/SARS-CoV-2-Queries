@@ -34942,6 +34942,27 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q99200880">Two serological approaches for detection of antibodies to SARS-CoV-2 in different scenarios: a screening tool and a point-of-care test</a> (<a href="http://www.wikidata.org/entity/Q99200880">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.DIAGMICROBIO.2020.115167">10.1016/J.DIAGMICROBIO.2020.115167</a></td>
+    <td>32890908</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q99629001">Effect of Low-Pathogenic Human Coronavirus-Specific Antibodies on SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99629001">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IT.2020.08.003">10.1016/J.IT.2020.08.003</a></td>
+    <td>32863133</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98944400">The pharmacist's role in SARS-CoV-2 diagnostic testing</a> (<a href="http://www.wikidata.org/entity/Q98944400">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JAPH.2020.08.017">10.1016/J.JAPH.2020.08.017</a></td>
+    <td>32883622</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98629059">SARS-CoV-2 seroprevalence in a Belgian cohort of patients with cystic fibrosis</a> (<a href="http://www.wikidata.org/entity/Q98629059">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JCF.2020.08.005">10.1016/J.JCF.2020.08.005</a></td>
@@ -34956,10 +34977,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98563549">Performance evaluation of serological assays to determine the immunoglobulin status in SARS-CoV-2 infected patients</a> (<a href="http://www.wikidata.org/entity/Q98563549">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99212802">Use of a simplified sample processing step without RNA extraction for direct SARS-CoV-2 RT-PCR detection</a> (<a href="http://www.wikidata.org/entity/Q99212802">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JCV.2020.104589">10.1016/J.JCV.2020.104589</a></td>
-    <td>32810840</td>
+    <td><a href="https://doi.org/10.1016/J.JCV.2020.104587">10.1016/J.JCV.2020.104587</a></td>
+    <td>32898817</td>
   </tr>
   <tr>
     <td>2020-08-11</td>
@@ -34970,10 +34991,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q100961913">Reissuing the sigma receptors for SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100961913">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98902832">Growth Factor Receptor Signaling Inhibition Prevents SARS-CoV-2 Replication</a> (<a href="http://www.wikidata.org/entity/Q98902832">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JOCN.2020.08.014">10.1016/J.JOCN.2020.08.014</a></td>
-    <td>33099370</td>
+    <td><a href="https://doi.org/10.1016/J.MOLCEL.2020.08.006">10.1016/J.MOLCEL.2020.08.006</a></td>
+    <td>32877642</td>
   </tr>
   <tr>
     <td>2020-08-11</td>
@@ -34981,13 +35002,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/INFDIS/JIAA505">10.1093/INFDIS/JIAA505</a></td>
     <td>32779705</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98504424">Identification of SARS-CoV-2 3CL Protease Inhibitors by a Quantitative High-throughput Screening</a> (<a href="http://www.wikidata.org/entity/Q98504424">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.17.207019">10.1101/2020.07.17.207019</a></td>
-    <td>32803196</td>
   </tr>
   <tr>
     <td>2020-08-11</td>
@@ -35005,13 +35019,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98504429">Cryo-EM Structures of the SARS-CoV-2 Endoribonuclease Nsp15</a> (<a href="http://www.wikidata.org/entity/Q98504429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.08.11.244863">10.1101/2020.08.11.244863</a></td>
-    <td>32803198</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98577340">Ambroxol and Ciprofloxacin Show Activity Against SARS-CoV2 in Vero E6 Cells at Clinically-Relevant Concentrations</a> (<a href="http://www.wikidata.org/entity/Q98577340">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.08.11.245100">10.1101/2020.08.11.245100</a></td>
@@ -35019,24 +35026,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98504425">Opposing activities of IFITM proteins in SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q98504425">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.08.11.246678">10.1101/2020.08.11.246678</a></td>
-    <td>32803197</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98383646">SARS-CoV-2 infection and early mortality of wait-listed and solid organ transplant recipients in England: a national cohort study</a> (<a href="http://www.wikidata.org/entity/Q98383646">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1111/AJT.16247">10.1111/AJT.16247</a></td>
-    <td>32780493</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98578430">Characterizing SARS-CoV-2 mutations in the United States</a> (<a href="http://www.wikidata.org/entity/Q98578430">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.21203/RS.3.RS-49671/V1">10.21203/RS.3.RS-49671/V1</a></td>
     <td>32818213</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q100300690">Obesity-Driven Deficiencies of Specialized Pro-resolving Mediators May Drive Adverse Outcomes During SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q100300690">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FIMMU.2020.01997">10.3389/FIMMU.2020.01997</a></td>
+    <td>32983141</td>
   </tr>
 </table>
 ## コード例

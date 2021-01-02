@@ -3,5 +3,8 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
            wdt:P1924 ?for .
   ?vaccine wdt:P31 ?type .
+  FILTER ( ?type != wd:Q28051899 ) FILTER ( ?type != wd:Q98734151 )
+  FILTER ( ?type != wd:Q87719492 ) FILTER ( ?type != wd:Q30612 )
+  FILTER ( ?type != wd:Q134808 )
   SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
 } ORDER BY ASC(?vaccine) ASC(?type)

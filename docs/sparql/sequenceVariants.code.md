@@ -4,12 +4,12 @@
 ```sparql
 SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE {
   ?variant wdt:P3433 ?sequence .
-  ?sequence wdt:P703 / wdt:P171* wd:Q82069695 ;
-            wdt:P703 ?taxon .
+  ?sequence wdt:P703 / wdt:P171* wd:Q82069695 .
+  ?variant  wdt:P703 ?taxon .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
-[run](https://query.wikidata.org/embed.html#SELECT%20%3Fvariant%20%3FvariantLabel%20%3Fsequence%20%3FsequenceLabel%20%3Ftaxon%20%3FtaxonLabel%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP3433%20%3Fsequence%20.%0A%20%20%3Fsequence%20wdt%3AP703%20%2F%20wdt%3AP171*%20wd%3AQ82069695%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20%3Ftaxon%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A) or [edit](https://query.wikidata.org/#SELECT%20%3Fvariant%20%3FvariantLabel%20%3Fsequence%20%3FsequenceLabel%20%3Ftaxon%20%3FtaxonLabel%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP3433%20%3Fsequence%20.%0A%20%20%3Fsequence%20wdt%3AP703%20%2F%20wdt%3AP171*%20wd%3AQ82069695%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20%3Ftaxon%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A)
+[run](https://query.wikidata.org/embed.html#SELECT%20%3Fvariant%20%3FvariantLabel%20%3Fsequence%20%3FsequenceLabel%20%3Ftaxon%20%3FtaxonLabel%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP3433%20%3Fsequence%20.%0A%20%20%3Fsequence%20wdt%3AP703%20%2F%20wdt%3AP171*%20wd%3AQ82069695%20.%0A%20%20%3Fvariant%20%20wdt%3AP703%20%3Ftaxon%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A) or [edit](https://query.wikidata.org/#SELECT%20%3Fvariant%20%3FvariantLabel%20%3Fsequence%20%3FsequenceLabel%20%3Ftaxon%20%3FtaxonLabel%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP3433%20%3Fsequence%20.%0A%20%20%3Fsequence%20wdt%3AP703%20%2F%20wdt%3AP171*%20wd%3AQ82069695%20.%0A%20%20%3Fvariant%20%20wdt%3AP703%20%3Ftaxon%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A)
 
 
 ### Output
@@ -20,13 +20,43 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
     <td><b>taxon</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104528694">C3267T</a> (<a href="http://www.wikidata.org/entity/Q104528694">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104529151">A23063T</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104530561">C5388A</a> (<a href="http://www.wikidata.org/entity/Q104530561">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104530598">C27972T</a> (<a href="http://www.wikidata.org/entity/Q104530598">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104530608">C23604A</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104532779">HV 69-70 deletion</a> (<a href="http://www.wikidata.org/entity/Q104532779">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532877">Y144 deletion</a> (<a href="http://www.wikidata.org/entity/Q104532877">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104532904">ORF8 ∆382</a> (<a href="http://www.wikidata.org/entity/Q104532904">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
   </tr>
   <tr>
@@ -35,34 +65,49 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104529151">A23063T</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104530608">C23604A</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104528694">C3267T</a> (<a href="http://www.wikidata.org/entity/Q104528694">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104628162">T6954C</a> (<a href="http://www.wikidata.org/entity/Q104628162">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104530561">C5388A</a> (<a href="http://www.wikidata.org/entity/Q104530561">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104628223">11288-11296 deletion</a> (<a href="http://www.wikidata.org/entity/Q104628223">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104530598">C27972T</a> (<a href="http://www.wikidata.org/entity/Q104530598">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104628256">C23271A</a> (<a href="http://www.wikidata.org/entity/Q104628256">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104532904">ORF8 ∆382</a> (<a href="http://www.wikidata.org/entity/Q104532904">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104628268">C23709T</a> (<a href="http://www.wikidata.org/entity/Q104628268">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104628271">T24506G</a> (<a href="http://www.wikidata.org/entity/Q104628271">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104628278">G24914C</a> (<a href="http://www.wikidata.org/entity/Q104628278">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104628287">G28048T</a> (<a href="http://www.wikidata.org/entity/Q104628287">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104628290">A28111G</a> (<a href="http://www.wikidata.org/entity/Q104628290">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104628296">C28977T</a> (<a href="http://www.wikidata.org/entity/Q104628296">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

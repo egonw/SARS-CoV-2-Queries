@@ -170,6 +170,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1016/J.CELL.2020.05.027">10.1016/J.CELL.2020.05.027</a></td>
   </tr>
   <tr>
+    <td>2020-05-12</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94681305">Virtual Screening of Natural Products against Type II Transmembrane Serine Protease (TMPRSS2), the Priming Agent of Coronavirus 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q94681305">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/MOLECULES25102271">10.3390/MOLECULES25102271</a></td>
+  </tr>
+  <tr>
     <td>2020-05-06</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>

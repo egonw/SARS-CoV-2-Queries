@@ -67,6 +67,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>33360543</td>
   </tr>
   <tr>
+    <td>2020-12-31</td>
+    <td><a href="https://scholia.toolforge.org/Q104649867">A novel virtual screening procedure identifies Pralatrexate as inhibitor of SARS-CoV-2 RdRp and it reduces viral replication in vitro</a> (<a href="http://www.wikidata.org/entity/Q104649867">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PCBI.1008489">10.1371/JOURNAL.PCBI.1008489</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2020-12-20</td>
     <td><a href="https://scholia.toolforge.org/Q104261244">Prediction of Potential Respiratory Tract Infection from SARS-CoV-2 Through Hand-to-face Contact Transmission</a> (<a href="http://www.wikidata.org/entity/Q104261244">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -34907,6 +34914,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98387152">SARS-CoV-2 and the next generations: which impact on reproductive tissues?</a> (<a href="http://www.wikidata.org/entity/Q98387152">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S10815-020-01917-0">10.1007/S10815-020-01917-0</a></td>
+    <td>32783136</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98383414">Myocardial dysfunction in SARS-CoV-2 infection in infants under 1 year of age</a> (<a href="http://www.wikidata.org/entity/Q98383414">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S12519-020-00384-Y">10.1007/S12519-020-00384-Y</a></td>
@@ -34935,27 +34949,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98944400">The pharmacist's role in SARS-CoV-2 diagnostic testing</a> (<a href="http://www.wikidata.org/entity/Q98944400">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JAPH.2020.08.017">10.1016/J.JAPH.2020.08.017</a></td>
-    <td>32883622</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98629059">SARS-CoV-2 seroprevalence in a Belgian cohort of patients with cystic fibrosis</a> (<a href="http://www.wikidata.org/entity/Q98629059">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JCF.2020.08.005">10.1016/J.JCF.2020.08.005</a></td>
-    <td>32828701</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
-    <td><a href="https://scholia.toolforge.org/Q98630364">Structural analysis of experimental drugs binding to the SARS-CoV-2 target TMPRSS2</a> (<a href="http://www.wikidata.org/entity/Q98630364">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107710">10.1016/J.JMGM.2020.107710</a></td>
-    <td>32829149</td>
-  </tr>
-  <tr>
-    <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q98902832">Growth Factor Receptor Signaling Inhibition Prevents SARS-CoV-2 Replication</a> (<a href="http://www.wikidata.org/entity/Q98902832">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.MOLCEL.2020.08.006">10.1016/J.MOLCEL.2020.08.006</a></td>
@@ -34974,6 +34967,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41577-020-00423-9">10.1038/S41577-020-00423-9</a></td>
     <td>32782353</td>
+  </tr>
+  <tr>
+    <td>2020-08-11</td>
+    <td><a href="https://scholia.toolforge.org/Q98386106">Getting to the (germinal) centre of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q98386106">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41577-020-00424-8">10.1038/S41577-020-00424-8</a></td>
+    <td>32782355</td>
   </tr>
   <tr>
     <td>2020-08-11</td>

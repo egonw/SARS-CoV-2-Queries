@@ -49,7 +49,7 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Nitric%20oxide.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q57055">Paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q57055">paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/N-Acetyl-p-aminophenol.svg</td>
   </tr>
   <tr>

@@ -79,7 +79,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q3560939">vacuna inactivada</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154230">Wuhan Institute of Biological Products COVID-19 vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q97154230">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154230">BBIBP-CorV</a> (<a href="http://www.wikidata.org/entity/Q97154230">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3560939">vacuna inactivada</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>

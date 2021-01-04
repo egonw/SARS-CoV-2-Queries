@@ -109,6 +109,11 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104628334">D3L</a> (<a href="http://www.wikidata.org/entity/Q104628334">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

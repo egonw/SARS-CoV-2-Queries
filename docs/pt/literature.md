@@ -45,29 +45,29 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1590/S1677-5538.IBJU.2020.0479.1">10.1590/S1677-5538.IBJU.2020.0479.1</a></td>
   </tr>
   <tr>
+    <td>2021-02-24</td>
+    <td><a href="https://scholia.toolforge.org/Q104617392">The British variant of the new coronavirus-19 (Sars-Cov-2) should not create a vaccine problem</a> (<a href="http://www.wikidata.org/entity/Q104617392">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2021-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q104584483">Targeting host cell proteases as a potential treatment strategy to limit the spread of SARS-CoV-2 in the respiratory tract</a> (<a href="http://www.wikidata.org/entity/Q104584483">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/PRP2.698">10.1002/PRP2.698</a></td>
+  </tr>
+  <tr>
     <td>2021-01-01</td>
     <td><a href="https://scholia.toolforge.org/Q104470996">Overexpression of SARS-CoV-2 protein ORF6 dislocates RAE1 and NUP98 from the nuclear pore complex</a> (<a href="http://www.wikidata.org/entity/Q104470996">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BBRC.2020.11.115">10.1016/J.BBRC.2020.11.115</a></td>
   </tr>
   <tr>
-    <td>2020-12-31</td>
-    <td><a href="https://scholia.toolforge.org/Q104649867">A novel virtual screening procedure identifies Pralatrexate as inhibitor of SARS-CoV-2 RdRp and it reduces viral replication in vitro</a> (<a href="http://www.wikidata.org/entity/Q104649867">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PCBI.1008489">10.1371/JOURNAL.PCBI.1008489</a></td>
+    <td>2021-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q104492261">Flexible Bedside Bronchoscopy Using Closed Sheath System Devised From Ultrasound Probe Cover for Use in SARS-CoV-2 Patients</a> (<a href="http://www.wikidata.org/entity/Q104492261">edit</a>)</td>
+    <td><a href="https://doi.org/10.1097/LBR.0000000000000703">10.1097/LBR.0000000000000703</a></td>
   </tr>
   <tr>
-    <td>2020-12-20</td>
-    <td><a href="https://scholia.toolforge.org/Q104261244">Prediction of Potential Respiratory Tract Infection from SARS-CoV-2 Through Hand-to-face Contact Transmission</a> (<a href="http://www.wikidata.org/entity/Q104261244">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2020-12-17</td>
-    <td><a href="https://scholia.toolforge.org/Q104468473">Structural Characterization of SARS-CoV-2: Where We Are, and Where We Need to Be</a> (<a href="http://www.wikidata.org/entity/Q104468473">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FMOLB.2020.605236">10.3389/FMOLB.2020.605236</a></td>
-  </tr>
-  <tr>
-    <td>2020-12-16</td>
-    <td><a href="https://scholia.toolforge.org/Q104503903">Force-dependent stimulation of RNA unwinding by SARS-CoV-2 nsp13 helicase</a> (<a href="http://www.wikidata.org/entity/Q104503903">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BPJ.2020.11.2276">10.1016/J.BPJ.2020.11.2276</a></td>
+    <td>2021-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q104495140">Cross-species recognition of SARS-CoV-2 to bat ACE2</a> (<a href="http://www.wikidata.org/entity/Q104495140">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.09.08.284737">10.1101/2020.09.08.284737</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -319,7 +319,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>17404</td>
+    <td>18017</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

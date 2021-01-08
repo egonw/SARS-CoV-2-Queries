@@ -34907,13 +34907,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-26</td>
-    <td><a href="https://scholia.toolforge.org/Q98733491">Dynamics of the ACE2-SARS-CoV-2/SARS-CoV spike protein interface reveal unique mechanisms</a> (<a href="http://www.wikidata.org/entity/Q98733491">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41598-020-71188-3">10.1038/S41598-020-71188-3</a></td>
-    <td>32848162</td>
-  </tr>
-  <tr>
-    <td>2020-08-26</td>
     <td><a href="https://scholia.toolforge.org/Q98730256">Recent advances in therapeutic modalities and vaccines to counter COVID-19/SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q98730256">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/21645515.2020.1794685">10.1080/21645515.2020.1794685</a></td>
@@ -35030,6 +35023,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1542/HPEDS.2020-0170">10.1542/HPEDS.2020-0170</a></td>
     <td>32847961</td>
+  </tr>
+  <tr>
+    <td>2020-08-26</td>
+    <td><a href="https://scholia.toolforge.org/Q99403736">Coinfection of SARS-CoV-2 and Other Respiratory Pathogens</a> (<a href="http://www.wikidata.org/entity/Q99403736">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.2147/IDR.S267238">10.2147/IDR.S267238</a></td>
+    <td>32922049</td>
   </tr>
   <tr>
     <td>2020-08-26</td>

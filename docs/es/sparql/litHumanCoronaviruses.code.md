@@ -34858,13 +34858,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-08-26</td>
-    <td><a href="https://scholia.toolforge.org/Q99563765">Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</a> (<a href="http://www.wikidata.org/entity/Q99563765">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.TIG.2020.08.014">10.1016/J.TIG.2020.08.014</a></td>
-    <td>32943208</td>
-  </tr>
-  <tr>
-    <td>2020-08-26</td>
     <td><a href="https://scholia.toolforge.org/Q98725200">Antibody evidence of SARS-CoV-2 infection in healthcare workers in the Bronx</a> (<a href="http://www.wikidata.org/entity/Q98725200">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1017/ICE.2020.437">10.1017/ICE.2020.437</a></td>
@@ -34911,6 +34904,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACSNANO.0C05975">10.1021/ACSNANO.0C05975</a></td>
     <td>32845122</td>
+  </tr>
+  <tr>
+    <td>2020-08-26</td>
+    <td><a href="https://scholia.toolforge.org/Q98733491">Dynamics of the ACE2-SARS-CoV-2/SARS-CoV spike protein interface reveal unique mechanisms</a> (<a href="http://www.wikidata.org/entity/Q98733491">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-020-71188-3">10.1038/S41598-020-71188-3</a></td>
+    <td>32848162</td>
   </tr>
   <tr>
     <td>2020-08-26</td>

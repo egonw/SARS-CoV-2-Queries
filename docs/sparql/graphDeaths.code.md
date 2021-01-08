@@ -4279,6 +4279,16 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q298">Chile</a> (<a href="http://www.wikidata.org/entity/Q298">edit</a>)</td>
   </tr>
   <tr>
+    <td>2021-01-07</td>
+    <td>45067</td>
+    <td><a href="https://scholia.toolforge.org/Q739">Colombia</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2021-01-06</td>
+    <td>44723</td>
+    <td><a href="https://scholia.toolforge.org/Q739">Colombia</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2021-01-05</td>
     <td>44428</td>
     <td><a href="https://scholia.toolforge.org/Q739">Colombia</a> (<a href="http://www.wikidata.org/entity/Q739">edit</a>)</td>
@@ -11724,6 +11734,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q783">Honduras</a> (<a href="http://www.wikidata.org/entity/Q783">edit</a>)</td>
   </tr>
   <tr>
+    <td>2021-01-07</td>
+    <td>10325</td>
+    <td><a href="https://scholia.toolforge.org/Q28">Hungary</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2021-01-06</td>
     <td>10198</td>
     <td><a href="https://scholia.toolforge.org/Q28">Hungary</a> (<a href="http://www.wikidata.org/entity/Q28">edit</a>)</td>
@@ -13229,6 +13244,16 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q189">Iceland</a> (<a href="http://www.wikidata.org/entity/Q189">edit</a>)</td>
   </tr>
   <tr>
+    <td>2021-01-07</td>
+    <td>150336</td>
+    <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2021-01-06</td>
+    <td>150114</td>
+    <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2021-01-05</td>
     <td>149850</td>
     <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
@@ -14644,8 +14669,8 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
   </tr>
   <tr>
-    <td>2021-01-06</td>
-    <td>23296</td>
+    <td>2021-01-08</td>
+    <td>23753</td>
     <td><a href="https://scholia.toolforge.org/Q252">Indonesia</a> (<a href="http://www.wikidata.org/entity/Q252">edit</a>)</td>
   </tr>
   <tr>
@@ -16604,6 +16629,11 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q211">Latvia</a> (<a href="http://www.wikidata.org/entity/Q211">edit</a>)</td>
   </tr>
   <tr>
+    <td>2021-01-07</td>
+    <td>1550</td>
+    <td><a href="https://scholia.toolforge.org/Q822">Lebanon</a> (<a href="http://www.wikidata.org/entity/Q822">edit</a>)</td>
+  </tr>
+  <tr>
     <td>2020-11-15</td>
     <td>817</td>
     <td><a href="https://scholia.toolforge.org/Q822">Lebanon</a> (<a href="http://www.wikidata.org/entity/Q822">edit</a>)</td>
@@ -17002,6 +17032,16 @@ WHERE {
     <td>2020-04-09</td>
     <td>16</td>
     <td><a href="https://scholia.toolforge.org/Q37">Lithuania</a> (<a href="http://www.wikidata.org/entity/Q37">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2021-01-07</td>
+    <td>521</td>
+    <td><a href="https://scholia.toolforge.org/Q32">Luxembourg</a> (<a href="http://www.wikidata.org/entity/Q32">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2021-01-06</td>
+    <td>517</td>
+    <td><a href="https://scholia.toolforge.org/Q32">Luxembourg</a> (<a href="http://www.wikidata.org/entity/Q32">edit</a>)</td>
   </tr>
   <tr>
     <td>2021-01-05</td>
@@ -22041,217 +22081,217 @@ WHERE {
   <tr>
     <td>2020-11-13</td>
     <td>35106</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-11-01</td>
     <td>34529</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-10-28</td>
     <td>34315</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-10-24</td>
     <td>34095</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-10-16</td>
     <td>33648</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-10-15</td>
     <td>33577</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-09-03</td>
     <td>29405</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-08-08</td>
     <td>20649</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-07-26</td>
     <td>18229</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-07-04</td>
     <td>10958</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-07-01</td>
     <td>9860</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-30</td>
     <td>9677</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-29</td>
     <td>9504</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-28</td>
     <td>9317</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-23</td>
     <td>8586</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-20</td>
     <td>7861</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-15</td>
     <td>6860</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-09</td>
     <td>5738</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-08</td>
     <td>5571</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-07</td>
     <td>5465</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-06</td>
     <td>5162</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-19</td>
     <td>2789</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-12</td>
     <td>2057</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-10</td>
     <td>1889</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-09</td>
     <td>1814</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-06</td>
     <td>1533</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-04</td>
     <td>1344</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-02</td>
     <td>1124</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-05-01</td>
     <td>1051</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-29</td>
     <td>854</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-28</td>
     <td>782</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-27</td>
     <td>728</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-26</td>
     <td>700</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-22</td>
     <td>484</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-21</td>
     <td>445</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-20</td>
     <td>400</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-19</td>
     <td>348</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-18</td>
     <td>300</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-14</td>
     <td>231</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-09</td>
     <td>139</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-04-06</td>
     <td>92</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-03-29</td>
     <td>11</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-03-19</td>
     <td>3</td>
-    <td><a href="https://scholia.toolforge.org/Q61987158">Peruvian</a> (<a href="http://www.wikidata.org/entity/Q61987158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q419">Peru</a> (<a href="http://www.wikidata.org/entity/Q419">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-08-14</td>
@@ -26544,7 +26584,7 @@ WHERE {
     <td><a href="https://scholia.toolforge.org/Q1039">São Tomé and Príncipe</a> (<a href="http://www.wikidata.org/entity/Q1039">edit</a>)</td>
   </tr>
   <tr>
-    <td>2021-01-04</td>
+    <td>2021-01-06</td>
     <td>7</td>
     <td><a href="https://scholia.toolforge.org/Q865">Taiwan</a> (<a href="http://www.wikidata.org/entity/Q865">edit</a>)</td>
   </tr>
@@ -27522,6 +27562,11 @@ WHERE {
     <td>2020-03-17</td>
     <td>9</td>
     <td><a href="https://scholia.toolforge.org/Q878">United Arab Emirates</a> (<a href="http://www.wikidata.org/entity/Q878">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>2021-01-06</td>
+    <td>77346</td>
+    <td><a href="https://scholia.toolforge.org/Q145">United Kingdom</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
   </tr>
   <tr>
     <td>2020-06-30</td>

@@ -16,8 +16,9 @@ PREFIX bd: <http://www.bigdata.com/rdf#>
 PREFIX ps: <http://www.wikidata.org/prop/statement/>
 PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 
-SELECT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
-  ?variant wdt:P171 wd:Q82069695 .
+SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
+  VALUES ?variantType { wd:Q15304597 wd:Q75913269 }
+  ?variant p:P31 [ ps:P31 ?variantType ; pq:P642 wd:Q82069695 ] .
   OPTIONAL { ?variant wdt:P189 ?location }
   OPTIONAL { ?variant wdt:P527/wdt:P6800 ?genome }
   SERVICE wikibase:label { bd:serviceParam wikibase:language ?_lang. }

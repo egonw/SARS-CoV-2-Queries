@@ -871,10 +871,6 @@ SELECT ?date ?numberOfCases WHERE {
     <td>21294845</td>
   </tr>
   <tr>
-    <td>2020-08-16</td>
-    <td>21294845</td>
-  </tr>
-  <tr>
     <td>2020-08-23</td>
     <td>23057288</td>
   </tr>
@@ -883,20 +879,8 @@ SELECT ?date ?numberOfCases WHERE {
     <td>24854140</td>
   </tr>
   <tr>
-    <td>2020-08-30</td>
-    <td>24854140</td>
-  </tr>
-  <tr>
     <td>2020-09-06</td>
     <td>26763217</td>
-  </tr>
-  <tr>
-    <td>2020-09-06</td>
-    <td>26763217</td>
-  </tr>
-  <tr>
-    <td>2020-09-13</td>
-    <td>28637952</td>
   </tr>
   <tr>
     <td>2020-09-13</td>
@@ -907,14 +891,6 @@ SELECT ?date ?numberOfCases WHERE {
     <td>30675675</td>
   </tr>
   <tr>
-    <td>2020-09-20</td>
-    <td>30675675</td>
-  </tr>
-  <tr>
-    <td>2020-09-27</td>
-    <td>32730945</td>
-  </tr>
-  <tr>
     <td>2020-09-27</td>
     <td>32730945</td>
   </tr>
@@ -923,20 +899,8 @@ SELECT ?date ?numberOfCases WHERE {
     <td>34804348</td>
   </tr>
   <tr>
-    <td>2020-10-04</td>
-    <td>34804348</td>
-  </tr>
-  <tr>
     <td>2020-10-11</td>
     <td>37109851</td>
-  </tr>
-  <tr>
-    <td>2020-10-11</td>
-    <td>37109851</td>
-  </tr>
-  <tr>
-    <td>2020-10-18</td>
-    <td>40118333</td>
   </tr>
   <tr>
     <td>2020-10-18</td>
@@ -979,12 +943,12 @@ SELECT ?date ?numberOfCases WHERE {
     <td>75129306</td>
   </tr>
   <tr>
-    <td>2020-12-20</td>
-    <td>75129306</td>
-  </tr>
-  <tr>
     <td>2020-12-27</td>
     <td>79231893</td>
+  </tr>
+  <tr>
+    <td>2021-01-03</td>
+    <td>83326479</td>
   </tr>
 </table>
 ## コード例

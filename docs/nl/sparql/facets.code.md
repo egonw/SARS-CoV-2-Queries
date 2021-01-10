@@ -167,7 +167,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q93593520">Impact of the COVID-19 pandemic on the fashion industry</a> (<a href="http://www.wikidata.org/entity/Q93593520">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q93596977">everything will be all right</a> (<a href="http://www.wikidata.org/entity/Q93596977">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q93596977">Everything will be all right</a> (<a href="http://www.wikidata.org/entity/Q93596977">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q94141388">Responses to the COVID-19 pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q94141388">edit</a>)</td>

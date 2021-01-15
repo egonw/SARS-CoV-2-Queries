@@ -74,10 +74,6 @@ This gives us:
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
     <td></td>
   </tr>
@@ -312,10 +308,6 @@ This gives us:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97709493">Bat SARS CoV Rp3</a> (<a href="http://www.wikidata.org/entity/Q97709493">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">VOC-202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>

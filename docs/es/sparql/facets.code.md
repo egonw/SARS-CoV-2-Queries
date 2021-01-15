@@ -230,7 +230,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q98404895">Impact of the COVID-19 pandemic on the Catholic Church</a> (<a href="http://www.wikidata.org/entity/Q98404895">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q98557220">event affected by the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q98557220">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98557220">evento afectado por la pandemia de la COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98557220">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98704550">Timeline of the COVID-19 pandemic in September 2020</a> (<a href="http://www.wikidata.org/entity/Q98704550">edit</a>)</td>

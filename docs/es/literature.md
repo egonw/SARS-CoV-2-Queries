@@ -55,19 +55,19 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1002/PRP2.698">10.1002/PRP2.698</a></td>
   </tr>
   <tr>
-    <td>2021-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q104470996">Overexpression of SARS-CoV-2 protein ORF6 dislocates RAE1 and NUP98 from the nuclear pore complex</a> (<a href="http://www.wikidata.org/entity/Q104470996">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BBRC.2020.11.115">10.1016/J.BBRC.2020.11.115</a></td>
+    <td>2021-01-08</td>
+    <td><a href="https://scholia.toolforge.org/Q104783516">Beschluss der STIKO zur 1. Aktualisierung der COVID-19-Impfempfehlung und die dazugehörige wissenschaftliche Begründung</a> (<a href="http://www.wikidata.org/entity/Q104783516">edit</a>)</td>
+    <td><a href="https://doi.org/10.25646/7820">10.25646/7820</a></td>
   </tr>
   <tr>
-    <td>2021-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q104492261">Flexible Bedside Bronchoscopy Using Closed Sheath System Devised From Ultrasound Probe Cover for Use in SARS-CoV-2 Patients</a> (<a href="http://www.wikidata.org/entity/Q104492261">edit</a>)</td>
-    <td><a href="https://doi.org/10.1097/LBR.0000000000000703">10.1097/LBR.0000000000000703</a></td>
+    <td>2021-01-07</td>
+    <td><a href="https://scholia.toolforge.org/Q104754195">Exploration of natural compounds with anti-SARS-CoV-2 activity via inhibition of SARS-CoV-2 Mpro</a> (<a href="http://www.wikidata.org/entity/Q104754195">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/BIB/BBAA382">10.1093/BIB/BBAA382</a></td>
   </tr>
   <tr>
-    <td>2021-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q104495140">Cross-species recognition of SARS-CoV-2 to bat ACE2</a> (<a href="http://www.wikidata.org/entity/Q104495140">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.08.284737">10.1101/2020.09.08.284737</a></td>
+    <td>2021-01-07</td>
+    <td><a href="https://scholia.toolforge.org/Q104755308">Critical role of neutralizing antibody for SARS-CoV-2 reinfection and transmission</a> (<a href="http://www.wikidata.org/entity/Q104755308">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2021.1872352">10.1080/22221751.2021.1872352</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -318,7 +318,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18017</td>
+    <td>18286</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

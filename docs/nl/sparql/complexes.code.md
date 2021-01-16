@@ -61,6 +61,10 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5692">CPX-5692</a></td>
     <td><a href="https://scholia.toolforge.org/Q90012273">SARS-CoV-2 Guanine-N7 methyltransferase complex</a> (<a href="http://www.wikidata.org/entity/Q90012273">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5742">CPX-5742</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104836061">SARS-CoV-2 polymerase complex</a> (<a href="http://www.wikidata.org/entity/Q104836061">edit</a>)</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

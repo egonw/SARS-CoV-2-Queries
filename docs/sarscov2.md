@@ -49,7 +49,7 @@ because they have been discussed in newspapers:
     <td><b>genome</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Brazilian variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage B.1.1.248</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q17">Japan</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
     <td></td>
   </tr>

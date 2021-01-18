@@ -317,13 +317,18 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16977225">ガンマコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q18965335">伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q18965335">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
+    <td><a href="https://scholia.toolforge.org/Q18965336">シロイルカコロナウイルスSW1</a> (<a href="http://www.wikidata.org/entity/Q18965336">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694015">694015</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16977225">ガンマコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q18965336">シロイルカコロナウイルスSW1</a> (<a href="http://www.wikidata.org/entity/Q18965336">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694015">694015</a></td>
+    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16977225">ガンマコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16977225">ガンマコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
@@ -409,6 +414,16 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://scholia.toolforge.org/Q290805">コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q290805">コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q290805">コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q290805">コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
@@ -672,7 +687,12 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754734">イガコウイルス亜属</a> (<a href="http://www.wikidata.org/entity/Q57754734">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q18965335">伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q18965335">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754734">イガコウイルス亜属</a> (<a href="http://www.wikidata.org/entity/Q57754734">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
   </tr>
   <tr>

@@ -37,7 +37,7 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q258">Zuid-Afrika</a> (<a href="http://www.wikidata.org/entity/Q258">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21">Engeland</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
     <td></td>
   </tr>
 </table>

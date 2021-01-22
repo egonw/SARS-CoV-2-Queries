@@ -228,57 +228,57 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/8673700">8673700</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173012">spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88173012">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254594">14254594</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173022">NS3 protein</a> (<a href="http://www.wikidata.org/entity/Q88173022">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254595">14254595</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90696476">NS4A protein</a> (<a href="http://www.wikidata.org/entity/Q90696476">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254596">14254596</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173027">NS4B protein</a> (<a href="http://www.wikidata.org/entity/Q88173027">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254597">14254597</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173044">NS5 protein</a> (<a href="http://www.wikidata.org/entity/Q88173044">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254598">14254598</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173037">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88173037">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254599">14254599</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173030">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88173030">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254600">14254600</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173018">nucleoprotein</a> (<a href="http://www.wikidata.org/entity/Q88173018">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254601">14254601</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173033">1A polyprotein;1AB polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88173033">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254602">14254602</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173015">Record to support submission of GeneRIFs for a gene not in Gene (MERS coronavirus; MERS virus; Middle East Respiratory Syndrome Coronavirus (MERS-CoV); Middle East respiratory syndrome coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88173015">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/18938949">18938949</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173040">ORF8b protein</a> (<a href="http://www.wikidata.org/entity/Q88173040">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/19910005">19910005</a></td>
   </tr>

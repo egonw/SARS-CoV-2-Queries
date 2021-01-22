@@ -20,6 +20,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>2021-01-20</td>
+    <td>927110</td>
+  </tr>
+  <tr>
     <td>2020-03-02</td>
     <td>18</td>
   </tr>
@@ -402,6 +406,18 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2021-01-17</td>
     <td>919712</td>
+  </tr>
+  <tr>
+    <td>2021-01-17</td>
+    <td>912554</td>
+  </tr>
+  <tr>
+    <td>2021-01-18</td>
+    <td>917308</td>
+  </tr>
+  <tr>
+    <td>2021-01-19</td>
+    <td>921580</td>
   </tr>
 </table>
 ## コード例

@@ -60,14 +60,14 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.25646/7820">10.25646/7820</a></td>
   </tr>
   <tr>
-    <td>2021-01-07</td>
-    <td><a href="https://scholia.toolforge.org/Q104754195">Exploration of natural compounds with anti-SARS-CoV-2 activity via inhibition of SARS-CoV-2 Mpro</a> (<a href="http://www.wikidata.org/entity/Q104754195">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/BIB/BBAA382">10.1093/BIB/BBAA382</a></td>
+    <td>2021-01-08</td>
+    <td><a href="https://scholia.toolforge.org/Q104793005">Balance on slack line; diagnostic intensity and patient safety during the SARS-CoV-2 pandemic</a> (<a href="http://www.wikidata.org/entity/Q104793005">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/0284186X.2020.1867766">10.1080/0284186X.2020.1867766</a></td>
   </tr>
   <tr>
-    <td>2021-01-07</td>
-    <td><a href="https://scholia.toolforge.org/Q104755308">Critical role of neutralizing antibody for SARS-CoV-2 reinfection and transmission</a> (<a href="http://www.wikidata.org/entity/Q104755308">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.1872352">10.1080/22221751.2021.1872352</a></td>
+    <td>2021-01-08</td>
+    <td><a href="https://scholia.toolforge.org/Q104793085">Identification of potential SARS-CoV-2 M<sup>pro</sup> inhibitors integrating molecular docking and water thermodynamics</a> (<a href="http://www.wikidata.org/entity/Q104793085">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1867642">10.1080/07391102.2020.1867642</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -319,15 +319,15 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18286</td>
+    <td>18390</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2480</td>
+    <td>2481</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td>1041</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td>1042</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Coronavírus humano OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -578,7 +578,7 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>94</td>
+    <td>95</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -696,7 +696,7 @@ Onde encontramos:
     <td>10</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88660566">spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88660566">edit</a>)</td>
     <td>10</td>
   </tr>
@@ -846,7 +846,7 @@ Onde encontramos:
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88660576">nucleoprotein</a> (<a href="http://www.wikidata.org/entity/Q88660576">edit</a>)</td>
     <td>3</td>
   </tr>
@@ -956,7 +956,7 @@ Onde encontramos:
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Síndrome respiratória por coronavírus do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4902157">coronavírus da síndrome respiratória do Oriente Médio</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88660589">NS4B protein</a> (<a href="http://www.wikidata.org/entity/Q88660589">edit</a>)</td>
     <td>1</td>
   </tr>

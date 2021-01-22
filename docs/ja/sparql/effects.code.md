@@ -38,6 +38,9 @@ SELECT ?effect ?effectLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q93629491">pediatric multisystem inflammatory syndrome</a> (<a href="http://www.wikidata.org/entity/Q93629491">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104778232">COVID-19 mortality</a> (<a href="http://www.wikidata.org/entity/Q104778232">edit</a>)</td>
+  </tr>
 </table>
 ## コード例
 ### curl

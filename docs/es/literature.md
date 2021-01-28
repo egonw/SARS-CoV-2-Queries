@@ -55,19 +55,19 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1002/PRP2.698">10.1002/PRP2.698</a></td>
   </tr>
   <tr>
+    <td>2021-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q105078575">Detection of SARS-CoV-2 infection by rapid antigen test in comparison with RT-PCR in a public setting</a> (<a href="http://www.wikidata.org/entity/Q105078575">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2021.01.22.21250042">10.1101/2021.01.22.21250042</a></td>
+  </tr>
+  <tr>
     <td>2021-01-22</td>
     <td><a href="https://scholia.toolforge.org/Q105037759">A protocol for adding knowledge to Wikidata: aligning resources on human coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q105037759">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S12915-020-00940-Y">10.1186/S12915-020-00940-Y</a></td>
   </tr>
   <tr>
-    <td>2021-01-08</td>
-    <td><a href="https://scholia.toolforge.org/Q104783516">Beschluss der STIKO zur 1. Aktualisierung der COVID-19-Impfempfehlung und die dazugehörige wissenschaftliche Begründung</a> (<a href="http://www.wikidata.org/entity/Q104783516">edit</a>)</td>
-    <td><a href="https://doi.org/10.25646/7820">10.25646/7820</a></td>
-  </tr>
-  <tr>
-    <td>2021-01-08</td>
-    <td><a href="https://scholia.toolforge.org/Q104793005">Balance on slack line; diagnostic intensity and patient safety during the SARS-CoV-2 pandemic</a> (<a href="http://www.wikidata.org/entity/Q104793005">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/0284186X.2020.1867766">10.1080/0284186X.2020.1867766</a></td>
+    <td>2021-01-10</td>
+    <td><a href="https://scholia.toolforge.org/Q98171629">The SARS-CoV-2 and mental health: From biological mechanisms to social consequences</a> (<a href="http://www.wikidata.org/entity/Q98171629">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.PNPBP.2020.110046">10.1016/J.PNPBP.2020.110046</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -318,7 +318,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18392</td>
+    <td>18394</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

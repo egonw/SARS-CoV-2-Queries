@@ -6445,6 +6445,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-12-04</td>
+    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td>33270076</td>
+  </tr>
+  <tr>
+    <td>2020-12-04</td>
     <td><a href="https://scholia.toolforge.org/Q104575018">SARS-CoV-2-related ARDS in a maintenance hemodialysis patient: case report on tailored approach by daily hemodialysis, noninvasive ventilation, tocilizumab, anxiolytics, and point-of-care ultrasound</a> (<a href="http://www.wikidata.org/entity/Q104575018">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/CCR3.3623">10.1002/CCR3.3623</a></td>
@@ -6764,13 +6771,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.4103/IJMR.IJMR_2855_20">10.4103/IJMR.IJMR_2855_20</a></td>
     <td>33273154</td>
-  </tr>
-  <tr>
-    <td>2020-12-04</td>
-    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.7416/AI.2020.2396">10.7416/AI.2020.2396</a></td>
-    <td>33270076</td>
   </tr>
   <tr>
     <td>2020-12-03</td>
@@ -34837,10 +34837,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99400217">Targeting the SARS-CoV-2 main protease using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach</a> (<a href="http://www.wikidata.org/entity/Q99400217">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99710252">COVID-19 and Microvascular Disease: Pathophysiology of SARS-CoV-2 Infection With Focus on the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q99710252">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107730">10.1016/J.JMGM.2020.107730</a></td>
-    <td>32920239</td>
+    <td><a href="https://doi.org/10.1016/J.HLC.2020.08.010">10.1016/J.HLC.2020.08.010</a></td>
+    <td>32972810</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
@@ -35019,17 +35019,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q98938668">Discovery of Some Antiviral Natural products to fight against Novel Corona Virus (SARS-CoV-2) using Insilico approach</a> (<a href="http://www.wikidata.org/entity/Q98938668">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.2174/1386207323666200902135928">10.2174/1386207323666200902135928</a></td>
+    <td>32881661</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q98897587">Potential use of noncoding RNAs and innovative therapeutic strategies to target the 5'UTR of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q98897587">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2217/EPI-2020-0162">10.2217/EPI-2020-0162</a></td>
     <td>32875809</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q100438042">Tyrosine Kinase Inhibitors Play an Antiviral Action in Patients Affected by Chronic Myeloid Leukemia: A Possible Model Supporting Their Use in the Fight Against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100438042">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FONC.2020.01428">10.3389/FONC.2020.01428</a></td>
-    <td>33014780</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

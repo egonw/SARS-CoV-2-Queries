@@ -6445,6 +6445,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-12-04</td>
+    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td>33270076</td>
+  </tr>
+  <tr>
+    <td>2020-12-04</td>
     <td><a href="https://scholia.toolforge.org/Q104575018">SARS-CoV-2-related ARDS in a maintenance hemodialysis patient: case report on tailored approach by daily hemodialysis, noninvasive ventilation, tocilizumab, anxiolytics, and point-of-care ultrasound</a> (<a href="http://www.wikidata.org/entity/Q104575018">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/CCR3.3623">10.1002/CCR3.3623</a></td>
@@ -6764,13 +6771,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.4103/IJMR.IJMR_2855_20">10.4103/IJMR.IJMR_2855_20</a></td>
     <td>33273154</td>
-  </tr>
-  <tr>
-    <td>2020-12-04</td>
-    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.7416/AI.2020.2396">10.7416/AI.2020.2396</a></td>
-    <td>33270076</td>
   </tr>
   <tr>
     <td>2020-12-03</td>
@@ -34837,10 +34837,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99710252">COVID-19 and Microvascular Disease: Pathophysiology of SARS-CoV-2 Infection With Focus on the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q99710252">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
-    <td>32890549</td>
+    <td><a href="https://doi.org/10.1016/J.HLC.2020.08.010">10.1016/J.HLC.2020.08.010</a></td>
+    <td>32972810</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

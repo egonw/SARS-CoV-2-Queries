@@ -6445,6 +6445,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-12-04</td>
+    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td>33270076</td>
+  </tr>
+  <tr>
+    <td>2020-12-04</td>
     <td><a href="https://scholia.toolforge.org/Q104575018">SARS-CoV-2-related ARDS in a maintenance hemodialysis patient: case report on tailored approach by daily hemodialysis, noninvasive ventilation, tocilizumab, anxiolytics, and point-of-care ultrasound</a> (<a href="http://www.wikidata.org/entity/Q104575018">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/CCR3.3623">10.1002/CCR3.3623</a></td>
@@ -6764,13 +6771,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.4103/IJMR.IJMR_2855_20">10.4103/IJMR.IJMR_2855_20</a></td>
     <td>33273154</td>
-  </tr>
-  <tr>
-    <td>2020-12-04</td>
-    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.7416/AI.2020.2396">10.7416/AI.2020.2396</a></td>
-    <td>33270076</td>
   </tr>
   <tr>
     <td>2020-12-03</td>
@@ -35033,10 +35033,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q100763885">SARS-CoV-2 Bound Human Serum Albumin and Systemic Septic Shock</a> (<a href="http://www.wikidata.org/entity/Q100763885">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100438042">Tyrosine Kinase Inhibitors Play an Antiviral Action in Patients Affected by Chronic Myeloid Leukemia: A Possible Model Supporting Their Use in the Fight Against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100438042">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FCVM.2020.00153">10.3389/FCVM.2020.00153</a></td>
-    <td>33088822</td>
+    <td><a href="https://doi.org/10.3389/FONC.2020.01428">10.3389/FONC.2020.01428</a></td>
+    <td>33014780</td>
   </tr>
 </table>
 ## コード例

@@ -6445,6 +6445,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-12-04</td>
+    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td>33270076</td>
+  </tr>
+  <tr>
+    <td>2020-12-04</td>
     <td><a href="https://scholia.toolforge.org/Q104575018">SARS-CoV-2-related ARDS in a maintenance hemodialysis patient: case report on tailored approach by daily hemodialysis, noninvasive ventilation, tocilizumab, anxiolytics, and point-of-care ultrasound</a> (<a href="http://www.wikidata.org/entity/Q104575018">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/CCR3.3623">10.1002/CCR3.3623</a></td>
@@ -6764,13 +6771,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.4103/IJMR.IJMR_2855_20">10.4103/IJMR.IJMR_2855_20</a></td>
     <td>33273154</td>
-  </tr>
-  <tr>
-    <td>2020-12-04</td>
-    <td><a href="https://scholia.toolforge.org/Q104057869">SARS-CoV-2 indoor contamination: considerations on anti-COVID-19 management of ventilation systems, and finishing materials in healthcare facilities</a> (<a href="http://www.wikidata.org/entity/Q104057869">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.7416/AI.2020.2396">10.7416/AI.2020.2396</a></td>
-    <td>33270076</td>
   </tr>
   <tr>
     <td>2020-12-03</td>
@@ -34837,6 +34837,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q100525049">Association of acute kidney injury with the severity and mortality of SARS-CoV-2 infection: A meta-analysis</a> (<a href="http://www.wikidata.org/entity/Q100525049">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.AJEM.2020.08.089">10.1016/J.AJEM.2020.08.089</a></td>
+    <td>33046323</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q99710252">COVID-19 and Microvascular Disease: Pathophysiology of SARS-CoV-2 Infection With Focus on the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q99710252">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.HLC.2020.08.010">10.1016/J.HLC.2020.08.010</a></td>
@@ -35016,13 +35023,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1542/PEDS.2020-018242">10.1542/PEDS.2020-018242</a></td>
     <td>32879033</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98938668">Discovery of Some Antiviral Natural products to fight against Novel Corona Virus (SARS-CoV-2) using Insilico approach</a> (<a href="http://www.wikidata.org/entity/Q98938668">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2174/1386207323666200902135928">10.2174/1386207323666200902135928</a></td>
-    <td>32881661</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

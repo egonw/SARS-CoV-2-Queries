@@ -34858,6 +34858,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q99710252">COVID-19 and Microvascular Disease: Pathophysiology of SARS-CoV-2 Infection With Focus on the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q99710252">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.HLC.2020.08.010">10.1016/J.HLC.2020.08.010</a></td>
+    <td>32972810</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q99207912">Occurrence, fates and potential treatment approaches for removal of viruses from wastewater: A review with emphasis on SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99207912">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JECE.2020.104429">10.1016/J.JECE.2020.104429</a></td>
@@ -34911,13 +34918,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/07391102.2020.1813628">10.1080/07391102.2020.1813628</a></td>
     <td>32873176</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98905317">Systemic innate and adaptive immune responses to SARS-CoV-2 as it relates to other coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q98905317">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/21645515.2020.1802974">10.1080/21645515.2020.1802974</a></td>
-    <td>32878546</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
@@ -35005,13 +35005,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98905615">SARS-CoV-2/COVID-19 and advances in developing potential therapeutics and vaccines to counter this emerging pandemic</a> (<a href="http://www.wikidata.org/entity/Q98905615">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1186/S12941-020-00384-W">10.1186/S12941-020-00384-W</a></td>
-    <td>32878641</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q98902283">Enhanced contact investigations for nine early travel-related cases of SARS-CoV-2 in the United States</a> (<a href="http://www.wikidata.org/entity/Q98902283">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0238342">10.1371/JOURNAL.PONE.0238342</a></td>
@@ -35030,6 +35023,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2217/EPI-2020-0162">10.2217/EPI-2020-0162</a></td>
     <td>32875809</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q100763885">SARS-CoV-2 Bound Human Serum Albumin and Systemic Septic Shock</a> (<a href="http://www.wikidata.org/entity/Q100763885">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FCVM.2020.00153">10.3389/FCVM.2020.00153</a></td>
+    <td>33088822</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

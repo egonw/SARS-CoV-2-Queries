@@ -34837,10 +34837,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99710252">COVID-19 and Microvascular Disease: Pathophysiology of SARS-CoV-2 Infection With Focus on the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q99710252">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.HLC.2020.08.010">10.1016/J.HLC.2020.08.010</a></td>
-    <td>32972810</td>
+    <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
+    <td>32890549</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

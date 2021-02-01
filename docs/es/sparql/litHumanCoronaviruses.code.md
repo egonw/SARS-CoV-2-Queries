@@ -34837,17 +34837,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q100525049">Association of acute kidney injury with the severity and mortality of SARS-CoV-2 infection: A meta-analysis</a> (<a href="http://www.wikidata.org/entity/Q100525049">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.AJEM.2020.08.089">10.1016/J.AJEM.2020.08.089</a></td>
-    <td>33046323</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99710252">COVID-19 and Microvascular Disease: Pathophysiology of SARS-CoV-2 Infection With Focus on the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q99710252">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.HLC.2020.08.010">10.1016/J.HLC.2020.08.010</a></td>
-    <td>32972810</td>
+    <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
+    <td>32890549</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
@@ -35023,6 +35016,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1542/PEDS.2020-018242">10.1542/PEDS.2020-018242</a></td>
     <td>32879033</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q98938668">Discovery of Some Antiviral Natural products to fight against Novel Corona Virus (SARS-CoV-2) using Insilico approach</a> (<a href="http://www.wikidata.org/entity/Q98938668">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.2174/1386207323666200902135928">10.2174/1386207323666200902135928</a></td>
+    <td>32881661</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

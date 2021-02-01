@@ -44,6 +44,11 @@ SELECT ?virus ?virusLabel ?thing ?thingLabel ?pathway ?pathwayLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104520877">ORF9c protein [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q104520877">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104904988">SARS-CoV-2 mitochondrial interactions</a> (<a href="http://www.wikidata.org/entity/Q104904988">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q103963349">A draft map of SARS-COV-2 signaling pathway map</a> (<a href="http://www.wikidata.org/entity/Q103963349">edit</a>)</td>
   </tr>

@@ -959,6 +959,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2021-01-17</td>
     <td>93217287</td>
   </tr>
+  <tr>
+    <td>2021-01-24</td>
+    <td>98280844</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

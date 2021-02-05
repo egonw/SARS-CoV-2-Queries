@@ -55,19 +55,19 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1002/PRP2.698">10.1002/PRP2.698</a></td>
   </tr>
   <tr>
-    <td>2021-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q105078575">Detection of SARS-CoV-2 infection by rapid antigen test in comparison with RT-PCR in a public setting</a> (<a href="http://www.wikidata.org/entity/Q105078575">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2021.01.22.21250042">10.1101/2021.01.22.21250042</a></td>
+    <td>2021-01-26</td>
+    <td><a href="https://scholia.toolforge.org/Q105085465">Data and Policy to Guide Opening Schools Safely to Limit the Spread of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q105085465">edit</a>)</td>
+    <td><a href="https://doi.org/10.1001/JAMA.2021.0374">10.1001/JAMA.2021.0374</a></td>
   </tr>
   <tr>
-    <td>2021-01-22</td>
-    <td><a href="https://scholia.toolforge.org/Q105037759">A protocol for adding knowledge to Wikidata: aligning resources on human coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q105037759">edit</a>)</td>
-    <td><a href="https://doi.org/10.1186/S12915-020-00940-Y">10.1186/S12915-020-00940-Y</a></td>
+    <td>2021-01-26</td>
+    <td><a href="https://scholia.toolforge.org/Q105098699">Escape of SARS-CoV-2 501Y.V2 variants from neutralization by convalescent plasma</a> (<a href="http://www.wikidata.org/entity/Q105098699">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2021.01.26.21250224">10.1101/2021.01.26.21250224</a></td>
   </tr>
   <tr>
-    <td>2021-01-10</td>
-    <td><a href="https://scholia.toolforge.org/Q98171629">The SARS-CoV-2 and mental health: From biological mechanisms to social consequences</a> (<a href="http://www.wikidata.org/entity/Q98171629">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.PNPBP.2020.110046">10.1016/J.PNPBP.2020.110046</a></td>
+    <td>2021-01-26</td>
+    <td><a href="https://scholia.toolforge.org/Q105098702">Complete aortic thrombosis in SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q105098702">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/EURHEARTJ/EHAB011">10.1093/EURHEARTJ/EHAB011</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -317,7 +317,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18395</td>
+    <td>18408</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

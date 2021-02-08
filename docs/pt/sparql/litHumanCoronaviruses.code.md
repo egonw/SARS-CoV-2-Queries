@@ -25968,6 +25968,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q97423778">The clinical course of SARS-CoV-2 positive neonates</a> (<a href="http://www.wikidata.org/entity/Q97423778">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41372-020-0715-0">10.1038/S41372-020-0715-0</a></td>
+    <td>32632198</td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q100415766">Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q100415766">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41598-020-72879-7">10.1038/S41598-020-72879-7</a></td>
@@ -34960,13 +34967,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/CID/CIAA1315">10.1093/CID/CIAA1315</a></td>
     <td>32875309</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98906149">Evolution of Early SARS-CoV-2 and Cross-Coronavirus Immunity</a> (<a href="http://www.wikidata.org/entity/Q98906149">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/MSPHERE.00622-20">10.1128/MSPHERE.00622-20</a></td>
-    <td>32878931</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

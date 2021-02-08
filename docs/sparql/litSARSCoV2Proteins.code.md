@@ -102,13 +102,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-11-24</td>
-    <td><a href="https://scholia.toolforge.org/Q103837502">Fragment Binding to the Nsp3 Macrodomain of SARS-CoV-2 Identified Through Crystallographic Screening and Computational Docking</a> (<a href="http://www.wikidata.org/entity/Q103837502">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.11.24.393405">10.1101/2020.11.24.393405</a></td>
+    <td><a href="https://scholia.toolforge.org/Q102378266">Structure of nonstructural protein 1 from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q102378266">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/JVI.02019-20">10.1128/JVI.02019-20</a></td>
   </tr>
   <tr>
     <td>2020-11-24</td>
-    <td><a href="https://scholia.toolforge.org/Q102378266">Structure of nonstructural protein 1 from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q102378266">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/JVI.02019-20">10.1128/JVI.02019-20</a></td>
+    <td><a href="https://scholia.toolforge.org/Q103837502">Fragment Binding to the Nsp3 Macrodomain of SARS-CoV-2 Identified Through Crystallographic Screening and Computational Docking</a> (<a href="http://www.wikidata.org/entity/Q103837502">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.11.24.393405">10.1101/2020.11.24.393405</a></td>
   </tr>
   <tr>
     <td>2020-11-23</td>
@@ -137,6 +137,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-11-18</td>
+    <td><a href="https://scholia.toolforge.org/Q102145950">Loss of orf3b in the circulating SARS-CoV-2 strains</a> (<a href="http://www.wikidata.org/entity/Q102145950">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2020.1852892">10.1080/22221751.2020.1852892</a></td>
+  </tr>
+  <tr>
+    <td>2020-11-18</td>
     <td><a href="https://scholia.toolforge.org/Q102152220">SARS-CoV-2 structure and replication characterized by in situ cryo-electron tomography</a> (<a href="http://www.wikidata.org/entity/Q102152220">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41467-020-19619-7">10.1038/S41467-020-19619-7</a></td>
   </tr>
@@ -144,11 +149,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-11-18</td>
     <td><a href="https://scholia.toolforge.org/Q104523291">Sequential ER stress and inflammatory responses are induced by SARS-CoV-2 ORF3 through ERphagy</a> (<a href="http://www.wikidata.org/entity/Q104523291">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.11.17.387902">10.1101/2020.11.17.387902</a></td>
-  </tr>
-  <tr>
-    <td>2020-11-18</td>
-    <td><a href="https://scholia.toolforge.org/Q102145950">Loss of orf3b in the circulating SARS-CoV-2 strains</a> (<a href="http://www.wikidata.org/entity/Q102145950">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2020.1852892">10.1080/22221751.2020.1852892</a></td>
   </tr>
   <tr>
     <td>2020-11-17</td>
@@ -177,13 +177,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-11-11</td>
-    <td><a href="https://scholia.toolforge.org/Q101574529">Structure and drug binding of the SARS-CoV-2 envelope protein transmembrane domain in lipid bilayers</a> (<a href="http://www.wikidata.org/entity/Q101574529">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41594-020-00536-8">10.1038/S41594-020-00536-8</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104514404">Nsp1 of SARS-CoV-2 Stimulates Host Translation Termination</a> (<a href="http://www.wikidata.org/entity/Q104514404">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.11.11.377739">10.1101/2020.11.11.377739</a></td>
   </tr>
   <tr>
     <td>2020-11-11</td>
-    <td><a href="https://scholia.toolforge.org/Q104514404">Nsp1 of SARS-CoV-2 Stimulates Host Translation Termination</a> (<a href="http://www.wikidata.org/entity/Q104514404">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.11.11.377739">10.1101/2020.11.11.377739</a></td>
+    <td><a href="https://scholia.toolforge.org/Q101574529">Structure and drug binding of the SARS-CoV-2 envelope protein transmembrane domain in lipid bilayers</a> (<a href="http://www.wikidata.org/entity/Q101574529">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41594-020-00536-8">10.1038/S41594-020-00536-8</a></td>
   </tr>
   <tr>
     <td>2020-11-10</td>
@@ -257,6 +257,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-10-20</td>
+    <td><a href="https://scholia.toolforge.org/Q100750570">Author Correction: SARS-CoV-2 Nsp1 binds the ribosomal mRNA channel to inhibit translation</a> (<a href="http://www.wikidata.org/entity/Q100750570">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41594-020-00533-X">10.1038/S41594-020-00533-X</a></td>
+  </tr>
+  <tr>
+    <td>2020-10-20</td>
     <td><a href="https://scholia.toolforge.org/Q100750024">Neuropilin-1 facilitates SARS-CoV-2 cell entry and infectivity</a> (<a href="http://www.wikidata.org/entity/Q100750024">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABD2985">10.1126/SCIENCE.ABD2985</a></td>
   </tr>
@@ -269,11 +274,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-10-20</td>
     <td><a href="https://scholia.toolforge.org/Q104472899">Accurate Diagnosis of COVID-19 by a Novel Immunogenic Secreted SARS-CoV-2 orf8 Protein</a> (<a href="http://www.wikidata.org/entity/Q104472899">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/MBIO.02431-20">10.1128/MBIO.02431-20</a></td>
-  </tr>
-  <tr>
-    <td>2020-10-20</td>
-    <td><a href="https://scholia.toolforge.org/Q100750570">Author Correction: SARS-CoV-2 Nsp1 binds the ribosomal mRNA channel to inhibit translation</a> (<a href="http://www.wikidata.org/entity/Q100750570">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41594-020-00533-X">10.1038/S41594-020-00533-X</a></td>
   </tr>
   <tr>
     <td>2020-10-15</td>
@@ -292,11 +292,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-10-12</td>
-    <td><a href="https://scholia.toolforge.org/Q104502054">Sequences in the cytoplasmic tail of SARS-CoV-2 spike facilitate syncytia formation</a> (<a href="http://www.wikidata.org/entity/Q104502054">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.10.12.335562">10.1101/2020.10.12.335562</a></td>
-  </tr>
-  <tr>
-    <td>2020-10-12</td>
     <td><a href="https://scholia.toolforge.org/Q100751848">Mutations of SARS-CoV-2 nsp14 exhibit strong association with increased genome-wide mutation load</a> (<a href="http://www.wikidata.org/entity/Q100751848">edit</a>)</td>
     <td><a href="https://doi.org/10.7717/PEERJ.10181">10.7717/PEERJ.10181</a></td>
   </tr>
@@ -304,6 +299,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-10-12</td>
     <td><a href="https://scholia.toolforge.org/Q104522379">Understanding the phase separation characteristics of nucleocapsid protein provides a new therapeutic opportunity against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104522379">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.10.09.332734">10.1101/2020.10.09.332734</a></td>
+  </tr>
+  <tr>
+    <td>2020-10-12</td>
+    <td><a href="https://scholia.toolforge.org/Q104502054">Sequences in the cytoplasmic tail of SARS-CoV-2 spike facilitate syncytia formation</a> (<a href="http://www.wikidata.org/entity/Q104502054">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.10.12.335562">10.1101/2020.10.12.335562</a></td>
   </tr>
   <tr>
     <td>2020-10-10</td>
@@ -332,13 +332,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q100510827">Crystal Structure of Non-Structural Protein 10 from Severe Acute Respiratory Syndrome Coronavirus-2</a> (<a href="http://www.wikidata.org/entity/Q100510827">edit</a>)</td>
-    <td><a href="https://doi.org/10.3390/IJMS21197375">10.3390/IJMS21197375</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104502092">Autoproteolytic Products of the SARS-CoV-2 Nucleocapsid Protein are Primed for Antibody Evasion and Virus Proliferation</a> (<a href="http://www.wikidata.org/entity/Q104502092">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.10.06.328112">10.1101/2020.10.06.328112</a></td>
   </tr>
   <tr>
     <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q104502092">Autoproteolytic Products of the SARS-CoV-2 Nucleocapsid Protein are Primed for Antibody Evasion and Virus Proliferation</a> (<a href="http://www.wikidata.org/entity/Q104502092">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.10.06.328112">10.1101/2020.10.06.328112</a></td>
+    <td><a href="https://scholia.toolforge.org/Q100510827">Crystal Structure of Non-Structural Protein 10 from Severe Acute Respiratory Syndrome Coronavirus-2</a> (<a href="http://www.wikidata.org/entity/Q100510827">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/IJMS21197375">10.3390/IJMS21197375</a></td>
   </tr>
   <tr>
     <td>2020-10-01</td>
@@ -397,11 +397,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-09-16</td>
-    <td><a href="https://scholia.toolforge.org/Q104437967">Characterisation of protease activity during SARS-CoV-2 infection identifies novel viral cleavage sites and cellular targets for drug repurposing</a> (<a href="http://www.wikidata.org/entity/Q104437967">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.16.297945">10.1101/2020.09.16.297945</a></td>
-  </tr>
-  <tr>
-    <td>2020-09-16</td>
     <td><a href="https://scholia.toolforge.org/Q99549852">Targeting SARS-CoV-2 Nsp12/Nsp8 interaction interface with approved and investigational drugs: an in silico structure-based approach</a> (<a href="http://www.wikidata.org/entity/Q99549852">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/07391102.2020.1819882">10.1080/07391102.2020.1819882</a></td>
   </tr>
@@ -416,9 +411,9 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.09.14.296178">10.1101/2020.09.14.296178</a></td>
   </tr>
   <tr>
-    <td>2020-09-14</td>
-    <td><a href="https://scholia.toolforge.org/Q99707959">SARS-CoV-2 Infection Depends on Cellular Heparan Sulfate and ACE2</a> (<a href="http://www.wikidata.org/entity/Q99707959">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELL.2020.09.033">10.1016/J.CELL.2020.09.033</a></td>
+    <td>2020-09-16</td>
+    <td><a href="https://scholia.toolforge.org/Q104437967">Characterisation of protease activity during SARS-CoV-2 infection identifies novel viral cleavage sites and cellular targets for drug repurposing</a> (<a href="http://www.wikidata.org/entity/Q104437967">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.09.16.297945">10.1101/2020.09.16.297945</a></td>
   </tr>
   <tr>
     <td>2020-09-14</td>
@@ -429,6 +424,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-09-14</td>
     <td><a href="https://scholia.toolforge.org/Q100387952">SARS CoV-2 nucleocapsid protein forms condensates with viral genomic RNA</a> (<a href="http://www.wikidata.org/entity/Q100387952">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.09.14.295824">10.1101/2020.09.14.295824</a></td>
+  </tr>
+  <tr>
+    <td>2020-09-14</td>
+    <td><a href="https://scholia.toolforge.org/Q99707959">SARS-CoV-2 Infection Depends on Cellular Heparan Sulfate and ACE2</a> (<a href="http://www.wikidata.org/entity/Q99707959">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELL.2020.09.033">10.1016/J.CELL.2020.09.033</a></td>
   </tr>
   <tr>
     <td>2020-09-13</td>
@@ -442,11 +442,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-09-09</td>
-    <td><a href="https://scholia.toolforge.org/Q99212334">SARS-CoV-2 envelope protein topology in eukaryotic membranes</a> (<a href="http://www.wikidata.org/entity/Q99212334">edit</a>)</td>
-    <td><a href="https://doi.org/10.1098/RSOB.200209">10.1098/RSOB.200209</a></td>
-  </tr>
-  <tr>
-    <td>2020-09-09</td>
     <td><a href="https://scholia.toolforge.org/Q99245666">Repurposing of FDA-Approved Toremifene to Treat COVID-19 by blocking the spike glycoprotein and NSP14 of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99245666">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACS.JPROTEOME.0C00397">10.1021/ACS.JPROTEOME.0C00397</a></td>
   </tr>
@@ -456,14 +451,19 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1038/S41594-020-0511-8">10.1038/S41594-020-0511-8</a></td>
   </tr>
   <tr>
-    <td>2020-09-08</td>
-    <td><a href="https://scholia.toolforge.org/Q99208789">In-silico screening of plant-derived antivirals against main protease, 3CLpro and endoribonuclease, NSP15 proteins of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99208789">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/07391102.2020.1808077">10.1080/07391102.2020.1808077</a></td>
+    <td>2020-09-09</td>
+    <td><a href="https://scholia.toolforge.org/Q99212334">SARS-CoV-2 envelope protein topology in eukaryotic membranes</a> (<a href="http://www.wikidata.org/entity/Q99212334">edit</a>)</td>
+    <td><a href="https://doi.org/10.1098/RSOB.200209">10.1098/RSOB.200209</a></td>
   </tr>
   <tr>
     <td>2020-09-08</td>
     <td><a href="https://scholia.toolforge.org/Q99234085">Liquid-liquid phase separation by SARS-CoV-2 nucleocapsid protein and RNA</a> (<a href="http://www.wikidata.org/entity/Q99234085">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41422-020-00408-2">10.1038/S41422-020-00408-2</a></td>
+  </tr>
+  <tr>
+    <td>2020-09-08</td>
+    <td><a href="https://scholia.toolforge.org/Q99208789">In-silico screening of plant-derived antivirals against main protease, 3CLpro and endoribonuclease, NSP15 proteins of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99208789">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1808077">10.1080/07391102.2020.1808077</a></td>
   </tr>
   <tr>
     <td>2020-09-07</td>
@@ -472,23 +472,23 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-09-04</td>
-    <td><a href="https://scholia.toolforge.org/Q98948556">Identification of promising antiviral drug candidates against non-structural protein 15 (NSP15) from SARS-CoV-2: an in silico assisted drug-repurposing study</a> (<a href="http://www.wikidata.org/entity/Q98948556">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/07391102.2020.1814870">10.1080/07391102.2020.1814870</a></td>
-  </tr>
-  <tr>
-    <td>2020-09-04</td>
-    <td><a href="https://scholia.toolforge.org/Q98951512">SARS-CoV-2 binds platelet ACE2 to enhance thrombosis in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98951512">edit</a>)</td>
-    <td><a href="https://doi.org/10.1186/S13045-020-00954-7">10.1186/S13045-020-00954-7</a></td>
-  </tr>
-  <tr>
-    <td>2020-09-04</td>
     <td><a href="https://scholia.toolforge.org/Q99563725">RNA-dependent RNA polymerase: Structure, mechanism, and drug discovery for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q99563725">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BBRC.2020.08.116">10.1016/J.BBRC.2020.08.116</a></td>
   </tr>
   <tr>
     <td>2020-09-04</td>
+    <td><a href="https://scholia.toolforge.org/Q98948556">Identification of promising antiviral drug candidates against non-structural protein 15 (NSP15) from SARS-CoV-2: an in silico assisted drug-repurposing study</a> (<a href="http://www.wikidata.org/entity/Q98948556">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1814870">10.1080/07391102.2020.1814870</a></td>
+  </tr>
+  <tr>
+    <td>2020-09-04</td>
     <td><a href="https://scholia.toolforge.org/Q99561921">SARS-CoV-2 ORF3b Is a Potent Interferon Antagonist Whose Activity Is Increased by a Naturally Occurring Elongation Variant</a> (<a href="http://www.wikidata.org/entity/Q99561921">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELREP.2020.108185">10.1016/J.CELREP.2020.108185</a></td>
+  </tr>
+  <tr>
+    <td>2020-09-04</td>
+    <td><a href="https://scholia.toolforge.org/Q98951512">SARS-CoV-2 binds platelet ACE2 to enhance thrombosis in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98951512">edit</a>)</td>
+    <td><a href="https://doi.org/10.1186/S13045-020-00954-7">10.1186/S13045-020-00954-7</a></td>
   </tr>
   <tr>
     <td>2020-09-03</td>
@@ -522,23 +522,23 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-08-26</td>
-    <td><a href="https://scholia.toolforge.org/Q104533834">Room Temperature Structure of SARS-CoV-2 Nsp10/Nsp16 Methyltransferase in a Complex with m7GpppA Cap-0 and SAM Determined by Fixed-Target Serial Crystallography</a> (<a href="http://www.wikidata.org/entity/Q104533834">edit</a>)</td>
-    <td><a href="https://doi.org/10.2210/PDB7JPE/PDB">10.2210/PDB7JPE/PDB</a></td>
-  </tr>
-  <tr>
-    <td>2020-08-26</td>
     <td><a href="https://scholia.toolforge.org/Q104533802">Crystal Structure of SARS-CoV-2 NSP7-NSP8 complex</a> (<a href="http://www.wikidata.org/entity/Q104533802">edit</a>)</td>
     <td><a href="https://doi.org/10.2210/PDB7JLT/PDB">10.2210/PDB7JLT/PDB</a></td>
   </tr>
   <tr>
-    <td>2020-08-24</td>
-    <td><a href="https://scholia.toolforge.org/Q98720918">Virus-Receptor Interactions of Glycosylated SARS-CoV-2 Spike and Human ACE2 Receptor</a> (<a href="http://www.wikidata.org/entity/Q98720918">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CHOM.2020.08.004">10.1016/J.CHOM.2020.08.004</a></td>
+    <td>2020-08-26</td>
+    <td><a href="https://scholia.toolforge.org/Q104533834">Room Temperature Structure of SARS-CoV-2 Nsp10/Nsp16 Methyltransferase in a Complex with m7GpppA Cap-0 and SAM Determined by Fixed-Target Serial Crystallography</a> (<a href="http://www.wikidata.org/entity/Q104533834">edit</a>)</td>
+    <td><a href="https://doi.org/10.2210/PDB7JPE/PDB">10.2210/PDB7JPE/PDB</a></td>
   </tr>
   <tr>
     <td>2020-08-24</td>
     <td><a href="https://scholia.toolforge.org/Q104523307">The SARS-CoV-2 Envelope and Membrane proteins modulate maturation and retention of the Spike protein, allowing optimal formation of VLPs in presence of Nucleoprotein</a> (<a href="http://www.wikidata.org/entity/Q104523307">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.08.24.260901">10.1101/2020.08.24.260901</a></td>
+  </tr>
+  <tr>
+    <td>2020-08-24</td>
+    <td><a href="https://scholia.toolforge.org/Q98720918">Virus-Receptor Interactions of Glycosylated SARS-CoV-2 Spike and Human ACE2 Receptor</a> (<a href="http://www.wikidata.org/entity/Q98720918">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CHOM.2020.08.004">10.1016/J.CHOM.2020.08.004</a></td>
   </tr>
   <tr>
     <td>2020-08-21</td>
@@ -567,6 +567,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-08-17</td>
+    <td><a href="https://scholia.toolforge.org/Q98510279">Structures and distributions of SARS-CoV-2 spike proteins on intact virions</a> (<a href="http://www.wikidata.org/entity/Q98510279">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-020-2665-2">10.1038/S41586-020-2665-2</a></td>
+  </tr>
+  <tr>
+    <td>2020-08-17</td>
     <td><a href="https://scholia.toolforge.org/Q98513801">ORF8 and ORF3b antibodies are accurate serological markers of early and late SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q98513801">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41590-020-0773-7">10.1038/S41590-020-0773-7</a></td>
   </tr>
@@ -576,19 +581,9 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.08.16.252973">10.1101/2020.08.16.252973</a></td>
   </tr>
   <tr>
-    <td>2020-08-17</td>
-    <td><a href="https://scholia.toolforge.org/Q98510279">Structures and distributions of SARS-CoV-2 spike proteins on intact virions</a> (<a href="http://www.wikidata.org/entity/Q98510279">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41586-020-2665-2">10.1038/S41586-020-2665-2</a></td>
-  </tr>
-  <tr>
     <td>2020-08-14</td>
     <td><a href="https://scholia.toolforge.org/Q104527554">Methylation of RNA Cap in SARS-CoV-2 captured by serial crystallography</a> (<a href="http://www.wikidata.org/entity/Q104527554">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.08.14.251421">10.1101/2020.08.14.251421</a></td>
-  </tr>
-  <tr>
-    <td>2020-08-14</td>
-    <td><a href="https://scholia.toolforge.org/Q104440003">Furin cleavage of SARS-CoV-2 Spike promotes but is not essential for infection and cell-cell fusion</a> (<a href="http://www.wikidata.org/entity/Q104440003">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.08.13.243303">10.1101/2020.08.13.243303</a></td>
   </tr>
   <tr>
     <td>2020-08-14</td>
@@ -596,9 +591,9 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1007/S12104-020-09973-4">10.1007/S12104-020-09973-4</a></td>
   </tr>
   <tr>
-    <td>2020-08-13</td>
-    <td><a href="https://scholia.toolforge.org/Q98629934">The use of knowledge management tools in viroinformatics. Example study of a highly conserved sequence motif in Nsp3 of SARS-CoV-2 as a therapeutic target</a> (<a href="http://www.wikidata.org/entity/Q98629934">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.COMPBIOMED.2020.103963">10.1016/J.COMPBIOMED.2020.103963</a></td>
+    <td>2020-08-14</td>
+    <td><a href="https://scholia.toolforge.org/Q104440003">Furin cleavage of SARS-CoV-2 Spike promotes but is not essential for infection and cell-cell fusion</a> (<a href="http://www.wikidata.org/entity/Q104440003">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.08.13.243303">10.1101/2020.08.13.243303</a></td>
   </tr>
   <tr>
     <td>2020-08-13</td>
@@ -606,14 +601,19 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.08.13.248211">10.1101/2020.08.13.248211</a></td>
   </tr>
   <tr>
-    <td>2020-08-12</td>
-    <td><a href="https://scholia.toolforge.org/Q98390275">Structural insight into the role of novel SARS-CoV-2 E protein: A potential target for vaccine development and other therapeutic strategies</a> (<a href="http://www.wikidata.org/entity/Q98390275">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0237300">10.1371/JOURNAL.PONE.0237300</a></td>
+    <td>2020-08-13</td>
+    <td><a href="https://scholia.toolforge.org/Q98629934">The use of knowledge management tools in viroinformatics. Example study of a highly conserved sequence motif in Nsp3 of SARS-CoV-2 as a therapeutic target</a> (<a href="http://www.wikidata.org/entity/Q98629934">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.COMPBIOMED.2020.103963">10.1016/J.COMPBIOMED.2020.103963</a></td>
   </tr>
   <tr>
     <td>2020-08-12</td>
     <td><a href="https://scholia.toolforge.org/Q104527956">Suppression of MDA5-mediated antiviral immune responses by NSP8 of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104527956">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.08.12.247767">10.1101/2020.08.12.247767</a></td>
+  </tr>
+  <tr>
+    <td>2020-08-12</td>
+    <td><a href="https://scholia.toolforge.org/Q98390275">Structural insight into the role of novel SARS-CoV-2 E protein: A potential target for vaccine development and other therapeutic strategies</a> (<a href="http://www.wikidata.org/entity/Q98390275">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0237300">10.1371/JOURNAL.PONE.0237300</a></td>
   </tr>
   <tr>
     <td>2020-08-11</td>
@@ -652,13 +652,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-08-06</td>
-    <td><a href="https://scholia.toolforge.org/Q104512144">Structure of papain-like protease from SARS-CoV-2 and its complexes with non-covalent inhibitors</a> (<a href="http://www.wikidata.org/entity/Q104512144">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.08.06.240192">10.1101/2020.08.06.240192</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104471999">Structural characterization of the C-terminal domain of SARS-CoV-2 nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q104471999">edit</a>)</td>
+    <td><a href="https://doi.org/10.1186/S43556-020-00001-4">10.1186/S43556-020-00001-4</a></td>
   </tr>
   <tr>
     <td>2020-08-06</td>
-    <td><a href="https://scholia.toolforge.org/Q104471999">Structural characterization of the C-terminal domain of SARS-CoV-2 nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q104471999">edit</a>)</td>
-    <td><a href="https://doi.org/10.1186/S43556-020-00001-4">10.1186/S43556-020-00001-4</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104512144">Structure of papain-like protease from SARS-CoV-2 and its complexes with non-covalent inhibitors</a> (<a href="http://www.wikidata.org/entity/Q104512144">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.08.06.240192">10.1101/2020.08.06.240192</a></td>
   </tr>
   <tr>
     <td>2020-08-05</td>
@@ -672,13 +672,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-08-04</td>
-    <td><a href="https://scholia.toolforge.org/Q98199282">SARS-CoV-2 nucleocapsid and Nsp3 binding: an in silico study</a> (<a href="http://www.wikidata.org/entity/Q98199282">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S00203-020-01998-6">10.1007/S00203-020-01998-6</a></td>
+    <td><a href="https://scholia.toolforge.org/Q98195339">Deciphering the protein motion of S1 subunit in SARS-CoV-2 spike glycoprotein through integrated computational methods</a> (<a href="http://www.wikidata.org/entity/Q98195339">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1802338">10.1080/07391102.2020.1802338</a></td>
   </tr>
   <tr>
     <td>2020-08-04</td>
-    <td><a href="https://scholia.toolforge.org/Q98195339">Deciphering the protein motion of S1 subunit in SARS-CoV-2 spike glycoprotein through integrated computational methods</a> (<a href="http://www.wikidata.org/entity/Q98195339">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/07391102.2020.1802338">10.1080/07391102.2020.1802338</a></td>
+    <td><a href="https://scholia.toolforge.org/Q98199282">SARS-CoV-2 nucleocapsid and Nsp3 binding: an in silico study</a> (<a href="http://www.wikidata.org/entity/Q98199282">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00203-020-01998-6">10.1007/S00203-020-01998-6</a></td>
   </tr>
   <tr>
     <td>2020-08-04</td>
@@ -689,6 +689,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-08-04</td>
     <td><a href="https://scholia.toolforge.org/Q98312452">Enhanced Binding of SARS-CoV-2 Spike Protein to Receptor by Distal Polybasic Cleavage Sites</a> (<a href="http://www.wikidata.org/entity/Q98312452">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACSNANO.0C04798">10.1021/ACSNANO.0C04798</a></td>
+  </tr>
+  <tr>
+    <td>2020-08-03</td>
+    <td><a href="https://scholia.toolforge.org/Q98196753">Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98196753">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41401-020-0485-4">10.1038/S41401-020-0485-4</a></td>
   </tr>
   <tr>
     <td>2020-08-03</td>
@@ -704,11 +709,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-08-03</td>
     <td><a href="https://scholia.toolforge.org/Q104439852">SARS-CoV-2 ORF6 disrupts nucleocytoplasmic transport through interactions with Rae1 and Nup98</a> (<a href="http://www.wikidata.org/entity/Q104439852">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.08.03.234559">10.1101/2020.08.03.234559</a></td>
-  </tr>
-  <tr>
-    <td>2020-08-03</td>
-    <td><a href="https://scholia.toolforge.org/Q98196753">Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q98196753">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41401-020-0485-4">10.1038/S41401-020-0485-4</a></td>
   </tr>
   <tr>
     <td>2020-08-01</td>
@@ -727,11 +727,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-07-31</td>
-    <td><a href="https://scholia.toolforge.org/Q98241597">The SARS-CoV-2 Nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein</a> (<a href="http://www.wikidata.org/entity/Q98241597">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.30.228023">10.1101/2020.07.30.228023</a></td>
-  </tr>
-  <tr>
-    <td>2020-07-31</td>
     <td><a href="https://scholia.toolforge.org/Q98241584">Force-dependent stimulation of RNA unwinding by SARS-CoV-2 nsp13 helicase</a> (<a href="http://www.wikidata.org/entity/Q98241584">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.07.31.231274">10.1101/2020.07.31.231274</a></td>
   </tr>
@@ -746,14 +741,19 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1016/J.CMI.2020.07.038">10.1016/J.CMI.2020.07.038</a></td>
   </tr>
   <tr>
-    <td>2020-07-30</td>
-    <td><a href="https://scholia.toolforge.org/Q104502199">Substrate specificity of SARS-CoV-2 nsp10-nsp16 methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q104502199">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.30.228478">10.1101/2020.07.30.228478</a></td>
+    <td>2020-07-31</td>
+    <td><a href="https://scholia.toolforge.org/Q98241597">The SARS-CoV-2 Nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein</a> (<a href="http://www.wikidata.org/entity/Q98241597">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.07.30.228023">10.1101/2020.07.30.228023</a></td>
   </tr>
   <tr>
     <td>2020-07-30</td>
     <td><a href="https://scholia.toolforge.org/Q104469729">A dynamic regulatory interface on SARS-CoV-2 RNA polymerase</a> (<a href="http://www.wikidata.org/entity/Q104469729">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.07.30.229187">10.1101/2020.07.30.229187</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-30</td>
+    <td><a href="https://scholia.toolforge.org/Q104502199">Substrate specificity of SARS-CoV-2 nsp10-nsp16 methyltransferase</a> (<a href="http://www.wikidata.org/entity/Q104502199">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.07.30.228478">10.1101/2020.07.30.228478</a></td>
   </tr>
   <tr>
     <td>2020-07-29</td>
@@ -872,13 +872,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-07-09</td>
-    <td><a href="https://scholia.toolforge.org/Q104473662">Decline of humoral responses against SARS-CoV-2 Spike in convalescent individuals</a> (<a href="http://www.wikidata.org/entity/Q104473662">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.09.194639">10.1101/2020.07.09.194639</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104527170">Molecular architecture of the SARS-CoV-2 virus</a> (<a href="http://www.wikidata.org/entity/Q104527170">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.07.08.192104">10.1101/2020.07.08.192104</a></td>
   </tr>
   <tr>
     <td>2020-07-09</td>
-    <td><a href="https://scholia.toolforge.org/Q104527170">Molecular architecture of the SARS-CoV-2 virus</a> (<a href="http://www.wikidata.org/entity/Q104527170">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.07.08.192104">10.1101/2020.07.08.192104</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104473662">Decline of humoral responses against SARS-CoV-2 Spike in convalescent individuals</a> (<a href="http://www.wikidata.org/entity/Q104473662">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.07.09.194639">10.1101/2020.07.09.194639</a></td>
   </tr>
   <tr>
     <td>2020-07-07</td>
@@ -907,11 +907,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-06-29</td>
-    <td><a href="https://scholia.toolforge.org/Q104533718">SARS-CoV-2 envelope protein causes acute respiratory distress syndrome (ARDS)-like pathological damage and constitutes an antiviral target</a> (<a href="http://www.wikidata.org/entity/Q104533718">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.06.27.174953">10.1101/2020.06.27.174953</a></td>
-  </tr>
-  <tr>
-    <td>2020-06-29</td>
     <td><a href="https://scholia.toolforge.org/Q104533901">Proteins Nsp12 and 13 of SARS-CoV-2 Have Mitochondrial Recognition Signal: A Connection with Cellular Mitochondrial Dysfunction and Disease Manifestation</a> (<a href="http://www.wikidata.org/entity/Q104533901">edit</a>)</td>
     <td><a href="https://doi.org/10.20944/PREPRINTS202006.0352.V1">10.20944/PREPRINTS202006.0352.V1</a></td>
   </tr>
@@ -919,6 +914,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-06-29</td>
     <td><a href="https://scholia.toolforge.org/Q97426434">Phosphorylation modulates liquid-liquid phase separation of the SARS-CoV-2 N protein</a> (<a href="http://www.wikidata.org/entity/Q97426434">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.06.28.176248">10.1101/2020.06.28.176248</a></td>
+  </tr>
+  <tr>
+    <td>2020-06-29</td>
+    <td><a href="https://scholia.toolforge.org/Q104533718">SARS-CoV-2 envelope protein causes acute respiratory distress syndrome (ARDS)-like pathological damage and constitutes an antiviral target</a> (<a href="http://www.wikidata.org/entity/Q104533718">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.06.27.174953">10.1101/2020.06.27.174953</a></td>
   </tr>
   <tr>
     <td>2020-06-27</td>
@@ -932,6 +932,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-06-24</td>
+    <td><a href="https://scholia.toolforge.org/Q96648082">SARS-CoV-2 and SARS-CoV: Virtual Screening of Potential inhibitors targeting RNA-dependent RNA polymerase activity (NSP12)</a> (<a href="http://www.wikidata.org/entity/Q96648082">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26222">10.1002/JMV.26222</a></td>
+  </tr>
+  <tr>
+    <td>2020-06-24</td>
     <td><a href="https://scholia.toolforge.org/Q96647316">Molecular Basis for ADP-ribose Binding to the Mac1 Domain of SARS-CoV-2 Nsp3</a> (<a href="http://www.wikidata.org/entity/Q96647316">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACS.BIOCHEM.0C00309">10.1021/ACS.BIOCHEM.0C00309</a></td>
   </tr>
@@ -941,19 +946,14 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1038/S41467-020-16954-7">10.1038/S41467-020-16954-7</a></td>
   </tr>
   <tr>
-    <td>2020-06-24</td>
-    <td><a href="https://scholia.toolforge.org/Q96648082">SARS-CoV-2 and SARS-CoV: Virtual Screening of Potential inhibitors targeting RNA-dependent RNA polymerase activity (NSP12)</a> (<a href="http://www.wikidata.org/entity/Q96648082">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/JMV.26222">10.1002/JMV.26222</a></td>
+    <td>2020-06-23</td>
+    <td><a href="https://scholia.toolforge.org/Q96693555">The ORF6, ORF8 and nucleocapsid proteins of SARS-CoV-2 inhibit type I interferon signaling pathway</a> (<a href="http://www.wikidata.org/entity/Q96693555">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.VIRUSRES.2020.198074">10.1016/J.VIRUSRES.2020.198074</a></td>
   </tr>
   <tr>
     <td>2020-06-23</td>
     <td><a href="https://scholia.toolforge.org/Q96644374">Targeting SARS-COV-2 non-structural protein 16: a virtual drug repurposing study</a> (<a href="http://www.wikidata.org/entity/Q96644374">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/07391102.2020.1779133">10.1080/07391102.2020.1779133</a></td>
-  </tr>
-  <tr>
-    <td>2020-06-23</td>
-    <td><a href="https://scholia.toolforge.org/Q96693555">The ORF6, ORF8 and nucleocapsid proteins of SARS-CoV-2 inhibit type I interferon signaling pathway</a> (<a href="http://www.wikidata.org/entity/Q96693555">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.VIRUSRES.2020.198074">10.1016/J.VIRUSRES.2020.198074</a></td>
   </tr>
   <tr>
     <td>2020-06-23</td>
@@ -987,6 +987,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-06-18</td>
+    <td><a href="https://scholia.toolforge.org/Q96687783">The SARS-CoV-2 nucleocapsid protein is dynamic, disordered, and phase separates with RNA</a> (<a href="http://www.wikidata.org/entity/Q96687783">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.06.17.158121">10.1101/2020.06.17.158121</a></td>
+  </tr>
+  <tr>
+    <td>2020-06-18</td>
     <td><a href="https://scholia.toolforge.org/Q96576788">The ORF3a protein of SARS-CoV-2 induces apoptosis in cells</a> (<a href="http://www.wikidata.org/entity/Q96576788">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41423-020-0485-9">10.1038/S41423-020-0485-9</a></td>
   </tr>
@@ -1001,9 +1006,9 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.06.18.158584">10.1101/2020.06.18.158584</a></td>
   </tr>
   <tr>
-    <td>2020-06-18</td>
-    <td><a href="https://scholia.toolforge.org/Q96687783">The SARS-CoV-2 nucleocapsid protein is dynamic, disordered, and phase separates with RNA</a> (<a href="http://www.wikidata.org/entity/Q96687783">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.06.17.158121">10.1101/2020.06.17.158121</a></td>
+    <td>2020-06-17</td>
+    <td><a href="https://scholia.toolforge.org/Q96687815">Characterization of the SARS-CoV-2 S Protein: Biophysical, Biochemical, Structural, and Antigenic Analysis</a> (<a href="http://www.wikidata.org/entity/Q96687815">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.06.14.150607">10.1101/2020.06.14.150607</a></td>
   </tr>
   <tr>
     <td>2020-06-17</td>
@@ -1019,11 +1024,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-06-17</td>
     <td><a href="https://scholia.toolforge.org/Q104452060">A thermostable, closed, SARS-CoV-2 spike protein trimer</a> (<a href="http://www.wikidata.org/entity/Q104452060">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.06.15.152835">10.1101/2020.06.15.152835</a></td>
-  </tr>
-  <tr>
-    <td>2020-06-17</td>
-    <td><a href="https://scholia.toolforge.org/Q96687815">Characterization of the SARS-CoV-2 S Protein: Biophysical, Biochemical, Structural, and Antigenic Analysis</a> (<a href="http://www.wikidata.org/entity/Q96687815">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.06.14.150607">10.1101/2020.06.14.150607</a></td>
   </tr>
   <tr>
     <td>2020-06-15</td>
@@ -1052,11 +1052,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-06-10</td>
-    <td><a href="https://scholia.toolforge.org/Q96642669">A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein</a> (<a href="http://www.wikidata.org/entity/Q96642669">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.06.09.134460">10.1101/2020.06.09.134460</a></td>
-  </tr>
-  <tr>
-    <td>2020-06-10</td>
     <td><a href="https://scholia.toolforge.org/Q96231810">Identification of 22 N-glycosites on spike glycoprotein of SARS-CoV-2 and accessible surface glycopeptide motifs: implications for vaccination and antibody therapeutics</a> (<a href="http://www.wikidata.org/entity/Q96231810">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/GLYCOB/CWAA052">10.1093/GLYCOB/CWAA052</a></td>
   </tr>
@@ -1064,6 +1059,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-06-10</td>
     <td><a href="https://scholia.toolforge.org/Q96642691">SARS-CoV-2 nucleocapsid protein undergoes liquid-liquid phase separation stimulated by RNA and partitions into phases of human ribonucleoproteins</a> (<a href="http://www.wikidata.org/entity/Q96642691">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.06.09.141101">10.1101/2020.06.09.141101</a></td>
+  </tr>
+  <tr>
+    <td>2020-06-10</td>
+    <td><a href="https://scholia.toolforge.org/Q96642669">A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein</a> (<a href="http://www.wikidata.org/entity/Q96642669">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.06.09.134460">10.1101/2020.06.09.134460</a></td>
   </tr>
   <tr>
     <td>2020-06-09</td>
@@ -1082,6 +1082,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-06-05</td>
+    <td><a href="https://scholia.toolforge.org/Q96163413">Identification of nsp1 gene as the target of SARS-CoV-2 real-time RT-PCR using nanopore whole genome sequencing</a> (<a href="http://www.wikidata.org/entity/Q96163413">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26140">10.1002/JMV.26140</a></td>
+  </tr>
+  <tr>
+    <td>2020-06-05</td>
     <td><a href="https://scholia.toolforge.org/Q104439997">SARS-CoV-2 proteases cleave IRF3 and critical modulators of inflammatory pathways (NLRP12 and TAB1): implications for disease presentation across species and the search for reservoir hosts</a> (<a href="http://www.wikidata.org/entity/Q104439997">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.06.05.135699">10.1101/2020.06.05.135699</a></td>
   </tr>
@@ -1096,24 +1101,19 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.06.05.134114">10.1101/2020.06.05.134114</a></td>
   </tr>
   <tr>
-    <td>2020-06-05</td>
-    <td><a href="https://scholia.toolforge.org/Q96163413">Identification of nsp1 gene as the target of SARS-CoV-2 real-time RT-PCR using nanopore whole genome sequencing</a> (<a href="http://www.wikidata.org/entity/Q96163413">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/JMV.26140">10.1002/JMV.26140</a></td>
-  </tr>
-  <tr>
     <td>2020-06-04</td>
     <td><a href="https://scholia.toolforge.org/Q96158781">SARS-Coronavirus-2 Nsp13 Possesses NTPase and RNA Helicase Activities That Can Be Inhibited by Bismuth Salts</a> (<a href="http://www.wikidata.org/entity/Q96158781">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S12250-020-00242-1">10.1007/S12250-020-00242-1</a></td>
   </tr>
   <tr>
     <td>2020-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q96021431">Virtual screening, ADME/T, and binding free energy analysis of anti-viral, anti-protease, and anti-infectious compounds against NSP10/NSP16 methyltransferase and main protease of SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96021431">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/10799893.2020.1772298">10.1080/10799893.2020.1772298</a></td>
+    <td><a href="https://scholia.toolforge.org/Q96027644">Comparing the Binding Interactions in the Receptor Binding Domains of SARS-CoV-2 and SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q96027644">edit</a>)</td>
+    <td><a href="https://doi.org/10.1021/ACS.JPCLETT.0C01064">10.1021/ACS.JPCLETT.0C01064</a></td>
   </tr>
   <tr>
     <td>2020-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q96027644">Comparing the Binding Interactions in the Receptor Binding Domains of SARS-CoV-2 and SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q96027644">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/ACS.JPCLETT.0C01064">10.1021/ACS.JPCLETT.0C01064</a></td>
+    <td><a href="https://scholia.toolforge.org/Q96021431">Virtual screening, ADME/T, and binding free energy analysis of anti-viral, anti-protease, and anti-infectious compounds against NSP10/NSP16 methyltransferase and main protease of SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q96021431">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/10799893.2020.1772298">10.1080/10799893.2020.1772298</a></td>
   </tr>
   <tr>
     <td>2020-05-30</td>
@@ -1147,18 +1147,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-05-22</td>
-    <td><a href="https://scholia.toolforge.org/Q95630795">Chemistry and Biology of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95630795">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CHEMPR.2020.04.023">10.1016/J.CHEMPR.2020.04.023</a></td>
-  </tr>
-  <tr>
-    <td>2020-05-22</td>
     <td><a href="https://scholia.toolforge.org/Q95601567">Structural basis for RNA replication by the SARS-CoV-2 polymerase</a> (<a href="http://www.wikidata.org/entity/Q95601567">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2020.05.034">10.1016/J.CELL.2020.05.034</a></td>
   </tr>
   <tr>
-    <td>2020-05-21</td>
-    <td><a href="https://scholia.toolforge.org/Q104473513">Trimeric SARS-CoV-2 Spike interacts with dimeric ACE2 with limited intra-Spike avidity</a> (<a href="http://www.wikidata.org/entity/Q104473513">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.05.21.109157">10.1101/2020.05.21.109157</a></td>
+    <td>2020-05-22</td>
+    <td><a href="https://scholia.toolforge.org/Q95630795">Chemistry and Biology of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95630795">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CHEMPR.2020.04.023">10.1016/J.CHEMPR.2020.04.023</a></td>
   </tr>
   <tr>
     <td>2020-05-21</td>
@@ -1166,14 +1161,14 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1038/S41586-020-2368-8">10.1038/S41586-020-2368-8</a></td>
   </tr>
   <tr>
+    <td>2020-05-21</td>
+    <td><a href="https://scholia.toolforge.org/Q104473513">Trimeric SARS-CoV-2 Spike interacts with dimeric ACE2 with limited intra-Spike avidity</a> (<a href="http://www.wikidata.org/entity/Q104473513">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.05.21.109157">10.1101/2020.05.21.109157</a></td>
+  </tr>
+  <tr>
     <td>2020-05-20</td>
     <td><a href="https://scholia.toolforge.org/Q104533821">SARS-CoV-2 Nsp9 RNA-replicase</a> (<a href="http://www.wikidata.org/entity/Q104533821">edit</a>)</td>
     <td><a href="https://doi.org/10.2210/PDB6WXD/PDB">10.2210/PDB6WXD/PDB</a></td>
-  </tr>
-  <tr>
-    <td>2020-05-19</td>
-    <td><a href="https://scholia.toolforge.org/Q95309312">Characterization and noncovalent inhibition of the deubiquitinase and deISGylase activity of SARS-CoV-2 papain-like protease</a> (<a href="http://www.wikidata.org/entity/Q95309312">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/ACSINFECDIS.0C00168">10.1021/ACSINFECDIS.0C00168</a></td>
   </tr>
   <tr>
     <td>2020-05-19</td>
@@ -1184,6 +1179,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-05-19</td>
     <td><a href="https://scholia.toolforge.org/Q95627977">Controlling the SARS-CoV-2 Spike Glycoprotein Conformation</a> (<a href="http://www.wikidata.org/entity/Q95627977">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.05.18.102087">10.1101/2020.05.18.102087</a></td>
+  </tr>
+  <tr>
+    <td>2020-05-19</td>
+    <td><a href="https://scholia.toolforge.org/Q95309312">Characterization and noncovalent inhibition of the deubiquitinase and deISGylase activity of SARS-CoV-2 papain-like protease</a> (<a href="http://www.wikidata.org/entity/Q95309312">edit</a>)</td>
+    <td><a href="https://doi.org/10.1021/ACSINFECDIS.0C00168">10.1021/ACSINFECDIS.0C00168</a></td>
   </tr>
   <tr>
     <td>2020-05-18</td>
@@ -1222,13 +1222,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-05-06</td>
-    <td><a href="https://scholia.toolforge.org/Q104533859">Structure of SARS-CoV-2 nsp16/nsp10 ternary complex</a> (<a href="http://www.wikidata.org/entity/Q104533859">edit</a>)</td>
-    <td><a href="https://doi.org/10.2210/PDB6WKS/PDB">10.2210/PDB6WKS/PDB</a></td>
+    <td><a href="https://scholia.toolforge.org/Q94589965">Cell entry mechanisms of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q94589965">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2003138117">10.1073/PNAS.2003138117</a></td>
   </tr>
   <tr>
     <td>2020-05-06</td>
-    <td><a href="https://scholia.toolforge.org/Q94589965">Cell entry mechanisms of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q94589965">edit</a>)</td>
-    <td><a href="https://doi.org/10.1073/PNAS.2003138117">10.1073/PNAS.2003138117</a></td>
+    <td><a href="https://scholia.toolforge.org/Q104533859">Structure of SARS-CoV-2 nsp16/nsp10 ternary complex</a> (<a href="http://www.wikidata.org/entity/Q104533859">edit</a>)</td>
+    <td><a href="https://doi.org/10.2210/PDB6WKS/PDB">10.2210/PDB6WKS/PDB</a></td>
   </tr>
   <tr>
     <td>2020-05-05</td>
@@ -1312,11 +1312,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-04-10</td>
-    <td><a href="https://scholia.toolforge.org/Q91864134">Evolutionary analysis of SARS-CoV-2: how mutation of Non-Structural Protein 6 (NSP6) could affect viral autophagy</a> (<a href="http://www.wikidata.org/entity/Q91864134">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JINF.2020.03.058">10.1016/J.JINF.2020.03.058</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-10</td>
     <td><a href="https://scholia.toolforge.org/Q91816382">Structure of the RNA-dependent RNA polymerase from COVID-19 virus</a> (<a href="http://www.wikidata.org/entity/Q91816382">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABB7498">10.1126/SCIENCE.ABB7498</a></td>
   </tr>
@@ -1329,6 +1324,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-04-10</td>
     <td><a href="https://scholia.toolforge.org/Q91935604">SARS-CoV-2-encoded nucleocapsid protein acts as a viral suppressor of RNA interference in cells</a> (<a href="http://www.wikidata.org/entity/Q91935604">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S11427-020-1692-1">10.1007/S11427-020-1692-1</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-10</td>
+    <td><a href="https://scholia.toolforge.org/Q91864134">Evolutionary analysis of SARS-CoV-2: how mutation of Non-Structural Protein 6 (NSP6) could affect viral autophagy</a> (<a href="http://www.wikidata.org/entity/Q91864134">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JINF.2020.03.058">10.1016/J.JINF.2020.03.058</a></td>
   </tr>
   <tr>
     <td>2020-04-09</td>
@@ -1382,23 +1382,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-03-20</td>
-    <td><a href="https://scholia.toolforge.org/Q88219766">Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors</a> (<a href="http://www.wikidata.org/entity/Q88219766">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIENCE.ABB3405">10.1126/SCIENCE.ABB3405</a></td>
-  </tr>
-  <tr>
-    <td>2020-03-20</td>
     <td><a href="https://scholia.toolforge.org/Q88978164">The first-in-class peptide binder to the SARS-CoV-2 spike protein</a> (<a href="http://www.wikidata.org/entity/Q88978164">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.03.19.999318">10.1101/2020.03.19.999318</a></td>
   </tr>
   <tr>
-    <td>2020-03-18</td>
-    <td><a href="https://scholia.toolforge.org/Q87995005">1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995005">edit</a>)</td>
-    <td><a href="https://doi.org/10.2210/PDB6W4H/PDB">10.2210/PDB6W4H/PDB</a></td>
-  </tr>
-  <tr>
-    <td>2020-03-18</td>
-    <td><a href="https://scholia.toolforge.org/Q104533828">The crystal structure of Nsp9 RNA binding protein of SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104533828">edit</a>)</td>
-    <td><a href="https://doi.org/10.2210/PDB6W4B/PDB">10.2210/PDB6W4B/PDB</a></td>
+    <td>2020-03-20</td>
+    <td><a href="https://scholia.toolforge.org/Q88219766">Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors</a> (<a href="http://www.wikidata.org/entity/Q88219766">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABB3405">10.1126/SCIENCE.ABB3405</a></td>
   </tr>
   <tr>
     <td>2020-03-18</td>
@@ -1409,6 +1399,16 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-18</td>
     <td><a href="https://scholia.toolforge.org/Q88048219">Crystal structure of SARS-CoV-2 nucleocapsid protein N-terminal RNA binding domain</a> (<a href="http://www.wikidata.org/entity/Q88048219">edit</a>)</td>
     <td><a href="https://doi.org/10.2210/PDB6M3M/PDB">10.2210/PDB6M3M/PDB</a></td>
+  </tr>
+  <tr>
+    <td>2020-03-18</td>
+    <td><a href="https://scholia.toolforge.org/Q87995005">1.80 Angstrom Resolution Crystal Structure of NSP16 - NSP10 Complex from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995005">edit</a>)</td>
+    <td><a href="https://doi.org/10.2210/PDB6W4H/PDB">10.2210/PDB6W4H/PDB</a></td>
+  </tr>
+  <tr>
+    <td>2020-03-18</td>
+    <td><a href="https://scholia.toolforge.org/Q104533828">The crystal structure of Nsp9 RNA binding protein of SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104533828">edit</a>)</td>
+    <td><a href="https://doi.org/10.2210/PDB6W4B/PDB">10.2210/PDB6W4B/PDB</a></td>
   </tr>
   <tr>
     <td>2020-03-13</td>
@@ -1457,6 +1457,16 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-03-04</td>
+    <td><a href="https://scholia.toolforge.org/Q87726414">Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2</a> (<a href="http://www.wikidata.org/entity/Q87726414">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABB2762">10.1126/SCIENCE.ABB2762</a></td>
+  </tr>
+  <tr>
+    <td>2020-03-04</td>
+    <td><a href="https://scholia.toolforge.org/Q88292103">SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor</a> (<a href="http://www.wikidata.org/entity/Q88292103">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELL.2020.02.052">10.1016/J.CELL.2020.02.052</a></td>
+  </tr>
+  <tr>
+    <td>2020-03-04</td>
     <td><a href="https://scholia.toolforge.org/Q87995012">Crystal Structure of ADP ribose phosphatase of NSP3 from SARS CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87995012">edit</a>)</td>
     <td><a href="https://doi.org/10.2210/PDB6VXS/PDB">10.2210/PDB6VXS/PDB</a></td>
   </tr>
@@ -1469,16 +1479,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-04</td>
     <td><a href="https://scholia.toolforge.org/Q88047678">Crystal structure (monoclinic form) of the complex resulting from the reaction between SARS-CoV-2 (2019-nCoV) main protease and tert-butyl (1-((S)-1-(((S)-4-(benzylamino)-3,4-dioxo-1-((S)-2-oxopyrrolidin-3-yl)butan-2-yl)amino)-3-cyclopropyl-1-oxoprop</a> (<a href="http://www.wikidata.org/entity/Q88047678">edit</a>)</td>
     <td><a href="https://doi.org/10.2210/PDB6Y2F/PDB">10.2210/PDB6Y2F/PDB</a></td>
-  </tr>
-  <tr>
-    <td>2020-03-04</td>
-    <td><a href="https://scholia.toolforge.org/Q87726414">Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2</a> (<a href="http://www.wikidata.org/entity/Q87726414">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIENCE.ABB2762">10.1126/SCIENCE.ABB2762</a></td>
-  </tr>
-  <tr>
-    <td>2020-03-04</td>
-    <td><a href="https://scholia.toolforge.org/Q88292103">SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor</a> (<a href="http://www.wikidata.org/entity/Q88292103">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELL.2020.02.052">10.1016/J.CELL.2020.02.052</a></td>
   </tr>
   <tr>
     <td>2020-03-03</td>

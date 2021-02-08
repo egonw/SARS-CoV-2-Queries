@@ -25968,6 +25968,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q97423778">The clinical course of SARS-CoV-2 positive neonates</a> (<a href="http://www.wikidata.org/entity/Q97423778">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41372-020-0715-0">10.1038/S41372-020-0715-0</a></td>
+    <td>32632198</td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q100415766">Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q100415766">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41598-020-72879-7">10.1038/S41598-020-72879-7</a></td>
@@ -34914,6 +34921,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q99710252">COVID-19 and Microvascular Disease: Pathophysiology of SARS-CoV-2 Infection With Focus on the Renin-Angiotensin System</a> (<a href="http://www.wikidata.org/entity/Q99710252">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.HLC.2020.08.010">10.1016/J.HLC.2020.08.010</a></td>
+    <td>32972810</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q99207912">Occurrence, fates and potential treatment approaches for removal of viruses from wastewater: A review with emphasis on SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99207912">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JECE.2020.104429">10.1016/J.JECE.2020.104429</a></td>
@@ -34946,13 +34960,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/07391102.2020.1813200">10.1080/07391102.2020.1813200</a></td>
     <td>32873185</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98898005">Proposing a fungal metabolite-flaviolin as a potential inhibitor of 3CLpro of novel coronavirus SARS-CoV-2 identified using docking and molecular dynamics</a> (<a href="http://www.wikidata.org/entity/Q98898005">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/07391102.2020.1813202">10.1080/07391102.2020.1813202</a></td>
-    <td>32875950</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
@@ -35012,17 +35019,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98898057">Peritoneal dialysis for treatment of acute kidney injury in a case of paediatric inflammatory multisystem syndrome temporally associated with SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q98898057">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98938668">Discovery of Some Antiviral Natural products to fight against Novel Corona Virus (SARS-CoV-2) using Insilico approach</a> (<a href="http://www.wikidata.org/entity/Q98938668">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1177/0896860820953716">10.1177/0896860820953716</a></td>
-    <td>32875970</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98899257">SARS-CoV-2 targets neurons of 3D human brain organoids</a> (<a href="http://www.wikidata.org/entity/Q98899257">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.15252/EMBJ.2020106230">10.15252/EMBJ.2020106230</a></td>
-    <td>32876341</td>
+    <td><a href="https://doi.org/10.2174/1386207323666200902135928">10.2174/1386207323666200902135928</a></td>
+    <td>32881661</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

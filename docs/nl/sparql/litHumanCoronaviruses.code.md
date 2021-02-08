@@ -25968,6 +25968,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q97423778">The clinical course of SARS-CoV-2 positive neonates</a> (<a href="http://www.wikidata.org/entity/Q97423778">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41372-020-0715-0">10.1038/S41372-020-0715-0</a></td>
+    <td>32632198</td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q100415766">Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q100415766">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41598-020-72879-7">10.1038/S41598-020-72879-7</a></td>
@@ -34907,6 +34914,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q99400217">Targeting the SARS-CoV-2 main protease using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach</a> (<a href="http://www.wikidata.org/entity/Q99400217">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107730">10.1016/J.JMGM.2020.107730</a></td>
+    <td>32920239</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q98902656">Phase 1-2 Trial of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine</a> (<a href="http://www.wikidata.org/entity/Q98902656">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1056/NEJMOA2026920">10.1056/NEJMOA2026920</a></td>
@@ -34960,13 +34974,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/CID/CIAA1315">10.1093/CID/CIAA1315</a></td>
     <td>32875309</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98906149">Evolution of Early SARS-CoV-2 and Cross-Coronavirus Immunity</a> (<a href="http://www.wikidata.org/entity/Q98906149">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/MSPHERE.00622-20">10.1128/MSPHERE.00622-20</a></td>
-    <td>32878931</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2217/EPI-2020-0162">10.2217/EPI-2020-0162</a></td>
     <td>32875809</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98906120">Expansion of SARS-CoV-2-Specific Antibody-Secreting Cells and Generation of Neutralizing Antibodies in Hospitalized COVID-19 Patients</a> (<a href="http://www.wikidata.org/entity/Q98906120">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.4049/JIMMUNOL.2000717">10.4049/JIMMUNOL.2000717</a></td>
-    <td>32878912</td>
   </tr>
 </table>
 ## Broncode voorbeelden

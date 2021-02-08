@@ -74,7 +74,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88171706">nucleocapsid phosphoprotein 2</a> (<a href="http://www.wikidata.org/entity/Q88171706">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88171706">ORF8</a> (<a href="http://www.wikidata.org/entity/Q88171706">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/3200424">3200424</a></td>
   </tr>
   <tr>
@@ -99,12 +99,12 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88171730">orf1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88171730">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88171730">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88171730">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/3200429">3200429</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88171722">small membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88171722">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88171722">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88171722">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/3200430">3200430</a></td>
   </tr>
   <tr>
@@ -149,12 +149,12 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175144">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88175144">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175144">I protein;nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88175144">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/39105221">39105221</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175152">Orf1ab</a> (<a href="http://www.wikidata.org/entity/Q88175152">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175152">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88175152">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/39105222">39105222</a></td>
   </tr>
   <tr>
@@ -229,7 +229,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88173012">spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88173012">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88173012">spike protein</a> (<a href="http://www.wikidata.org/entity/Q88173012">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254594">14254594</a></td>
   </tr>
   <tr>
@@ -264,7 +264,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88173018">nucleoprotein</a> (<a href="http://www.wikidata.org/entity/Q88173018">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88173018">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88173018">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254601">14254601</a></td>
   </tr>
   <tr>
@@ -284,7 +284,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; COVID19; HCoV-19; Human coronavirus 2019; SARS-2; SARS-CoV2; SARS2; Wuhan coronavirus; Wuhan seafood market pneumonia virus).</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; COVID19; HCoV-19; Human coronavirus 2019; SARS-2; SARS-CoV2; SARS2; Wuhan coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/43562271">43562271</a></td>
   </tr>
   <tr>

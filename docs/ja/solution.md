@@ -193,7 +193,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q5161160">conjugate vaccine</a> (<a href="http://www.wikidata.org/entity/Q5161160">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87775025">MRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>

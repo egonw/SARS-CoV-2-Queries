@@ -346,7 +346,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   </tr>
   <tr>
     <td>2019-03-05</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q84316035">TMPRSS2 Contributes to Virus Spread and Immunopathology in the Airways of Murine Models after Coronavirus Infection</a> (<a href="http://www.wikidata.org/entity/Q84316035">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.01815-18">10.1128/JVI.01815-18</a></td>
@@ -388,105 +388,105 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   </tr>
   <tr>
     <td>2011-02-16</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35076795">Evidence that TMPRSS2 activates the severe acute respiratory syndrome coronavirus spike protein for membrane fusion and reduces viral control by the humoral immune response.</a> (<a href="http://www.wikidata.org/entity/Q35076795">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.02232-10">10.1128/JVI.02232-10</a></td>
   </tr>
   <tr>
     <td>2011-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21131531">Interferon induced transmembrane protein 3</a> (<a href="http://www.wikidata.org/entity/Q21131531">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24337838">Distinct patterns of IFITM-mediated restriction of filoviruses, SARS coronavirus, and influenza A virus</a> (<a href="http://www.wikidata.org/entity/Q24337838">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1001258">10.1371/JOURNAL.PPAT.1001258</a></td>
   </tr>
   <tr>
     <td>2011-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21131532">Interferon induced transmembrane protein 2</a> (<a href="http://www.wikidata.org/entity/Q21131532">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24337838">Distinct patterns of IFITM-mediated restriction of filoviruses, SARS coronavirus, and influenza A virus</a> (<a href="http://www.wikidata.org/entity/Q24337838">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1001258">10.1371/JOURNAL.PPAT.1001258</a></td>
   </tr>
   <tr>
     <td>2011-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21171764">Interferon induced transmembrane protein 1</a> (<a href="http://www.wikidata.org/entity/Q21171764">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24337838">Distinct patterns of IFITM-mediated restriction of filoviruses, SARS coronavirus, and influenza A virus</a> (<a href="http://www.wikidata.org/entity/Q24337838">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1001258">10.1371/JOURNAL.PPAT.1001258</a></td>
   </tr>
   <tr>
     <td>2011-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21131531">Interferon induced transmembrane protein 3</a> (<a href="http://www.wikidata.org/entity/Q21131531">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24337838">Distinct patterns of IFITM-mediated restriction of filoviruses, SARS coronavirus, and influenza A virus</a> (<a href="http://www.wikidata.org/entity/Q24337838">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1001258">10.1371/JOURNAL.PPAT.1001258</a></td>
   </tr>
   <tr>
     <td>2011-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21131532">Interferon induced transmembrane protein 2</a> (<a href="http://www.wikidata.org/entity/Q21131532">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24337838">Distinct patterns of IFITM-mediated restriction of filoviruses, SARS coronavirus, and influenza A virus</a> (<a href="http://www.wikidata.org/entity/Q24337838">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1001258">10.1371/JOURNAL.PPAT.1001258</a></td>
   </tr>
   <tr>
     <td>2011-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21171764">Interferon induced transmembrane protein 1</a> (<a href="http://www.wikidata.org/entity/Q21171764">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24337838">Distinct patterns of IFITM-mediated restriction of filoviruses, SARS coronavirus, and influenza A virus</a> (<a href="http://www.wikidata.org/entity/Q24337838">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1001258">10.1371/JOURNAL.PPAT.1001258</a></td>
   </tr>
   <tr>
     <td>2010-11-10</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24306622">A transmembrane serine protease is linked to the severe acute respiratory syndrome coronavirus receptor and activates virus entry</a> (<a href="http://www.wikidata.org/entity/Q24306622">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.02062-10">10.1128/JVI.02062-10</a></td>
   </tr>
   <tr>
     <td>2010-11-10</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24306622">A transmembrane serine protease is linked to the severe acute respiratory syndrome coronavirus receptor and activates virus entry</a> (<a href="http://www.wikidata.org/entity/Q24306622">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.02062-10">10.1128/JVI.02062-10</a></td>
   </tr>
   <tr>
     <td>2009-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14905314">MASP2</a> (<a href="http://www.wikidata.org/entity/Q14905314">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21261523">Lack of association between polymorphisms of MASP2 and susceptibility to SARS coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q21261523">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/1471-2334-9-51">10.1186/1471-2334-9-51</a></td>
   </tr>
   <tr>
     <td>2009-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14905314">MASP2</a> (<a href="http://www.wikidata.org/entity/Q14905314">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21261523">Lack of association between polymorphisms of MASP2 and susceptibility to SARS coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q21261523">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/1471-2334-9-51">10.1186/1471-2334-9-51</a></td>
   </tr>
   <tr>
     <td>2008-05-19</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q36693984">Modulation of TNF-alpha-converting enzyme by the spike protein of SARS-CoV and ACE2 induces TNF-alpha production and facilitates viral entry</a> (<a href="http://www.wikidata.org/entity/Q36693984">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.0711241105">10.1073/PNAS.0711241105</a></td>
   </tr>
   <tr>
     <td>2008-05-19</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q36693984">Modulation of TNF-alpha-converting enzyme by the spike protein of SARS-CoV and ACE2 induces TNF-alpha production and facilitates viral entry</a> (<a href="http://www.wikidata.org/entity/Q36693984">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.0711241105">10.1073/PNAS.0711241105</a></td>
   </tr>
   <tr>
     <td>2008-05-02</td>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24314417">Lipid rafts are involved in SARS-CoV entry into Vero E6 cells</a> (<a href="http://www.wikidata.org/entity/Q24314417">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BBRC.2008.02.023">10.1016/J.BBRC.2008.02.023</a></td>
   </tr>
   <tr>
     <td>2008-05-02</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24314417">Lipid rafts are involved in SARS-CoV entry into Vero E6 cells</a> (<a href="http://www.wikidata.org/entity/Q24314417">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BBRC.2008.02.023">10.1016/J.BBRC.2008.02.023</a></td>
@@ -500,56 +500,56 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   </tr>
   <tr>
     <td>2008-02-29</td>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33321974">Roles of TNF-alpha gene polymorphisms in the occurrence and progress of SARS-Cov infection: a case-control study.</a> (<a href="http://www.wikidata.org/entity/Q33321974">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/1471-2334-8-27">10.1186/1471-2334-8-27</a></td>
   </tr>
   <tr>
     <td>2007-04-11</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21173156">BCL2 like 1</a> (<a href="http://www.wikidata.org/entity/Q21173156">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35857154">Induction of apoptosis by the severe acute respiratory syndrome coronavirus 7a protein is dependent on its interaction with the Bcl-XL protein.</a> (<a href="http://www.wikidata.org/entity/Q35857154">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.00090-07">10.1128/JVI.00090-07</a></td>
   </tr>
   <tr>
     <td>2007-04-11</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q408476">BCL2 associated X, apoptosis regulator</a> (<a href="http://www.wikidata.org/entity/Q408476">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35857154">Induction of apoptosis by the severe acute respiratory syndrome coronavirus 7a protein is dependent on its interaction with the Bcl-XL protein.</a> (<a href="http://www.wikidata.org/entity/Q35857154">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.00090-07">10.1128/JVI.00090-07</a></td>
   </tr>
   <tr>
     <td>2005-09-01</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21100827">C-type lectin domain family 4 member G</a> (<a href="http://www.wikidata.org/entity/Q21100827">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q38323040">LSECtin interacts with filovirus glycoproteins and the spike protein of SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q38323040">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.VIROL.2005.06.026">10.1016/J.VIROL.2005.06.026</a></td>
   </tr>
   <tr>
     <td>2004-11-02</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21100841">C-type lectin domain family 4 member M</a> (<a href="http://www.wikidata.org/entity/Q21100841">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24307914">CD209L (L-SIGN) is a receptor for severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q24307914">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.0403812101">10.1073/PNAS.0403812101</a></td>
   </tr>
   <tr>
     <td>2004-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40510688">Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis.</a> (<a href="http://www.wikidata.org/entity/Q40510688">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PATH.1570">10.1002/PATH.1570</a></td>
   </tr>
   <tr>
     <td>2004-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q278567">severe acute respiratory syndrome-related coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24294404">ACE2: from vasopeptidase to SARS virus receptor</a> (<a href="http://www.wikidata.org/entity/Q24294404">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.TIPS.2004.04.001">10.1016/J.TIPS.2004.04.001</a></td>
   </tr>
   <tr>
     <td>2004-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24294404">ACE2: from vasopeptidase to SARS virus receptor</a> (<a href="http://www.wikidata.org/entity/Q24294404">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.TIPS.2004.04.001">10.1016/J.TIPS.2004.04.001</a></td>

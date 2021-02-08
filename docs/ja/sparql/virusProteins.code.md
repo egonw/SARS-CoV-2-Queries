@@ -117,7 +117,7 @@ SELECT ?protein ?proteinLabel ?short ?refseq ?uniprot ?guideToPharma WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
     <td></td>
-    <td>QHD43415</td>
+    <td>YP_009724389.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
     <td><a href="https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=3125">3125</a></td>
   </tr>
@@ -159,7 +159,7 @@ SELECT ?protein ?proteinLabel ?short ?refseq ?uniprot ?guideToPharma WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88657499">ORF1a polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88657499">edit</a>)</td>
     <td></td>
-    <td></td>
+    <td>YP_009725295.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC1">P0DTC1</a></td>
     <td><a href="https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=3124">3124</a></td>
   </tr>

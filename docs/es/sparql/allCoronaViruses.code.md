@@ -18,19 +18,19 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q92109633">Goose coronavirus CB17</a> (<a href="http://www.wikidata.org/entity/Q92109633">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q97709493">Bat SARS CoV Rp3/2004</a> (<a href="http://www.wikidata.org/entity/Q97709493">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349344">349344</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105221659">Civet SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q105221659">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q92109633">Goose coronavirus CB17</a> (<a href="http://www.wikidata.org/entity/Q92109633">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

@@ -34921,10 +34921,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99400217">Targeting the SARS-CoV-2 main protease using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach</a> (<a href="http://www.wikidata.org/entity/Q99400217">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100525049">Association of acute kidney injury with the severity and mortality of SARS-CoV-2 infection: A meta-analysis</a> (<a href="http://www.wikidata.org/entity/Q100525049">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107730">10.1016/J.JMGM.2020.107730</a></td>
-    <td>32920239</td>
+    <td><a href="https://doi.org/10.1016/J.AJEM.2020.08.089">10.1016/J.AJEM.2020.08.089</a></td>
+    <td>33046323</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

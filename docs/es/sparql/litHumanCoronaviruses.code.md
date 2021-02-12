@@ -34900,13 +34900,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98897295">Leveraging mRNA Sequences and Nanoparticles to Deliver SARS-CoV-2 Antigens In Vivo</a> (<a href="http://www.wikidata.org/entity/Q98897295">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/ADMA.202004452">10.1002/ADMA.202004452</a></td>
-    <td>32875709</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
@@ -34942,6 +34935,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q99400217">Targeting the SARS-CoV-2 main protease using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach</a> (<a href="http://www.wikidata.org/entity/Q99400217">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107730">10.1016/J.JMGM.2020.107730</a></td>
+    <td>32920239</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q99201836">Kinetics of viral clearance and antibody production across age groups in SARS-CoV-2 infected children</a> (<a href="http://www.wikidata.org/entity/Q99201836">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JPEDS.2020.08.078">10.1016/J.JPEDS.2020.08.078</a></td>
@@ -34960,13 +34960,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/07391102.2020.1813200">10.1080/07391102.2020.1813200</a></td>
     <td>32873185</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98898005">Proposing a fungal metabolite-flaviolin as a potential inhibitor of 3CLpro of novel coronavirus SARS-CoV-2 identified using docking and molecular dynamics</a> (<a href="http://www.wikidata.org/entity/Q98898005">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/07391102.2020.1813202">10.1080/07391102.2020.1813202</a></td>
-    <td>32875950</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
@@ -35033,10 +35026,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98897587">Potential use of noncoding RNAs and innovative therapeutic strategies to target the 5'UTR of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q98897587">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100763885">SARS-CoV-2 Bound Human Serum Albumin and Systemic Septic Shock</a> (<a href="http://www.wikidata.org/entity/Q100763885">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2217/EPI-2020-0162">10.2217/EPI-2020-0162</a></td>
-    <td>32875809</td>
+    <td><a href="https://doi.org/10.3389/FCVM.2020.00153">10.3389/FCVM.2020.00153</a></td>
+    <td>33088822</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q100438042">Tyrosine Kinase Inhibitors Play an Antiviral Action in Patients Affected by Chronic Myeloid Leukemia: A Possible Model Supporting Their Use in the Fight Against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100438042">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FONC.2020.01428">10.3389/FONC.2020.01428</a></td>
+    <td>33014780</td>
   </tr>
 </table>
 ## Ejemplos de código

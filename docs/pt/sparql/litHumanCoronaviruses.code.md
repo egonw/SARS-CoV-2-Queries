@@ -34921,13 +34921,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99400217">Targeting the SARS-CoV-2 main protease using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach</a> (<a href="http://www.wikidata.org/entity/Q99400217">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107730">10.1016/J.JMGM.2020.107730</a></td>
-    <td>32920239</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q98902656">Phase 1-2 Trial of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine</a> (<a href="http://www.wikidata.org/entity/Q98902656">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1056/NEJMOA2026920">10.1056/NEJMOA2026920</a></td>
@@ -34984,6 +34977,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q98905938">Temporal profile and determinants of viral shedding and of viral clearance confirmation on nasopharyngeal swabs from SARS-CoV-2-positive subjects: a population-based prospective cohort study in Reggio Emilia, Italy</a> (<a href="http://www.wikidata.org/entity/Q98905938">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1136/BMJOPEN-2020-040380">10.1136/BMJOPEN-2020-040380</a></td>
+    <td>32878768</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q98905202">Elevated FiO2 increases SARS-CoV-2 co‑receptor expression in respiratory tract epithelium</a> (<a href="http://www.wikidata.org/entity/Q98905202">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1152/AJPLUNG.00345.2020">10.1152/AJPLUNG.00345.2020</a></td>
@@ -35012,6 +35012,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
+    <td><a href="https://scholia.toolforge.org/Q98906078">Denovo designing, retrosynthetic analysis, and combinatorial synthesis of a hybrid antiviral (VTAR-01) to inhibit the interaction of SARS-CoV2 spike glycoprotein with human angiotensin-converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q98906078">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1242/BIO.054056">10.1242/BIO.054056</a></td>
+    <td>32878881</td>
+  </tr>
+  <tr>
+    <td>2020-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q98902283">Enhanced contact investigations for nine early travel-related cases of SARS-CoV-2 in the United States</a> (<a href="http://www.wikidata.org/entity/Q98902283">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0238342">10.1371/JOURNAL.PONE.0238342</a></td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2217/EPI-2020-0162">10.2217/EPI-2020-0162</a></td>
     <td>32875809</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q100438042">Tyrosine Kinase Inhibitors Play an Antiviral Action in Patients Affected by Chronic Myeloid Leukemia: A Possible Model Supporting Their Use in the Fight Against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100438042">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FONC.2020.01428">10.3389/FONC.2020.01428</a></td>
-    <td>33014780</td>
   </tr>
 </table>
 ## Code examples

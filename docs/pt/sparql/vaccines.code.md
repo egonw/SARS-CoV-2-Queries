@@ -143,7 +143,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96841548">vacina baseada em adenovírus</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q98703813">Covaxin / BBV152</a> (<a href="http://www.wikidata.org/entity/Q98703813">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98703813">Covaxin</a> (<a href="http://www.wikidata.org/entity/Q98703813">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3560939">Vacina inativada</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>

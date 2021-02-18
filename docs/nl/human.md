@@ -175,7 +175,7 @@ Dit geeft de volgende aantallen artikelen:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q412310">Von Willebrandfactor</a> (<a href="http://www.wikidata.org/entity/Q412310">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q412310">von willebrandfactor</a> (<a href="http://www.wikidata.org/entity/Q412310">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

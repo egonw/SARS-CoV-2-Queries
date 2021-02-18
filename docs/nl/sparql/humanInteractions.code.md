@@ -151,7 +151,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   <tr>
     <td>2020-05-22</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q412310">Von Willebrandfactor</a> (<a href="http://www.wikidata.org/entity/Q412310">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q412310">von willebrandfactor</a> (<a href="http://www.wikidata.org/entity/Q412310">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q95647883">Involvement of ADAMTS13 and von Willebrand factor in thromboembolic events in patients infected with SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95647883">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/IJLH.13244">10.1111/IJLH.13244</a></td>
   </tr>

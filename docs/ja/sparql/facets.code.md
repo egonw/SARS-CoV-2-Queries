@@ -274,6 +274,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105116684">quarantine logbook</a> (<a href="http://www.wikidata.org/entity/Q105116684">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105546623">Q105546623</a> (<a href="http://www.wikidata.org/entity/Q105546623">edit</a>)</td>
+  </tr>
 </table>
 ## コード例
 ### curl

@@ -104,7 +104,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q89016387">Cronologia da pandemia de COVID-19 em abril de 2020</a> (<a href="http://www.wikidata.org/entity/Q89016387">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q89031984">cancelled music event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89031984">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89031984">cancelled music event due to the 2019–21 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89031984">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89033277">postponed sports event due to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89033277">edit</a>)</td>
@@ -273,6 +273,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105116684">quarantine logbook</a> (<a href="http://www.wikidata.org/entity/Q105116684">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105546623">Q105546623</a> (<a href="http://www.wikidata.org/entity/Q105546623">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

@@ -8944,6 +8944,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-11-30</td>
+    <td><a href="https://scholia.toolforge.org/Q103739338">Lessons from BCG for SARS-CoV-2 vaccine candidates</a> (<a href="http://www.wikidata.org/entity/Q103739338">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/INFDIS/JIAA637">10.1093/INFDIS/JIAA637</a></td>
+    <td>33535239</td>
+  </tr>
+  <tr>
+    <td>2020-11-30</td>
     <td><a href="https://scholia.toolforge.org/Q103766833">Key genetic elements, single and in clusters, underlying geographically dependent SARS-CoV-2 genetic adaptation and their impact on binding affinity for drugs and immune control</a> (<a href="http://www.wikidata.org/entity/Q103766833">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/JAC/DKAA444">10.1093/JAC/DKAA444</a></td>
@@ -15227,6 +15234,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1074/JBC.RA120.016284">10.1074/JBC.RA120.016284</a></td>
     <td>33154165</td>
+  </tr>
+  <tr>
+    <td>2020-11-05</td>
+    <td><a href="https://scholia.toolforge.org/Q101386783">Design of a highly thermotolerant, immunogenic SARS-CoV-2 spike fragment</a> (<a href="http://www.wikidata.org/entity/Q101386783">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1074/JBC.RA120.016284">10.1074/JBC.RA120.016284</a></td>
+    <td>33429215</td>
   </tr>
   <tr>
     <td>2020-11-05</td>
@@ -29738,6 +29752,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1213/ANE.0000000000005256">10.1213/ANE.0000000000005256</a></td>
     <td>33002928</td>
+  </tr>
+  <tr>
+    <td>2020-09-21</td>
+    <td><a href="https://scholia.toolforge.org/Q100408865">Adaptation of an obstetric anesthesia service for the SARS-CoV-2 pandemic: description of checklists, workflows, and development tools</a> (<a href="http://www.wikidata.org/entity/Q100408865">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1213/ANE.0000000000005256">10.1213/ANE.0000000000005256</a></td>
+    <td>33315601</td>
   </tr>
   <tr>
     <td>2020-09-21</td>

@@ -4695,13 +4695,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-12-12</td>
-    <td><a href="https://scholia.toolforge.org/Q104287951">Analytical evaluation and critical appraisal of early commercial SARS-CoV-2 immunoassays for routine use in a diagnostic laboratory</a> (<a href="http://www.wikidata.org/entity/Q104287951">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>33308026</td>
-  </tr>
-  <tr>
-    <td>2020-12-12</td>
     <td><a href="https://scholia.toolforge.org/Q104518071">Intradermal delivery of receptor-binding domain of SARS-CoV-2 spike protein with dissolvable microneedles to induce humoral and cellular responses in mice</a> (<a href="http://www.wikidata.org/entity/Q104518071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/BTM2.10202">10.1002/BTM2.10202</a></td>
@@ -4741,6 +4734,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.YGENO.2020.12.021">10.1016/J.YGENO.2020.12.021</a></td>
     <td>33321203</td>
+  </tr>
+  <tr>
+    <td>2020-12-12</td>
+    <td><a href="https://scholia.toolforge.org/Q104287951">Analytical evaluation and critical appraisal of early commercial SARS-CoV-2 immunoassays for routine use in a diagnostic laboratory</a> (<a href="http://www.wikidata.org/entity/Q104287951">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/09674845.2020.1864108">10.1080/09674845.2020.1864108</a></td>
+    <td>33308026</td>
   </tr>
   <tr>
     <td>2020-12-12</td>
@@ -32415,6 +32415,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-11</td>
+    <td><a href="https://scholia.toolforge.org/Q99411087">Are Proton Pump Inhibitors Contributing to SARS-COV-2 Infection?</a> (<a href="http://www.wikidata.org/entity/Q99411087">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.14309/AJG.0000000000000933">10.14309/AJG.0000000000000933</a></td>
+    <td>33156116</td>
+  </tr>
+  <tr>
+    <td>2020-09-11</td>
     <td><a href="https://scholia.toolforge.org/Q99352636">Structures of the SARS-CoV-2 nucleocapsid and their perspectives for drug design</a> (<a href="http://www.wikidata.org/entity/Q99352636">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.15252/EMBJ.2020105938">10.15252/EMBJ.2020105938</a></td>
@@ -34683,6 +34690,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-03</td>
+    <td><a href="https://scholia.toolforge.org/Q98944866">COVID-19-activated SREBP2 disturbs cholesterol biosynthesis and leads to cytokine storm</a> (<a href="http://www.wikidata.org/entity/Q98944866">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41392-020-00292-7">10.1038/S41392-020-00292-7</a></td>
+    <td>32883951</td>
+  </tr>
+  <tr>
+    <td>2020-09-03</td>
     <td><a href="https://scholia.toolforge.org/Q98944864">Profiling and characterization of SARS-CoV-2 mutants' infectivity and antigenicity</a> (<a href="http://www.wikidata.org/entity/Q98944864">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41392-020-00302-8">10.1038/S41392-020-00302-8</a></td>
@@ -35002,13 +35016,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/CID/CIAA1315">10.1093/CID/CIAA1315</a></td>
     <td>32875309</td>
-  </tr>
-  <tr>
-    <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98905938">Temporal profile and determinants of viral shedding and of viral clearance confirmation on nasopharyngeal swabs from SARS-CoV-2-positive subjects: a population-based prospective cohort study in Reggio Emilia, Italy</a> (<a href="http://www.wikidata.org/entity/Q98905938">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/BMJOPEN-2020-040380">10.1136/BMJOPEN-2020-040380</a></td>
-    <td>32878768</td>
   </tr>
   <tr>
     <td>2020-09-02</td>

@@ -30,6 +30,11 @@ Esto le da estos 10 documentos:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2021-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q105406308">The fate of SARS-COV-2 in WWTPS points out the sludge line as a suitable spot for detection of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q105406308">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.SCITOTENV.2021.145268">10.1016/J.SCITOTENV.2021.145268</a></td>
+  </tr>
+  <tr>
     <td>2021-03-01</td>
     <td><a href="https://scholia.toolforge.org/Q102204033">Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo</a> (<a href="http://www.wikidata.org/entity/Q102204033">edit</a>)</td>
     <td><a href="https://doi.org/10.1084/JEM.20201993">10.1084/JEM.20201993</a></td>
@@ -50,24 +55,19 @@ Esto le da estos 10 documentos:
     <td></td>
   </tr>
   <tr>
-    <td>2021-02-11</td>
-    <td><a href="https://scholia.toolforge.org/Q105550767">The Spike D614G mutation increases SARS-CoV-2 infection of multiple human cell types</a> (<a href="http://www.wikidata.org/entity/Q105550767">edit</a>)</td>
-    <td><a href="https://doi.org/10.7554/ELIFE.65365">10.7554/ELIFE.65365</a></td>
+    <td>2021-02-18</td>
+    <td><a href="https://scholia.toolforge.org/Q105622871">Circulating SARS-CoV-2 variants escape neutralization by vaccine-induced humoral immunity</a> (<a href="http://www.wikidata.org/entity/Q105622871">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2021.02.14.21251704">10.1101/2021.02.14.21251704</a></td>
   </tr>
   <tr>
-    <td>2021-02-01</td>
-    <td><a href="https://scholia.toolforge.org/Q104584483">Targeting host cell proteases as a potential treatment strategy to limit the spread of SARS-CoV-2 in the respiratory tract</a> (<a href="http://www.wikidata.org/entity/Q104584483">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/PRP2.698">10.1002/PRP2.698</a></td>
+    <td>2021-02-17</td>
+    <td><a href="https://scholia.toolforge.org/Q105605672">Evidence and magnitude of the effects of meteorological changes on SARS-CoV-2 transmission</a> (<a href="http://www.wikidata.org/entity/Q105605672">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0246167">10.1371/JOURNAL.PONE.0246167</a></td>
   </tr>
   <tr>
-    <td>2021-01-26</td>
-    <td><a href="https://scholia.toolforge.org/Q105085465">Data and Policy to Guide Opening Schools Safely to Limit the Spread of SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q105085465">edit</a>)</td>
-    <td><a href="https://doi.org/10.1001/JAMA.2021.0374">10.1001/JAMA.2021.0374</a></td>
-  </tr>
-  <tr>
-    <td>2021-01-26</td>
-    <td><a href="https://scholia.toolforge.org/Q105098699">Escape of SARS-CoV-2 501Y.V2 variants from neutralization by convalescent plasma</a> (<a href="http://www.wikidata.org/entity/Q105098699">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2021.01.26.21250224">10.1101/2021.01.26.21250224</a></td>
+    <td>2021-02-17</td>
+    <td><a href="https://scholia.toolforge.org/Q105622872">Intranasal fusion inhibitory lipopeptide prevents direct-contact SARS-CoV-2 transmission in ferrets</a> (<a href="http://www.wikidata.org/entity/Q105622872">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABF4896">10.1126/SCIENCE.ABF4896</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -318,7 +318,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18417</td>
+    <td>18437</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

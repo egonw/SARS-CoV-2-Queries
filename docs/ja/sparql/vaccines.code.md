@@ -111,7 +111,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q97153933">protein subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q97153933">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154239">Zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154239">zorecimeran</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q578537">DNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q98655215">Ad26.COV2.S</a> (<a href="http://www.wikidata.org/entity/Q98655215">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98655215">ジョンソン・エンド・ジョンソンCOVID-19ワクチン</a> (<a href="http://www.wikidata.org/entity/Q98655215">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96841548">アデノウイルスに基づくワクチン</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
   </tr>
   <tr>

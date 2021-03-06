@@ -35054,17 +35054,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99400217">Targeting the SARS-CoV-2 main protease using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach</a> (<a href="http://www.wikidata.org/entity/Q99400217">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98888443">Repurposing simeprevir, calpain inhibitor IV and a cathepsin F inhibitor against SARS-CoV-2 and insights into their interactions with Mpro</a> (<a href="http://www.wikidata.org/entity/Q98888443">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107730">10.1016/J.JMGM.2020.107730</a></td>
-    <td>32920239</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1813200">10.1080/07391102.2020.1813200</a></td>
+    <td>32873185</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99250709">Determinants of SARS-CoV-2 receptor gene expression in upper and lower airways</a> (<a href="http://www.wikidata.org/entity/Q99250709">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98888405">Potential inhibitors of SARS-cov-2 RNA dependent RNA polymerase protein: molecular docking, molecular dynamics simulations and MM-PBSA analyses</a> (<a href="http://www.wikidata.org/entity/Q98888405">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.08.31.20169946">10.1101/2020.08.31.20169946</a></td>
-    <td>32909007</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1813628">10.1080/07391102.2020.1813628</a></td>
+    <td>32873176</td>
   </tr>
 </table>
 ## Broncode voorbeelden

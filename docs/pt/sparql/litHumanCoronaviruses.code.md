@@ -35054,17 +35054,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99250627">An intestinal cell type in zebrafish is the nexus for the SARS-CoV-2 receptor and the Renin-Angiotensin-Aldosterone System that contributes to COVID-19 comorbidities</a> (<a href="http://www.wikidata.org/entity/Q99250627">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.01.278366">10.1101/2020.09.01.278366</a></td>
-    <td>32908984</td>
+    <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
+    <td>32890549</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99250604">Spike mutation D614G alters SARS-CoV-2 fitness and neutralization susceptibility</a> (<a href="http://www.wikidata.org/entity/Q99250604">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99200662">Evolutionary dynamics of the SARS-CoV-2 ORF8 accessory gene</a> (<a href="http://www.wikidata.org/entity/Q99200662">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.01.278689">10.1101/2020.09.01.278689</a></td>
-    <td>32908978</td>
+    <td><a href="https://doi.org/10.1016/J.MEEGID.2020.104525">10.1016/J.MEEGID.2020.104525</a></td>
+    <td>32890763</td>
   </tr>
 </table>
 ## Code examples

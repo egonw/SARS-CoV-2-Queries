@@ -35054,17 +35054,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99400217">Targeting the SARS-CoV-2 main protease using FDA-approved Isavuconazonium, a P2-P3 α-ketoamide derivative and Pentagastrin: An in-silico drug discovery approach</a> (<a href="http://www.wikidata.org/entity/Q99400217">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
-    <td>32890549</td>
+    <td><a href="https://doi.org/10.1016/J.JMGM.2020.107730">10.1016/J.JMGM.2020.107730</a></td>
+    <td>32920239</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99200662">Evolutionary dynamics of the SARS-CoV-2 ORF8 accessory gene</a> (<a href="http://www.wikidata.org/entity/Q99200662">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99250709">Determinants of SARS-CoV-2 receptor gene expression in upper and lower airways</a> (<a href="http://www.wikidata.org/entity/Q99250709">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.MEEGID.2020.104525">10.1016/J.MEEGID.2020.104525</a></td>
-    <td>32890763</td>
+    <td><a href="https://doi.org/10.1101/2020.08.31.20169946">10.1101/2020.08.31.20169946</a></td>
+    <td>32909007</td>
   </tr>
 </table>
 ## Ejemplos de código

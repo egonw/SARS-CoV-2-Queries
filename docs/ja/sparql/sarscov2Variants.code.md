@@ -21,8 +21,8 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td><b>genome</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q17">日本</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">コロナウイルス2020/12/01変異種</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q145">イギリス</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -31,8 +31,8 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">VUI – 202012/01</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q145">イギリス</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q17">日本</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

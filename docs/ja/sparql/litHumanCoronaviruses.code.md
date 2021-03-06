@@ -35054,17 +35054,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98906984">Publisher Correction: SARS-CoV-2 infection of human ACE2-transgenic mice causes severe lung inflammation and impaired function</a> (<a href="http://www.wikidata.org/entity/Q98906984">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41590-020-0794-2">10.1038/S41590-020-0794-2</a></td>
-    <td>32879513</td>
+    <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
+    <td>32890549</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q98906913">Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report</a> (<a href="http://www.wikidata.org/entity/Q98906913">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99200662">Evolutionary dynamics of the SARS-CoV-2 ORF8 accessory gene</a> (<a href="http://www.wikidata.org/entity/Q99200662">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S42255-020-00281-8">10.1038/S42255-020-00281-8</a></td>
-    <td>32879473</td>
+    <td><a href="https://doi.org/10.1016/J.MEEGID.2020.104525">10.1016/J.MEEGID.2020.104525</a></td>
+    <td>32890763</td>
   </tr>
 </table>
 ## コード例

@@ -35054,17 +35054,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99200258">SARS-CoV-2 infection and COVID-19: The lived experience and perceptions of patients in isolation and care in an Australian healthcare setting</a> (<a href="http://www.wikidata.org/entity/Q99200258">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98888443">Repurposing simeprevir, calpain inhibitor IV and a cathepsin F inhibitor against SARS-CoV-2 and insights into their interactions with Mpro</a> (<a href="http://www.wikidata.org/entity/Q98888443">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.AJIC.2020.08.032">10.1016/J.AJIC.2020.08.032</a></td>
-    <td>32890549</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1813200">10.1080/07391102.2020.1813200</a></td>
+    <td>32873185</td>
   </tr>
   <tr>
     <td>2020-09-02</td>
-    <td><a href="https://scholia.toolforge.org/Q99200662">Evolutionary dynamics of the SARS-CoV-2 ORF8 accessory gene</a> (<a href="http://www.wikidata.org/entity/Q99200662">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98888405">Potential inhibitors of SARS-cov-2 RNA dependent RNA polymerase protein: molecular docking, molecular dynamics simulations and MM-PBSA analyses</a> (<a href="http://www.wikidata.org/entity/Q98888405">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.MEEGID.2020.104525">10.1016/J.MEEGID.2020.104525</a></td>
-    <td>32890763</td>
+    <td><a href="https://doi.org/10.1080/07391102.2020.1813628">10.1080/07391102.2020.1813628</a></td>
+    <td>32873176</td>
   </tr>
 </table>
 ## Code examples

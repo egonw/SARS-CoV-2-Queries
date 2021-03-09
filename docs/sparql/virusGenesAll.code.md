@@ -44,6 +44,11 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175298">4b protein</a> (<a href="http://www.wikidata.org/entity/Q88175298">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/gene/918760">918760</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88175320">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88175320">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/918761">918761</a></td>
   </tr>

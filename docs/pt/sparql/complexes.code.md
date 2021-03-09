@@ -43,7 +43,7 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5688">CPX-5688</a></td>
-    <td><a href="https://scholia.toolforge.org/Q90012269">SARS-CoV-2 NSP10-NSP16 2'-O-methyltransferase complex</a> (<a href="http://www.wikidata.org/entity/Q90012269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90012269">complexo 2'-O-metiltransferase NSP10-NSP16 de SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q90012269">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5689">CPX-5689</a></td>
@@ -59,7 +59,7 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5692">CPX-5692</a></td>
-    <td><a href="https://scholia.toolforge.org/Q90012273">SARS-CoV-2 3'-5' exoribonuclease proof-reading complex</a> (<a href="http://www.wikidata.org/entity/Q90012273">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90012273">complexo NSP10-NSP14 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90012273">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5742">CPX-5742</a></td>
@@ -67,7 +67,7 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-6098">CPX-6098</a></td>
-    <td><a href="https://scholia.toolforge.org/Q104903075">SARS-CoV-2 3a complex</a> (<a href="http://www.wikidata.org/entity/Q104903075">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104903075">complexo 3a de SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104903075">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-6100">CPX-6100</a></td>

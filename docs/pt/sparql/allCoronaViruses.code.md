@@ -26,6 +26,14 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759618">BtKY72/Rhinolophus sp./Kenya/2007</a> (<a href="http://www.wikidata.org/entity/Q105759618">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759623">BtCoV/BM48-31/Rhi bla/Bulgaria/2008</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16000326">Bat SARS-like coronavirus WIV1</a> (<a href="http://www.wikidata.org/entity/Q16000326">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415852">1415852</a></td>
   </tr>

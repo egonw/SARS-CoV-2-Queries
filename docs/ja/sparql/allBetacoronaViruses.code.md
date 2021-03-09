@@ -42,6 +42,14 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759623">BtCoV/BM48-31/Rhi bla/Bulgaria/2008</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759618">BtKY72/Rhinolophus sp./Kenya/2007</a> (<a href="http://www.wikidata.org/entity/Q105759618">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q57773834">China Rattus coronavirus HKU24</a> (<a href="http://www.wikidata.org/entity/Q57773834">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501960">2501960</a></td>
   </tr>

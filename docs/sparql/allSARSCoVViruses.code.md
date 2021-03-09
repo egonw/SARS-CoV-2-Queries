@@ -61,6 +61,14 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://scholia.toolforge.org/Q105221659">Civet SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q105221659">edit</a>)</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759618">BtKY72/Rhinolophus sp./Kenya/2007</a> (<a href="http://www.wikidata.org/entity/Q105759618">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759623">BtCoV/BM48-31/Rhi bla/Bulgaria/2008</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 ## Code examples
 ### curl

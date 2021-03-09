@@ -15,6 +15,11 @@ the [Wikidata:WikiProject COVID-19](https://www.wikidata.org/wiki/Wikidata:WikiP
 of Wikicite, and the selflessness efforts by many people around the world
 [<a href="#citeref5">5</a>,<a href="#citeref6">6</a>,<a href="#citeref7">7</a>,<a href="#citeref8">8</a>].
 
+Knowledge graphs that specifically use data from Wikidata include the following:
+
+* [KG-COVID-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) (at least country coded) [<a href="#citeref8">8</a>]
+* [COVIWD](https://www.coviwd.org/) [<a href="#citeref9">9</a>]
+
 ## Adding missing topic annotation
 
 Because Wikidata is an open database, everyone can contribute, and one of the easiest
@@ -45,6 +50,7 @@ For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 4. <a name="citeref4"></a>Nielsen FÅ, Mietchen D, Willighagen E. Scholia, Scientometrics and Wikidata. In: The Semantic Web: ESWC 2017 Satellite Events [Internet]. 2017. p. 237–59. Available from: http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/7010/pdf/imm7010.pdf doi:[10.1007/978-3-319-70407-4_36](https://doi.org/10.1007/978-3-319-70407-4_36) ([Scholia](https://scholia.toolforge.org/doi/10.1007/978-3-319-70407-4_36))
 5. <a name="citeref5"></a>Turki H, Jemielniak D, Taieb MAH, Gayo JEL, Aouicha MB, Banat M, et al. Using logical constraints to validate information in collaborative knowledge graphs: a study of COVID-19 on Wikidata. Zenodo. 2020 Aug 30;  doi:[10.5281/ZENODO.4008359](https://doi.org/10.5281/ZENODO.4008359) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.4008359))
 6. <a name="citeref6"></a>Aouicha MB, Turki H, Taieb MAH, Shafee T, Lubiana T, Jemielniak D, et al. Representing COVID-19 information in collaborative knowledge graphs: a study of Wikidata. Zenodo. 2020 Sep 14;  doi:[10.5281/ZENODO.4033382](https://doi.org/10.5281/ZENODO.4033382) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.4033382))
-7. <a name="citeref7"></a>Waagmeester A, Willighagen E, Su AI, Kutmon M, Summer-Kutmon M, Gayo JEL, et al. A protocol for adding knowledge to Wikidata, a case report. bioRxiv.org : the preprint server for biology. 2020.  doi:[10.1101/2020.04.05.026336](https://doi.org/10.1101/2020.04.05.026336) ([Scholia](https://scholia.toolforge.org/doi/10.1101/2020.04.05.026336))
-8. <a name="citeref8"></a>Cappelletti L, Reese JT, Unni D, Callahan TJ, Cappelletti L, Ravanmehr V, et al. KG-COVID-19: a framework to produce customized knowledge graphs for COVID-19 response. Patterns. 2020 Nov 9;100155.  doi:[10.1016/J.PATTER.2020.100155](https://doi.org/10.1016/J.PATTER.2020.100155) ([Scholia](https://scholia.toolforge.org/doi/10.1016/J.PATTER.2020.100155))
+7. <a name="citeref7"></a>Waagmeester A, Willighagen E, Su AI, Summer-Kutmon M, Gayo JEL, Fernández-Álvarez D, et al. A protocol for adding knowledge to Wikidata, a case report. bioRxiv.org : the preprint server for biology. 2020.  doi:[10.1101/2020.04.05.026336](https://doi.org/10.1101/2020.04.05.026336) ([Scholia](https://scholia.toolforge.org/doi/10.1101/2020.04.05.026336))
+8. <a name="citeref8"></a>Reese JT, Unni D, Callahan TJ, Cappelletti L, Ravanmehr V, Carbon S, et al. KG-COVID-19: a framework to produce customized knowledge graphs for COVID-19 response. Patterns. 2020 Nov 9;100155.  doi:[10.1016/J.PATTER.2020.100155](https://doi.org/10.1016/J.PATTER.2020.100155) ([Scholia](https://scholia.toolforge.org/doi/10.1016/J.PATTER.2020.100155))
+9. <a name="citeref9"></a>Darari F. COVIWD: COVID-19 Wikidata Dashboard. Jurnal Ilmu Komputer dan Informasi. 2021 Mar 1;14(1):39–47.  doi:[10.21609/JIKI.V14I1.941](https://doi.org/10.21609/JIKI.V14I1.941) ([Scholia](https://scholia.toolforge.org/doi/10.21609/JIKI.V14I1.941))
 

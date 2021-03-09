@@ -11,6 +11,11 @@ the [Wikidata:WikiProject COVID-19](https://www.wikidata.org/wiki/Wikidata:WikiP
 of Wikicite, and the selflessness efforts by many people around the world
 [<cite>Q99196713</cite>,<cite>Q99440037</cite>,<cite>Q90557988</cite>,<cite>Q102043840</cite>].
 
+Knowledge graphs that specifically use data from Wikidata include the following:
+
+* [KG-COVID-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) (at least country coded) [<cite>Q102043840</cite>]
+* [COVIWD](https://www.coviwd.org/) [<cite>Q105833381</cite>]
+
 ## Adding missing topic annotation
 
 Because Wikidata is an open database, everyone can contribute, and one of the easiest

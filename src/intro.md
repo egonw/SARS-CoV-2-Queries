@@ -4,11 +4,12 @@
 The [Wikicite](http://wikicite.org/) project has picked up the challenge to enter all
 scholarly publications (cited in Wikipedia) [<cite>Q28843308</cite>]. Inspired by
 [Scholia](https://scholia.toolforge.org/) [<cite>Q41799194</cite>], this electronic books collects
-a number of queries useful to journal editors.
+a number of queries that we hope are useful to anyone who wants to learn more about
+the SARS-CoV-2 virus.
 
 As will be clear when reading this booklet, a lot of queries take advantage of work by other, of
 the [Wikidata:WikiProject COVID-19](https://www.wikidata.org/wiki/Wikidata:WikiProject_COVID-19),
-of Wikicite, and the selflessness efforts by many people around the world
+of Wikicite, of the authors [<cite>Q105037759</cite>], and the selflessness efforts by many people around the world
 [<cite>Q99196713</cite>,<cite>Q99440037</cite>,<cite>Q90557988</cite>,<cite>Q102043840</cite>].
 
 Knowledge graphs that specifically use data from Wikidata include the following:

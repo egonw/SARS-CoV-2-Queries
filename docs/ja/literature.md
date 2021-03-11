@@ -35,6 +35,16 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1016/J.SCITOTENV.2021.145268">10.1016/J.SCITOTENV.2021.145268</a></td>
   </tr>
   <tr>
+    <td>2021-03-08</td>
+    <td><a href="https://scholia.toolforge.org/Q105867799">Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q105867799">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-021-03398-2">10.1038/S41586-021-03398-2</a></td>
+  </tr>
+  <tr>
+    <td>2021-03-03</td>
+    <td><a href="https://scholia.toolforge.org/Q105758522">Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England</a> (<a href="http://www.wikidata.org/entity/Q105758522">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABG3055">10.1126/SCIENCE.ABG3055</a></td>
+  </tr>
+  <tr>
     <td>2021-03-01</td>
     <td><a href="https://scholia.toolforge.org/Q102204033">Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo</a> (<a href="http://www.wikidata.org/entity/Q102204033">edit</a>)</td>
     <td><a href="https://doi.org/10.1084/JEM.20201993">10.1084/JEM.20201993</a></td>
@@ -50,24 +60,14 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1590/S1677-5538.IBJU.2020.0479.1">10.1590/S1677-5538.IBJU.2020.0479.1</a></td>
   </tr>
   <tr>
-    <td>2021-02-24</td>
-    <td><a href="https://scholia.toolforge.org/Q104617392">The British variant of the new coronavirus-19 (Sars-Cov-2) should not create a vaccine problem</a> (<a href="http://www.wikidata.org/entity/Q104617392">edit</a>)</td>
-    <td></td>
+    <td>2021-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q105867805">Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBV152: interim results from a double-blind, randomised, multicentre, phase 2 trial, and 3-month follow-up of a double-blind, randomised phase 1 trial</a> (<a href="http://www.wikidata.org/entity/Q105867805">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S1473-3099(21)00070-0">10.1016/S1473-3099(21)00070-0</a></td>
   </tr>
   <tr>
-    <td>2021-02-18</td>
-    <td><a href="https://scholia.toolforge.org/Q105622871">Circulating SARS-CoV-2 variants escape neutralization by vaccine-induced humoral immunity</a> (<a href="http://www.wikidata.org/entity/Q105622871">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2021.02.14.21251704">10.1101/2021.02.14.21251704</a></td>
-  </tr>
-  <tr>
-    <td>2021-02-17</td>
-    <td><a href="https://scholia.toolforge.org/Q105605672">Evidence and magnitude of the effects of meteorological changes on SARS-CoV-2 transmission</a> (<a href="http://www.wikidata.org/entity/Q105605672">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0246167">10.1371/JOURNAL.PONE.0246167</a></td>
-  </tr>
-  <tr>
-    <td>2021-02-17</td>
-    <td><a href="https://scholia.toolforge.org/Q105622872">Intranasal fusion inhibitory lipopeptide prevents direct-contact SARS-CoV-2 transmission in ferrets</a> (<a href="http://www.wikidata.org/entity/Q105622872">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIENCE.ABF4896">10.1126/SCIENCE.ABF4896</a></td>
+    <td>2021-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q105867823">SARS-CoV-2 variant B.1.1.7 is susceptible to neutralizing antibodies elicited by ancestral Spike vaccines</a> (<a href="http://www.wikidata.org/entity/Q105867823">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CHOM.2021.03.002">10.1016/J.CHOM.2021.03.002</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -317,7 +317,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18438</td>
+    <td>18455</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -32,7 +32,7 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Linhagem P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q17">Japão</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40236">Manaus</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

@@ -149,11 +149,13 @@ We can list the vaccines given in Wikidata with this query:
 ```sparql
 SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   VALUES ?for { wd:Q84263196 }
-  ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
+  ?vaccine wdt:P279* wd:Q134808 ;
            wdt:P1924 ?for .
-  ?vaccine wdt:P31 ?type .
-  FILTER ( ?type != wd:Q28051899 ) FILTER ( ?type != wd:Q98734151 )
-  FILTER ( ?type != wd:Q87719492 ) FILTER ( ?type != wd:Q30612 )
+  ?vaccine wdt:P279 ?type .
+  FILTER ( ?type != wd:Q28051899 )
+  FILTER ( ?type != wd:Q98734151 )
+  FILTER ( ?type != wd:Q87719492 )
+  FILTER ( ?type != wd:Q30612 )
   FILTER ( ?type != wd:Q134808 )
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
 } ORDER BY ASC(?vaccine) ASC(?type)

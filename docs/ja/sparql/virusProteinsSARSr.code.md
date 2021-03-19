@@ -67,6 +67,24 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106020256">S1 Subunit of Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106020256">edit</a>)</td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2-PRO_0000449647">P0DTC2-PRO_0000449647</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106020384">S2 Subunit of Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106020384">edit</a>)</td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2-PRO_0000449648">P0DTC2-PRO_0000449648</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106025033">S2' Subunit of Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106025033">edit</a>)</td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2-PRO_0000449649">P0DTC2-PRO_0000449649</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
     <td></td>
     <td></td>

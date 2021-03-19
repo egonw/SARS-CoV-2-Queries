@@ -49,16 +49,6 @@ because they have been discussed in newspapers:
     <td><b>genome</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q145">United Kingdom</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q1475142">Northern Jutland</a> (<a href="http://www.wikidata.org/entity/Q1475142">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q17">Japan</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
     <td></td>
@@ -66,6 +56,16 @@ because they have been discussed in newspapers:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40236">Manaus</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q145">United Kingdom</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q1475142">Northern Jutland</a> (<a href="http://www.wikidata.org/entity/Q1475142">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -341,6 +341,27 @@ Which gives us these proteins:
     <td></td>
     <td></td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD3">P0DTD3</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106020256">S1 Subunit of Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106020256">edit</a>)</td>
+    <td>S1</td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2-PRO_0000449647">P0DTC2-PRO_0000449647</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106020384">S2 Subunit of Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106020384">edit</a>)</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2-PRO_0000449648">P0DTC2-PRO_0000449648</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106025033">S2' Subunit of Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106025033">edit</a>)</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2-PRO_0000449649">P0DTC2-PRO_0000449649</a></td>
     <td></td>
   </tr>
   <tr>

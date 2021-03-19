@@ -35,6 +35,11 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1016/J.SCITOTENV.2021.145268">10.1016/J.SCITOTENV.2021.145268</a></td>
   </tr>
   <tr>
+    <td>2021-03-17</td>
+    <td><a href="https://scholia.toolforge.org/Q106002824">Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study</a> (<a href="http://www.wikidata.org/entity/Q106002824">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S0140-6736(21)00575-4">10.1016/S0140-6736(21)00575-4</a></td>
+  </tr>
+  <tr>
     <td>2021-03-08</td>
     <td><a href="https://scholia.toolforge.org/Q105867799">Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q105867799">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-021-03398-2">10.1038/S41586-021-03398-2</a></td>
@@ -63,11 +68,6 @@ Isto te fornece 10 documentos:
     <td>2021-03-01</td>
     <td><a href="https://scholia.toolforge.org/Q105867805">Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBV152: interim results from a double-blind, randomised, multicentre, phase 2 trial, and 3-month follow-up of a double-blind, randomised phase 1 trial</a> (<a href="http://www.wikidata.org/entity/Q105867805">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/S1473-3099(21)00070-0">10.1016/S1473-3099(21)00070-0</a></td>
-  </tr>
-  <tr>
-    <td>2021-03-01</td>
-    <td><a href="https://scholia.toolforge.org/Q105867823">SARS-CoV-2 variant B.1.1.7 is susceptible to neutralizing antibodies elicited by ancestral Spike vaccines</a> (<a href="http://www.wikidata.org/entity/Q105867823">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CHOM.2021.03.002">10.1016/J.CHOM.2021.03.002</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -319,7 +319,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18455</td>
+    <td>18458</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

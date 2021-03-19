@@ -123,7 +123,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87775025">MRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>

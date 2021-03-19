@@ -22,6 +22,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759568">Rc-o319</a> (<a href="http://www.wikidata.org/entity/Q105759568">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104400171">501.V2</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
     <td></td>
   </tr>
@@ -154,6 +158,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/227859">227859</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2697049">2697049</a></td>
   </tr>
@@ -168,10 +176,6 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16993274">Tylonycteris bat coronavirus HKU4</a> (<a href="http://www.wikidata.org/entity/Q16993274">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694007">694007</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td></td>
   </tr>
 </table>
 ## Ejemplos de código

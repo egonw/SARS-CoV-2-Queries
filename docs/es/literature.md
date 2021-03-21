@@ -35,6 +35,11 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1016/J.SCITOTENV.2021.145268">10.1016/J.SCITOTENV.2021.145268</a></td>
   </tr>
   <tr>
+    <td>2021-03-18</td>
+    <td><a href="https://scholia.toolforge.org/Q106036092">Timing the SARS-CoV-2 index case in Hubei province</a> (<a href="http://www.wikidata.org/entity/Q106036092">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABF8003">10.1126/SCIENCE.ABF8003</a></td>
+  </tr>
+  <tr>
     <td>2021-03-17</td>
     <td><a href="https://scholia.toolforge.org/Q106002824">Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study</a> (<a href="http://www.wikidata.org/entity/Q106002824">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/S0140-6736(21)00575-4">10.1016/S0140-6736(21)00575-4</a></td>
@@ -63,11 +68,6 @@ Esto le da estos 10 documentos:
     <td>2021-03-01</td>
     <td><a href="https://scholia.toolforge.org/Q104104828">Urological tumors treatment in Brazil during the SARS-Cov-2 outbrake</a> (<a href="http://www.wikidata.org/entity/Q104104828">edit</a>)</td>
     <td><a href="https://doi.org/10.1590/S1677-5538.IBJU.2020.0479.1">10.1590/S1677-5538.IBJU.2020.0479.1</a></td>
-  </tr>
-  <tr>
-    <td>2021-03-01</td>
-    <td><a href="https://scholia.toolforge.org/Q105867805">Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBV152: interim results from a double-blind, randomised, multicentre, phase 2 trial, and 3-month follow-up of a double-blind, randomised phase 1 trial</a> (<a href="http://www.wikidata.org/entity/Q105867805">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/S1473-3099(21)00070-0">10.1016/S1473-3099(21)00070-0</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -318,7 +318,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18458</td>
+    <td>18459</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -317,18 +317,13 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18965335">Avian coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18965335">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18965336">Beluga whale coronavirus SW1</a> (<a href="http://www.wikidata.org/entity/Q18965336">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694015">694015</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
@@ -358,6 +353,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q105221659">Civet SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q105221659">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105686530">RacCS203</a> (<a href="http://www.wikidata.org/entity/Q105686530">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -434,16 +434,6 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
@@ -707,12 +697,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754734">Igacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754734">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q57754734">Igacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754734">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560916">Avian infectious bronchitis virus</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18965335">Avian coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18965335">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
   </tr>
   <tr>

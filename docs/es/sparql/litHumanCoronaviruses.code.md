@@ -46,6 +46,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td></td>
   </tr>
   <tr>
+    <td>2021-03-18</td>
+    <td><a href="https://scholia.toolforge.org/Q106036092">Timing the SARS-CoV-2 index case in Hubei province</a> (<a href="http://www.wikidata.org/entity/Q106036092">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABF8003">10.1126/SCIENCE.ABF8003</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2021-03-17</td>
     <td><a href="https://scholia.toolforge.org/Q106002824">Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study</a> (<a href="http://www.wikidata.org/entity/Q106002824">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -34827,13 +34834,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.MICINF.2020.08.006">10.1016/J.MICINF.2020.08.006</a></td>
     <td>32891874</td>
-  </tr>
-  <tr>
-    <td>2020-09-03</td>
-    <td><a href="https://scholia.toolforge.org/Q99710248">Turning the threat of SARS-CoV-2 crisis into an opportunity for a better lifestyle in adolescents with polycystic ovary syndrome</a> (<a href="http://www.wikidata.org/entity/Q99710248">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.PEDN.2020.09.001">10.1016/J.PEDN.2020.09.001</a></td>
-    <td>32972806</td>
   </tr>
   <tr>
     <td>2020-09-03</td>

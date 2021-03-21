@@ -26,6 +26,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105686530">RacCS203</a> (<a href="http://www.wikidata.org/entity/Q105686530">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q105759568">Rc-o319</a> (<a href="http://www.wikidata.org/entity/Q105759568">edit</a>)</td>
     <td></td>
   </tr>
@@ -130,6 +134,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1297662">1297662</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q18965335">伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q18965335">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q18965336">シロイルカコロナウイルスSW1</a> (<a href="http://www.wikidata.org/entity/Q18965336">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694015">694015</a></td>
   </tr>
@@ -176,14 +184,6 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/227859">227859</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/11120">11120</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q3560916">鶏伝染性気管支炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q3560916">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694014">694014</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>

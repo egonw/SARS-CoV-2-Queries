@@ -1531,6 +1531,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1101/2020.02.26.964882">10.1101/2020.02.26.964882</a></td>
   </tr>
   <tr>
+    <td>2020-02-21</td>
+    <td><a href="https://scholia.toolforge.org/Q89825166">COVID-2019: The role of the nsp2 and nsp3 in its pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q89825166">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.25719">10.1002/JMV.25719</a></td>
+  </tr>
+  <tr>
     <td>2020-02-20</td>
     <td><a href="https://scholia.toolforge.org/Q88974655">Structure, function and antigenicity of the SARS-CoV-2 spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88974655">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.02.19.956581">10.1101/2020.02.19.956581</a></td>

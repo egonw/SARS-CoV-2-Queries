@@ -34781,17 +34781,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-03</td>
-    <td><a href="https://scholia.toolforge.org/Q100511817">Machine learning techniques for sequence-based prediction of viral-host interactions between SARS-CoV-2 and human proteins</a> (<a href="http://www.wikidata.org/entity/Q100511817">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99561920">Human B Cell Clonal Expansion and Convergent Antibody Responses to SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99561920">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BJ.2020.08.003">10.1016/J.BJ.2020.08.003</a></td>
-    <td>33036956</td>
-  </tr>
-  <tr>
-    <td>2020-09-03</td>
-    <td><a href="https://scholia.toolforge.org/Q100517279">Recommendations for acting in elective and urgent thoracic surgery during SARS-CoV-2 pandemic. Spanish Society of Thoracic Surgery</a> (<a href="http://www.wikidata.org/entity/Q100517279">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CIRESP.2020.08.005">10.1016/J.CIRESP.2020.08.005</a></td>
-    <td>33040975</td>
+    <td><a href="https://doi.org/10.1016/J.CHOM.2020.09.002">10.1016/J.CHOM.2020.09.002</a></td>
+    <td>32941787</td>
   </tr>
   <tr>
     <td>2020-09-03</td>
@@ -34827,6 +34820,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.MICINF.2020.08.006">10.1016/J.MICINF.2020.08.006</a></td>
     <td>32891874</td>
+  </tr>
+  <tr>
+    <td>2020-09-03</td>
+    <td><a href="https://scholia.toolforge.org/Q99563947">Identification of phytochemicals as potential therapeutic agents that binds to Nsp15 protein target of coronavirus (SARS-CoV-2) that are capable of inhibiting virus replication</a> (<a href="http://www.wikidata.org/entity/Q99563947">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.PHYMED.2020.153317">10.1016/J.PHYMED.2020.153317</a></td>
+    <td>32943302</td>
   </tr>
   <tr>
     <td>2020-09-03</td>
@@ -34911,13 +34911,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/GLYCOB/CWAA085">10.1093/GLYCOB/CWAA085</a></td>
     <td>32886791</td>
-  </tr>
-  <tr>
-    <td>2020-09-03</td>
-    <td><a href="https://scholia.toolforge.org/Q99250702">Rapid 'mix and read' assay for scalable detection of SARS-CoV-2 antibodies in patient plasma</a> (<a href="http://www.wikidata.org/entity/Q99250702">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.01.20184101">10.1101/2020.09.01.20184101</a></td>
-    <td>32909004</td>
   </tr>
   <tr>
     <td>2020-09-03</td>
@@ -35044,6 +35037,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2196/20896">10.2196/20896</a></td>
     <td>32903196</td>
+  </tr>
+  <tr>
+    <td>2020-09-03</td>
+    <td><a href="https://scholia.toolforge.org/Q99546516">CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization</a> (<a href="http://www.wikidata.org/entity/Q99546516">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.2196/22299">10.2196/22299</a></td>
+    <td>32931441</td>
   </tr>
   <tr>
     <td>2020-09-03</td>

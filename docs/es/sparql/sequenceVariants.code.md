@@ -25,9 +25,24 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
     <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104529151">A23063T</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104529151">N501Y</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104529151">N501Y</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104529151">N501Y</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104529151">N501Y</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530561">C5388A</a> (<a href="http://www.wikidata.org/entity/Q104530561">edit</a>)</td>
@@ -43,6 +58,21 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
     <td><a href="https://scholia.toolforge.org/Q104530608">C23604A</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104530608">C23604A</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104530608">C23604A</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171203">Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104530608">C23604A</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171219">Lineage B.1.1.207</a> (<a href="http://www.wikidata.org/entity/Q106171219">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532779">HV 69-70 deletion</a> (<a href="http://www.wikidata.org/entity/Q104532779">edit</a>)</td>
@@ -63,6 +93,46 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171118">Lineage B.1.427</a> (<a href="http://www.wikidata.org/entity/Q106171118">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171144">Lineage B.1.429</a> (<a href="http://www.wikidata.org/entity/Q106171144">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171195">Lineage B.1.525</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104535071">D614G</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171203">Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628162">T6954C</a> (<a href="http://www.wikidata.org/entity/Q104628162">edit</a>)</td>

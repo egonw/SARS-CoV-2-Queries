@@ -35,6 +35,21 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1016/J.SCITOTENV.2021.145268">10.1016/J.SCITOTENV.2021.145268</a></td>
   </tr>
   <tr>
+    <td>2021-03-19</td>
+    <td><a href="https://scholia.toolforge.org/Q106105582">Favipiravir antiviral efficacy against SARS-CoV-2 in a hamster model</a> (<a href="http://www.wikidata.org/entity/Q106105582">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-21992-W">10.1038/S41467-021-21992-W</a></td>
+  </tr>
+  <tr>
+    <td>2021-03-19</td>
+    <td><a href="https://scholia.toolforge.org/Q106105586">Outcomes and Risk Factors Associated With SARS-CoV-2 Infection in a North American Registry of Patients With Multiple Sclerosis</a> (<a href="http://www.wikidata.org/entity/Q106105586">edit</a>)</td>
+    <td><a href="https://doi.org/10.1001/JAMANEUROL.2021.0688">10.1001/JAMANEUROL.2021.0688</a></td>
+  </tr>
+  <tr>
+    <td>2021-03-19</td>
+    <td><a href="https://scholia.toolforge.org/Q106105587">Exposure to SARS-CoV-2 generates T-cell memory in the absence of a detectable viral infection</a> (<a href="http://www.wikidata.org/entity/Q106105587">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-22036-Z">10.1038/S41467-021-22036-Z</a></td>
+  </tr>
+  <tr>
     <td>2021-03-18</td>
     <td><a href="https://scholia.toolforge.org/Q106036092">Timing the SARS-CoV-2 index case in Hubei province</a> (<a href="http://www.wikidata.org/entity/Q106036092">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABF8003">10.1126/SCIENCE.ABF8003</a></td>
@@ -45,29 +60,14 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1016/S0140-6736(21)00575-4">10.1016/S0140-6736(21)00575-4</a></td>
   </tr>
   <tr>
+    <td>2021-03-11</td>
+    <td><a href="https://scholia.toolforge.org/Q106105583">Safety and efficacy of Favipiravir in moderate to severe SARS-CoV-2 pneumonia</a> (<a href="http://www.wikidata.org/entity/Q106105583">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.INTIMP.2021.107522">10.1016/J.INTIMP.2021.107522</a></td>
+  </tr>
+  <tr>
     <td>2021-03-08</td>
     <td><a href="https://scholia.toolforge.org/Q105867799">Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q105867799">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-021-03398-2">10.1038/S41586-021-03398-2</a></td>
-  </tr>
-  <tr>
-    <td>2021-03-03</td>
-    <td><a href="https://scholia.toolforge.org/Q105758522">Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England</a> (<a href="http://www.wikidata.org/entity/Q105758522">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIENCE.ABG3055">10.1126/SCIENCE.ABG3055</a></td>
-  </tr>
-  <tr>
-    <td>2021-03-01</td>
-    <td><a href="https://scholia.toolforge.org/Q102204033">Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo</a> (<a href="http://www.wikidata.org/entity/Q102204033">edit</a>)</td>
-    <td><a href="https://doi.org/10.1084/JEM.20201993">10.1084/JEM.20201993</a></td>
-  </tr>
-  <tr>
-    <td>2021-03-01</td>
-    <td><a href="https://scholia.toolforge.org/Q102372236">Inflammasomes are activated in response to SARS-CoV-2 infection and are associated with COVID-19 severity in patients</a> (<a href="http://www.wikidata.org/entity/Q102372236">edit</a>)</td>
-    <td><a href="https://doi.org/10.1084/JEM.20201707">10.1084/JEM.20201707</a></td>
-  </tr>
-  <tr>
-    <td>2021-03-01</td>
-    <td><a href="https://scholia.toolforge.org/Q104104828">Urological tumors treatment in Brazil during the SARS-Cov-2 outbrake</a> (<a href="http://www.wikidata.org/entity/Q104104828">edit</a>)</td>
-    <td><a href="https://doi.org/10.1590/S1677-5538.IBJU.2020.0479.1">10.1590/S1677-5538.IBJU.2020.0479.1</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -317,7 +317,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18459</td>
+    <td>18471</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

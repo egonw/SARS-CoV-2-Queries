@@ -338,12 +338,16 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/349342">349342</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q88169973">SARS coronavirus B024</a> (<a href="http://www.wikidata.org/entity/Q88169973">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/305407">305407</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q88383088">Human coronavirus HKU1 (isolate N1)</a> (<a href="http://www.wikidata.org/entity/Q88383088">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89160148">Rabbit Coronavirus HKU14</a> (<a href="http://www.wikidata.org/entity/Q89160148">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1160968">1160968</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91513573">Erinaceus coronavirus</a> (<a href="http://www.wikidata.org/entity/Q91513573">edit</a>)</td>

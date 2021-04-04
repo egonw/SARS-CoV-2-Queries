@@ -185,7 +185,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q94981621">Impact of the COVID-19 pandemic on healthcare workers</a> (<a href="http://www.wikidata.org/entity/Q94981621">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q94981718">Impact of the COVID-19 pandemic on other health issues</a> (<a href="http://www.wikidata.org/entity/Q94981718">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q94981718">Impacto de la pandemia de COVID-19 en otros problemas de salud</a> (<a href="http://www.wikidata.org/entity/Q94981718">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q95982336">Global Pride</a> (<a href="http://www.wikidata.org/entity/Q95982336">edit</a>)</td>

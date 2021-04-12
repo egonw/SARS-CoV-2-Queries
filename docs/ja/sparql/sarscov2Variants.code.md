@@ -56,6 +56,16 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104376647">コロナウイルス2020/12/01変異種</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q145">イギリス</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q1475142">Northern Jutland</a> (<a href="http://www.wikidata.org/entity/Q1475142">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40236">マナウス</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
     <td></td>
@@ -66,23 +76,13 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q1475142">Northern Jutland</a> (<a href="http://www.wikidata.org/entity/Q1475142">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106332190">Breton coronavirus variant</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q12130">ブルターニュ地域圏</a> (<a href="http://www.wikidata.org/entity/Q12130">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21">イングランド</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">コロナウイルス2020/12/01変異種</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q145">イギリス</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106332190">Breton coronavirus variant</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q12130">ブルターニュ地域圏</a> (<a href="http://www.wikidata.org/entity/Q12130">edit</a>)</td>
     <td></td>
   </tr>
 </table>

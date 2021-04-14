@@ -137,7 +137,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q90290885">COVID-19感染症流行の間に死亡した医療従事者一覧</a> (<a href="http://www.wikidata.org/entity/Q90290885">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90416196">face masks during the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q90416196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90416196">2019年コロナウイルス感染症の流行におけるマスク</a> (<a href="http://www.wikidata.org/entity/Q90416196">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90456853">Impact of the 2019–20 coronavirus pandemic on the military</a> (<a href="http://www.wikidata.org/entity/Q90456853">edit</a>)</td>
@@ -146,7 +146,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q90630881">impact of the 2019–20 coronavirus pandemic on public transport</a> (<a href="http://www.wikidata.org/entity/Q90630881">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90840989">impact of the COVID-19 pandemic on tourism</a> (<a href="http://www.wikidata.org/entity/Q90840989">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90840989">新型コロナウイルスが観光に与えた影響</a> (<a href="http://www.wikidata.org/entity/Q90840989">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91104866">social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
@@ -281,7 +281,25 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q105116684">quarantine logbook</a> (<a href="http://www.wikidata.org/entity/Q105116684">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105186359">timeline of the COVID-19 pandemic in February 2021</a> (<a href="http://www.wikidata.org/entity/Q105186359">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105474669">Responses to the COVID-19 pandemic in February 2021</a> (<a href="http://www.wikidata.org/entity/Q105474669">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q105546623">Q105546623</a> (<a href="http://www.wikidata.org/entity/Q105546623">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105724046">timeline of the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105724046">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105730136">Responses to the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105730136">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106347456">Responses to the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106347456">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106484890">timeline of the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106484890">edit</a>)</td>
   </tr>
 </table>
 ## コード例

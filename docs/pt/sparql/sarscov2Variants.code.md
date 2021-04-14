@@ -51,13 +51,18 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21">Inglaterra</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Linhagem P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40236">Manaus</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q21">Inglaterra</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q145">Reino Unido</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -68,11 +73,6 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Linhagem P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q17">Japão</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q145">Reino Unido</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

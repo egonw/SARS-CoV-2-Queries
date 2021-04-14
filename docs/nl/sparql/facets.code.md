@@ -281,7 +281,25 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q105116684">quarantine logbook</a> (<a href="http://www.wikidata.org/entity/Q105116684">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105186359">timeline of the COVID-19 pandemic in February 2021</a> (<a href="http://www.wikidata.org/entity/Q105186359">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105474669">Responses to the COVID-19 pandemic in February 2021</a> (<a href="http://www.wikidata.org/entity/Q105474669">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q105546623">Q105546623</a> (<a href="http://www.wikidata.org/entity/Q105546623">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105724046">timeline of the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105724046">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105730136">Responses to the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105730136">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106347456">Responses to the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106347456">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106484890">timeline of the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106484890">edit</a>)</td>
   </tr>
 </table>
 ## Broncode voorbeelden

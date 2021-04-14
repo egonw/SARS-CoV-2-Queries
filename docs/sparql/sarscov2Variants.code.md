@@ -21,6 +21,11 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td><b>genome</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q928">Philippines</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106171195">Lineage B.1.525</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
     <td></td>
     <td></td>
@@ -78,11 +83,6 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171219">Lineage B.1.1.207</a> (<a href="http://www.wikidata.org/entity/Q106171219">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q1033">Nigeria</a> (<a href="http://www.wikidata.org/entity/Q1033">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q928">Philippines</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
     <td></td>
   </tr>
 </table>

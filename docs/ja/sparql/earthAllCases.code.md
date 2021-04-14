@@ -966,6 +966,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2021-03-02</td>
     <td>113472187</td>
   </tr>
+  <tr>
+    <td>2021-04-06</td>
+    <td>130459184</td>
+  </tr>
 </table>
 ## コード例
 ### curl

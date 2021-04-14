@@ -66,13 +66,8 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">P.1系統</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40236">マナウス</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q17">日本</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -81,7 +76,12 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">P.1系統</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q17">日本</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 変異株</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21">イングランド</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
     <td></td>
   </tr>

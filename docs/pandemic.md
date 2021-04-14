@@ -22,7 +22,7 @@ Which gives us:
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>113472187</td>
+    <td>130459184</td>
   </tr>
 </table>
 

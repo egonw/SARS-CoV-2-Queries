@@ -166,6 +166,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-03-22</td>
+    <td><a href="https://scholia.toolforge.org/Q106553362">Serial co-expression analysis of host factors from SARS-CoV viruses highly converges with former high-throughput screenings and proposes key regulators</a> (<a href="http://www.wikidata.org/entity/Q106553362">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/BIB/BBAA419">10.1093/BIB/BBAA419</a></td>
+    <td>33458747</td>
+  </tr>
+  <tr>
+    <td>2021-03-22</td>
     <td><a href="https://scholia.toolforge.org/Q106460767">Why Does SARS-CoV-2 Infection Induce Autoantibody Production?</a> (<a href="http://www.wikidata.org/entity/Q106460767">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/PATHOGENS10030380">10.3390/PATHOGENS10030380</a></td>
@@ -541,6 +548,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2021.01.004">10.1016/J.CELL.2021.01.004</a></td>
     <td>33503446</td>
+  </tr>
+  <tr>
+    <td>2021-02-04</td>
+    <td><a href="https://scholia.toolforge.org/Q106555034">Chemokine Regulation During Epidemic Coronavirus Infection</a> (<a href="http://www.wikidata.org/entity/Q106555034">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FPHAR.2020.600369">10.3389/FPHAR.2020.600369</a></td>
+    <td>33613280</td>
   </tr>
   <tr>
     <td>2021-02-03</td>
@@ -34935,24 +34949,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-04</td>
-    <td><a href="https://scholia.toolforge.org/Q98952409">The Epistemology of a Positive SARS-CoV-2 Test</a> (<a href="http://www.wikidata.org/entity/Q98952409">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S10441-020-09393-W">10.1007/S10441-020-09393-W</a></td>
-    <td>32888175</td>
-  </tr>
-  <tr>
-    <td>2020-09-04</td>
-    <td><a href="https://scholia.toolforge.org/Q98952313">Outpatient management or hospitalization of patients with proven or suspected SARS-CoV-2 infection: the HOME-CoV rule</a> (<a href="http://www.wikidata.org/entity/Q98952313">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S11739-020-02483-0">10.1007/S11739-020-02483-0</a></td>
-    <td>32888112</td>
-  </tr>
-  <tr>
-    <td>2020-09-04</td>
     <td><a href="https://scholia.toolforge.org/Q98949702">Strategic Anti-SARS-CoV-2 Serology Testing in a Low Prevalence Setting: The COVID-19 Contact (CoCo) Study in Healthcare Professionals</a> (<a href="http://www.wikidata.org/entity/Q98949702">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S40121-020-00334-1">10.1007/S40121-020-00334-1</a></td>
     <td>32886335</td>
+  </tr>
+  <tr>
+    <td>2020-09-04</td>
+    <td><a href="https://scholia.toolforge.org/Q99726613">Lung Ultrasound Before and After SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99726613">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.ARBRES.2020.07.040">10.1016/J.ARBRES.2020.07.040</a></td>
+    <td>32978009</td>
   </tr>
   <tr>
     <td>2020-09-04</td>
@@ -35016,13 +35023,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S40001-020-00439-W">10.1186/S40001-020-00439-W</a></td>
     <td>32887660</td>
-  </tr>
-  <tr>
-    <td>2020-09-04</td>
-    <td><a href="https://scholia.toolforge.org/Q98958870">SARS-CoV-2 infection, oxidative stress and male reproductive hormones: can testicular-adrenal crosstalk be ruled-out?</a> (<a href="http://www.wikidata.org/entity/Q98958870">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1515/JBCPP-2020-0205">10.1515/JBCPP-2020-0205</a></td>
-    <td>32889794</td>
   </tr>
   <tr>
     <td>2020-09-04</td>

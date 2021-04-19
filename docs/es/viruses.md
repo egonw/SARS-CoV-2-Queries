@@ -94,6 +94,10 @@ Esto nos da:
     <td><a href="https://scholia.toolforge.org/Q105759623">BM48-31</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106527526">SARS-CoV-2 20C clade</a> (<a href="http://www.wikidata.org/entity/Q106527526">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 
 Si comparamos esta lista con la de la Sección [2.2](#sec:sevenhuman), no es que estas dos listas no se superpongan completamente.
@@ -352,6 +356,10 @@ Esto nos da:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105759623">BM48-31</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106527526">SARS-CoV-2 20C clade</a> (<a href="http://www.wikidata.org/entity/Q106527526">edit</a>)</td>
     <td></td>
   </tr>
 </table>

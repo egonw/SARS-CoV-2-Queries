@@ -73,7 +73,7 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q485831">linfocitopenia</a> (<a href="http://www.wikidata.org/entity/Q485831">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q599982">enanthem</a> (<a href="http://www.wikidata.org/entity/Q599982">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q599982">enantema</a> (<a href="http://www.wikidata.org/entity/Q599982">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q606216">ageusia</a> (<a href="http://www.wikidata.org/entity/Q606216">edit</a>)</td>

@@ -38,7 +38,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q85173855">2019–20 coronavirus outbreak data tables</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q86901049">Testagem de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q86901049">Teste de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87479384">evento cancelado devido à pandemia de coronavírus de 2019-21</a> (<a href="http://www.wikidata.org/entity/Q87479384">edit</a>)</td>

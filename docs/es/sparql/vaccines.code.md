@@ -24,7 +24,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q105967696">vaccine type</a> (<a href="http://www.wikidata.org/entity/Q105967696">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105967696">tipo de vacuna</a> (<a href="http://www.wikidata.org/entity/Q105967696">edit</a>)</td>
   </tr>
 </table>
 ## Ejemplos de código

@@ -36,6 +36,11 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104819269">P.1系統</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40236">マナウス</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106171203">Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q145">イギリス</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
     <td></td>
@@ -46,8 +51,8 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104819269">P.1系統</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q40236">マナウス</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106592103">Lineage B.1.526</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q60">ニューヨーク</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

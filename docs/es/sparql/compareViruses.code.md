@@ -2762,6 +2762,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q51405063">Osteonecrosis in patients after severe acute respiratory syndrome (SARS): possible role of anticardiolipin antibodies.</a> (<a href="http://www.wikidata.org/entity/Q51405063">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30401566">PIKA provides an adjuvant effect to induce strong mucosal and systemic humoral immunity against SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q30401566">edit</a>)</td>
   </tr>
   <tr>

@@ -191,7 +191,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q95982336">Global Pride</a> (<a href="http://www.wikidata.org/entity/Q95982336">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96048874">Timeline of the COVID-19 pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96048874">cronología de la pandemia de COVID-19 en junio 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96058732">Impacto de la pandemia de enfermedad por coronavirus de 2019-2020 en la alimentación</a> (<a href="http://www.wikidata.org/entity/Q96058732">edit</a>)</td>
@@ -206,7 +206,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96419281">source tracing for SARS-Cov-2</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96728989">Timeline of the COVID-19 pandemic in July 2020</a> (<a href="http://www.wikidata.org/entity/Q96728989">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96728989">cronología de la pandemia de COVID-19 en julio 2020</a> (<a href="http://www.wikidata.org/entity/Q96728989">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96731773">Responses to the COVID-19 pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96731773">edit</a>)</td>
@@ -227,7 +227,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q97861418">Responses to the COVID-19 pandemic in August 2020</a> (<a href="http://www.wikidata.org/entity/Q97861418">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97965631">Timeline of the COVID-19 pandemic in August 2020</a> (<a href="http://www.wikidata.org/entity/Q97965631">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97965631">cronología de la pandemia de COVID-19 en agosto 2020</a> (<a href="http://www.wikidata.org/entity/Q97965631">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98404895">Impact of the COVID-19 pandemic on the Catholic Church</a> (<a href="http://www.wikidata.org/entity/Q98404895">edit</a>)</td>

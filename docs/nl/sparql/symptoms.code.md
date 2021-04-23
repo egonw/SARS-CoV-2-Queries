@@ -22,7 +22,7 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q5445">bloedarmoede</a> (<a href="http://www.wikidata.org/entity/Q5445">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q9690">vermoeidheid</a> (<a href="http://www.wikidata.org/entity/Q9690">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q9690">fatigue</a> (<a href="http://www.wikidata.org/entity/Q9690">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q35805">hoest</a> (<a href="http://www.wikidata.org/entity/Q35805">edit</a>)</td>

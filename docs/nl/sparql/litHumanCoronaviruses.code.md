@@ -34970,13 +34970,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-04</td>
-    <td><a href="https://scholia.toolforge.org/Q99403262">[Erratum to: Histopathological findings following SARS-CoV-2 infection with and without treatment-Report of three autopsies]</a> (<a href="http://www.wikidata.org/entity/Q99403262">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S00194-020-00409-W">10.1007/S00194-020-00409-W</a></td>
-    <td>32921924</td>
-  </tr>
-  <tr>
-    <td>2020-09-04</td>
     <td><a href="https://scholia.toolforge.org/Q98947512">Evaluation of three commercial assays for SARS-CoV-2 molecular detection in upper respiratory tract samples</a> (<a href="http://www.wikidata.org/entity/Q98947512">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S10096-020-04025-0">10.1007/S10096-020-04025-0</a></td>
@@ -34991,17 +34984,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-04</td>
-    <td><a href="https://scholia.toolforge.org/Q99408234">An immunoinformatics study on the spike protein of SARS-CoV-2 revealing potential epitopes as vaccine candidates</a> (<a href="http://www.wikidata.org/entity/Q99408234">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.HELIYON.2020.E04865">10.1016/J.HELIYON.2020.E04865</a></td>
-    <td>32923731</td>
-  </tr>
-  <tr>
-    <td>2020-09-04</td>
     <td><a href="https://scholia.toolforge.org/Q98949091">The Answer Lies in the Energy: How Simple Atomistic Molecular Dynamics Simulations may Hold the Key to Epitope Prediction on the Fully Glycosylated SARS-CoV-2 Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q98949091">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACS.JPCLETT.0C02341">10.1021/ACS.JPCLETT.0C02341</a></td>
     <td>32885971</td>
+  </tr>
+  <tr>
+    <td>2020-09-04</td>
+    <td><a href="https://scholia.toolforge.org/Q98951945">An alpaca nanobody neutralizes SARS-CoV-2 by blocking receptor interaction</a> (<a href="http://www.wikidata.org/entity/Q98951945">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-020-18174-5">10.1038/S41467-020-18174-5</a></td>
+    <td>32887876</td>
   </tr>
   <tr>
     <td>2020-09-04</td>
@@ -35030,6 +35023,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S40001-020-00439-W">10.1186/S40001-020-00439-W</a></td>
     <td>32887660</td>
+  </tr>
+  <tr>
+    <td>2020-09-04</td>
+    <td><a href="https://scholia.toolforge.org/Q98951747">Endemic Non2013SARS-CoV-2 Human Coronaviruses in a Community-Based Australian Birth Cohort</a> (<a href="http://www.wikidata.org/entity/Q98951747">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1542/PEDS.2020-009316">10.1542/PEDS.2020-009316</a></td>
+    <td>32887791</td>
   </tr>
   <tr>
     <td>2020-09-04</td>

@@ -49,26 +49,6 @@ because they have been discussed in newspapers:
     <td><b>genome</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q928">Philippines</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106592103">Lineage B.1.526</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q60">New York City</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171195">Lineage B.1.525</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171244">Lineage B.1.1.7 with E484K</a> (<a href="http://www.wikidata.org/entity/Q106171244">edit</a>)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q17">Japan</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
     <td></td>
@@ -89,18 +69,28 @@ because they have been discussed in newspapers:
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106332190">Breton coronavirus variant</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q12130">Brittany</a> (<a href="http://www.wikidata.org/entity/Q12130">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106581308">Lineage B.1.617</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q21">England</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171195">Lineage B.1.525</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106332190">Breton coronavirus variant</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q12130">Brittany</a> (<a href="http://www.wikidata.org/entity/Q12130">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171244">Lineage B.1.1.7 with E484K</a> (<a href="http://www.wikidata.org/entity/Q106171244">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106592103">Lineage B.1.526</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q60">New York City</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -121,6 +111,16 @@ because they have been discussed in newspapers:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171219">Lineage B.1.1.207</a> (<a href="http://www.wikidata.org/entity/Q106171219">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q1033">Nigeria</a> (<a href="http://www.wikidata.org/entity/Q1033">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104400171">501.V2 Variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21">England</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q928">Philippines</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
     <td></td>
   </tr>
 </table>

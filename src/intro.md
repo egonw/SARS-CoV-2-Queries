@@ -28,16 +28,16 @@ explains how to annotation literature with main subjects in Wikidata.
 
 ## Other annotation
 
-Furthermore, take advantage of the '/missing' functionality of Scholia for other useful annotations.
+Furthermore, take advantage of the '/curation' functionality of Scholia for other useful annotations.
 For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 
-* [Missing for MERS](https://scholia.toolforge.org/topic/Q4902157/missing)
-* [Missing for HCoV NL63](https://scholia.toolforge.org/topic/Q8351095/missing)
-* [Missing for HCoV 2229E](https://scholia.toolforge.org/topic/Q16983356/missing)
-* [Missing for HCoV HKU1](https://scholia.toolforge.org/topic/Q16983360/missing)
-* [Missing for OC43](https://scholia.toolforge.org/topic/Q16991954/missing)
-* [Missing for SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695/missing)
-* [Missing for SARS-CoV-1](https://scholia.toolforge.org/topic/Q85438966/missing)
+* [Missing for MERS](https://scholia.toolforge.org/topic/Q4902157/curation)
+* [Missing for HCoV NL63](https://scholia.toolforge.org/topic/Q8351095/curation)
+* [Missing for HCoV 2229E](https://scholia.toolforge.org/topic/Q16983356/curation)
+* [Missing for HCoV HKU1](https://scholia.toolforge.org/topic/Q16983360/curation)
+* [Missing for OC43](https://scholia.toolforge.org/topic/Q16991954/curation)
+* [Missing for SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695/curation)
+* [Missing for SARS-CoV-1](https://scholia.toolforge.org/topic/Q85438966/curation)
 
 ## References
 

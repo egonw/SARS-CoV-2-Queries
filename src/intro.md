@@ -39,6 +39,15 @@ For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 * [Missing for SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695/curation)
 * [Missing for SARS-CoV-1](https://scholia.toolforge.org/topic/Q85438966/curation)
 
+## More in Wikipedia
+
+There is a lot of information in Wikipedia about the pandemic. This ebook does not attempt
+to replace it. Based on a query from [COVIWD](https://www.coviwd.org/) [<cite>Q105833381</cite>],
+the following map shows which articles describe the pandemic in various areas of the world
+in the same language as this ebook:
+
+<iframe>wikipediaOnMap</iframe>
+
 ## References
 
 <references/>

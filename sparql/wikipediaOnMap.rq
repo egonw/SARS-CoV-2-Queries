@@ -1,0 +1,9 @@
+#defaultView:Map
+SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
+  ?wpArticle a schema:Article ;
+    schema:about ?item ;
+    schema:isPartOf <https://<lang/>.wikipedia.org/> .
+  ?item p:P31 [ ps:P31 wd:Q3241045 ; pq:P642 wd:Q84263196 ] ;
+    wdt:P625 ?coord ;
+    rdfs:label ?itemLabel . FILTER(LANG(?itemLabel)="<lang/>")
+}

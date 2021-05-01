@@ -32,16 +32,31 @@ explains how to annotation literature with main subjects in Wikidata.
 
 ## Other annotation
 
-Furthermore, take advantage of the '/missing' functionality of Scholia for other useful annotations.
+Furthermore, take advantage of the '/curation' functionality of Scholia for other useful annotations.
 For example, check out these Scholia pages for the human coronaviruses (HCoVs):
 
-* [Missing for MERS](https://scholia.toolforge.org/topic/Q4902157/missing)
-* [Missing for HCoV NL63](https://scholia.toolforge.org/topic/Q8351095/missing)
-* [Missing for HCoV 2229E](https://scholia.toolforge.org/topic/Q16983356/missing)
-* [Missing for HCoV HKU1](https://scholia.toolforge.org/topic/Q16983360/missing)
-* [Missing for OC43](https://scholia.toolforge.org/topic/Q16991954/missing)
-* [Missing for SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695/missing)
-* [Missing for SARS-CoV-1](https://scholia.toolforge.org/topic/Q85438966/missing)
+* [Missing for MERS](https://scholia.toolforge.org/topic/Q4902157/curation)
+* [Missing for HCoV NL63](https://scholia.toolforge.org/topic/Q8351095/curation)
+* [Missing for HCoV 2229E](https://scholia.toolforge.org/topic/Q16983356/curation)
+* [Missing for HCoV HKU1](https://scholia.toolforge.org/topic/Q16983360/curation)
+* [Missing for OC43](https://scholia.toolforge.org/topic/Q16991954/curation)
+* [Missing for SARS-CoV-2](https://scholia.toolforge.org/topic/Q82069695/curation)
+* [Missing for SARS-CoV-1](https://scholia.toolforge.org/topic/Q85438966/curation)
+
+## More in Wikipedia
+
+There is a lot of information in Wikipedia about the pandemic. This ebook does not attempt
+to replace it. Based on a query from [COVIWD](https://www.coviwd.org/) [<a href="#citeref10">10</a>],
+the following map shows which articles describe the pandemic in various areas of the world
+in the same language as this ebook:
+
+<iframe
+  style="width: 95%; height: 50vh; border: none;"
+  src="https://query.wikidata.org/embed.html#%23defaultView%3AMap%0ASELECT%20DISTINCT%20%3FwpArticle%20%3FitemLabel%20%3Fcoord%20WHERE%20%7B%0A%20%20%3FwpArticle%20a%20schema%3AArticle%20%3B%0A%20%20%20%20schema%3Aabout%20%3Fitem%20%3B%0A%20%20%20%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E%20.%0A%20%20%3Fitem%20p%3AP31%20%5B%20ps%3AP31%20wd%3AQ3241045%20%3B%20pq%3AP642%20wd%3AQ84263196%20%5D%20%3B%0A%20%20%20%20wdt%3AP625%20%3Fcoord%20%3B%0A%20%20%20%20rdfs%3Alabel%20%3FitemLabel%20.%20FILTER%28LANG%28%3FitemLabel%29%3D%22en%22%29%0A%7D%0A"
+
+  referrerpolicy="origin"
+  sandbox="allow-scripts allow-same-origin allow-popups" >
+</iframe>
 
 ## References
 

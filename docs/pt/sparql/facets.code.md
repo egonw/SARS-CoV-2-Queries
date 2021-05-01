@@ -38,7 +38,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q85173855">2019–20 coronavirus outbreak data tables</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q86901049">Teste de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q86901049">teste de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87479384">evento cancelado devido à pandemia de coronavírus de 2019-21</a> (<a href="http://www.wikidata.org/entity/Q87479384">edit</a>)</td>
@@ -203,7 +203,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96401587">Responses to the COVID-19 pandemic in April 2020</a> (<a href="http://www.wikidata.org/entity/Q96401587">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96419281">source tracing for SARS-Cov-2</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96419281">SARS-CoV-2 source tracing</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96728989">Cronologia da pandemia de COVID-19 em julho de 2020</a> (<a href="http://www.wikidata.org/entity/Q96728989">edit</a>)</td>

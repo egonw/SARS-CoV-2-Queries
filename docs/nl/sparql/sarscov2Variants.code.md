@@ -56,6 +56,11 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106628019">Lineage B.1.618</a> (<a href="http://www.wikidata.org/entity/Q106628019">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q1356">West-Bengalen</a> (<a href="http://www.wikidata.org/entity/Q1356">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106592103">Lineage B.1.526</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q60">New York</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
     <td></td>

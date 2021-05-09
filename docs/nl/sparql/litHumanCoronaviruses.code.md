@@ -9448,6 +9448,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q98778375">Drive-through testing for SARS-CoV-2 in symptomatic health and social care workers and household members: an observational cohort study</a> (<a href="http://www.wikidata.org/entity/Q98778375">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1136/THORAXJNL-2020-215128">10.1136/THORAXJNL-2020-215128</a></td>
+    <td>32855343</td>
+  </tr>
+  <tr>
+    <td>2020-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q104136296">Differences in Clinical Features and Laboratory Results between Adults and Children with SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q104136296">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1155/2020/6342598">10.1155/2020/6342598</a></td>
@@ -26997,6 +27004,20 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q97528959">Autoimmune and rheumatic musculoskeletal diseases as a consequence of SARS-CoV-2 infection and its treatment</a> (<a href="http://www.wikidata.org/entity/Q97528959">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00296-020-04639-9">10.1007/S00296-020-04639-9</a></td>
+    <td>32666137</td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q98160600">Neuroinvasion, neurotropic, and neuroinflammatory events of SARS-CoV-2: understanding the neurological manifestations in COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q98160600">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S10072-020-04575-3">10.1007/S10072-020-04575-3</a></td>
+    <td>32725449</td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q100418045">Creating a safe workplace by universal testing of SARS-CoV-2 infection in asymptomatic patients and healthcare workers in the electrophysiology units: a multi-center experience</a> (<a href="http://www.wikidata.org/entity/Q100418045">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S10840-020-00886-9">10.1007/S10840-020-00886-9</a></td>
@@ -34907,31 +34928,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-07</td>
-    <td><a href="https://scholia.toolforge.org/Q99346730">Factors associated with asymptomatic infection in health-care workers with SARS-CoV-2 infection in Wuhan, China: a multi-center retrospective cohort study</a> (<a href="http://www.wikidata.org/entity/Q99346730">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CMI.2020.08.038">10.1016/J.CMI.2020.08.038</a></td>
-    <td>32911080</td>
-  </tr>
-  <tr>
-    <td>2020-09-07</td>
     <td><a href="https://scholia.toolforge.org/Q99346364">Community-Onset SARS-CoV-2 Infection in Young Infants: A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q99346364">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JPEDS.2020.09.008">10.1016/J.JPEDS.2020.09.008</a></td>
     <td>32910943</td>
-  </tr>
-  <tr>
-    <td>2020-09-07</td>
-    <td><a href="https://scholia.toolforge.org/Q99346740">Viral load of SARS-CoV-2 across patients and compared to other respiratory viruses</a> (<a href="http://www.wikidata.org/entity/Q99346740">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.MICINF.2020.08.004">10.1016/J.MICINF.2020.08.004</a></td>
-    <td>32911086</td>
-  </tr>
-  <tr>
-    <td>2020-09-07</td>
-    <td><a href="https://scholia.toolforge.org/Q99400325">Identification of the antithrombotic protein S as a potential target of the SARS-CoV-2 papain-like protease</a> (<a href="http://www.wikidata.org/entity/Q99400325">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.THROMRES.2020.09.007">10.1016/J.THROMRES.2020.09.007</a></td>
-    <td>32920296</td>
   </tr>
   <tr>
     <td>2020-09-07</td>

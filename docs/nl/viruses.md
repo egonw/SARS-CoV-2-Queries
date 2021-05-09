@@ -101,10 +101,6 @@ Dit geeft ons:
     <td><a href="https://scholia.toolforge.org/Q105759623">BM48-31</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
     <td></td>
   </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106527526">SARS-CoV-2 20C clade</a> (<a href="http://www.wikidata.org/entity/Q106527526">edit</a>)</td>
-    <td></td>
-  </tr>
 </table>
 
 Als we dit vergelijken met de lijst in Sectie [2.2](#sec:sevenhuman), dan zien we dat
@@ -363,10 +359,6 @@ Dat geeft:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105759623">BM48-31</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106527526">SARS-CoV-2 20C clade</a> (<a href="http://www.wikidata.org/entity/Q106527526">edit</a>)</td>
     <td></td>
   </tr>
 </table>

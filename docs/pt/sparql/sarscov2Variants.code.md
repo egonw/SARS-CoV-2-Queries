@@ -21,11 +21,6 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td><b>genome</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106581308">B.1.617</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q668">Índia</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q104819269">Linhagem P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40236">Manaus</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
     <td></td>
@@ -33,6 +28,11 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q1475142">Northern Jutland</a> (<a href="http://www.wikidata.org/entity/Q1475142">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106581308">B.1.617</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q668">Índia</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

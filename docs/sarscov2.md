@@ -64,11 +64,6 @@ because they have been discussed in newspapers:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106581308">Lineage B.1.617</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q1475142">Northern Jutland</a> (<a href="http://www.wikidata.org/entity/Q1475142">edit</a>)</td>
     <td></td>
@@ -76,6 +71,11 @@ because they have been discussed in newspapers:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106332190">Breton coronavirus variant</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q12130">Brittany</a> (<a href="http://www.wikidata.org/entity/Q12130">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106581308">Lineage B.1.617</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

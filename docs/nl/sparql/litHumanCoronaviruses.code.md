@@ -34907,6 +34907,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-07</td>
+    <td><a href="https://scholia.toolforge.org/Q99346655">Differentiating characteristics of asthmatic patients in the SARS-CoV2 infection</a> (<a href="http://www.wikidata.org/entity/Q99346655">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.ANAI.2020.09.004">10.1016/J.ANAI.2020.09.004</a></td>
+    <td>32911055</td>
+  </tr>
+  <tr>
+    <td>2020-09-07</td>
     <td><a href="https://scholia.toolforge.org/Q99346430">Evaluation of Abbott Anti-SARS-CoV-2 CMIA IgG and Euroimmun ELISA IgG/IgA Assays In a Clinical Lab</a> (<a href="http://www.wikidata.org/entity/Q99346430">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CCA.2020.09.002">10.1016/J.CCA.2020.09.002</a></td>
@@ -34918,13 +34925,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CCA.2020.09.005">10.1016/J.CCA.2020.09.005</a></td>
     <td>32910979</td>
-  </tr>
-  <tr>
-    <td>2020-09-07</td>
-    <td><a href="https://scholia.toolforge.org/Q99562295">Comparison of eight commercial, high-throughput, automated or ELISA assays detecting SARS-CoV-2 IgG or total antibody</a> (<a href="http://www.wikidata.org/entity/Q99562295">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JCV.2020.104613">10.1016/J.JCV.2020.104613</a></td>
-    <td>32942137</td>
   </tr>
   <tr>
     <td>2020-09-07</td>

@@ -76,6 +76,13 @@ SELECT ?protein ?proteinLabel ?short ?refseq ?uniprot ?guideToPharma WHERE {
     <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
     <td>nsp10</td>
     <td>YP_009725306</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449644">P0DTC1-PRO_0000449644</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
+    <td>nsp10</td>
+    <td>YP_009725306</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449628">P0DTD1-PRO_0000449628</a></td>
     <td></td>
   </tr>
@@ -315,13 +322,6 @@ SELECT ?protein ?proteinLabel ?short ?refseq ?uniprot ?guideToPharma WHERE {
     <td>nsp13</td>
     <td>YP_009725308</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449630">P0DTD1-PRO_0000449630</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q94994433">Uncharacterized protein 14</a> (<a href="http://www.wikidata.org/entity/Q94994433">edit</a>)</td>
-    <td></td>
-    <td></td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD3">P0DTD3</a></td>
     <td></td>
   </tr>
   <tr>

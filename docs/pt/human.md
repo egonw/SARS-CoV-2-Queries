@@ -318,7 +318,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q106020256">S1 Subunit of Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106020256">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 Innate Immunity Evasion and Cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 innate immunity evasion and cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -393,7 +393,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 Innate Immunity Evasion and Cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 innate immunity evasion and cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -443,7 +443,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 Innate Immunity Evasion and Cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 innate immunity evasion and cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -473,7 +473,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88656821">membrane protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656821">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 Innate Immunity Evasion and Cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 innate immunity evasion and cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -484,6 +484,11 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88656821">membrane protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656821">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 and COVID-19 Pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88656943">non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104904988">SARS-CoV-2 mitochondrial interactions</a> (<a href="http://www.wikidata.org/entity/Q104904988">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -533,7 +538,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89597571">Protein ORF9b [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89597571">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 Innate Immunity Evasion and Cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 innate immunity evasion and cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -603,11 +608,6 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90038963">Non-structural protein 7 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038963">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 and COVID-19 Pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q94994433">Uncharacterized protein 14</a> (<a href="http://www.wikidata.org/entity/Q94994433">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 and COVID-19 Pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
   </tr>
 </table>

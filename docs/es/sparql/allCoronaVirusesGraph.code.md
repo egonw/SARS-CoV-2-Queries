@@ -112,7 +112,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q16023751">Porcine epidemic diarrhea virus</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16023751">Virus de la diarrea porcina epidémica</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/28295">28295</a></td>
   </tr>
   <tr>
@@ -422,7 +422,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q16023751">Porcine epidemic diarrhea virus</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16023751">Virus de la diarrea porcina epidémica</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/28295">28295</a></td>
   </tr>
   <tr>
@@ -537,7 +537,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754639">Pedacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754639">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q16023751">Porcine epidemic diarrhea virus</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16023751">Virus de la diarrea porcina epidémica</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/28295">28295</a></td>
   </tr>
   <tr>

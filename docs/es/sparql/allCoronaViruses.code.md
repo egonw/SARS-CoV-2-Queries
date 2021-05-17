@@ -46,7 +46,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415852">1415852</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q16023751">Porcine epidemic diarrhea virus</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16023751">Virus de la diarrea porcina epidémica</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/28295">28295</a></td>
   </tr>
   <tr>

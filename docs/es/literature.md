@@ -50,24 +50,24 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1016/J.GENREP.2021.101024">10.1016/J.GENREP.2021.101024</a></td>
   </tr>
   <tr>
-    <td>2021-04-23</td>
-    <td><a href="https://scholia.toolforge.org/Q106451835">ORF8 contributes to cytokine storm during SARS-CoV-2 infection by activating IL-17 pathway</a> (<a href="http://www.wikidata.org/entity/Q106451835">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.ISCI.2021.102293">10.1016/J.ISCI.2021.102293</a></td>
+    <td>2021-05-10</td>
+    <td><a href="https://scholia.toolforge.org/Q106812318">Cellular and Humoral Immune Responses in Mice Immunized with Vaccinia Virus Expressing the SARS-CoV-2 Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q106812318">edit</a>)</td>
+    <td><a href="https://doi.org/10.4049/JIMMUNOL.2100054">10.4049/JIMMUNOL.2100054</a></td>
   </tr>
   <tr>
-    <td>2021-04-23</td>
-    <td><a href="https://scholia.toolforge.org/Q106452097">SARS-CoV-2 variants combining spike mutations and the absence of ORF8 may be more transmissible and require close monitoring</a> (<a href="http://www.wikidata.org/entity/Q106452097">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BBRC.2021.02.080">10.1016/J.BBRC.2021.02.080</a></td>
+    <td>2021-05-05</td>
+    <td><a href="https://scholia.toolforge.org/Q106768002">SARS-CoV-2 infection among healthcare workers in South Africa: a longitudinal cohort study</a> (<a href="http://www.wikidata.org/entity/Q106768002">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/CID/CIAB398">10.1093/CID/CIAB398</a></td>
   </tr>
   <tr>
-    <td>2021-04-21</td>
-    <td><a href="https://scholia.toolforge.org/Q106610417">COVID-19 Outbreak Associated with a SARS-CoV-2 R.1 Lineage Variant in a Skilled Nursing Facility After Vaccination Program — Kentucky, March 2021</a> (<a href="http://www.wikidata.org/entity/Q106610417">edit</a>)</td>
-    <td><a href="https://doi.org/10.15585/MMWR.MM7017E2">10.15585/MMWR.MM7017E2</a></td>
+    <td>2021-05-04</td>
+    <td><a href="https://scholia.toolforge.org/Q106768007">Prevalent, protective, and convergent IgG recognition of SARS-CoV-2 non-RBD spike epitopes</a> (<a href="http://www.wikidata.org/entity/Q106768007">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABG5268">10.1126/SCIENCE.ABG5268</a></td>
   </tr>
   <tr>
-    <td>2021-04-21</td>
-    <td><a href="https://scholia.toolforge.org/Q106610418">Postvaccination SARS-CoV-2 Infections Among Skilled Nursing Facility Residents and Staff Members — Chicago, Illinois, December 2020–March 2021</a> (<a href="http://www.wikidata.org/entity/Q106610418">edit</a>)</td>
-    <td><a href="https://doi.org/10.15585/MMWR.MM7017E1">10.15585/MMWR.MM7017E1</a></td>
+    <td>2021-04-30</td>
+    <td><a href="https://scholia.toolforge.org/Q106816015">SARS-CoV-2 Spike Protein Impairs Endothelial Function via Downregulation of ACE 2</a> (<a href="http://www.wikidata.org/entity/Q106816015">edit</a>)</td>
+    <td><a href="https://doi.org/10.1161/CIRCRESAHA.121.318902">10.1161/CIRCRESAHA.121.318902</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -318,7 +318,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18641</td>
+    <td>18650</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -655,6 +655,11 @@ Donde están los recuentos:
     <td>21</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90042799">Helicase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042799">edit</a>)</td>
+    <td>18</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88365856">Non-structural protein NS6 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365856">edit</a>)</td>
     <td>17</td>
@@ -662,11 +667,6 @@ Donde están los recuentos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89562023">host translation inhibitor nsp1 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89562023">edit</a>)</td>
-    <td>17</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90042799">Helicase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042799">edit</a>)</td>
     <td>17</td>
   </tr>
   <tr>

@@ -4818,6 +4818,14 @@ https://scholia.toolforge.org/Q106626917
 https://scholia.toolforge.org/Q106628019
 https://scholia.toolforge.org/Q106635006
 https://scholia.toolforge.org/Q106638260
+https://scholia.toolforge.org/Q106647583
+https://scholia.toolforge.org/Q106712027
+https://scholia.toolforge.org/Q106768002
+https://scholia.toolforge.org/Q106768006
+https://scholia.toolforge.org/Q106768007
+https://scholia.toolforge.org/Q106768010
+https://scholia.toolforge.org/Q106812318
+https://scholia.toolforge.org/Q106816015
 https://scholia.toolforge.org/Q1076369
 https://scholia.toolforge.org/Q1128440
 https://scholia.toolforge.org/Q114
@@ -4825,6 +4833,7 @@ https://scholia.toolforge.org/Q114085
 https://scholia.toolforge.org/Q11426176
 https://scholia.toolforge.org/Q115
 https://scholia.toolforge.org/Q117
+https://scholia.toolforge.org/Q1191
 https://scholia.toolforge.org/Q12130
 https://scholia.toolforge.org/Q1215575
 https://scholia.toolforge.org/Q1246

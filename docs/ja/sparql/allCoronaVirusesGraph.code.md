@@ -42,7 +42,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16532287">ベータコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18907882">マウス肝炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694005">694005</a></td>
   </tr>
   <tr>
@@ -572,7 +572,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754667">エンベコウイルス亜属</a> (<a href="http://www.wikidata.org/entity/Q57754667">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q18907882">Murine coronavirus</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18907882">マウス肝炎ウイルス</a> (<a href="http://www.wikidata.org/entity/Q18907882">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694005">694005</a></td>
   </tr>
   <tr>

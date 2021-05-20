@@ -301,6 +301,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106484890">timeline of the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106484890">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106892355">COVID-19 policy</a> (<a href="http://www.wikidata.org/entity/Q106892355">edit</a>)</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

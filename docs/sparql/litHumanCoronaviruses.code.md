@@ -936,6 +936,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-02-11</td>
+    <td><a href="https://scholia.toolforge.org/Q106936198">Identification of ebselen and its analogues as potent covalent inhibitors of papain-like protease from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q106936198">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-021-83229-6">10.1038/S41598-021-83229-6</a></td>
+    <td>33574416</td>
+  </tr>
+  <tr>
+    <td>2021-02-11</td>
     <td><a href="https://scholia.toolforge.org/Q105550767">The Spike D614G mutation increases SARS-CoV-2 infection of multiple human cell types</a> (<a href="http://www.wikidata.org/entity/Q105550767">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.7554/ELIFE.65365">10.7554/ELIFE.65365</a></td>
@@ -34778,13 +34785,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.PDPDT.2020.101995">10.1016/J.PDPDT.2020.101995</a></td>
     <td>32916328</td>
-  </tr>
-  <tr>
-    <td>2020-09-08</td>
-    <td><a href="https://scholia.toolforge.org/Q102050740">Evidences of SARS-CoV-2 virus air transmission indoors using several untouched surfaces: A pilot study</a> (<a href="http://www.wikidata.org/entity/Q102050740">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.SCITOTENV.2020.142317">10.1016/J.SCITOTENV.2020.142317</a></td>
-    <td>33182011</td>
   </tr>
   <tr>
     <td>2020-09-08</td>

@@ -936,6 +936,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-02-11</td>
+    <td><a href="https://scholia.toolforge.org/Q106936198">Identification of ebselen and its analogues as potent covalent inhibitors of papain-like protease from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q106936198">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-021-83229-6">10.1038/S41598-021-83229-6</a></td>
+    <td>33574416</td>
+  </tr>
+  <tr>
+    <td>2021-02-11</td>
     <td><a href="https://scholia.toolforge.org/Q105550767">The Spike D614G mutation increases SARS-CoV-2 infection of multiple human cell types</a> (<a href="http://www.wikidata.org/entity/Q105550767">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.7554/ELIFE.65365">10.7554/ELIFE.65365</a></td>
@@ -34918,13 +34925,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1097/SIH.0000000000000506">10.1097/SIH.0000000000000506</a></td>
     <td>32910105</td>
-  </tr>
-  <tr>
-    <td>2020-09-08</td>
-    <td><a href="https://scholia.toolforge.org/Q104136727">Identification of a SARS-like bat coronavirus that shares structural features with the spike glycoprotein receptor-binding domain of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104136727">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1099/ACMI.0.000166">10.1099/ACMI.0.000166</a></td>
-    <td>33294769</td>
   </tr>
   <tr>
     <td>2020-09-08</td>

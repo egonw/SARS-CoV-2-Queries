@@ -42,6 +42,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106918177">Canine coronavirus HuPn-2018</a> (<a href="http://www.wikidata.org/entity/Q106918177">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16000326">SL-CoV-WIV1</a> (<a href="http://www.wikidata.org/entity/Q16000326">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415852">1415852</a></td>
   </tr>

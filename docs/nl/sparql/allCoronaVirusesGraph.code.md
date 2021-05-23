@@ -562,6 +562,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754662">Tegacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754662">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106918177">Canine coronavirus HuPn-2018</a> (<a href="http://www.wikidata.org/entity/Q106918177">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754662">Tegacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754662">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18965331">Alphacoronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q18965331">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/693997">693997</a></td>
   </tr>

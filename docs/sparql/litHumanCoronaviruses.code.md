@@ -34788,6 +34788,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-08</td>
+    <td><a href="https://scholia.toolforge.org/Q102050740">Evidences of SARS-CoV-2 virus air transmission indoors using several untouched surfaces: A pilot study</a> (<a href="http://www.wikidata.org/entity/Q102050740">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.SCITOTENV.2020.142317">10.1016/J.SCITOTENV.2020.142317</a></td>
+    <td>33182011</td>
+  </tr>
+  <tr>
+    <td>2020-09-08</td>
     <td><a href="https://scholia.toolforge.org/Q99357472">Antimalarial drugs inhibit the replication of SARS-CoV-2: an in vitro evaluation</a> (<a href="http://www.wikidata.org/entity/Q99357472">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.TMAID.2020.101873">10.1016/J.TMAID.2020.101873</a></td>
@@ -34918,13 +34925,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1097/SIH.0000000000000506">10.1097/SIH.0000000000000506</a></td>
     <td>32910105</td>
-  </tr>
-  <tr>
-    <td>2020-09-08</td>
-    <td><a href="https://scholia.toolforge.org/Q104136727">Identification of a SARS-like bat coronavirus that shares structural features with the spike glycoprotein receptor-binding domain of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104136727">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1099/ACMI.0.000166">10.1099/ACMI.0.000166</a></td>
-    <td>33294769</td>
   </tr>
   <tr>
     <td>2020-09-08</td>

@@ -46,11 +46,6 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171157">SARSコロナウイルス2-系統 P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q928">フィリピン</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q106628019">Lineage B.1.618</a> (<a href="http://www.wikidata.org/entity/Q106628019">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q1356">西ベンガル州</a> (<a href="http://www.wikidata.org/entity/Q1356">edit</a>)</td>
     <td></td>
@@ -68,6 +63,11 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106592103">Lineage B.1.526</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q60">ニューヨーク</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106171157">SARSコロナウイルス2-系統 P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q928">フィリピン</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

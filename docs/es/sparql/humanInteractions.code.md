@@ -30,6 +30,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2021-05-27</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21136292">Transmembrane protein 41B</a> (<a href="http://www.wikidata.org/entity/Q21136292">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107111967">TMEM41B is a host factor required for the replication of diverse coronaviruses including SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q107111967">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1009599">10.1371/JOURNAL.PPAT.1009599</a></td>
+  </tr>
+  <tr>
     <td>2020-11-23</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>

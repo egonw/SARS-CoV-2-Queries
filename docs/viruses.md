@@ -82,6 +82,10 @@ This gives us:
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104857014">RmYN02</a> (<a href="http://www.wikidata.org/entity/Q104857014">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q105221659">Civet SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q105221659">edit</a>)</td>
     <td></td>
   </tr>
@@ -339,6 +343,10 @@ This gives us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104400171">Lineage B.1.351</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104857014">RmYN02</a> (<a href="http://www.wikidata.org/entity/Q104857014">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

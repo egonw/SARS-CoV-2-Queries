@@ -56,11 +56,6 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106592103">Lineage B.1.526</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q60">ニューヨーク</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q106581308">SARSコロナウイルス2の変異株B.1.617系統</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q668">インド</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
     <td></td>
@@ -98,6 +93,11 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106581308">SARSコロナウイルス2の変異株B.1.617系統</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q1191">マハーラーシュトラ州</a> (<a href="http://www.wikidata.org/entity/Q1191">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106592103">SARS-CoV-2 Iota variant</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q60">ニューヨーク</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

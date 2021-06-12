@@ -49,21 +49,6 @@ because they have been discussed in newspapers:
     <td><b>genome</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q17">Japan</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q40236">Manaus</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q145">United Kingdom</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q106332190">Lineage B.1.616</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q12130">Brittany</a> (<a href="http://www.wikidata.org/entity/Q12130">edit</a>)</td>
     <td></td>
@@ -71,6 +56,11 @@ because they have been discussed in newspapers:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q1475142">Northern Jutland</a> (<a href="http://www.wikidata.org/entity/Q1475142">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q928">Philippines</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -99,13 +89,18 @@ because they have been discussed in newspapers:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106592103">Lineage B.1.526</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q60">New York City</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q145">United Kingdom</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104400171">Lineage B.1.351</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q21">England</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">SARS-CoV-2 Gamma variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q17">Japan</a> (<a href="http://www.wikidata.org/entity/Q17">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104819269">SARS-CoV-2 Gamma variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40236">Manaus</a> (<a href="http://www.wikidata.org/entity/Q40236">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -129,8 +124,13 @@ because they have been discussed in newspapers:
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q928">Philippines</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21">England</a> (<a href="http://www.wikidata.org/entity/Q21">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106592103">SARS-CoV-2 Iota variant</a> (<a href="http://www.wikidata.org/entity/Q106592103">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q60">New York City</a> (<a href="http://www.wikidata.org/entity/Q60">edit</a>)</td>
     <td></td>
   </tr>
 </table>
@@ -178,47 +178,47 @@ This gives us this list:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104528694">C3267T</a> (<a href="http://www.wikidata.org/entity/Q104528694">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104400171">Lineage B.1.351</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">SARS-CoV-2 Gamma variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530561">C5388A</a> (<a href="http://www.wikidata.org/entity/Q104530561">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530598">C27972T</a> (<a href="http://www.wikidata.org/entity/Q104530598">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
@@ -233,12 +233,12 @@ This gives us this list:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532779">HV 69-70 deletion</a> (<a href="http://www.wikidata.org/entity/Q104532779">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532877">Y144 deletion</a> (<a href="http://www.wikidata.org/entity/Q104532877">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532904">ORF8 ∆382</a> (<a href="http://www.wikidata.org/entity/Q104532904">edit</a>)</td>
@@ -253,12 +253,12 @@ This gives us this list:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104400171">Lineage B.1.351</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
@@ -268,7 +268,7 @@ This gives us this list:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">SARS-CoV-2 Gamma variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
@@ -293,52 +293,52 @@ This gives us this list:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628162">T6954C</a> (<a href="http://www.wikidata.org/entity/Q104628162">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628223">11288-11296 deletion</a> (<a href="http://www.wikidata.org/entity/Q104628223">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628256">C23271A</a> (<a href="http://www.wikidata.org/entity/Q104628256">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628268">C23709T</a> (<a href="http://www.wikidata.org/entity/Q104628268">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628271">T24506G</a> (<a href="http://www.wikidata.org/entity/Q104628271">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628278">G24914C</a> (<a href="http://www.wikidata.org/entity/Q104628278">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628287">G28048T</a> (<a href="http://www.wikidata.org/entity/Q104628287">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628290">A28111G</a> (<a href="http://www.wikidata.org/entity/Q104628290">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628296">C28977T</a> (<a href="http://www.wikidata.org/entity/Q104628296">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628334">D3L</a> (<a href="http://www.wikidata.org/entity/Q104628334">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
 </table>
 
@@ -1474,6 +1474,606 @@ Which gives us:
     <td><a href="https://www.rcsb.org/structure/7DK3">7DK3</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
+    <td>YP_009725306</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449644">P0DTC1-PRO_0000449644</a></td>
+    <td><a href="https://www.rcsb.org/structure/6W4H">6W4H</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
+    <td>YP_009725306</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449628">P0DTD1-PRO_0000449628</a></td>
+    <td><a href="https://www.rcsb.org/structure/6W4H">6W4H</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
+    <td>YP_009725310</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449632">P0DTD1-PRO_0000449632</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VWW">6VWW</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
+    <td>YP_009725310</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449632">P0DTD1-PRO_0000449632</a></td>
+    <td><a href="https://www.rcsb.org/structure/6W01">6W01</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917580">non-structural protein 16 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
+    <td>YP_009725311</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449633">P0DTD1-PRO_0000449633</a></td>
+    <td><a href="https://www.rcsb.org/structure/6W4H">6W4H</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
+    <td>YP_009725299.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449637">P0DTC1-PRO_0000449637</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VXS">6VXS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
+    <td>YP_009725299.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449637">P0DTC1-PRO_0000449637</a></td>
+    <td><a href="https://www.rcsb.org/structure/6W02">6W02</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
+    <td>YP_009725299.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449621">P0DTD1-PRO_0000449621</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VXS">6VXS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
+    <td>YP_009725299.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449621">P0DTD1-PRO_0000449621</a></td>
+    <td><a href="https://www.rcsb.org/structure/6W02">6W02</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/5R81">5R81</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/5R82">5R82</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/5R83">5R83</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/6LU7">6LU7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M03">6M03</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Y2E">6Y2E</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Y2F">6Y2F</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Y84">6Y84</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/5R81">5R81</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/5R82">5R82</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/5R83">5R83</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/6LU7">6LU7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M03">6M03</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Y2E">6Y2E</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Y2F">6Y2F</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>YP_009725301</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Y84">6Y84</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6WKP">6WKP</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M3M">6M3M</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VYO">6VYO</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6WJI">6WJI</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6WZO">6WZO</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6WZQ">6WZQ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6YI3">6YI3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6YUN">6YUN</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZCO">6ZCO</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/7C22">7C22</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/7CDZ">7CDZ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
+    <td>YP_009724397.2</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
+    <td><a href="https://www.rcsb.org/structure/7CE0">7CE0</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/7DF4">7DF4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/7KDL">7KDL</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/7JWY">7JWY</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/7A92">7A92</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/7JJC">7JJC</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/7JJJ">7JJJ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/7KEA">7KEA</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6LVN">6LVN</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6LXT">6LXT</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6LZG">6LZG</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M0J">6M0J</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M17">6M17</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M1V">6M1V</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VSB">6VSB</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VW1">6VW1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VXX">6VXX</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6VYB">6VYB</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6W41">6W41</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6WPS">6WPS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6WPT">6WPT</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6X29">6X29</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6X2A">6X2A</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6X2B">6X2B</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6X2C">6X2C</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6X6P">6X6P</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6X79">6X79</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XC2">6XC2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XC3">6XC3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XC4">6XC4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XC7">6XC7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XCM">6XCM</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XCN">6XCN</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XDG">6XDG</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XE1">6XE1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XEY">6XEY</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XF5">6XF5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XF6">6XF6</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XKL">6XKL</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XKP">6XKP</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XKQ">6XKQ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XLU">6XLU</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XM0">6XM0</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XM3">6XM3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XM4">6XM4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XM5">6XM5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XR8">6XR8</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XRA">6XRA</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6XS6">6XS6</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6YLA">6YLA</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6YM0">6YM0</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6YOR">6YOR</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6YZ5">6YZ5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6YZ7">6YZ7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Z2M">6Z2M</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Z43">6Z43</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6Z97">6Z97</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZB4">6ZB4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZB5">6ZB5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZBP">6ZBP</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZCZ">6ZCZ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZDG">6ZDG</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZDH">6ZDH</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
+    <td>YP_009724390.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ZER">6ZER</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
     <td>YP_009724390.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
@@ -2077,6 +2677,606 @@ Which gives us:
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
     <td>YP_009724389.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RFV">5RFV</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RFW">5RFW</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RFX">5RFX</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RFY">5RFY</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RFZ">5RFZ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RG0">5RG0</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RG1">5RG1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RG2">5RG2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RG3">5RG3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGG">5RGG</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGH">5RGH</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGI">5RGI</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGJ">5RGJ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGK">5RGK</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGL">5RGL</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGM">5RGM</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGN">5RGN</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGO">5RGO</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGP">5RGP</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGQ">5RGQ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGR">5RGR</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGS">5RGS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGT">5RGT</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGU">5RGU</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGV">5RGV</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGW">5RGW</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGX">5RGX</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGY">5RGY</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RGZ">5RGZ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH0">5RH0</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH1">5RH1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH2">5RH2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH3">5RH3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH4">5RH4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH5">5RH5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH6">5RH6</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH7">5RH7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH8">5RH8</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RH9">5RH9</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RHA">5RHA</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RHB">5RHB</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RHC">5RHC</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RHD">5RHD</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RHE">5RHE</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RHF">5RHF</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RL6">5RL6</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RL7">5RL7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RL8">5RL8</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RL9">5RL9</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLB">5RLB</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLC">5RLC</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLD">5RLD</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLE">5RLE</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLF">5RLF</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLG">5RLG</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLH">5RLH</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLI">5RLI</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLJ">5RLJ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLK">5RLK</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLL">5RLL</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLM">5RLM</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLN">5RLN</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLO">5RLO</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLP">5RLP</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLQ">5RLQ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLR">5RLR</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLS">5RLS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLT">5RLT</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLU">5RLU</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLV">5RLV</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLW">5RLW</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLY">5RLY</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RLZ">5RLZ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM0">5RM0</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM1">5RM1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM2">5RM2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM3">5RM3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM4">5RM4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM5">5RM5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM6">5RM6</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM7">5RM7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM8">5RM8</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RM9">5RM9</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMA">5RMA</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMB">5RMB</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMC">5RMC</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMD">5RMD</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RME">5RME</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMF">5RMF</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMG">5RMG</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMH">5RMH</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMI">5RMI</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMJ">5RMJ</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMK">5RMK</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RML">5RML</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/5RMM">5RMM</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/6LU7">6LU7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/6LZE">6LZE</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M03">6M03</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
+    <td><a href="https://www.rcsb.org/structure/6M0K">6M0K</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
+    <td>YP_009724389.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
     <td><a href="https://www.rcsb.org/structure/6M2N">6M2N</a></td>
   </tr>
   <tr>
@@ -2672,606 +3872,6 @@ Which gives us:
     <td>YP_009724389.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
     <td><a href="https://www.rcsb.org/structure/7BQY">7BQY</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
-    <td>YP_009725306</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449644">P0DTC1-PRO_0000449644</a></td>
-    <td><a href="https://www.rcsb.org/structure/6W4H">6W4H</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
-    <td>YP_009725306</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449628">P0DTD1-PRO_0000449628</a></td>
-    <td><a href="https://www.rcsb.org/structure/6W4H">6W4H</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
-    <td>YP_009725310</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449632">P0DTD1-PRO_0000449632</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VWW">6VWW</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
-    <td>YP_009725310</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449632">P0DTD1-PRO_0000449632</a></td>
-    <td><a href="https://www.rcsb.org/structure/6W01">6W01</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917580">non-structural protein 16 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
-    <td>YP_009725311</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449633">P0DTD1-PRO_0000449633</a></td>
-    <td><a href="https://www.rcsb.org/structure/6W4H">6W4H</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>YP_009725299.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449637">P0DTC1-PRO_0000449637</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VXS">6VXS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>YP_009725299.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449637">P0DTC1-PRO_0000449637</a></td>
-    <td><a href="https://www.rcsb.org/structure/6W02">6W02</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>YP_009725299.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449621">P0DTD1-PRO_0000449621</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VXS">6VXS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>YP_009725299.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449621">P0DTD1-PRO_0000449621</a></td>
-    <td><a href="https://www.rcsb.org/structure/6W02">6W02</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/5R81">5R81</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/5R82">5R82</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/5R83">5R83</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/6LU7">6LU7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M03">6M03</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Y2E">6Y2E</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Y2F">6Y2F</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC1-PRO_0000449639">P0DTC1-PRO_0000449639</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Y84">6Y84</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/5R81">5R81</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/5R82">5R82</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/5R83">5R83</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/6LU7">6LU7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M03">6M03</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Y2E">6Y2E</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Y2F">6Y2F</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>YP_009725301</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1-PRO_0000449623">P0DTD1-PRO_0000449623</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Y84">6Y84</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6WKP">6WKP</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M3M">6M3M</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VYO">6VYO</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6WJI">6WJI</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6WZO">6WZO</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6WZQ">6WZQ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6YI3">6YI3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6YUN">6YUN</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZCO">6ZCO</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/7C22">7C22</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/7CDZ">7CDZ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>YP_009724397.2</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC9">P0DTC9</a></td>
-    <td><a href="https://www.rcsb.org/structure/7CE0">7CE0</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/7DF4">7DF4</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/7KDL">7KDL</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/7JWY">7JWY</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/7A92">7A92</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/7JJC">7JJC</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/7JJJ">7JJJ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/7KEA">7KEA</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6LVN">6LVN</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6LXT">6LXT</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6LZG">6LZG</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M0J">6M0J</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M17">6M17</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M1V">6M1V</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VSB">6VSB</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VW1">6VW1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VXX">6VXX</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6VYB">6VYB</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6W41">6W41</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6WPS">6WPS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6WPT">6WPT</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6X29">6X29</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6X2A">6X2A</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6X2B">6X2B</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6X2C">6X2C</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6X6P">6X6P</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6X79">6X79</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XC2">6XC2</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XC3">6XC3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XC4">6XC4</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XC7">6XC7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XCM">6XCM</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XCN">6XCN</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XDG">6XDG</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XE1">6XE1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XEY">6XEY</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XF5">6XF5</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XF6">6XF6</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XKL">6XKL</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XKP">6XKP</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XKQ">6XKQ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XLU">6XLU</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XM0">6XM0</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XM3">6XM3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XM4">6XM4</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XM5">6XM5</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XR8">6XR8</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XRA">6XRA</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6XS6">6XS6</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6YLA">6YLA</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6YM0">6YM0</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6YOR">6YOR</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6YZ5">6YZ5</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6YZ7">6YZ7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Z2M">6Z2M</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Z43">6Z43</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6Z97">6Z97</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZB4">6ZB4</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZB5">6ZB5</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZBP">6ZBP</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZCZ">6ZCZ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZDG">6ZDG</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZDH">6ZDH</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>YP_009724390.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTC2">P0DTC2</a></td>
-    <td><a href="https://www.rcsb.org/structure/6ZER">6ZER</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
@@ -3872,606 +4472,6 @@ Which gives us:
     <td>YP_009724389.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
     <td><a href="https://www.rcsb.org/structure/5RT4">5RT4</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RFV">5RFV</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RFW">5RFW</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RFX">5RFX</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RFY">5RFY</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RFZ">5RFZ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RG0">5RG0</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RG1">5RG1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RG2">5RG2</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RG3">5RG3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGG">5RGG</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGH">5RGH</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGI">5RGI</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGJ">5RGJ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGK">5RGK</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGL">5RGL</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGM">5RGM</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGN">5RGN</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGO">5RGO</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGP">5RGP</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGQ">5RGQ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGR">5RGR</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGS">5RGS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGT">5RGT</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGU">5RGU</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGV">5RGV</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGW">5RGW</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGX">5RGX</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGY">5RGY</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RGZ">5RGZ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH0">5RH0</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH1">5RH1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH2">5RH2</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH3">5RH3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH4">5RH4</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH5">5RH5</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH6">5RH6</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH7">5RH7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH8">5RH8</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RH9">5RH9</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RHA">5RHA</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RHB">5RHB</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RHC">5RHC</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RHD">5RHD</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RHE">5RHE</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RHF">5RHF</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RL6">5RL6</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RL7">5RL7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RL8">5RL8</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RL9">5RL9</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLB">5RLB</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLC">5RLC</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLD">5RLD</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLE">5RLE</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLF">5RLF</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLG">5RLG</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLH">5RLH</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLI">5RLI</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLJ">5RLJ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLK">5RLK</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLL">5RLL</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLM">5RLM</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLN">5RLN</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLO">5RLO</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLP">5RLP</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLQ">5RLQ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLR">5RLR</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLS">5RLS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLT">5RLT</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLU">5RLU</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLV">5RLV</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLW">5RLW</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLY">5RLY</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RLZ">5RLZ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM0">5RM0</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM1">5RM1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM2">5RM2</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM3">5RM3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM4">5RM4</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM5">5RM5</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM6">5RM6</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM7">5RM7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM8">5RM8</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RM9">5RM9</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMA">5RMA</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMB">5RMB</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMC">5RMC</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMD">5RMD</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RME">5RME</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMF">5RMF</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMG">5RMG</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMH">5RMH</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMI">5RMI</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMJ">5RMJ</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMK">5RMK</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RML">5RML</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/5RMM">5RMM</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/6LU7">6LU7</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/6LZE">6LZE</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M03">6M03</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>YP_009724389.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/P0DTD1">P0DTD1</a></td>
-    <td><a href="https://www.rcsb.org/structure/6M0K">6M0K</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>

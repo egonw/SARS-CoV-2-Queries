@@ -557,7 +557,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435631">A Trial of Ciclesonide in Adults With Mild COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89435631">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q5119448">Ciclesonide</a> (<a href="http://www.wikidata.org/entity/Q5119448">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5119448">ciclesonide</a> (<a href="http://www.wikidata.org/entity/Q5119448">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04330586</td>
   </tr>

@@ -18,7 +18,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104400171">Lineage B.1.351</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

@@ -105,7 +105,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
-    <td>11</td>
+    <td>14</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88656821">membrane protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656821">edit</a>)</td>
@@ -129,7 +129,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>68</td>
+    <td>69</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
@@ -141,7 +141,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>162</td>
+    <td>163</td>
   </tr>
 </table>
 ## コード例

@@ -101,7 +101,7 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q928">Filipinas</a> (<a href="http://www.wikidata.org/entity/Q928">edit</a>)</td>
     <td></td>
   </tr>

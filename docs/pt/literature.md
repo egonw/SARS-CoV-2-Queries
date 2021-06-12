@@ -40,34 +40,34 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1016/J.BBRC.2021.05.018">10.1016/J.BBRC.2021.05.018</a></td>
   </tr>
   <tr>
-    <td>2021-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q107133484">SARS-CoV-2 proteins and anti-COVID-19 drugs induce lytic reactivation of an oncogenic virus</a> (<a href="http://www.wikidata.org/entity/Q107133484">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S42003-021-02220-Z">10.1038/S42003-021-02220-Z</a></td>
-  </tr>
-  <tr>
-    <td>2021-06-03</td>
-    <td><a href="https://scholia.toolforge.org/Q107133507">Fe-S cofactors in the SARS-CoV-2 RNA-dependent RNA polymerase are potential antiviral targets</a> (<a href="http://www.wikidata.org/entity/Q107133507">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIENCE.ABI5224">10.1126/SCIENCE.ABI5224</a></td>
-  </tr>
-  <tr>
-    <td>2021-06-02</td>
-    <td><a href="https://scholia.toolforge.org/Q107098607">COVID-19 disrupts spermatogenesis through the oxidative stress pathway following induction of apoptosis</a> (<a href="http://www.wikidata.org/entity/Q107098607">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S10495-021-01680-2">10.1007/S10495-021-01680-2</a></td>
-  </tr>
-  <tr>
-    <td>2021-06-02</td>
-    <td><a href="https://scholia.toolforge.org/Q107101917">Surface Proteins of SARS-CoV-2 Drive Airway Epithelial Cells to Induce IFN-Dependent Inflammation</a> (<a href="http://www.wikidata.org/entity/Q107101917">edit</a>)</td>
+    <td>2021-06-09</td>
+    <td><a href="https://scholia.toolforge.org/Q107181484">(4-Hydroxyphenyl) retinamide suppresses SARS-CoV-2 spike protein-mediated cell-cell fusion by a dihydroceramide Δ4-desaturase 1-independent mechanism</a> (<a href="http://www.wikidata.org/entity/Q107181484">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
-    <td>2021-06-02</td>
-    <td><a href="https://scholia.toolforge.org/Q107101979">A metal ion orients SARS-CoV-2 mRNA to ensure accurate 2′-O methylation of its first nucleotide</a> (<a href="http://www.wikidata.org/entity/Q107101979">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41467-021-23594-Y">10.1038/S41467-021-23594-Y</a></td>
+    <td>2021-06-09</td>
+    <td><a href="https://scholia.toolforge.org/Q107181586">SARS-CoV-2 Envelope (E) protein interacts with PDZ-domain-2 of host tight junction protein ZO1</a> (<a href="http://www.wikidata.org/entity/Q107181586">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0251955">10.1371/JOURNAL.PONE.0251955</a></td>
   </tr>
   <tr>
-    <td>2021-06-02</td>
-    <td><a href="https://scholia.toolforge.org/Q107113401">Epigallocatechin Gallate Inhibits the Uridylate-Specific Endoribonuclease Nsp15 and Efficiently Neutralizes the SARS-CoV-2 Strain</a> (<a href="http://www.wikidata.org/entity/Q107113401">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/ACS.JAFC.1C02050">10.1021/ACS.JAFC.1C02050</a></td>
+    <td>2021-06-09</td>
+    <td><a href="https://scholia.toolforge.org/Q107181617">Viral and host transcriptomes in SARS-CoV-2 infected human lung cells</a> (<a href="http://www.wikidata.org/entity/Q107181617">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2021-06-08</td>
+    <td><a href="https://scholia.toolforge.org/Q107179856">Senolytics reduce coronavirus-related mortality in old mice</a> (<a href="http://www.wikidata.org/entity/Q107179856">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABE4832">10.1126/SCIENCE.ABE4832</a></td>
+  </tr>
+  <tr>
+    <td>2021-06-08</td>
+    <td><a href="https://scholia.toolforge.org/Q107180910">Structural basis for SARS-CoV-2 envelope protein recognition of human cell junction protein PALS1</a> (<a href="http://www.wikidata.org/entity/Q107180910">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-23533-X">10.1038/S41467-021-23533-X</a></td>
+  </tr>
+  <tr>
+    <td>2021-06-07</td>
+    <td><a href="https://scholia.toolforge.org/Q107161831">Hepatitis C Virus Protease Inhibitors Show Differential Efficacy and Interactions with Remdesivir for Treatment of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q107161831">edit</a>)</td>
+    <td></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -174,14 +174,19 @@ Que atualmente dá:
     <td><a href="https://doi.org/10.1002/JMV.26791">10.1002/JMV.26791</a></td>
   </tr>
   <tr>
+    <td>2021-06-09</td>
+    <td><a href="https://scholia.toolforge.org/Q107181586">SARS-CoV-2 Envelope (E) protein interacts with PDZ-domain-2 of host tight junction protein ZO1</a> (<a href="http://www.wikidata.org/entity/Q107181586">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0251955">10.1371/JOURNAL.PONE.0251955</a></td>
+  </tr>
+  <tr>
+    <td>2021-06-08</td>
+    <td><a href="https://scholia.toolforge.org/Q107180910">Structural basis for SARS-CoV-2 envelope protein recognition of human cell junction protein PALS1</a> (<a href="http://www.wikidata.org/entity/Q107180910">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-23533-X">10.1038/S41467-021-23533-X</a></td>
+  </tr>
+  <tr>
     <td>2021-06-03</td>
     <td><a href="https://scholia.toolforge.org/Q107133507">Fe-S cofactors in the SARS-CoV-2 RNA-dependent RNA polymerase are potential antiviral targets</a> (<a href="http://www.wikidata.org/entity/Q107133507">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABI5224">10.1126/SCIENCE.ABI5224</a></td>
-  </tr>
-  <tr>
-    <td>2021-06-02</td>
-    <td><a href="https://scholia.toolforge.org/Q107101917">Surface Proteins of SARS-CoV-2 Drive Airway Epithelial Cells to Induce IFN-Dependent Inflammation</a> (<a href="http://www.wikidata.org/entity/Q107101917">edit</a>)</td>
-    <td></td>
   </tr>
   <tr>
     <td>2021-06-02</td>
@@ -194,14 +199,9 @@ Que atualmente dá:
     <td><a href="https://doi.org/10.1021/ACS.JAFC.1C02050">10.1021/ACS.JAFC.1C02050</a></td>
   </tr>
   <tr>
-    <td>2021-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q107108576">Neuropilin-1 Assists SARS-CoV-2 Infection by Stimulating the Separation of Spike Protein Domains S1 and S2</a> (<a href="http://www.wikidata.org/entity/Q107108576">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BPJ.2021.05.026">10.1016/J.BPJ.2021.05.026</a></td>
-  </tr>
-  <tr>
-    <td>2021-05-28</td>
-    <td><a href="https://scholia.toolforge.org/Q106873527">ALG-097111, a potent and selective SARS-CoV-2 3-chymotrypsin-like cysteine protease inhibitor exhibits in vivo efficacy in a Syrian Hamster model</a> (<a href="http://www.wikidata.org/entity/Q106873527">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BBRC.2021.03.096">10.1016/J.BBRC.2021.03.096</a></td>
+    <td>2021-06-02</td>
+    <td><a href="https://scholia.toolforge.org/Q107101917">Surface Proteins of SARS-CoV-2 Drive Airway Epithelial Cells to Induce IFN-Dependent Inflammation</a> (<a href="http://www.wikidata.org/entity/Q107101917">edit</a>)</td>
+    <td></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -319,7 +319,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18807</td>
+    <td>18830</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -578,12 +578,12 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>162</td>
+    <td>163</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89458416">spike glycoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89458416">edit</a>)</td>
-    <td>94</td>
+    <td>95</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -593,7 +593,7 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>68</td>
+    <td>69</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -692,6 +692,11 @@ Onde encontramos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90038963">Non-structural protein 7 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038963">edit</a>)</td>
     <td>14</td>
   </tr>
@@ -704,11 +709,6 @@ Onde encontramos:
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88656821">membrane protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656821">edit</a>)</td>
     <td>12</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
-    <td>11</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -22,47 +22,47 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104528694">C3267T</a> (<a href="http://www.wikidata.org/entity/Q104528694">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104400171">Lineage B.1.351</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">SARS-CoV-2 Gamma variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530561">C5388A</a> (<a href="http://www.wikidata.org/entity/Q104530561">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530598">C27972T</a> (<a href="http://www.wikidata.org/entity/Q104530598">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88089552">ORF8 protein</a> (<a href="http://www.wikidata.org/entity/Q88089552">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q106171157">Lineage P.3</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
@@ -77,12 +77,12 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532779">HV 69-70 deletion</a> (<a href="http://www.wikidata.org/entity/Q104532779">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532877">Y144 deletion</a> (<a href="http://www.wikidata.org/entity/Q104532877">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104532904">ORF8 ∆382</a> (<a href="http://www.wikidata.org/entity/Q104532904">edit</a>)</td>
@@ -97,12 +97,12 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104400171">Lineage B.1.351</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
@@ -112,7 +112,7 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104819269">Lineage P.1</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104819269">SARS-CoV-2 Gamma variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
@@ -137,52 +137,52 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628162">T6954C</a> (<a href="http://www.wikidata.org/entity/Q104628162">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628223">11288-11296 deletion</a> (<a href="http://www.wikidata.org/entity/Q104628223">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628256">C23271A</a> (<a href="http://www.wikidata.org/entity/Q104628256">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628268">C23709T</a> (<a href="http://www.wikidata.org/entity/Q104628268">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628271">T24506G</a> (<a href="http://www.wikidata.org/entity/Q104628271">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628278">G24914C</a> (<a href="http://www.wikidata.org/entity/Q104628278">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628287">G28048T</a> (<a href="http://www.wikidata.org/entity/Q104628287">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628290">A28111G</a> (<a href="http://www.wikidata.org/entity/Q104628290">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628296">C28977T</a> (<a href="http://www.wikidata.org/entity/Q104628296">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104628334">D3L</a> (<a href="http://www.wikidata.org/entity/Q104628334">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
 </table>
 ## コード例

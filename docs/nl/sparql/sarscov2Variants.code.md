@@ -81,6 +81,11 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2-variant-α</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q145">Verenigd Koninkrijk</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106171144">Lineage B.1.429</a> (<a href="http://www.wikidata.org/entity/Q106171144">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q99">Californië</a> (<a href="http://www.wikidata.org/entity/Q99">edit</a>)</td>
     <td></td>
@@ -98,11 +103,6 @@ SELECT DISTINCT ?variant ?variantLabel ?location ?locationLabel ?genome WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106581308">Lineage B.1.617</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q668">India</a> (<a href="http://www.wikidata.org/entity/Q668">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q104376647">Lineage B.1.1.7</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q145">Verenigd Koninkrijk</a> (<a href="http://www.wikidata.org/entity/Q145">edit</a>)</td>
     <td></td>
   </tr>
 </table>

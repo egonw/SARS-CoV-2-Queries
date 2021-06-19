@@ -12,9 +12,10 @@ Which lists these genome URLs:
 
 ### Variants
 
-Three variants of the virus genome made it into the international news: a Danish variant, a South-African variant,
-and a South-England variant. It must be noted that many variations are known and the following variants are listed
-because they have been discussed in newspapers:
+Multiple variants of the virus genome made it into the international news. Originally thes were known as
+a Danish variant, a South-African variant, and a South-England variant. But the variants were only first
+discovered there, and the variant is not caused by anything related to the region. The following variants
+are listed in Wikidata, and includes the [PANGO lineage code](https://github.com/cov-lineages/pangolin):
 
 <out>sarscov2Variants</out>
 

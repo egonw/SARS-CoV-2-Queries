@@ -628,6 +628,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-05-01</td>
+    <td><a href="https://scholia.toolforge.org/Q107283702">Peginterferon lambda for the treatment of outpatients with COVID-19: a phase 2, placebo-controlled randomised trial</a> (<a href="http://www.wikidata.org/entity/Q107283702">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S2213-2600(20)30566-X">10.1016/S2213-2600(20)30566-X</a></td>
+    <td>33556319</td>
+  </tr>
+  <tr>
+    <td>2021-05-01</td>
     <td><a href="https://scholia.toolforge.org/Q107181092">Host PDZ‐containing proteins targeted by SARS‐CoV‐2</a> (<a href="http://www.wikidata.org/entity/Q107181092">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/FEBS.15881">10.1111/FEBS.15881</a></td>
@@ -27823,7 +27830,7 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-04</td>
-    <td><a href="https://scholia.toolforge.org/Q100732182">Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</a> (<a href="http://www.wikidata.org/entity/Q100732182">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99302120">Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</a> (<a href="http://www.wikidata.org/entity/Q99302120">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.09.07.20189274">10.1101/2020.09.07.20189274</a></td>
     <td></td>
@@ -34893,13 +34900,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-11</td>
-    <td><a href="https://scholia.toolforge.org/Q102061357">Pooling samples: a testing option for SARS-CoV-2 during a supply shortage</a> (<a href="http://www.wikidata.org/entity/Q102061357">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.DIAGMICROBIO.2020.115205">10.1016/J.DIAGMICROBIO.2020.115205</a></td>
-    <td>33190092</td>
-  </tr>
-  <tr>
-    <td>2020-09-11</td>
     <td><a href="https://scholia.toolforge.org/Q99413124">New insight on possible vaccine development against SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99413124">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.LFS.2020.118421">10.1016/J.LFS.2020.118421</a></td>
@@ -34970,6 +34970,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-11</td>
+    <td><a href="https://scholia.toolforge.org/Q99552320">Functional interrogation of a SARS-CoV-2 host protein interactome identifies unique and shared coronavirus host factors</a> (<a href="http://www.wikidata.org/entity/Q99552320">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.09.11.291716">10.1101/2020.09.11.291716</a></td>
+    <td>32935098</td>
+  </tr>
+  <tr>
+    <td>2020-09-11</td>
     <td><a href="https://scholia.toolforge.org/Q99363834">Efficient high-throughput SARS-CoV-2 testing to detect asymptomatic carriers</a> (<a href="http://www.wikidata.org/entity/Q99363834">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIADV.ABC5961">10.1126/SCIADV.ABC5961</a></td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3201/EID2611.203283">10.3201/EID2611.203283</a></td>
     <td>32917294</td>
-  </tr>
-  <tr>
-    <td>2020-09-11</td>
-    <td><a href="https://scholia.toolforge.org/Q100436129">Comparative Review of SARS-CoV-2, SARS-CoV, MERS-CoV, and Influenza A Respiratory Viruses</a> (<a href="http://www.wikidata.org/entity/Q100436129">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FIMMU.2020.552909">10.3389/FIMMU.2020.552909</a></td>
-    <td>33013925</td>
   </tr>
   <tr>
     <td>2020-09-11</td>

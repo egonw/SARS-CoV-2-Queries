@@ -628,6 +628,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-05-01</td>
+    <td><a href="https://scholia.toolforge.org/Q107283702">Peginterferon lambda for the treatment of outpatients with COVID-19: a phase 2, placebo-controlled randomised trial</a> (<a href="http://www.wikidata.org/entity/Q107283702">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S2213-2600(20)30566-X">10.1016/S2213-2600(20)30566-X</a></td>
+    <td>33556319</td>
+  </tr>
+  <tr>
+    <td>2021-05-01</td>
     <td><a href="https://scholia.toolforge.org/Q107181092">Host PDZ‐containing proteins targeted by SARS‐CoV‐2</a> (<a href="http://www.wikidata.org/entity/Q107181092">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/FEBS.15881">10.1111/FEBS.15881</a></td>
@@ -27823,7 +27830,7 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-04</td>
-    <td><a href="https://scholia.toolforge.org/Q100732182">Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</a> (<a href="http://www.wikidata.org/entity/Q100732182">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99302120">Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</a> (<a href="http://www.wikidata.org/entity/Q99302120">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.09.07.20189274">10.1101/2020.09.07.20189274</a></td>
     <td></td>
@@ -34900,6 +34907,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-11</td>
+    <td><a href="https://scholia.toolforge.org/Q100385421">SARS-CoV-2 (COVID-19) in Patients with some Degree of Immunosuppression</a> (<a href="http://www.wikidata.org/entity/Q100385421">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.REUMA.2020.08.004">10.1016/J.REUMA.2020.08.004</a></td>
+    <td>32994151</td>
+  </tr>
+  <tr>
+    <td>2020-09-11</td>
     <td><a href="https://scholia.toolforge.org/Q99413022">SARS-CoV-2 transmission via speech-generated respiratory droplets</a> (<a href="http://www.wikidata.org/entity/Q99413022">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/S1473-3099(20)30726-X">10.1016/S1473-3099(20)30726-X</a></td>
@@ -34953,20 +34967,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1097/MPH.0000000000001943">10.1097/MPH.0000000000001943</a></td>
     <td>32925396</td>
-  </tr>
-  <tr>
-    <td>2020-09-11</td>
-    <td><a href="https://scholia.toolforge.org/Q99552320">Functional interrogation of a SARS-CoV-2 host protein interactome identifies unique and shared coronavirus host factors</a> (<a href="http://www.wikidata.org/entity/Q99552320">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.11.291716">10.1101/2020.09.11.291716</a></td>
-    <td>32935098</td>
-  </tr>
-  <tr>
-    <td>2020-09-11</td>
-    <td><a href="https://scholia.toolforge.org/Q99552340">Identifying zoonotic origin of SARS-CoV-2 by modeling the binding affinity between Spike receptor-binding domain and host ACE2</a> (<a href="http://www.wikidata.org/entity/Q99552340">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.11.293449">10.1101/2020.09.11.293449</a></td>
-    <td>32935105</td>
   </tr>
   <tr>
     <td>2020-09-11</td>

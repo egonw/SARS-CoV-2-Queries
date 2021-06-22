@@ -33,6 +33,10 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>P.2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q107059496">Lineage B.1.617.3</a> (<a href="http://www.wikidata.org/entity/Q107059496">edit</a>)</td>
+    <td>B.1.617.3</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107055239">SARS-CoV-2 Kappa variant</a> (<a href="http://www.wikidata.org/entity/Q107055239">edit</a>)</td>
     <td>B.1.617.1</td>
   </tr>
@@ -43,18 +47,6 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107291621">SARS-CoV-2 Lambda variant</a> (<a href="http://www.wikidata.org/entity/Q107291621">edit</a>)</td>
     <td>C.37</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171118">Lineage B.1.427</a> (<a href="http://www.wikidata.org/entity/Q106171118">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171144">Lineage B.1.429</a> (<a href="http://www.wikidata.org/entity/Q106171144">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171203">Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171244">Lineage B.1.1.7 with E484K</a> (<a href="http://www.wikidata.org/entity/Q106171244">edit</a>)</td>
@@ -69,28 +61,24 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106628019">Lineage B.1.618</a> (<a href="http://www.wikidata.org/entity/Q106628019">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q106171219">Lineage B.1.1.207</a> (<a href="http://www.wikidata.org/entity/Q106171219">edit</a>)</td>
     <td>B.1.1.207</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106809407">Lineage B.1.620</a> (<a href="http://www.wikidata.org/entity/Q106809407">edit</a>)</td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171195">Lineage B.1.525</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
     <td>B.1.525</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106332190">Lineage B.1.616</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
-    <td></td>
+    <td><a href="https://scholia.toolforge.org/Q106171118">Lineage B.1.427</a> (<a href="http://www.wikidata.org/entity/Q106171118">edit</a>)</td>
+    <td>B.1.427</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107059496">Lineage B.1.617.3</a> (<a href="http://www.wikidata.org/entity/Q107059496">edit</a>)</td>
-    <td></td>
+    <td><a href="https://scholia.toolforge.org/Q106171144">Lineage B.1.429</a> (<a href="http://www.wikidata.org/entity/Q106171144">edit</a>)</td>
+    <td>B.1.429</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106171203">Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
+    <td>B.1.1.318</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
@@ -101,12 +89,24 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>B.1.351</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106628019">Lineage B.1.618</a> (<a href="http://www.wikidata.org/entity/Q106628019">edit</a>)</td>
+    <td>B.1.618</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106809407">Lineage B.1.620</a> (<a href="http://www.wikidata.org/entity/Q106809407">edit</a>)</td>
+    <td>B.1.620</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
     <td>P.3</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106332190">Lineage B.1.616</a> (<a href="http://www.wikidata.org/entity/Q106332190">edit</a>)</td>
+    <td>B.1.616</td>
   </tr>
 </table>
 ## コード例

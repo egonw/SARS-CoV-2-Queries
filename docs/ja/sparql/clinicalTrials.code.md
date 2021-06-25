@@ -1198,7 +1198,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04322773</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q89154576">Colchicine Coronavirus SARS-CoV2 Trial</a> (<a href="http://www.wikidata.org/entity/Q89154576">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89154576">コルヒチンコロナウイルスSARS-CoV2試験</a> (<a href="http://www.wikidata.org/entity/Q89154576">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q326224">コルヒチン</a> (<a href="http://www.wikidata.org/entity/Q326224">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04322682</td>

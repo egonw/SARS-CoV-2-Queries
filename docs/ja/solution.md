@@ -197,6 +197,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q3560939">不活性化ワクチン</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106514993">AG0302-COVID‑19</a> (<a href="http://www.wikidata.org/entity/Q106514993">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q578537">DNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">MRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q85795487">RNAワクチン</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
   </tr>
@@ -207,10 +211,6 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96695265">Ad5-nCoV</a> (<a href="http://www.wikidata.org/entity/Q96695265">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96841548">アデノウイルスに基づくワクチン</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154230">シノファームCOVID-19ワクチン</a> (<a href="http://www.wikidata.org/entity/Q97154230">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560939">不活性化ワクチン</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/vaccines.code.html">sparql/vaccines.rq</a></td></tr>
 </table>

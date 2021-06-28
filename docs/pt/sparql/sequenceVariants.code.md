@@ -26,22 +26,22 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q104819269">SARS-CoV-2 Gamma variant</a> (<a href="http://www.wikidata.org/entity/Q104819269">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104529151">N501Y mutation</a> (<a href="http://www.wikidata.org/entity/Q104529151">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
   </tr>
   <tr>
@@ -56,22 +56,22 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q106171157">SARS-CoV-2 Theta variant</a> (<a href="http://www.wikidata.org/entity/Q106171157">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q106171203">Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104530608">P681H mutation</a> (<a href="http://www.wikidata.org/entity/Q104530608">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">SARS-CoV-2 spike protein gene</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q106171219">Lineage B.1.1.207</a> (<a href="http://www.wikidata.org/entity/Q106171219">edit</a>)</td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q106171118">Lineage B.1.427</a> (<a href="http://www.wikidata.org/entity/Q106171118">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171118">SARS-CoV-2 Epsilon variant</a> (<a href="http://www.wikidata.org/entity/Q106171118">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
@@ -127,7 +127,7 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q106171195">Lineage B.1.525</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171195">SARS-CoV-2 Eta variant</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>

@@ -29,8 +29,12 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>B.1.617</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107055212">Lineage P.2</a> (<a href="http://www.wikidata.org/entity/Q107055212">edit</a>)</td>
-    <td>P.2</td>
+    <td><a href="https://scholia.toolforge.org/Q106171195">SARS-CoV-2 Eta variant</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
+    <td>B.1.525</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106171118">SARS-CoV-2 Epsilon variant</a> (<a href="http://www.wikidata.org/entity/Q106171118">edit</a>)</td>
+    <td>B.1.427</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107059496">Lineage B.1.617.3</a> (<a href="http://www.wikidata.org/entity/Q107059496">edit</a>)</td>
@@ -49,6 +53,10 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>C.37</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q107055212">SARS-CoV-2 Zeta variant</a> (<a href="http://www.wikidata.org/entity/Q107055212">edit</a>)</td>
+    <td>P.2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106171244">Lineage B.1.1.7 with E484K</a> (<a href="http://www.wikidata.org/entity/Q106171244">edit</a>)</td>
     <td></td>
   </tr>
@@ -63,14 +71,6 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171219">Lineage B.1.1.207</a> (<a href="http://www.wikidata.org/entity/Q106171219">edit</a>)</td>
     <td>B.1.1.207</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171195">Lineage B.1.525</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
-    <td>B.1.525</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171118">Lineage B.1.427</a> (<a href="http://www.wikidata.org/entity/Q106171118">edit</a>)</td>
-    <td>B.1.427</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171144">Lineage B.1.429</a> (<a href="http://www.wikidata.org/entity/Q106171144">edit</a>)</td>

@@ -2690,7 +2690,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q28386996">Longitudinal analysis of Severe Acute Respiratory Syndrome (SARS) coronavirus-specific antibody in SARS patients.</a> (<a href="http://www.wikidata.org/entity/Q28386996">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28386996">Longitudinal analysis of Severe Acute Respiratory Syndrome (SARS) coronavirus-specific antibody in SARS patients</a> (<a href="http://www.wikidata.org/entity/Q28386996">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

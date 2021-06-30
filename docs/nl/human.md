@@ -425,11 +425,6 @@ curatie is het te verwachten dat dit snel toeneemt:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88278881">Linoleic acid metabolism affected by coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q88278881">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 en COVID-19 pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
   </tr>
   <tr>
@@ -446,11 +441,6 @@ curatie is het te verwachten dat dit snel toeneemt:
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q107363266">T-cell activation SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q107363266">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87917585">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88278881">Linoleic acid metabolism affected by coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q88278881">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -495,11 +485,6 @@ curatie is het te verwachten dat dit snel toeneemt:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88655710">envelope eiwit [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88278881">Linoleic acid metabolism affected by coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q88278881">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88655710">envelope eiwit [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88292589">SARS-CoV-2 en COVID-19 pathway</a> (<a href="http://www.wikidata.org/entity/Q88292589">edit</a>)</td>
   </tr>
   <tr>
@@ -511,11 +496,6 @@ curatie is het te verwachten dat dit snel toeneemt:
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88656821">membraan eiwit [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656821">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q105667202">SARS-CoV-2 innate immunity evasion and cell-specific immune response</a> (<a href="http://www.wikidata.org/entity/Q105667202">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88656821">membraan eiwit [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656821">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88278881">Linoleic acid metabolism affected by coronavirus infection</a> (<a href="http://www.wikidata.org/entity/Q88278881">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

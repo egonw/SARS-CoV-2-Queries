@@ -436,10 +436,6 @@ SELECT ?date ?numberOfCases WHERE {
     <td>321</td>
   </tr>
   <tr>
-    <td>2021-01-14</td>
-    <td>895543</td>
-  </tr>
-  <tr>
     <td>2020-04-30</td>
     <td>39316</td>
   </tr>
@@ -994,6 +990,14 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2021-06-26</td>
     <td>1682773</td>
+  </tr>
+  <tr>
+    <td>2021-06-27</td>
+    <td>1683271</td>
+  </tr>
+  <tr>
+    <td>2021-06-28</td>
+    <td>1683828</td>
   </tr>
 </table>
 ## コード例

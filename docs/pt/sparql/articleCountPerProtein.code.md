@@ -33,7 +33,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104500452">Non-structural protein 11 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q104500452">edit</a>)</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90042407">Non-structural protein 14 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042407">edit</a>)</td>
@@ -69,11 +69,11 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89226299">ORF6 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89226299">edit</a>)</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104520877">ORF9c protein [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q104520877">edit</a>)</td>
@@ -85,7 +85,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88658500">Protein 7a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88658500">edit</a>)</td>
-    <td>10</td>
+    <td>12</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89597571">Protein ORF9b [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89597571">edit</a>)</td>
@@ -101,7 +101,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
-    <td>12</td>
+    <td>14</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
@@ -121,7 +121,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>34</td>
+    <td>35</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88656943">non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
@@ -129,11 +129,11 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>69</td>
+    <td>70</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104440033">putative protein ORF3c</a> (<a href="http://www.wikidata.org/entity/Q104440033">edit</a>)</td>
@@ -141,7 +141,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>199</td>
+    <td>208</td>
   </tr>
 </table>
 ## Code examples

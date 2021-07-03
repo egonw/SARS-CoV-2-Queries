@@ -4458,7 +4458,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30218075">Yeast-expressed recombinant protein of the receptor-binding domain in SARS-CoV spike protein with deglycosylated forms as a SARS vaccine candidate.</a> (<a href="http://www.wikidata.org/entity/Q30218075">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30218075">Yeast-expressed recombinant protein of the receptor-binding domain in SARS-CoV spike protein with deglycosylated forms as a SARS vaccine candidate</a> (<a href="http://www.wikidata.org/entity/Q30218075">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -502,7 +502,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30230531">Amino acids 15-28 in the ectodomain of SARS coronavirus 3a protein induces neutralizing antibodies.</a> (<a href="http://www.wikidata.org/entity/Q30230531">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30230531">Amino acids 15-28 in the ectodomain of SARS coronavirus 3a protein induces neutralizing antibodies</a> (<a href="http://www.wikidata.org/entity/Q30230531">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3286,7 +3286,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30249325">SARS and MERS: recent insights into emerging coronaviruses.</a> (<a href="http://www.wikidata.org/entity/Q30249325">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30249325">SARS and MERS: recent insights into emerging coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q30249325">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3798,7 +3798,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30229462">Structural proteomics of the SARS coronavirus: a model response to emerging infectious diseases.</a> (<a href="http://www.wikidata.org/entity/Q30229462">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30229462">Structural proteomics of the SARS coronavirus: a model response to emerging infectious diseases</a> (<a href="http://www.wikidata.org/entity/Q30229462">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4150,7 +4150,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30234893">The role of epidermal growth factor receptor (EGFR) signaling in SARS coronavirus-induced pulmonary fibrosis.</a> (<a href="http://www.wikidata.org/entity/Q30234893">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30234893">The role of epidermal growth factor receptor (EGFR) signaling in SARS coronavirus-induced pulmonary fibrosis</a> (<a href="http://www.wikidata.org/entity/Q30234893">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

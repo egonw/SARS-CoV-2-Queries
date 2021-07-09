@@ -51,6 +51,21 @@ This gives these 10 papers:
     <td><a href="https://doi.org/10.1016/J.JAUT.2021.102682">10.1016/J.JAUT.2021.102682</a></td>
   </tr>
   <tr>
+    <td>2021-07-07</td>
+    <td><a href="https://scholia.toolforge.org/Q107455553">Interactomes of SARS-CoV-2 and human coronaviruses reveal host factors potentially affecting pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q107455553">edit</a>)</td>
+    <td><a href="https://doi.org/10.15252/embj.2021107776">10.15252/embj.2021107776</a></td>
+  </tr>
+  <tr>
+    <td>2021-07-07</td>
+    <td><a href="https://scholia.toolforge.org/Q107455662">SARS-CoV-2 Nsp3 unique domain SUD interacts with guanine quadruplexes and G4-ligands inhibit this interaction</a> (<a href="http://www.wikidata.org/entity/Q107455662">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/NAR/GKAB571">10.1093/NAR/GKAB571</a></td>
+  </tr>
+  <tr>
+    <td>2021-07-06</td>
+    <td><a href="https://scholia.toolforge.org/Q107455345">Mechanisms of immunothrombosis in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q107455345">edit</a>)</td>
+    <td><a href="https://doi.org/10.1097/MOH.0000000000000666">10.1097/MOH.0000000000000666</a></td>
+  </tr>
+  <tr>
     <td>2021-07-01</td>
     <td><a href="https://scholia.toolforge.org/Q107138033">Mutations in SARS-CoV-2 nsp7 and nsp8 proteins and their predicted impact on replication/transcription complex structure</a> (<a href="http://www.wikidata.org/entity/Q107138033">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.26791">10.1002/JMV.26791</a></td>
@@ -59,21 +74,6 @@ This gives these 10 papers:
     <td>2021-07-01</td>
     <td><a href="https://scholia.toolforge.org/Q107138279">SARS-Cov-2 spike protein fragment 674–685 protects mitochondria from releasing cytochrome c in response to apoptogenic influence</a> (<a href="http://www.wikidata.org/entity/Q107138279">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BBRC.2021.05.018">10.1016/J.BBRC.2021.05.018</a></td>
-  </tr>
-  <tr>
-    <td>2021-07-01</td>
-    <td><a href="https://scholia.toolforge.org/Q107320867">SARS-CoV-2's claimed natural origin is undermined by issues with genome sequences of its relative strains: Coronavirus sequences RaTG13, MP789 and RmYN02 raise multiple questions to be critically addressed by the scientific community</a> (<a href="http://www.wikidata.org/entity/Q107320867">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/BIES.202100015">10.1002/BIES.202100015</a></td>
-  </tr>
-  <tr>
-    <td>2021-07-01</td>
-    <td><a href="https://scholia.toolforge.org/Q107404382">Variations in Orf3a protein of SARS-CoV-2 alter its structure and function</a> (<a href="http://www.wikidata.org/entity/Q107404382">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BBREP.2021.100933">10.1016/J.BBREP.2021.100933</a></td>
-  </tr>
-  <tr>
-    <td>2021-06-29</td>
-    <td><a href="https://scholia.toolforge.org/Q107389239">IL-13 is a driver of COVID-19 severity</a> (<a href="http://www.wikidata.org/entity/Q107389239">edit</a>)</td>
-    <td><a href="https://doi.org/10.1172/JCI.INSIGHT.150107">10.1172/JCI.INSIGHT.150107</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -218,6 +218,11 @@ Which currently returns:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2021-07-07</td>
+    <td><a href="https://scholia.toolforge.org/Q107455662">SARS-CoV-2 Nsp3 unique domain SUD interacts with guanine quadruplexes and G4-ligands inhibit this interaction</a> (<a href="http://www.wikidata.org/entity/Q107455662">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/NAR/GKAB571">10.1093/NAR/GKAB571</a></td>
+  </tr>
+  <tr>
     <td>2021-07-01</td>
     <td><a href="https://scholia.toolforge.org/Q107138279">SARS-Cov-2 spike protein fragment 674–685 protects mitochondria from releasing cytochrome c in response to apoptogenic influence</a> (<a href="http://www.wikidata.org/entity/Q107138279">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BBRC.2021.05.018">10.1016/J.BBRC.2021.05.018</a></td>
@@ -251,11 +256,6 @@ Which currently returns:
     <td>2021-06-25</td>
     <td><a href="https://scholia.toolforge.org/Q107404564">Characterization of SARS-CoV-2 nucleocapsid protein reveals multiple functional consequences of the C-terminal domain</a> (<a href="http://www.wikidata.org/entity/Q107404564">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.ISCI.2021.102681">10.1016/J.ISCI.2021.102681</a></td>
-  </tr>
-  <tr>
-    <td>2021-06-25</td>
-    <td><a href="https://scholia.toolforge.org/Q107404629">Energetic and structural features of SARS-CoV-2 N-protein co-assemblies with nucleic acids</a> (<a href="http://www.wikidata.org/entity/Q107404629">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.ISCI.2021.102523">10.1016/J.ISCI.2021.102523</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -381,7 +381,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>18973</td>
+    <td>18977</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -670,7 +670,7 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>43</td>
+    <td>45</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

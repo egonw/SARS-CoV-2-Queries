@@ -41,16 +41,6 @@ This gives these 10 papers:
     <td></td>
   </tr>
   <tr>
-    <td>2021-08-01</td>
-    <td><a href="https://scholia.toolforge.org/Q107324240">Autoantibodies against ACE2 and angiotensin type-1 receptors increase severity of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q107324240">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JAUT.2021.102683">10.1016/J.JAUT.2021.102683</a></td>
-  </tr>
-  <tr>
-    <td>2021-08-01</td>
-    <td><a href="https://scholia.toolforge.org/Q107379554">Unique autoantibody prevalence in long-term recovered SARS-CoV-2-infected individuals</a> (<a href="http://www.wikidata.org/entity/Q107379554">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JAUT.2021.102682">10.1016/J.JAUT.2021.102682</a></td>
-  </tr>
-  <tr>
     <td>2021-07-09</td>
     <td><a href="https://scholia.toolforge.org/Q107476703">Pathogenic lipid‐binding antiphospholipid antibodies are associated with severity of COVID‐19</a> (<a href="http://www.wikidata.org/entity/Q107476703">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/JTH.15455">10.1111/JTH.15455</a></td>
@@ -59,6 +49,11 @@ This gives these 10 papers:
     <td>2021-07-08</td>
     <td><a href="https://scholia.toolforge.org/Q107476758">Targeting liquid–liquid phase separation of SARS-CoV-2 nucleocapsid protein promotes innate antiviral immunity by elevating MAVS activity</a> (<a href="http://www.wikidata.org/entity/Q107476758">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41556-021-00710-0">10.1038/S41556-021-00710-0</a></td>
+  </tr>
+  <tr>
+    <td>2021-07-08</td>
+    <td><a href="https://scholia.toolforge.org/Q107481323">Autoimmunity to Annexin A2 predicts mortality among hospitalised COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q107481323">edit</a>)</td>
+    <td><a href="https://doi.org/10.1183/13993003.00918-2021">10.1183/13993003.00918-2021</a></td>
   </tr>
   <tr>
     <td>2021-07-07</td>
@@ -74,6 +69,11 @@ This gives these 10 papers:
     <td>2021-07-07</td>
     <td><a href="https://scholia.toolforge.org/Q107466751">Glycosylation of SARS-CoV-2: structural and functional insights</a> (<a href="http://www.wikidata.org/entity/Q107466751">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S00216-021-03499-X">10.1007/S00216-021-03499-X</a></td>
+  </tr>
+  <tr>
+    <td>2021-07-07</td>
+    <td><a href="https://scholia.toolforge.org/Q107472858">Drugs repurposed for COVID-19 by virtual screening of 6,218 drugs and cell-based assay</a> (<a href="http://www.wikidata.org/entity/Q107472858">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2024302118">10.1073/PNAS.2024302118</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -381,7 +381,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>19005</td>
+    <td>19006</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -389,7 +389,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td>1041</td>
+    <td>1042</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>

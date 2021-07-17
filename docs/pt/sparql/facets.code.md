@@ -215,6 +215,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96731877">Responses to the COVID-19 pandemic in July 2020</a> (<a href="http://www.wikidata.org/entity/Q96731877">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q97208864">impact of the COVID-19 pandemic in Israel</a> (<a href="http://www.wikidata.org/entity/Q97208864">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q97357752">Covid Watch</a> (<a href="http://www.wikidata.org/entity/Q97357752">edit</a>)</td>
   </tr>
   <tr>

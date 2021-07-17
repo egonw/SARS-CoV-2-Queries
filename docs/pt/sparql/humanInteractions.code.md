@@ -30,6 +30,20 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2021-06-23</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107338266">TMPRSS2 expression dictates the entry route used by SARS‐CoV‐2 to infect host cells</a> (<a href="http://www.wikidata.org/entity/Q107338266">edit</a>)</td>
+    <td><a href="https://doi.org/10.15252/EMBJ.2021107821">10.15252/EMBJ.2021107821</a></td>
+  </tr>
+  <tr>
+    <td>2021-06-23</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107338266">TMPRSS2 expression dictates the entry route used by SARS‐CoV‐2 to infect host cells</a> (<a href="http://www.wikidata.org/entity/Q107338266">edit</a>)</td>
+    <td><a href="https://doi.org/10.15252/EMBJ.2021107821">10.15252/EMBJ.2021107821</a></td>
+  </tr>
+  <tr>
     <td>2021-05-27</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21136292">Transmembrane protein 41B</a> (<a href="http://www.wikidata.org/entity/Q21136292">edit</a>)</td>

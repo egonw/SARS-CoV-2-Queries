@@ -39,12 +39,12 @@ This gives us these numbers of papers:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>

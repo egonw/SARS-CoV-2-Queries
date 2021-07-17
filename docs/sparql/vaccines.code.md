@@ -35,6 +35,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q58623657">virus-like particle vaccine</a> (<a href="http://www.wikidata.org/entity/Q58623657">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q100694835">BriLife</a> (<a href="http://www.wikidata.org/entity/Q100694835">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106336308">viral vector vaccine</a> (<a href="http://www.wikidata.org/entity/Q106336308">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q101246544">bacTRL-Spike</a> (<a href="http://www.wikidata.org/entity/Q101246544">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q578537">DNA vaccine</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>

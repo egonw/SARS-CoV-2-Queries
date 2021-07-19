@@ -1510,7 +1510,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30420796">Development of chemical inhibitors of the SARS coronavirus: viral helicase as a potential target.</a> (<a href="http://www.wikidata.org/entity/Q30420796">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30420796">Development of chemical inhibitors of the SARS coronavirus: viral helicase as a potential target</a> (<a href="http://www.wikidata.org/entity/Q30420796">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

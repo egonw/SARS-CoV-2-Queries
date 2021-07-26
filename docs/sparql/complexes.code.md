@@ -77,6 +77,14 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-6147">CPX-6147</a></td>
     <td><a href="https://scholia.toolforge.org/Q104903079">SARS-CoV-2 ORF8 complex</a> (<a href="http://www.wikidata.org/entity/Q104903079">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-6442">CPX-6442</a></td>
+    <td><a href="https://scholia.toolforge.org/Q107602195">SARS-CoV-2 replication and transcription complex</a> (<a href="http://www.wikidata.org/entity/Q107602195">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-6761">CPX-6761</a></td>
+    <td><a href="https://scholia.toolforge.org/Q107604473">SARS-CoV-2 Spike - human CLEC4M lectin complex</a> (<a href="http://www.wikidata.org/entity/Q107604473">edit</a>)</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

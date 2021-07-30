@@ -373,7 +373,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 in SARS-CoV-2 patients</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 on SARS-CoV-2 pathway</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -393,7 +393,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 in SARS-CoV-2 patients</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 on SARS-CoV-2 pathway</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -448,7 +448,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 in SARS-CoV-2 patients</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 on SARS-CoV-2 pathway</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -518,7 +518,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88659350">ORF8 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88659350">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 in SARS-CoV-2 patients</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 on SARS-CoV-2 pathway</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -628,7 +628,7 @@ Atualmente, essa busca enumera as seguintes vias (mas espera-se que com a curado
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90038963">Non-structural protein 7 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038963">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 in SARS-CoV-2 patients</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107363260">Antiviral and anti-inflammatory effects of Nrf2 on SARS-CoV-2 pathway</a> (<a href="http://www.wikidata.org/entity/Q107363260">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

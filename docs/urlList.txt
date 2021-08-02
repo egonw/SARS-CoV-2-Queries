@@ -5238,6 +5238,15 @@ https://scholia.toolforge.org/Q107675583
 https://scholia.toolforge.org/Q107675629
 https://scholia.toolforge.org/Q107695302
 https://scholia.toolforge.org/Q107695328
+https://scholia.toolforge.org/Q107713694
+https://scholia.toolforge.org/Q107713706
+https://scholia.toolforge.org/Q107713714
+https://scholia.toolforge.org/Q107713920
+https://scholia.toolforge.org/Q107736003
+https://scholia.toolforge.org/Q107739555
+https://scholia.toolforge.org/Q107739603
+https://scholia.toolforge.org/Q107739719
+https://scholia.toolforge.org/Q107750316
 https://scholia.toolforge.org/Q1128440
 https://scholia.toolforge.org/Q114
 https://scholia.toolforge.org/Q114085

@@ -272,7 +272,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q103408251">Responses to the COVID-19 pandemic in December 2020</a> (<a href="http://www.wikidata.org/entity/Q103408251">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104604502">timeline of the COVID-19 pandemic in January 2021</a> (<a href="http://www.wikidata.org/entity/Q104604502">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104604502">Cronologia da pandemia de COVID-19 em janeiro de 2021</a> (<a href="http://www.wikidata.org/entity/Q104604502">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104604512">Responses to the COVID-19 pandemic in January 2021</a> (<a href="http://www.wikidata.org/entity/Q104604512">edit</a>)</td>

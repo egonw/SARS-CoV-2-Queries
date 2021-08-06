@@ -19836,13 +19836,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-11-03</td>
-    <td><a href="https://scholia.toolforge.org/Q101165753">A 67-Year-Old Woman with Sudden Hearing Loss Associated with SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q101165753">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.12659/AJCR.927519">10.12659/AJCR.927519</a></td>
-    <td>33139689</td>
-  </tr>
-  <tr>
-    <td>2020-11-03</td>
     <td><a href="https://scholia.toolforge.org/Q104463987">Integrative vectors for regulated expression of SARS-CoV-2 proteins implicated in RNA metabolism</a> (<a href="http://www.wikidata.org/entity/Q104463987">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.12688/WELLCOMEOPENRES.16322.1">10.12688/WELLCOMEOPENRES.16322.1</a></td>
@@ -34788,6 +34781,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-16</td>
+    <td><a href="https://scholia.toolforge.org/Q99559553">Targeting RNA G-quadruplex in SARS-CoV-2: A Promising Therapeutic Target for COVID-19?</a> (<a href="http://www.wikidata.org/entity/Q99559553">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/ANIE.202011419">10.1002/ANIE.202011419</a></td>
+    <td>32939952</td>
+  </tr>
+  <tr>
+    <td>2020-09-16</td>
     <td><a href="https://scholia.toolforge.org/Q99554353">SARS-CoV-2 multifaceted interaction with the human host. Part II: Innate immunity response, immunopathology, and epigenetics</a> (<a href="http://www.wikidata.org/entity/Q99554353">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/IUB.2379">10.1002/IUB.2379</a></td>
@@ -34848,6 +34848,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.DLD.2020.09.009">10.1016/J.DLD.2020.09.009</a></td>
     <td>33023827</td>
+  </tr>
+  <tr>
+    <td>2020-09-16</td>
+    <td><a href="https://scholia.toolforge.org/Q99573850">A case of probable Parkinson's disease after SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q99573850">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S1474-4422(20)30305-7">10.1016/S1474-4422(20)30305-7</a></td>
+    <td>32949534</td>
   </tr>
   <tr>
     <td>2020-09-16</td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1212/WNL.0000000000010878">10.1212/WNL.0000000000010878</a></td>
     <td>32938783</td>
-  </tr>
-  <tr>
-    <td>2020-09-16</td>
-    <td><a href="https://scholia.toolforge.org/Q102129683">REDIAL-2020: A Suite of Machine Learning Models to Estimate Anti-SARS-CoV-2 Activities</a> (<a href="http://www.wikidata.org/entity/Q102129683">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.26434/CHEMRXIV.12915779">10.26434/CHEMRXIV.12915779</a></td>
-    <td>33200119</td>
   </tr>
   <tr>
     <td>2020-09-16</td>

@@ -101,7 +101,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q88860637">Aplauso por los trabajadores de la salud</a> (<a href="http://www.wikidata.org/entity/Q88860637">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88903067">cancelled sports event due to the 2019–21 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88903067">evento deportivo cancelado por la pandemia de coronavirus 2019-21</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89016387">Timeline of the COVID-19 pandemic in April 2020</a> (<a href="http://www.wikidata.org/entity/Q89016387">edit</a>)</td>
@@ -110,7 +110,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q89031984">evento cancelado por la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q89031984">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q89033277">postponed sports event due to the 2019–21 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89033277">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89033277">evento deportivo pospuesto por la pandemia de coronavirus 2019-21</a> (<a href="http://www.wikidata.org/entity/Q89033277">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89113106">Impact of the 2019–20 coronavirus pandemic on the arts and cultural heritage</a> (<a href="http://www.wikidata.org/entity/Q89113106">edit</a>)</td>

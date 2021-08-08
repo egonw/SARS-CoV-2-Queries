@@ -1,10 +1,11 @@
-// Copyright (c) 2011-2019  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2011-2021  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
 // find all references to scripts
 //
 // it takes one optional argument, which is appended to the output
+import static groovy.io.FileType.*
 
 if (args.length == 0) {
   println "groovy findScripts.groovy <directory> [suffix]"
@@ -17,8 +18,8 @@ def suffix = ""
 if (args.length == 2) suffix = args[1]
 
 def basedir = new File(folder)
-files = basedir.listFiles().grep(~/.*.md$/)
-files.each { file ->
+def esdir = new File(folder + "/es")
+basedir.eachFileRecurse(FILES) { file ->
   file.eachLine { line ->
     try {
       if (line.contains("<sparql>")) {

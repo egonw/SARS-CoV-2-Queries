@@ -8,6 +8,14 @@ Which gives us:
 
 <out>earthAllCasesToday</out>
 
+The impact per country varies a lot, here shown as a bubble chart:
+
+<iframe>deathsPerHundredThousand</iframe>
+
+which can be generated with this SPARQL query (inspired by [<cite>Q105833381</cite>]):
+
+<sparql>deathsPerHundredThousand</sparql>
+
 ## Virus <topic>transmission</topic>
 
 The spread of the virus happens because the virus is too easily transmitted from
@@ -92,4 +100,7 @@ Which shows:
 
 <iframe>progressionUS</iframe>
 
+## References
+
+<references/>
 

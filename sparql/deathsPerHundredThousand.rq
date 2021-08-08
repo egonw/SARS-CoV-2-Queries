@@ -1,0 +1,11 @@
+#defaultView:BubbleChart
+SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) WITH {
+  SELECT DISTINCT ?country (MAX(?numDeaths) AS ?maxDeath) (MAX(?population) AS ?maxPopulation) WHERE {
+    ?outbreak p:P31 [ ps:P31 wd:Q3241045 ; pq:P642 wd:Q84263196 ] ;
+              wdt:P276 ?country ; wdt:P1120 ?numDeaths .
+    ?country wdt:P31 wd:Q3624078 ; wdt:P1082 ?population .
+  } GROUP BY ?country
+} AS %DATA {
+  INCLUDE %DATA
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "<lang/>,en". }
+}

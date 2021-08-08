@@ -74,15 +74,20 @@ Listing these complexes:
 
 <out>complexes</out>
 
-### PDB structures
+## PDB structures
 
 For the proteins, we can then query for the <topic>PDB structures</topic> [<cite>Q30491855</cite>]:
 
 <sparql>virusProteinsPDB</sparql>
 
-Which gives us:
+The full list can be found on the linked `sparql/complexes.rq` page, which has become quite long
+so we will just visualize the number of PDB entries per protein here:
 
-<out>virusProteinsPDB</out>
+<iframe>virusProteinsPDBBubbleChart</iframe>
+
+Which was created with this query:
+
+<sparql>virusProteinsPDBBubbleChart</sparql>
 
 ## References
 

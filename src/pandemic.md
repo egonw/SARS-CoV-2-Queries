@@ -35,8 +35,7 @@ Which shows us for the human coronaviruses these articles:
 
 ## Progression
 
-However, we may be more interested in the number of cases over time.
-Then we need a more complex query suitable for statement qualifiers:
+Whatever the transmission, the spread has been devastating:
 
 <sparql>earthAllCases</sparql>
 
@@ -93,17 +92,4 @@ Which shows:
 
 <iframe>progressionUS</iframe>
 
-## Graphed Regional progression
-
-### Cases
-
-<sparql>graphCases</sparql>
-
-This shows us:
-
-<iframe>graphCases</iframe>
-
-### Deaths
-
-<sparql>graphDeaths</sparql>
 

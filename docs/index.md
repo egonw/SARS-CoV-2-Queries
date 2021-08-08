@@ -71,16 +71,13 @@ To cite one of the translations:
 4.3.1. [Progression in The Netherlands](pandemic.md#progression-in-the-netherlands) <br />
 4.3.2. [Progression in Italy](pandemic.md#progression-in-italy) <br />
 4.3.3. [Progression in the U.S.A.](pandemic.md#progression-in-the-usa) <br />
-4.4. [Graphed Regional progression](pandemic.md#graphed-regional-progression) <br />
-4.4.1. [Cases](pandemic.md#cases) <br />
-4.4.2. [Deaths](pandemic.md#deaths) <br />
 5. [SARS-CoV-2](sarscov2.md) <br />
 5.1. [Genomes](sarscov2.md#genomes) <br />
 5.1.1. [Variants](sarscov2.md#variants) <br />
 5.2. [Genes](sarscov2.md#genes) <br />
 5.3. [Proteins](sarscov2.md#proteins) <br />
 5.4. [Protein complexes](sarscov2.md#protein-complexes) <br />
-5.4.1. [PDB structures](sarscov2.md#pdb-structures) <br />
+5.5. [PDB structures](sarscov2.md#pdb-structures) <br />
 6. [Genomes, Genes, and Proteins](genes.md) <br />
 6.1. [All SARSr genes](genes.md#all-sarsr-genes) <br />
 6.1.1. [All SARSr proteins](genes.md#all-sarsr-proteins) <br />

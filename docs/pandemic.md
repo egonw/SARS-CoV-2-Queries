@@ -26,6 +26,34 @@ Which gives us:
   </tr>
 </table>
 
+The impact per country varies a lot, here shown as a bubble chart:
+
+<iframe
+  style="width: 95%; height: 50vh; border: none;"
+  src="https://query.wikidata.org/embed.html#%23defaultView%3ABubbleChart%0ASELECT%20%3FcountryLabel%20%28%28%3FmaxDeath*100000%29%2F%3FmaxPopulation%20AS%20%3FnumOfDeathsPer100k%29%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fcountry%20%28MAX%28%3FnumDeaths%29%20AS%20%3FmaxDeath%29%20%28MAX%28%3Fpopulation%29%20AS%20%3FmaxPopulation%29%20WHERE%20%7B%0A%20%20%20%20%3Foutbreak%20p%3AP31%20%5B%20ps%3AP31%20wd%3AQ3241045%20%3B%20pq%3AP642%20wd%3AQ84263196%20%5D%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP276%20%3Fcountry%20%3B%20wdt%3AP1120%20%3FnumDeaths%20.%0A%20%20%20%20%3Fcountry%20wdt%3AP31%20wd%3AQ3624078%20%3B%20wdt%3AP1082%20%3Fpopulation%20.%0A%20%20%7D%20GROUP%20BY%20%3Fcountry%0A%7D%20AS%20%25DATA%20%7B%0A%20%20INCLUDE%20%25DATA%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A"
+
+  referrerpolicy="origin"
+  sandbox="allow-scripts allow-same-origin allow-popups" >
+</iframe>
+
+which can be generated with this SPARQL query (inspired by [<a href="#citeref1">1</a>]):
+
+**SPARQL** [sparql/deathsPerHundredThousand.rq](sparql/deathsPerHundredThousand.code.html) ([run](https://query.wikidata.org/embed.html#%23defaultView%3ABubbleChart%0ASELECT%20%3FcountryLabel%20%28%28%3FmaxDeath*100000%29%2F%3FmaxPopulation%20AS%20%3FnumOfDeathsPer100k%29%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fcountry%20%28MAX%28%3FnumDeaths%29%20AS%20%3FmaxDeath%29%20%28MAX%28%3Fpopulation%29%20AS%20%3FmaxPopulation%29%20WHERE%20%7B%0A%20%20%20%20%3Foutbreak%20p%3AP31%20%5B%20ps%3AP31%20wd%3AQ3241045%20%3B%20pq%3AP642%20wd%3AQ84263196%20%5D%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP276%20%3Fcountry%20%3B%20wdt%3AP1120%20%3FnumDeaths%20.%0A%20%20%20%20%3Fcountry%20wdt%3AP31%20wd%3AQ3624078%20%3B%20wdt%3AP1082%20%3Fpopulation%20.%0A%20%20%7D%20GROUP%20BY%20%3Fcountry%0A%7D%20AS%20%25DATA%20%7B%0A%20%20INCLUDE%20%25DATA%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#%23defaultView%3ABubbleChart%0ASELECT%20%3FcountryLabel%20%28%28%3FmaxDeath*100000%29%2F%3FmaxPopulation%20AS%20%3FnumOfDeathsPer100k%29%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fcountry%20%28MAX%28%3FnumDeaths%29%20AS%20%3FmaxDeath%29%20%28MAX%28%3Fpopulation%29%20AS%20%3FmaxPopulation%29%20WHERE%20%7B%0A%20%20%20%20%3Foutbreak%20p%3AP31%20%5B%20ps%3AP31%20wd%3AQ3241045%20%3B%20pq%3AP642%20wd%3AQ84263196%20%5D%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP276%20%3Fcountry%20%3B%20wdt%3AP1120%20%3FnumDeaths%20.%0A%20%20%20%20%3Fcountry%20wdt%3AP31%20wd%3AQ3624078%20%3B%20wdt%3AP1082%20%3Fpopulation%20.%0A%20%20%7D%20GROUP%20BY%20%3Fcountry%0A%7D%20AS%20%25DATA%20%7B%0A%20%20INCLUDE%20%25DATA%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A))
+
+```sparql
+#defaultView:BubbleChart
+SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) WITH {
+  SELECT DISTINCT ?country (MAX(?numDeaths) AS ?maxDeath) (MAX(?population) AS ?maxPopulation) WHERE {
+    ?outbreak p:P31 [ ps:P31 wd:Q3241045 ; pq:P642 wd:Q84263196 ] ;
+              wdt:P276 ?country ; wdt:P1120 ?numDeaths .
+    ?country wdt:P31 wd:Q3624078 ; wdt:P1082 ?population .
+  } GROUP BY ?country
+} AS %DATA {
+  INCLUDE %DATA
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+}
+```
+
 ## Virus <a name="tp2">transmission</a>
 
 The spread of the virus happens because the virus is too easily transmitted from
@@ -301,5 +329,9 @@ Which shows:
   referrerpolicy="origin"
   sandbox="allow-scripts allow-same-origin allow-popups" >
 </iframe>
+
+## References
+
+1. <a name="citeref1"></a>Darari F. COVIWD: COVID-19 Wikidata Dashboard. Jurnal Ilmu Komputer dan Informasi. 2021 Mar 1;14(1):39–47.  doi:[10.21609/JIKI.V14I1.941](https://doi.org/10.21609/JIKI.V14I1.941) ([Scholia](https://scholia.toolforge.org/doi/10.21609/JIKI.V14I1.941))
 
 

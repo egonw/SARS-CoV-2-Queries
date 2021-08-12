@@ -22,7 +22,7 @@ O que nos dá (até o momento que o documento foi gerado):
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
-    <td>130459184</td>
+    <td>200840180</td>
   </tr>
 </table>
 

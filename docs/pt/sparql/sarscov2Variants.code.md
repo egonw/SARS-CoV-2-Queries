@@ -101,6 +101,10 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>B.1.618</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q108004869">Delta plus variant</a> (<a href="http://www.wikidata.org/entity/Q108004869">edit</a>)</td>
+    <td>AY.1</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
     <td></td>
   </tr>

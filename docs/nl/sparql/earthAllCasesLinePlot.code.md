@@ -113,27 +113,27 @@ SELECT ?date ?numberOfCases WHERE {
   </tr>
   <tr>
     <td>2020-02-13</td>
-    <td>60329</td>
-  </tr>
-  <tr>
-    <td>2020-02-13</td>
     <td>46997</td>
   </tr>
   <tr>
-    <td>2020-02-14</td>
-    <td>49053</td>
+    <td>2020-02-13</td>
+    <td>60329</td>
   </tr>
   <tr>
     <td>2020-02-14</td>
     <td>64437</td>
   </tr>
   <tr>
-    <td>2020-02-15</td>
-    <td>50580</td>
+    <td>2020-02-14</td>
+    <td>49053</td>
   </tr>
   <tr>
     <td>2020-02-15</td>
     <td>67102</td>
+  </tr>
+  <tr>
+    <td>2020-02-15</td>
+    <td>50580</td>
   </tr>
   <tr>
     <td>2020-02-16</td>
@@ -974,6 +974,10 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2021-04-06</td>
     <td>130459184</td>
+  </tr>
+  <tr>
+    <td>2021-08-06</td>
+    <td>200840180</td>
   </tr>
 </table>
 ## Broncode voorbeelden

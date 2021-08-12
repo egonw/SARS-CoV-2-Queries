@@ -77,12 +77,12 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
     <td>B.1.617.2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107461066">Lineage C.36</a> (<a href="http://www.wikidata.org/entity/Q107461066">edit</a>)</td>
-    <td>C.36</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q107291621">SARS-CoV-2 Lambda variant</a> (<a href="http://www.wikidata.org/entity/Q107291621">edit</a>)</td>
     <td>C.37</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q107461066">Lineage C.36</a> (<a href="http://www.wikidata.org/entity/Q107461066">edit</a>)</td>
+    <td>C.36</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107055212">SARS-CoV-2 Zeta variant</a> (<a href="http://www.wikidata.org/entity/Q107055212">edit</a>)</td>
@@ -127,6 +127,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106628019">Lineage B.1.618</a> (<a href="http://www.wikidata.org/entity/Q106628019">edit</a>)</td>
     <td>B.1.618</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108004869">Delta plus variant</a> (<a href="http://www.wikidata.org/entity/Q108004869">edit</a>)</td>
+    <td>AY.1</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>

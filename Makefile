@@ -9,14 +9,11 @@ SUBDIRS := sparql
 
 all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md docs/urlList.txt
 	@cp sparql/*.code.en.md docs/sparql
-	@rename.ul 'en.md' 'md' docs/sparql/*.md
+	@rename -f "s/\.en.md/\.md/" docs/sparql/*.en.md
 	@for lang in $(L10N) ; do \
+		echo "Moving files for $$lang..." ; \
 		cp sparql/*.code.$$lang.md docs/$$lang/sparql ; \
-		rename.ul "$$lang.md" 'md' docs/$$lang/sparql/*.md ; \
-	done
-	@cp indexList.en.md docs/indexList.md
-	@for lang in $(L10N) ; do \
-		cp indexList.$$lang.md docs/$$lang/indexList.md ; \
+		rename -f "s/\.$$lang\.md/\.md/" docs/$$lang/sparql/*.$$lang.md ; \
 	done
 
 docs/urlList.txt: urlList.txt

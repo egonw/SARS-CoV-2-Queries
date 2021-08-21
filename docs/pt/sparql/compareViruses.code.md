@@ -258,7 +258,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30785119">A human SARS-CoV neutralizing antibody against epitope on S2 protein.</a> (<a href="http://www.wikidata.org/entity/Q30785119">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30785119">A human SARS-CoV neutralizing antibody against epitope on S2 protein</a> (<a href="http://www.wikidata.org/entity/Q30785119">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1158,7 +1158,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30767947">Determination of SARS-coronavirus by a microfluidic chip system.</a> (<a href="http://www.wikidata.org/entity/Q30767947">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30767947">Determination of SARS-coronavirus by a microfluidic chip system</a> (<a href="http://www.wikidata.org/entity/Q30767947">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2822,7 +2822,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30783772">Potent and specific inhibition of SARS-CoV antigen expression by RNA interference.</a> (<a href="http://www.wikidata.org/entity/Q30783772">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30783772">Potent and specific inhibition of SARS-CoV antigen expression by RNA interference</a> (<a href="http://www.wikidata.org/entity/Q30783772">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

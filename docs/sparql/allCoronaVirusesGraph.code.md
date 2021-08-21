@@ -432,11 +432,6 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/277944">277944</a></td>
   </tr>
@@ -446,22 +441,22 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q57751738">Orthocoronavirinae</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694002">694002</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q57751738">Orthocoronavirinae</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q16908525">Alphacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/693996">693996</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q57751738">Orthocoronavirinae</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q16955738">Deltacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16955738">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1159901">1159901</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q57751738">Orthocoronavirinae</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q57751738">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q57751738">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q16977225">Gammacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16977225">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694013">694013</a></td>
   </tr>

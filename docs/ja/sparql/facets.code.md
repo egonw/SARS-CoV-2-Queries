@@ -149,7 +149,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q90840989">新型コロナウイルスが観光に与えた影響</a> (<a href="http://www.wikidata.org/entity/Q90840989">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q91104866">social distancing measures related to the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91104866">新型コロナウイルス感染症の世界的流行に関する社会距離拡大戦略</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91280428">Protests over responses to the  coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91280428">edit</a>)</td>
@@ -161,7 +161,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q91911563">Impact of the 2019–20 coronavirus pandemic on the performing arts</a> (<a href="http://www.wikidata.org/entity/Q91911563">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q92150479">Impact of the 2019–20 coronavirus pandemic on journalism</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q92150479">impact of the COVID-19 pandemic on journalism</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92600442">timeline of the COVID-19 pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
@@ -203,7 +203,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96401587">Responses to the COVID-19 pandemic in April 2020</a> (<a href="http://www.wikidata.org/entity/Q96401587">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96419281">investigations into the origin of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96419281">COVID-19の起源</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96728989">Timeline of the COVID-19 pandemic in July 2020</a> (<a href="http://www.wikidata.org/entity/Q96728989">edit</a>)</td>

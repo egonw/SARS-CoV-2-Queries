@@ -432,11 +432,6 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q16983360">Menselijk coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q290805">Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q290805">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q8351095">Menselijk Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/277944">277944</a></td>
   </tr>

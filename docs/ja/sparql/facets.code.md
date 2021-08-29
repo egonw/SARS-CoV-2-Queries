@@ -152,7 +152,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q91104866">新型コロナウイルス感染症の世界的流行に関する社会距離拡大戦略</a> (<a href="http://www.wikidata.org/entity/Q91104866">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q91280428">Protests over responses to the  coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91280428">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91280428">Protests over responses to the coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q91280428">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91493633">Wikipedia's response to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q91493633">edit</a>)</td>

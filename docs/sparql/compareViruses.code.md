@@ -2750,7 +2750,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30939828">Mass spectrometric characterization of proteins from the SARS virus: a preliminary report.</a> (<a href="http://www.wikidata.org/entity/Q30939828">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30939828">Mass spectrometric characterization of proteins from the SARS virus: a preliminary report</a> (<a href="http://www.wikidata.org/entity/Q30939828">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3986,7 +3986,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30851115">Structural and biochemical investigation of heptad repeat derived peptides of human SARS corona virus (hSARS-CoV) spike protein.</a> (<a href="http://www.wikidata.org/entity/Q30851115">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30851115">Structural and biochemical investigation of heptad repeat derived peptides of human SARS corona virus (hSARS-CoV) spike protein</a> (<a href="http://www.wikidata.org/entity/Q30851115">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

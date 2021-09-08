@@ -506,7 +506,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q31126174">A network integration approach to predict conserved regulators related to pathogenicity of influenza and SARS-CoV respiratory viruses.</a> (<a href="http://www.wikidata.org/entity/Q31126174">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q31126174">A network integration approach to predict conserved regulators related to pathogenicity of influenza and SARS-CoV respiratory viruses</a> (<a href="http://www.wikidata.org/entity/Q31126174">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -918,7 +918,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q31041420">Expression cloning of functional receptor used by SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q31041420">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q31041420">Expression cloning of functional receptor used by SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q31041420">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1250,7 +1250,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q30986002">Mining SARS-CoV protease cleavage data using non-orthogonal decision trees: a novel method for decisive template selection.</a> (<a href="http://www.wikidata.org/entity/Q30986002">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q30986002">Mining SARS-CoV protease cleavage data using non-orthogonal decision trees: a novel method for decisive template selection</a> (<a href="http://www.wikidata.org/entity/Q30986002">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1410,7 +1410,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q31059560">Probing the structure of the SARS coronavirus using scanning electron microscopy.</a> (<a href="http://www.wikidata.org/entity/Q31059560">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q31059560">Probing the structure of the SARS coronavirus using scanning electron microscopy</a> (<a href="http://www.wikidata.org/entity/Q31059560">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1534,7 +1534,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q31004830">SARS associated coronavirus has a recombinant polymerase and coronaviruses have a history of host-shifting.</a> (<a href="http://www.wikidata.org/entity/Q31004830">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q31004830">SARS associated coronavirus has a recombinant polymerase and coronaviruses have a history of host-shifting</a> (<a href="http://www.wikidata.org/entity/Q31004830">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

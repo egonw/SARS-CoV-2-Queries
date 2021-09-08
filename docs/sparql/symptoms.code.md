@@ -49,6 +49,9 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q183425">abdominal pain</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q184674">erectile dysfunction</a> (<a href="http://www.wikidata.org/entity/Q184674">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q186889">nausea</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
   </tr>
   <tr>

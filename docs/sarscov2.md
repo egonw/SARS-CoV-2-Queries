@@ -77,6 +77,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
     <td>B.1.617.2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q108371293">SARS-CoV-2 Mu variant</a> (<a href="http://www.wikidata.org/entity/Q108371293">edit</a>)</td>
+    <td>B.1.621</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107461066">Lineage C.36</a> (<a href="http://www.wikidata.org/entity/Q107461066">edit</a>)</td>
     <td>C.36</td>
   </tr>

@@ -59,7 +59,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q5161160">結合型ワクチン</a> (<a href="http://www.wikidata.org/entity/Q5161160">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q105217191">COVIran Barakat</a> (<a href="http://www.wikidata.org/entity/Q105217191">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105217191">COVIran Barekat</a> (<a href="http://www.wikidata.org/entity/Q105217191">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3560939">不活性化ワクチン</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>

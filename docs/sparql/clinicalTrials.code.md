@@ -593,7 +593,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435739">Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q89435739">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q11426176">prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q11426176">Q11426176</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04329650</td>
   </tr>
@@ -1091,13 +1091,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154372">Efficacy of Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome</a> (<a href="http://www.wikidata.org/entity/Q89154372">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q11426176">prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q11426176">Q11426176</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04323592</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154372">Efficacy of Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome</a> (<a href="http://www.wikidata.org/entity/Q89154372">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q11426176">prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q11426176">Q11426176</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04323592</td>
   </tr>

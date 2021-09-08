@@ -49,6 +49,9 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q183425">腹痛</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q184674">勃起不全</a> (<a href="http://www.wikidata.org/entity/Q184674">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q186889">吐き気</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
   </tr>
   <tr>

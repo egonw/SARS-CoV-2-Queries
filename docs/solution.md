@@ -203,7 +203,7 @@ It currently list not many:
     <td><a href="https://scholia.toolforge.org/Q5161160">conjugate vaccine</a> (<a href="http://www.wikidata.org/entity/Q5161160">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q105217191">COVIran Barakat</a> (<a href="http://www.wikidata.org/entity/Q105217191">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105217191">COVIran Barekat</a> (<a href="http://www.wikidata.org/entity/Q105217191">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3560939">inactivated vaccine</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
@@ -426,7 +426,7 @@ This gives:
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q11426176">prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q11426176">Q11426176</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrialsByIntervention.code.html">sparql/clinicalTrialsByIntervention.rq</a></td></tr>

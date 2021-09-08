@@ -131,7 +131,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q17149812">Janus kinase inhibitors</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q17149812">ヤヌスキナーゼ阻害薬</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>

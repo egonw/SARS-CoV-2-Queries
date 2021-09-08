@@ -82,6 +82,9 @@ Listado de estos síntomas:
     <td><a href="https://scholia.toolforge.org/Q183425">dolor abdominal</a> (<a href="http://www.wikidata.org/entity/Q183425">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q184674">disfunción eréctil</a> (<a href="http://www.wikidata.org/entity/Q184674">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q186889">náusea</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
   </tr>
   <tr>

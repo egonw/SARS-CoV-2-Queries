@@ -61,7 +61,7 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Budesonide.png</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q11426176">Q11426176</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q11426176">Prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Prednisolone.svg</td>
   </tr>
   <tr>

@@ -39,6 +39,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><b>pubmed</b></td>
   </tr>
   <tr>
+    <td>2021-09-03</td>
+    <td><a href="https://scholia.toolforge.org/Q108443190">Ethacridine inhibits SARS-CoV-2 by inactivating viral particles</a> (<a href="http://www.wikidata.org/entity/Q108443190">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1009898">10.1371/JOURNAL.PPAT.1009898</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2021-09-01</td>
     <td><a href="https://scholia.toolforge.org/Q108396912">A dual-role of SARS-CoV-2 nucleocapsid protein in regulating innate immune response</a> (<a href="http://www.wikidata.org/entity/Q108396912">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -51,6 +58,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41564-021-00958-0">10.1038/S41564-021-00958-0</a></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2021-08-31</td>
+    <td><a href="https://scholia.toolforge.org/Q108443151">Impact of temperature on the affinity of SARS-CoV-2 Spike glycoprotein for host ACE2</a> (<a href="http://www.wikidata.org/entity/Q108443151">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JBC.2021.101151">10.1016/J.JBC.2021.101151</a></td>
+    <td>34478710</td>
   </tr>
   <tr>
     <td>2021-08-31</td>
@@ -5147,6 +5161,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0253089">10.1371/JOURNAL.PONE.0253089</a></td>
     <td>34166398</td>
+  </tr>
+  <tr>
+    <td>2021-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q108443213">Development of ACE2 autoantibodies after SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q108443213">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0257016">10.1371/JOURNAL.PONE.0257016</a></td>
+    <td>34478478</td>
   </tr>
   <tr>
     <td>2021-01-01</td>
@@ -34956,13 +34977,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q105408236">Finding Prediction of Interaction between SARS-CoV-2 and Human Protein: A Data Driven Approach</a> (<a href="http://www.wikidata.org/entity/Q105408236">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.21203/RS.3.RS-73045/V1">10.21203/RS.3.RS-73045/V1</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
     <td><a href="https://scholia.toolforge.org/Q99566933">Mast cells activated by SARS-CoV-2 release histamine which increases IL-1 levels causing cytokine storm and inflammatory reaction in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q99566933">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.23812/20-2EDIT">10.23812/20-2EDIT</a></td>
@@ -35044,20 +35058,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.5858/ARPA.2020-0487-LE">10.5858/ARPA.2020-0487-LE</a></td>
     <td>32947611</td>
-  </tr>
-  <tr>
-    <td>2020-09-17</td>
-    <td><a href="https://scholia.toolforge.org/Q99556372">In silico investigation of spice molecules as potent inhibitor of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99556372">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/07391102.2020.1819879">10.1080/07391102.2020.1819879</a></td>
-    <td>32938313</td>
-  </tr>
-  <tr>
-    <td>2020-09-17</td>
-    <td><a href="https://scholia.toolforge.org/Q99556353">Platelets Can Associate with SARS-Cov-2 RNA and Are Hyperactivated in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q99556353">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1161/CIRCRESAHA.120.317703">10.1161/CIRCRESAHA.120.317703</a></td>
-    <td>32938299</td>
   </tr>
 </table>
 ## Ejemplos de código

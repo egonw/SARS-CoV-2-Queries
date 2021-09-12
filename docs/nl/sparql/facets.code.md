@@ -313,6 +313,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107588346">Q107588346</a> (<a href="http://www.wikidata.org/entity/Q107588346">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

@@ -426,7 +426,7 @@ This gives:
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q11426176">Prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q11426176">prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrialsByIntervention.code.html">sparql/clinicalTrialsByIntervention.rq</a></td></tr>

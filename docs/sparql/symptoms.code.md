@@ -55,7 +55,7 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q186889">nausea</a> (<a href="http://www.wikidata.org/entity/Q186889">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q188008">dyspnea</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q188008">dyspneacex</a> (<a href="http://www.wikidata.org/entity/Q188008">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q199615">encephalitis</a> (<a href="http://www.wikidata.org/entity/Q199615">edit</a>)</td>

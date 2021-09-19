@@ -65,6 +65,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
     <td>B.1.427</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q107985125">SARS-CoV-2 Mu variant</a> (<a href="http://www.wikidata.org/entity/Q107985125">edit</a>)</td>
+    <td>B.1.621</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107059496">Lineage B.1.617.3</a> (<a href="http://www.wikidata.org/entity/Q107059496">edit</a>)</td>
     <td>B.1.617.3</td>
   </tr>
@@ -75,10 +79,6 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107055182">SARS-CoV-2 Delta variant</a> (<a href="http://www.wikidata.org/entity/Q107055182">edit</a>)</td>
     <td>B.1.617.2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q108371293">SARS-CoV-2 Mu variant</a> (<a href="http://www.wikidata.org/entity/Q108371293">edit</a>)</td>
-    <td>B.1.621</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107461066">Lineage C.36</a> (<a href="http://www.wikidata.org/entity/Q107461066">edit</a>)</td>
@@ -115,10 +115,6 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171203">Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
     <td>B.1.1.318</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q107985125">SARS-CoV-2 B.1.621 variant</a> (<a href="http://www.wikidata.org/entity/Q107985125">edit</a>)</td>
-    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>

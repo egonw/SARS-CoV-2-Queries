@@ -442,7 +442,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33247472">A new nucleotide-composition based fingerprint of SARS-CoV with visualization analysis.</a> (<a href="http://www.wikidata.org/entity/Q33247472">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33247472">A new nucleotide-composition based fingerprint of SARS-CoV with visualization analysis</a> (<a href="http://www.wikidata.org/entity/Q33247472">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -538,7 +538,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33256026">Accumulation of recombinant SARS-CoV spike protein in plant cytosol and chloroplasts indicate potential for development of plant-derived oral vaccines.</a> (<a href="http://www.wikidata.org/entity/Q33256026">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33256026">Accumulation of recombinant SARS-CoV spike protein in plant cytosol and chloroplasts indicate potential for development of plant-derived oral vaccines</a> (<a href="http://www.wikidata.org/entity/Q33256026">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -598,7 +598,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33243091">An efficient method for the synthesis of peptide aldehyde libraries employed in the discovery of reversible SARS coronavirus main protease (SARS-CoV Mpro) inhibitors.</a> (<a href="http://www.wikidata.org/entity/Q33243091">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33243091">An efficient method for the synthesis of peptide aldehyde libraries employed in the discovery of reversible SARS coronavirus main protease (SARS-CoV Mpro) inhibitors</a> (<a href="http://www.wikidata.org/entity/Q33243091">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -650,7 +650,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33205812">Animal origins of SARS coronavirus: possible links with the international trade in small carnivores.</a> (<a href="http://www.wikidata.org/entity/Q33205812">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33205812">Animal origins of SARS coronavirus: possible links with the international trade in small carnivores</a> (<a href="http://www.wikidata.org/entity/Q33205812">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -874,7 +874,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33225199">Binding interaction of SARS coronavirus 3CL(pro) protease with vacuolar-H+ ATPase G1 subunit.</a> (<a href="http://www.wikidata.org/entity/Q33225199">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33225199">Binding interaction of SARS coronavirus 3CL(pro) protease with vacuolar-H+ ATPase G1 subunit</a> (<a href="http://www.wikidata.org/entity/Q33225199">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2090,7 +2090,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33212372">Identification of single-chain antibody fragments specific against SARS-associated coronavirus from phage-displayed antibody library.</a> (<a href="http://www.wikidata.org/entity/Q33212372">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33212372">Identification of single-chain antibody fragments specific against SARS-associated coronavirus from phage-displayed antibody library</a> (<a href="http://www.wikidata.org/entity/Q33212372">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3218,7 +3218,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33239175">Rapid peptide-based screening on the substrate specificity of severe acute respiratory syndrome (SARS) coronavirus 3C-like protease by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry.</a> (<a href="http://www.wikidata.org/entity/Q33239175">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33239175">Rapid peptide-based screening on the substrate specificity of severe acute respiratory syndrome (SARS) coronavirus 3C-like protease by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry</a> (<a href="http://www.wikidata.org/entity/Q33239175">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3526,7 +3526,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33211511">SARS-CoV protease inhibitors design using virtual screening method from natural products libraries.</a> (<a href="http://www.wikidata.org/entity/Q33211511">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33211511">SARS-CoV protease inhibitors design using virtual screening method from natural products libraries</a> (<a href="http://www.wikidata.org/entity/Q33211511">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3618,7 +3618,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33209364">SARS-coronavirus replication in human peripheral monocytes/macrophages.</a> (<a href="http://www.wikidata.org/entity/Q33209364">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33209364">SARS-coronavirus replication in human peripheral monocytes/macrophages</a> (<a href="http://www.wikidata.org/entity/Q33209364">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3694,7 +3694,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33261049">Selection of SARS-coronavirus-specific B cell epitopes by phage peptide library screening and evaluation of the immunological effect of epitope-based peptides on mice.</a> (<a href="http://www.wikidata.org/entity/Q33261049">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33261049">Selection of SARS-coronavirus-specific B cell epitopes by phage peptide library screening and evaluation of the immunological effect of epitope-based peptides on mice</a> (<a href="http://www.wikidata.org/entity/Q33261049">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3702,7 +3702,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33223139">Sensitive detection of SARS coronavirus RNA by a novel asymmetric multiplex nested RT-PCR amplification coupled with oligonucleotide microarray hybridization.</a> (<a href="http://www.wikidata.org/entity/Q33223139">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33223139">Sensitive detection of SARS coronavirus RNA by a novel asymmetric multiplex nested RT-PCR amplification coupled with oligonucleotide microarray hybridization</a> (<a href="http://www.wikidata.org/entity/Q33223139">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3778,7 +3778,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33248093">Severe acute respiratory syndrome (SARS): development of diagnostics and antivirals.</a> (<a href="http://www.wikidata.org/entity/Q33248093">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33248093">Severe acute respiratory syndrome (SARS): development of diagnostics and antivirals</a> (<a href="http://www.wikidata.org/entity/Q33248093">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4182,7 +4182,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33223190">The interaction of the SARS coronavirus non-structural protein 10 with the cellular oxido-reductase system causes an extensive cytopathic effect.</a> (<a href="http://www.wikidata.org/entity/Q33223190">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33223190">The interaction of the SARS coronavirus non-structural protein 10 with the cellular oxido-reductase system causes an extensive cytopathic effect</a> (<a href="http://www.wikidata.org/entity/Q33223190">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4246,7 +4246,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33207348">The spike protein of severe acute respiratory syndrome (SARS) is cleaved in virus infected Vero-E6 cells.</a> (<a href="http://www.wikidata.org/entity/Q33207348">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33207348">The spike protein of severe acute respiratory syndrome (SARS) is cleaved in virus infected Vero-E6 cells</a> (<a href="http://www.wikidata.org/entity/Q33207348">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

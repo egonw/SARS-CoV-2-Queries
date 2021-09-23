@@ -822,7 +822,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33268016">Development and validation of a high-throughput screen for inhibitors of SARS CoV and its application in screening of a 100,000-compound library.</a> (<a href="http://www.wikidata.org/entity/Q33268016">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33268016">Development and validation of a high-throughput screen for inhibitors of SARS CoV and its application in screening of a 100,000-compound library</a> (<a href="http://www.wikidata.org/entity/Q33268016">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2118,7 +2118,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33269158">A mouse-adapted SARS-coronavirus causes disease and mortality in BALB/c mice.</a> (<a href="http://www.wikidata.org/entity/Q33269158">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33269158">A mouse-adapted SARS-coronavirus causes disease and mortality in BALB/c mice</a> (<a href="http://www.wikidata.org/entity/Q33269158">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -105,6 +105,18 @@ This gives us:
     <td><a href="https://scholia.toolforge.org/Q105759623">BtCoV/BM48-31/Rhi bla/Bulgaria/2008</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q107719644">RhGB01</a> (<a href="http://www.wikidata.org/entity/Q107719644">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108616377">BANAL-52</a> (<a href="http://www.wikidata.org/entity/Q108616377">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108616505">BANAL-103</a> (<a href="http://www.wikidata.org/entity/Q108616505">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 
 If we compare this list with that in Section [2.2](#sec:sevenhuman) we note that
@@ -367,6 +379,18 @@ This gives us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105759623">BtCoV/BM48-31/Rhi bla/Bulgaria/2008</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q107719644">RhGB01</a> (<a href="http://www.wikidata.org/entity/Q107719644">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108616377">BANAL-52</a> (<a href="http://www.wikidata.org/entity/Q108616377">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108616505">BANAL-103</a> (<a href="http://www.wikidata.org/entity/Q108616505">edit</a>)</td>
     <td></td>
   </tr>
 </table>

@@ -285,6 +285,21 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://scholia.toolforge.org/Q105759623">BtCoV/BM48-31/Rhi bla/Bulgaria/2008</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107719644">RhGB01</a> (<a href="http://www.wikidata.org/entity/Q107719644">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108616377">BANAL-52</a> (<a href="http://www.wikidata.org/entity/Q108616377">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108616505">BANAL-103</a> (<a href="http://www.wikidata.org/entity/Q108616505">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 ## Code examples
 ### curl

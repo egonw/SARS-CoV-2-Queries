@@ -203,7 +203,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96401587">Responses to the COVID-19 pandemic in April 2020</a> (<a href="http://www.wikidata.org/entity/Q96401587">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96419281">investigations into the origin of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96419281">Investigaciones sobre el origen del COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96728989">cronología de la pandemia de COVID-19 en julio 2020</a> (<a href="http://www.wikidata.org/entity/Q96728989">edit</a>)</td>

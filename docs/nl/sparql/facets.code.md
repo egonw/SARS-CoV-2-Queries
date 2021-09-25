@@ -89,7 +89,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q88545234">Coronaparty</a> (<a href="http://www.wikidata.org/entity/Q88545234">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88599208">coronavirus recession</a> (<a href="http://www.wikidata.org/entity/Q88599208">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88599208">COVID-19 recession</a> (<a href="http://www.wikidata.org/entity/Q88599208">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88634378">impact of the COVID-19 pandemic on the video game industry</a> (<a href="http://www.wikidata.org/entity/Q88634378">edit</a>)</td>

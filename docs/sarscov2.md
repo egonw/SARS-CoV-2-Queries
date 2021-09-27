@@ -431,6 +431,10 @@ Which gives us these genes:
     <td><a href="https://scholia.toolforge.org/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; COVID19; HCoV-19; Human coronavirus 2019; SARS-2; SARS-CoV2; SARS2; Wuhan coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/43562271">43562271</a></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108485892">ORF3d</a> (<a href="http://www.wikidata.org/entity/Q108485892">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 
 ## Proteins

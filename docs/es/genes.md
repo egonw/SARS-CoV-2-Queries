@@ -109,6 +109,10 @@ Lo que nos da estos genes:
     <td><a href="https://scholia.toolforge.org/Q88105063">Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; COVID19; HCoV-19; Human coronavirus 2019; SARS-2; SARS-CoV2; SARS2; Wuhan coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88105063">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/43562271">43562271</a></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108485892">ORF3d</a> (<a href="http://www.wikidata.org/entity/Q108485892">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 
 ### Proteínas
@@ -6697,6 +6701,11 @@ Que devuelve:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108485892">ORF3d</a> (<a href="http://www.wikidata.org/entity/Q108485892">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/43740568">43740568</a></td>
   </tr>
@@ -7613,6 +7622,11 @@ Que devuelve:
     <td><a href="https://scholia.toolforge.org/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88173040">ORF8b protein</a> (<a href="http://www.wikidata.org/entity/Q88173040">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/19910005">19910005</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108485892">ORF3d</a> (<a href="http://www.wikidata.org/entity/Q108485892">edit</a>)</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

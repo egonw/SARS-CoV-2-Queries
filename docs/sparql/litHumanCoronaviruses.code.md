@@ -46,6 +46,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>34013835</td>
   </tr>
   <tr>
+    <td>2021-09-28</td>
+    <td><a href="https://scholia.toolforge.org/Q108766311">Representing COVID-19 information in collaborative knowledge graphs: The case of Wikidata</a> (<a href="http://www.wikidata.org/entity/Q108766311">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3233/SW-210444">10.3233/SW-210444</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2021-09-23</td>
     <td><a href="https://scholia.toolforge.org/Q108685841">Palmitoylation of SARS‐CoV‐2 S protein is critical for S‐mediated syncytia formation and virus entry</a> (<a href="http://www.wikidata.org/entity/Q108685841">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -2609,6 +2616,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-03-25</td>
+    <td><a href="https://scholia.toolforge.org/Q108739599">SARS-CoV-2 infection rewires host cell metabolism and is potentially susceptible to mTORC1 inhibition</a> (<a href="http://www.wikidata.org/entity/Q108739599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-22166-4">10.1038/S41467-021-22166-4</a></td>
+    <td>33767183</td>
+  </tr>
+  <tr>
+    <td>2021-03-25</td>
     <td><a href="https://scholia.toolforge.org/Q106292554">Assessing transmissibility of SARS-CoV-2 lineage B.1.1.7 in England</a> (<a href="http://www.wikidata.org/entity/Q106292554">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-021-03470-X">10.1038/S41586-021-03470-X</a></td>
@@ -3827,13 +3841,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q107143967">Similarities and Dissimilarities of COVID-19 and Other Coronavirus Diseases</a> (<a href="http://www.wikidata.org/entity/Q107143967">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>33492978</td>
-  </tr>
-  <tr>
-    <td>2021-01-25</td>
     <td><a href="https://scholia.toolforge.org/Q105098704">Loss of furin cleavage site attenuates SARS-CoV-2 pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q105098704">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-021-03237-4">10.1038/S41586-021-03237-4</a></td>
@@ -3852,6 +3859,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2021.01.25.427948">10.1101/2021.01.25.427948</a></td>
     <td>33501442</td>
+  </tr>
+  <tr>
+    <td>2021-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q107143967">Similarities and Dissimilarities of COVID-19 and Other Coronavirus Diseases</a> (<a href="http://www.wikidata.org/entity/Q107143967">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1146/ANNUREV-MICRO-110520-023212">10.1146/ANNUREV-MICRO-110520-023212</a></td>
+    <td>33492978</td>
   </tr>
   <tr>
     <td>2021-01-25</td>
@@ -5574,6 +5588,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3389/FGENE.2021.663098">10.3389/FGENE.2021.663098</a></td>
     <td>34122515</td>
+  </tr>
+  <tr>
+    <td>2021-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q108739582">Structural Analysis of SARS-CoV-2 ORF8 Protein: Pathogenic and Therapeutic Implications</a> (<a href="http://www.wikidata.org/entity/Q108739582">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FGENE.2021.693227">10.3389/FGENE.2021.693227</a></td>
+    <td>34552615</td>
   </tr>
   <tr>
     <td>2021-01-01</td>
@@ -34858,13 +34879,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q100519036">Review of novel human β-coronavirus (2019-nCoV or SARS-CoV-2) from the food industry perspective-Appropriate approaches to food production technology</a> (<a href="http://www.wikidata.org/entity/Q100519036">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/FSN3.1892">10.1002/FSN3.1892</a></td>
-    <td>33042532</td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
     <td><a href="https://scholia.toolforge.org/Q100298328">A non-homogeneous Markov early epidemic growth dynamics model. Application to the SARS-CoV-2 pandemic</a> (<a href="http://www.wikidata.org/entity/Q100298328">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CHAOS.2020.110297">10.1016/J.CHAOS.2020.110297</a></td>
@@ -34904,6 +34918,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.STEM.2020.09.013">10.1016/J.STEM.2020.09.013</a></td>
     <td>32979316</td>
+  </tr>
+  <tr>
+    <td>2020-09-18</td>
+    <td><a href="https://scholia.toolforge.org/Q100661091">SARS-CoV-2 Vaccine Development: An Overview and Perspectives</a> (<a href="http://www.wikidata.org/entity/Q100661091">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1021/ACSPTSCI.0C00109">10.1021/ACSPTSCI.0C00109</a></td>
+    <td>33062951</td>
   </tr>
   <tr>
     <td>2020-09-18</td>
@@ -35012,31 +35033,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q99566933">Mast cells activated by SARS-CoV-2 release histamine which increases IL-1 levels causing cytokine storm and inflammatory reaction in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q99566933">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.23812/20-2EDIT">10.23812/20-2EDIT</a></td>
-    <td>32945158</td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q100519609">Direct Clinical Evidence Recommending the Use of Proteinase K or Dithiothreitol to Pretreat Sputum for Detection of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100519609">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FMED.2020.549860">10.3389/FMED.2020.549860</a></td>
-    <td>33043036</td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
     <td><a href="https://scholia.toolforge.org/Q100726581">Small Non-coding RNAs: Do They Encode Answers for Controlling SARS-CoV-2 in the Future?</a> (<a href="http://www.wikidata.org/entity/Q100726581">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3389/FMICB.2020.571553">10.3389/FMICB.2020.571553</a></td>
     <td>33072032</td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q100518502">Viruses That Can and Cannot Coexist With Humans and the Future of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100518502">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FMICB.2020.583252">10.3389/FMICB.2020.583252</a></td>
-    <td>33042101</td>
   </tr>
   <tr>
     <td>2020-09-18</td>

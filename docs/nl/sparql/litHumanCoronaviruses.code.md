@@ -46,6 +46,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>34013835</td>
   </tr>
   <tr>
+    <td>2021-09-28</td>
+    <td><a href="https://scholia.toolforge.org/Q108766311">Representing COVID-19 information in collaborative knowledge graphs: The case of Wikidata</a> (<a href="http://www.wikidata.org/entity/Q108766311">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3233/SW-210444">10.3233/SW-210444</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2021-09-23</td>
     <td><a href="https://scholia.toolforge.org/Q108685841">Palmitoylation of SARS‐CoV‐2 S protein is critical for S‐mediated syncytia formation and virus entry</a> (<a href="http://www.wikidata.org/entity/Q108685841">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -2609,6 +2616,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-03-25</td>
+    <td><a href="https://scholia.toolforge.org/Q108739599">SARS-CoV-2 infection rewires host cell metabolism and is potentially susceptible to mTORC1 inhibition</a> (<a href="http://www.wikidata.org/entity/Q108739599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-22166-4">10.1038/S41467-021-22166-4</a></td>
+    <td>33767183</td>
+  </tr>
+  <tr>
+    <td>2021-03-25</td>
     <td><a href="https://scholia.toolforge.org/Q106292554">Assessing transmissibility of SARS-CoV-2 lineage B.1.1.7 in England</a> (<a href="http://www.wikidata.org/entity/Q106292554">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-021-03470-X">10.1038/S41586-021-03470-X</a></td>
@@ -3827,13 +3841,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q107143967">Similarities and Dissimilarities of COVID-19 and Other Coronavirus Diseases</a> (<a href="http://www.wikidata.org/entity/Q107143967">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td>33492978</td>
-  </tr>
-  <tr>
-    <td>2021-01-25</td>
     <td><a href="https://scholia.toolforge.org/Q105098704">Loss of furin cleavage site attenuates SARS-CoV-2 pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q105098704">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-021-03237-4">10.1038/S41586-021-03237-4</a></td>
@@ -3852,6 +3859,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2021.01.25.427948">10.1101/2021.01.25.427948</a></td>
     <td>33501442</td>
+  </tr>
+  <tr>
+    <td>2021-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q107143967">Similarities and Dissimilarities of COVID-19 and Other Coronavirus Diseases</a> (<a href="http://www.wikidata.org/entity/Q107143967">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1146/ANNUREV-MICRO-110520-023212">10.1146/ANNUREV-MICRO-110520-023212</a></td>
+    <td>33492978</td>
   </tr>
   <tr>
     <td>2021-01-25</td>
@@ -5574,6 +5588,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3389/FGENE.2021.663098">10.3389/FGENE.2021.663098</a></td>
     <td>34122515</td>
+  </tr>
+  <tr>
+    <td>2021-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q108739582">Structural Analysis of SARS-CoV-2 ORF8 Protein: Pathogenic and Therapeutic Implications</a> (<a href="http://www.wikidata.org/entity/Q108739582">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FGENE.2021.693227">10.3389/FGENE.2021.693227</a></td>
+    <td>34552615</td>
   </tr>
   <tr>
     <td>2021-01-01</td>
@@ -34928,13 +34949,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q99568934">Author's reply to correspondence regarding the article 'Prolonged persistence of SARS-CoV-2 in the upper respiratory tract of asymptomatic infected individuals'</a> (<a href="http://www.wikidata.org/entity/Q99568934">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/QJMED/HCAA269">10.1093/QJMED/HCAA269</a></td>
-    <td>32946582</td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
     <td><a href="https://scholia.toolforge.org/Q100387996">Early Release Estimates for SARS-CoV-2 Prevalence and Antibody Response Interim Weighting for Probability-Based Sample Surveys</a> (<a href="http://www.wikidata.org/entity/Q100387996">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.09.15.20195099">10.1101/2020.09.15.20195099</a></td>
@@ -35012,24 +35026,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q99568867">Disentangling primer interactions improves SARS-CoV-2 genome sequencing by multiplex tiling PCR</a> (<a href="http://www.wikidata.org/entity/Q99568867">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100377863">An anaesthetic and intensive care perspective on infection control measures for the prevention of airborne transmission of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100377863">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0239403">10.1371/JOURNAL.PONE.0239403</a></td>
-    <td>32946527</td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q99568874">The association between ABO blood group and SARS-CoV-2 infection: A meta-analysis</a> (<a href="http://www.wikidata.org/entity/Q99568874">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0239508">10.1371/JOURNAL.PONE.0239508</a></td>
-    <td>32946531</td>
-  </tr>
-  <tr>
-    <td>2020-09-18</td>
-    <td><a href="https://scholia.toolforge.org/Q99568864">SARS-CoV-2 infection of African green monkeys results in mild respiratory disease discernible by PET/CT imaging and shedding of infectious virus from both respiratory and gastrointestinal tracts</a> (<a href="http://www.wikidata.org/entity/Q99568864">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1008903">10.1371/JOURNAL.PPAT.1008903</a></td>
-    <td>32946524</td>
+    <td><a href="https://doi.org/10.12968/HMED.2020.0538">10.12968/HMED.2020.0538</a></td>
+    <td>32990080</td>
   </tr>
   <tr>
     <td>2020-09-18</td>

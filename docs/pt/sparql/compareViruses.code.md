@@ -1818,6 +1818,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33333151">Human LINE1 endonuclease domain as a putative target of SARS-associated autoantibodies involved in the pathogenesis of severe acute respiratory syndrome.</a> (<a href="http://www.wikidata.org/entity/Q33333151">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q45028378">Human SARS-coronavirus RNA-dependent RNA polymerase: activity determinants and nucleoside analogue inhibitors.</a> (<a href="http://www.wikidata.org/entity/Q45028378">edit</a>)</td>
   </tr>
   <tr>

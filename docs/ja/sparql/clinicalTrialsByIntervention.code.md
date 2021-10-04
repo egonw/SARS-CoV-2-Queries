@@ -59,7 +59,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40207875">抗ウイルス剤</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>

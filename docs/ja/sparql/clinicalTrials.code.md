@@ -1271,13 +1271,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40207875">抗ウイルス剤</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04321616</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154744">The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q89154744">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40207875">抗ウイルス剤</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04321616</td>
   </tr>
@@ -1331,7 +1331,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154955">Baricitinib in Symptomatic Patients Infected by COVID-19: an Open-label, Pilot Study.</a> (<a href="http://www.wikidata.org/entity/Q89154955">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40207875">抗ウイルス剤</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04320277</td>
   </tr>
@@ -1571,7 +1571,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87931271">Treatment of Mild Cases and Chemoprophylaxis of Contacts as Prevention of the COVID-19 Epidemic</a> (<a href="http://www.wikidata.org/entity/Q87931271">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40207875">抗ウイルス剤</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">第III相試験</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04304053</td>
   </tr>

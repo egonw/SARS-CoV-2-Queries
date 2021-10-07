@@ -35,6 +35,16 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
   </tr>
   <tr>
+    <td>2021-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q108504560">The antiviral activity of lactoferrin against common human coronaviruses and SARS-CoV-2 is mediated by targeting the heparan sulfate co-receptor</a> (<a href="http://www.wikidata.org/entity/Q108504560">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2021.1888660">10.1080/22221751.2021.1888660</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q108784191">Lessons learned 1 year after SARS-CoV-2 emergence leading to COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q108784191">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2021.1898291">10.1080/22221751.2021.1898291</a></td>
+  </tr>
+  <tr>
     <td>2021-09-30</td>
     <td><a href="https://scholia.toolforge.org/Q108782646">Targeting the coronavirus nucleocapsid protein through GSK-3 inhibition</a> (<a href="http://www.wikidata.org/entity/Q108782646">edit</a>)</td>
     <td><a href="https://doi.org/10.1073/PNAS.2113401118">10.1073/PNAS.2113401118</a></td>
@@ -58,16 +68,6 @@ Esto le da estos 10 documentos:
     <td>2021-09-23</td>
     <td><a href="https://scholia.toolforge.org/Q108685841">Palmitoylation of SARS‐CoV‐2 S protein is critical for S‐mediated syncytia formation and virus entry</a> (<a href="http://www.wikidata.org/entity/Q108685841">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.27339">10.1002/JMV.27339</a></td>
-  </tr>
-  <tr>
-    <td>2021-09-23</td>
-    <td><a href="https://scholia.toolforge.org/Q108782754">SARS-CoV-2 spike protein receptor-binding domain N-glycans facilitate viral internalization in respiratory epithelial cells</a> (<a href="http://www.wikidata.org/entity/Q108782754">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BBRC.2021.09.053">10.1016/J.BBRC.2021.09.053</a></td>
-  </tr>
-  <tr>
-    <td>2021-09-22</td>
-    <td><a href="https://scholia.toolforge.org/Q108684847">SARS-CoV-2 infection causes immunodeficiency in recovered patients by downregulating CD19 expression in B cells via enhancing B-cell metabolism</a> (<a href="http://www.wikidata.org/entity/Q108684847">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41392-021-00749-3">10.1038/S41392-021-00749-3</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -323,7 +323,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>19210</td>
+    <td>19626</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

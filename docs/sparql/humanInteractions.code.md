@@ -51,6 +51,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1009599">10.1371/JOURNAL.PPAT.1009599</a></td>
   </tr>
   <tr>
+    <td>2021-04-15</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18038944">IGHV3-53</a> (<a href="http://www.wikidata.org/entity/Q18038944">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107675412">Reduced neutralization of SARS-CoV-2 B.1.1.7 variant by convalescent and vaccine sera</a> (<a href="http://www.wikidata.org/entity/Q107675412">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELL.2021.02.033">10.1016/J.CELL.2021.02.033</a></td>
+  </tr>
+  <tr>
     <td>2020-11-23</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
@@ -537,7 +544,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td>2008-02-29</td>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18032037">TNF</a> (<a href="http://www.wikidata.org/entity/Q18032037">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33321974">Roles of TNF-alpha gene polymorphisms in the occurrence and progress of SARS-Cov infection: a case-control study.</a> (<a href="http://www.wikidata.org/entity/Q33321974">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33321974">Roles of TNF-alpha gene polymorphisms in the occurrence and progress of SARS-Cov infection: a case-control study</a> (<a href="http://www.wikidata.org/entity/Q33321974">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/1471-2334-8-27">10.1186/1471-2334-8-27</a></td>
   </tr>
   <tr>

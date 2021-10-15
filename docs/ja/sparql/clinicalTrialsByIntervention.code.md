@@ -43,7 +43,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>12</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症 (2019年)</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
     <td>11</td>
   </tr>
   <tr>

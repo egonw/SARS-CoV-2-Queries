@@ -160,6 +160,10 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2011530</td>
   </tr>
   <tr>
+    <td>2021-10-06</td>
+    <td>2013425</td>
+  </tr>
+  <tr>
     <td>2021-03-22</td>
     <td>1207806</td>
   </tr>

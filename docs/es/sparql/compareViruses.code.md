@@ -406,7 +406,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33375590">A noncovalent class of papain-like protease/deubiquitinase inhibitors blocks SARS virus replication.</a> (<a href="http://www.wikidata.org/entity/Q33375590">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33375590">A noncovalent class of papain-like protease/deubiquitinase inhibitors blocks SARS virus replication</a> (<a href="http://www.wikidata.org/entity/Q33375590">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1346,7 +1346,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33362888">Development of human single-chain antibodies against SARS-associated coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q33362888">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33362888">Development of human single-chain antibodies against SARS-associated coronavirus</a> (<a href="http://www.wikidata.org/entity/Q33362888">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1890,7 +1890,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33347218">High-throughput assay using a GFP-expressing replicon for SARS-CoV drug discovery.</a> (<a href="http://www.wikidata.org/entity/Q33347218">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33347218">High-throughput assay using a GFP-expressing replicon for SARS-CoV drug discovery</a> (<a href="http://www.wikidata.org/entity/Q33347218">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1934,7 +1934,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33333151">Human LINE1 endonuclease domain as a putative target of SARS-associated autoantibodies involved in the pathogenesis of severe acute respiratory syndrome.</a> (<a href="http://www.wikidata.org/entity/Q33333151">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33333151">Human LINE1 endonuclease domain as a putative target of SARS-associated autoantibodies involved in the pathogenesis of severe acute respiratory syndrome</a> (<a href="http://www.wikidata.org/entity/Q33333151">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2002,7 +2002,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33330457">Identification of a novel transcriptional repressor (HEPIS) that interacts with nsp-10 of SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q33330457">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33330457">Identification of a novel transcriptional repressor (HEPIS) that interacts with nsp-10 of SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q33330457">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4130,7 +4130,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33348829">The effect of SARS coronavirus on blood system: its clinical findings and the pathophysiologic hypothesis.</a> (<a href="http://www.wikidata.org/entity/Q33348829">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33348829">The effect of SARS coronavirus on blood system: its clinical findings and the pathophysiologic hypothesis</a> (<a href="http://www.wikidata.org/entity/Q33348829">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4442,7 +4442,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33351949">Virus-like particles of SARS-like coronavirus formed by membrane proteins from different origins demonstrate stimulating activity in human dendritic cells.</a> (<a href="http://www.wikidata.org/entity/Q33351949">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33351949">Virus-like particles of SARS-like coronavirus formed by membrane proteins from different origins demonstrate stimulating activity in human dendritic cells</a> (<a href="http://www.wikidata.org/entity/Q33351949">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

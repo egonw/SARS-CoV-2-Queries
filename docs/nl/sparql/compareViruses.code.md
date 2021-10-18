@@ -866,7 +866,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33386945">Differential inhibitory activities and stabilisation of DNA aptamers against the SARS coronavirus helicase.</a> (<a href="http://www.wikidata.org/entity/Q33386945">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33386945">Differential inhibitory activities and stabilisation of DNA aptamers against the SARS coronavirus helicase</a> (<a href="http://www.wikidata.org/entity/Q33386945">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1822,7 +1822,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33389939">The phylogeny of SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q33389939">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33389939">The phylogeny of SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q33389939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

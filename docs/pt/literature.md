@@ -55,6 +55,11 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1128/JVI.01368-21">10.1128/JVI.01368-21</a></td>
   </tr>
   <tr>
+    <td>2021-10-06</td>
+    <td><a href="https://scholia.toolforge.org/Q108899915">Transcriptomic analysis revealed increased expression of genes involved in keratinization in the tears of COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q108899915">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-021-99344-3">10.1038/S41598-021-99344-3</a></td>
+  </tr>
+  <tr>
     <td>2021-10-04</td>
     <td><a href="https://scholia.toolforge.org/Q108831791">The acid sphingomyelinase/ceramide system in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q108831791">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41380-021-01309-5">10.1038/S41380-021-01309-5</a></td>
@@ -63,11 +68,6 @@ Isto te fornece 10 documentos:
     <td>2021-10-02</td>
     <td><a href="https://scholia.toolforge.org/Q108833899">SARS‐CoV‐2 Alpha, Beta and Delta variants display enhanced Spike‐mediated Syncytia Formation</a> (<a href="http://www.wikidata.org/entity/Q108833899">edit</a>)</td>
     <td><a href="https://doi.org/10.15252/EMBJ.2021108944">10.15252/EMBJ.2021108944</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-02</td>
-    <td><a href="https://scholia.toolforge.org/Q108834010">Mitochondrial Dynamics in SARS-COV2 Spike Protein Treated Human Microglia: Implications for Neuro-COVID</a> (<a href="http://www.wikidata.org/entity/Q108834010">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S11481-021-10015-6">10.1007/S11481-021-10015-6</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -324,7 +324,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>19642</td>
+    <td>19646</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -636,13 +636,13 @@ Onde encontramos:
     <td>39</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88365848">Envelope small membrane protein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365848">edit</a>)</td>
-    <td>38</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90038952">Host translation inhibitor nsp1 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038952">edit</a>)</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88365848">Envelope small membrane protein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365848">edit</a>)</td>
     <td>38</td>
   </tr>
   <tr>

@@ -574,6 +574,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40083785">Altered Lipid Metabolism in Recovered SARS Patients Twelve Years after Infection.</a> (<a href="http://www.wikidata.org/entity/Q40083785">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40228709">Amino acids 1 to 422 of the spike protein of SARS associated coronavirus are required for induction of cyclooxygenase-2.</a> (<a href="http://www.wikidata.org/entity/Q40228709">edit</a>)</td>
   </tr>
   <tr>
@@ -3142,6 +3146,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33420250">Prokaryotic expression of S2 extracellular domain of SARS coronavirus spike protein and its fusion with Hela cell membrane</a> (<a href="http://www.wikidata.org/entity/Q33420250">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q45218510">Prokaryotic expression, refolding, and purification of fragment 450-650 of the spike protein of SARS-coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q45218510">edit</a>)</td>
   </tr>
   <tr>
@@ -4723,10 +4731,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q44269944">[Preparation of specific monoclonal antibody against nucleocapsid protein of SARS coronavirus].</a> (<a href="http://www.wikidata.org/entity/Q44269944">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33420250">[Prokaryotic expression of S2 extracellular domain of SARS coronavirus spike protein and its fusion with Hela cell membrane].</a> (<a href="http://www.wikidata.org/entity/Q33420250">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

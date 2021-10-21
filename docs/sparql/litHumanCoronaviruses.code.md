@@ -3270,7 +3270,7 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q106489820">Seroprevalence of SARS-CoV-2 following the largest initial epidemic wave in the United States: Findings from New York City, May 13-July 21, 2020</a> (<a href="http://www.wikidata.org/entity/Q106489820">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/INFDIS/JIAB200">10.1093/INFDIS/JIAB200</a></td>
-    <td></td>
+    <td>33836067</td>
   </tr>
   <tr>
     <td>2021-04-09</td>
@@ -24869,6 +24869,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-30</td>
+    <td><a href="https://scholia.toolforge.org/Q101214896">miR-98 Regulates TMPRSS2 Expression in Human Endothelial Cells: Key Implications for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q101214896">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/BIOMEDICINES8110462">10.3390/BIOMEDICINES8110462</a></td>
+    <td>33143053</td>
+  </tr>
+  <tr>
+    <td>2020-10-30</td>
     <td><a href="https://scholia.toolforge.org/Q101215299">Aprotinin Inhibits SARS-CoV-2 Replication</a> (<a href="http://www.wikidata.org/entity/Q101215299">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/CELLS9112377">10.3390/CELLS9112377</a></td>
@@ -34781,24 +34788,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-28</td>
-    <td><a href="https://scholia.toolforge.org/Q100317744">COVID-19 pandemic: environmental and social factors influencing the spread of SARS-CoV-2 in São Paulo, Brazil</a> (<a href="http://www.wikidata.org/entity/Q100317744">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S11356-020-10930-W">10.1007/S11356-020-10930-W</a></td>
-    <td>32989697</td>
-  </tr>
-  <tr>
-    <td>2020-09-28</td>
     <td><a href="https://scholia.toolforge.org/Q100309389">Partial compliance with symptom-based testing pathways reveals asymptomatic carriage of SARS-CoV-2 in Ireland</a> (<a href="http://www.wikidata.org/entity/Q100309389">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S11845-020-02375-4">10.1007/S11845-020-02375-4</a></td>
     <td>32986230</td>
-  </tr>
-  <tr>
-    <td>2020-09-28</td>
-    <td><a href="https://scholia.toolforge.org/Q100317676">Immune characteristics distinguish patients with severe disease associated with SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100317676">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S12026-020-09156-2">10.1007/S12026-020-09156-2</a></td>
-    <td>32989677</td>
   </tr>
   <tr>
     <td>2020-09-28</td>
@@ -34820,6 +34813,27 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S40121-020-00337-Y">10.1007/S40121-020-00337-Y</a></td>
     <td>32986226</td>
+  </tr>
+  <tr>
+    <td>2020-09-28</td>
+    <td><a href="https://scholia.toolforge.org/Q100440192">SARS-CoV-2, an Underestimated Pathogen of the Nervous System</a> (<a href="http://www.wikidata.org/entity/Q100440192">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S42399-020-00522-7">10.1007/S42399-020-00522-7</a></td>
+    <td>33015550</td>
+  </tr>
+  <tr>
+    <td>2020-09-28</td>
+    <td><a href="https://scholia.toolforge.org/Q100439890">Identification of twenty-five mutations in surface glycoprotein (Spike) of SARS-CoV-2 among Indian isolates and their impact on protein dynamics</a> (<a href="http://www.wikidata.org/entity/Q100439890">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.GENREP.2020.100891">10.1016/J.GENREP.2020.100891</a></td>
+    <td>33015411</td>
+  </tr>
+  <tr>
+    <td>2020-09-28</td>
+    <td><a href="https://scholia.toolforge.org/Q100439933">The SARS-CoV-2 pandemic course in Saudi Arabia: A dynamic epidemiological model</a> (<a href="http://www.wikidata.org/entity/Q100439933">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IDM.2020.09.006">10.1016/J.IDM.2020.09.006</a></td>
+    <td>33015424</td>
   </tr>
   <tr>
     <td>2020-09-28</td>
@@ -34956,13 +34970,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-09-28</td>
-    <td><a href="https://scholia.toolforge.org/Q100387972">COVID-19 CG: Tracking SARS-CoV-2 mutations by locations and dates of interest</a> (<a href="http://www.wikidata.org/entity/Q100387972">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.09.23.310565">10.1101/2020.09.23.310565</a></td>
-    <td>32995794</td>
-  </tr>
-  <tr>
-    <td>2020-09-28</td>
     <td><a href="https://scholia.toolforge.org/Q100467855">A potent SARS-CoV-2 neutralizing human monoclonal antibody that reduces viral burden and disease severity in Syrian hamsters</a> (<a href="http://www.wikidata.org/entity/Q100467855">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.09.25.313601">10.1101/2020.09.25.313601</a></td>
@@ -35044,13 +35051,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.4149/AV_2020_403">10.4149/AV_2020_403</a></td>
     <td>32985209</td>
-  </tr>
-  <tr>
-    <td>2020-09-28</td>
-    <td><a href="https://scholia.toolforge.org/Q100388910">Is Higher Viral Load in SARS-CoV-2 Associated with Death?</a> (<a href="http://www.wikidata.org/entity/Q100388910">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.4269/AJTMH.20-0954">10.4269/AJTMH.20-0954</a></td>
-    <td>32996443</td>
   </tr>
 </table>
 ## Code examples

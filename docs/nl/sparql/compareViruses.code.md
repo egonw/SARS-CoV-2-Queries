@@ -578,6 +578,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q40083785">Altered Lipid Metabolism in Recovered SARS Patients Twelve Years after Infection.</a> (<a href="http://www.wikidata.org/entity/Q40083785">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40228709">Amino acids 1 to 422 of the spike protein of SARS associated coronavirus are required for induction of cyclooxygenase-2.</a> (<a href="http://www.wikidata.org/entity/Q40228709">edit</a>)</td>
   </tr>
   <tr>
@@ -1430,6 +1434,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33420250">Prokaryotic expression of S2 extracellular domain of SARS coronavirus spike protein and its fusion with Hela cell membrane</a> (<a href="http://www.wikidata.org/entity/Q33420250">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40526248">Prolonged disturbances of in vitro cytokine production in patients with severe acute respiratory syndrome (SARS) treated with ribavirin and steroids.</a> (<a href="http://www.wikidata.org/entity/Q40526248">edit</a>)</td>
   </tr>
   <tr>
@@ -1663,10 +1671,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q41055288">Severe Acute Respiratory Syndrome (SARS) Coronavirus ORF8 Protein Is Acquired from SARS-Related Coronavirus from Greater Horseshoe Bats through Recombination</a> (<a href="http://www.wikidata.org/entity/Q41055288">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q37127923">Severe acute respiratory syndrome (SARS) coronavirus-induced lung epithelial cytokines exacerbate SARS pathogenesis by modulating intrinsic functions of monocyte-derived macrophages and dendritic cells</a> (<a href="http://www.wikidata.org/entity/Q37127923">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1955,10 +1959,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40521847">[Human metapneumovirus pneumonia in an adult patient hospitalized for suspected severe acute respiratory syndrome (SARS)].</a> (<a href="http://www.wikidata.org/entity/Q40521847">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33420250">[Prokaryotic expression of S2 extracellular domain of SARS coronavirus spike protein and its fusion with Hela cell membrane].</a> (<a href="http://www.wikidata.org/entity/Q33420250">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4255,6 +4255,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q51675014">Severe acute respiratory syndrome (SARS) and coronavirus testing--United States, 2003.</a> (<a href="http://www.wikidata.org/entity/Q51675014">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q37127923">Severe acute respiratory syndrome (SARS) coronavirus-induced lung epithelial cytokines exacerbate SARS pathogenesis by modulating intrinsic functions of monocyte-derived macrophages and dendritic cells</a> (<a href="http://www.wikidata.org/entity/Q37127923">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

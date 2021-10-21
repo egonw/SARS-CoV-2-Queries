@@ -159,7 +159,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q408524">cyclophosphamide</a> (<a href="http://www.wikidata.org/entity/Q408524">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q408524">(RS)-cyclophosphamide</a> (<a href="http://www.wikidata.org/entity/Q408524">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>

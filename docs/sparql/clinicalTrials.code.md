@@ -929,7 +929,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153372">COVID-19-associated ARDS Treated With Dexamethasone: Alliance Covid-19 Brasil III</a> (<a href="http://www.wikidata.org/entity/Q89153372">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q408524">cyclophosphamide</a> (<a href="http://www.wikidata.org/entity/Q408524">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q408524">(RS)-cyclophosphamide</a> (<a href="http://www.wikidata.org/entity/Q408524">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04327401</td>
   </tr>
@@ -1007,7 +1007,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153949">Efficacy of Dexamethasone Treatment for Patients With ARDS Caused by COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153949">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q408524">cyclophosphamide</a> (<a href="http://www.wikidata.org/entity/Q408524">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q408524">(RS)-cyclophosphamide</a> (<a href="http://www.wikidata.org/entity/Q408524">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">phase IV clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04325061</td>
   </tr>

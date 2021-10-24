@@ -1,7 +1,7 @@
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
 This ebook has the purpose to see what information is available in Wikidata
-around the virus and the pandemic. I hope other find it useful.
+around the virus and the pandemic. I hope others find it useful.
 If you like this project, please "star" it. If you want to contribute,
 checkout the [CONTRIBUTING.md](CONTRIBUTING.md). If you want to contribute
 data, please visit [Wikidata:WikiProject_COVID-19](https://www.wikidata.org/wiki/Wikidata:WikiProject_COVID-19).

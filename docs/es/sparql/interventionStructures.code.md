@@ -53,6 +53,10 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/N-Acetyl-p-aminophenol.svg</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td>http://commons.wikimedia.org/wiki/Special:FilePath/Losartan%20structure.png</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q417222">metilprednisolona</a> (<a href="http://www.wikidata.org/entity/Q417222">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Methylprednisolone.svg</td>
   </tr>
@@ -63,10 +67,6 @@ SELECT ?intervention ?interventionLabel ?image WITH {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q11426176">Prednisolona</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Prednisolone.svg</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27107351">methylprednisolone acetate</a> (<a href="http://www.wikidata.org/entity/Q27107351">edit</a>)</td>
-    <td>http://commons.wikimedia.org/wiki/Special:FilePath/Methylprednisolone%20acetate.svg</td>
   </tr>
 </table>
 ## Ejemplos de código

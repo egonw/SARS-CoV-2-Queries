@@ -493,7 +493,7 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5682">CPX-5682</a></td>
-    <td><a href="https://scholia.toolforge.org/Q90012262">SARS-CoV-2 Spike protein complex</a> (<a href="http://www.wikidata.org/entity/Q90012262">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90012262">SARS-CoV-2 cleaved Spike protein complex</a> (<a href="http://www.wikidata.org/entity/Q90012262">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5685">CPX-5685</a></td>
@@ -546,6 +546,22 @@ SELECT ?cpx ?complex ?complexLabel WHERE {
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-6761">CPX-6761</a></td>
     <td><a href="https://scholia.toolforge.org/Q107604473">SARS-CoV-2 Spike - human CLEC4M lectin complex</a> (<a href="http://www.wikidata.org/entity/Q107604473">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7041">CPX-7041</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189058">SARS-CoV-2 Cap(0)-replication and transcription complex</a> (<a href="http://www.wikidata.org/entity/Q109189058">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7042">CPX-7042</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189059">SARS-CoV-2 uncleaved Spike protein complex</a> (<a href="http://www.wikidata.org/entity/Q109189059">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7043">CPX-7043</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189060">SARS-CoV-2 post-fusion S2 Spike complex</a> (<a href="http://www.wikidata.org/entity/Q109189060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7083">CPX-7083</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189061">SARS-CoV-2 dimeric Cap(0)-replication and transcription complex</a> (<a href="http://www.wikidata.org/entity/Q109189061">edit</a>)</td>
   </tr>
 </table>
 
@@ -6690,16 +6706,6 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
     <td><b>ncbigene</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175952">hypothetical protein sars7a</a> (<a href="http://www.wikidata.org/entity/Q88175952">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/gene/1489674">1489674</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q108485892">ORF3d</a> (<a href="http://www.wikidata.org/entity/Q108485892">edit</a>)</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/43740568">43740568</a></td>
@@ -6828,6 +6834,16 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89210195">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q89210195">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/1489678">1489678</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175952">hypothetical protein sars7a</a> (<a href="http://www.wikidata.org/entity/Q88175952">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/gene/1489674">1489674</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108485892">ORF3d</a> (<a href="http://www.wikidata.org/entity/Q108485892">edit</a>)</td>
+    <td></td>
   </tr>
 </table>
 
@@ -7803,6 +7819,18 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88317453">Hemagglutinin-esterase</a> (<a href="http://www.wikidata.org/entity/Q88317453">edit</a>)</td>
+    <td>YP_173237.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/Q5MQD1">Q5MQD1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88317460">Membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88317460">edit</a>)</td>
+    <td>YP_173241.1</td>
+    <td><a href="https://www.uniprot.org/uniprot/Q5MQC7">Q5MQC7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88215925">Protein I</a> (<a href="http://www.wikidata.org/entity/Q88215925">edit</a>)</td>
     <td>YP_173243.1</td>
     <td><a href="https://www.uniprot.org/uniprot/Q5MQC5">Q5MQC5</a></td>
@@ -7842,18 +7870,6 @@ SELECT ?virus ?virusLabel ?protein ?proteinLabel ?refseq ?uniprot WHERE {
     <td><a href="https://scholia.toolforge.org/Q88317441">Replicase polyprotein 1ab</a> (<a href="http://www.wikidata.org/entity/Q88317441">edit</a>)</td>
     <td>YP_173236.1</td>
     <td><a href="https://www.uniprot.org/uniprot/P0C6X2">P0C6X2</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88317453">Hemagglutinin-esterase</a> (<a href="http://www.wikidata.org/entity/Q88317453">edit</a>)</td>
-    <td>YP_173237.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/Q5MQD1">Q5MQD1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88317460">Membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88317460">edit</a>)</td>
-    <td>YP_173241.1</td>
-    <td><a href="https://www.uniprot.org/uniprot/Q5MQC7">Q5MQC7</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>

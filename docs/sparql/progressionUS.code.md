@@ -20,6 +20,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>2021-10-23</td>
+    <td>45427464</td>
+  </tr>
+  <tr>
+    <td>2021-10-22</td>
+    <td>45400466</td>
+  </tr>
+  <tr>
     <td>2021-10-21</td>
     <td>45300970</td>
   </tr>

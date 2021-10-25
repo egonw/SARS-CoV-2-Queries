@@ -820,7 +820,7 @@ Listing these complexes:
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5682">CPX-5682</a></td>
-    <td><a href="https://scholia.toolforge.org/Q90012262">SARS-CoV-2 Spike protein complex</a> (<a href="http://www.wikidata.org/entity/Q90012262">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90012262">SARS-CoV-2 cleaved Spike protein complex</a> (<a href="http://www.wikidata.org/entity/Q90012262">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-5685">CPX-5685</a></td>
@@ -873,6 +873,22 @@ Listing these complexes:
   <tr>
     <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-6761">CPX-6761</a></td>
     <td><a href="https://scholia.toolforge.org/Q107604473">SARS-CoV-2 Spike - human CLEC4M lectin complex</a> (<a href="http://www.wikidata.org/entity/Q107604473">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7041">CPX-7041</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189058">SARS-CoV-2 Cap(0)-replication and transcription complex</a> (<a href="http://www.wikidata.org/entity/Q109189058">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7042">CPX-7042</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189059">SARS-CoV-2 uncleaved Spike protein complex</a> (<a href="http://www.wikidata.org/entity/Q109189059">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7043">CPX-7043</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189060">SARS-CoV-2 post-fusion S2 Spike complex</a> (<a href="http://www.wikidata.org/entity/Q109189060">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ebi.ac.uk/complexportal/complex/CPX-7083">CPX-7083</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109189061">SARS-CoV-2 dimeric Cap(0)-replication and transcription complex</a> (<a href="http://www.wikidata.org/entity/Q109189061">edit</a>)</td>
   </tr>
 </table>
 

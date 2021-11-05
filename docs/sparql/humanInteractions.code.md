@@ -300,7 +300,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14865236">IL6</a> (<a href="http://www.wikidata.org/entity/Q14865236">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87755922">Effective Treatment of Severe COVID-19 Patients with Tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q87755922">edit</a>)</td>
-    <td><a href="https://doi.org/10.12074/202003.00026">10.12074/202003.00026</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>2020-03-04</td>

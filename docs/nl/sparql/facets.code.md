@@ -17,6 +17,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><b>facet</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">Timeline of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
@@ -128,7 +131,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q89864650">Impact of the 2019–20 coronavirus pandemic on prisons</a> (<a href="http://www.wikidata.org/entity/Q89864650">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q89966200">Pandemic predictions and preparations prior to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89966200">Pandemievoorspellingen en voorbereidingen voorafgaand aan de COVID-19-pandemie</a> (<a href="http://www.wikidata.org/entity/Q89966200">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
@@ -308,10 +311,13 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q106892355">COVID-19 policy</a> (<a href="http://www.wikidata.org/entity/Q106892355">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q107088531">timeline of the COVID-19 pandemic in May 2021</a> (<a href="http://www.wikidata.org/entity/Q107088531">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107129120">COVID-19-related data</a> (<a href="http://www.wikidata.org/entity/Q107129120">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107405004">timeline of the COVID-19 pandemic in June 2021</a> (<a href="http://www.wikidata.org/entity/Q107405004">edit</a>)</td>
   </tr>
 </table>
 ## Broncode voorbeelden

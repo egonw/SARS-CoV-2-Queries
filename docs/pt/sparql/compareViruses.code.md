@@ -574,7 +574,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33516972">Antibody binding site mapping of SARS-CoV spike protein receptor-binding domain by a combination of yeast surface display and phage peptide library screening.</a> (<a href="http://www.wikidata.org/entity/Q33516972">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33516972">Antibody binding site mapping of SARS-CoV spike protein receptor-binding domain by a combination of yeast surface display and phage peptide library screening</a> (<a href="http://www.wikidata.org/entity/Q33516972">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1514,7 +1514,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33511964">Evasion by stealth: inefficient immune activation underlies poor T cell response and severe disease in SARS-CoV-infected mice.</a> (<a href="http://www.wikidata.org/entity/Q33511964">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33511964">Evasion by stealth: inefficient immune activation underlies poor T cell response and severe disease in SARS-CoV-infected mice</a> (<a href="http://www.wikidata.org/entity/Q33511964">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

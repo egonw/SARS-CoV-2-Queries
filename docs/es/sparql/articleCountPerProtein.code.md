@@ -129,7 +129,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>93</td>
+    <td>94</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88174316">orf1ab polyprotein [SARS-Cov 2]</a> (<a href="http://www.wikidata.org/entity/Q88174316">edit</a>)</td>
@@ -141,7 +141,7 @@ SELECT ?protein ?proteinLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>284</td>
+    <td>285</td>
   </tr>
 </table>
 ## Ejemplos de código

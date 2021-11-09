@@ -26,6 +26,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
   </tr>
   <tr>
+    <td>2021-11-04</td>
+    <td><a href="https://scholia.toolforge.org/Q109422338">CTD of SARS‐CoV‐2 N protein is a cryptic domain for binding ATP and nucleic acid that interplay in modulating phase separation</a> (<a href="http://www.wikidata.org/entity/Q109422338">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/PRO.4221">10.1002/PRO.4221</a></td>
+  </tr>
+  <tr>
     <td>2021-10-31</td>
     <td><a href="https://scholia.toolforge.org/Q109374442">Structural basis for the interaction of SARS‐CoV‐2 virulence factor nsp1 with DNA Polymerase a ‐ Primase</a> (<a href="http://www.wikidata.org/entity/Q109374442">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PRO.4220">10.1002/PRO.4220</a></td>
@@ -1126,6 +1131,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1021/ACS.NANOLETT.0C04465">10.1021/ACS.NANOLETT.0C04465</a></td>
   </tr>
   <tr>
+    <td>2021-03-24</td>
+    <td><a href="https://scholia.toolforge.org/Q109422760">Inhibition of HECT E3 ligases as potential therapy for COVID-19</a> (<a href="http://www.wikidata.org/entity/Q109422760">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41419-021-03513-1">10.1038/S41419-021-03513-1</a></td>
+  </tr>
+  <tr>
     <td>2021-03-23</td>
     <td><a href="https://scholia.toolforge.org/Q106451921">SARS-CoV-2 variants lacking ORF8 occurred in farmed mink and pangolin</a> (<a href="http://www.wikidata.org/entity/Q106451921">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.GENE.2021.145596">10.1016/J.GENE.2021.145596</a></td>
@@ -1528,7 +1538,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   <tr>
     <td>2021-01-01</td>
     <td><a href="https://scholia.toolforge.org/Q108503196">The Importance of Glycosylation in COVID-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q108503196">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/978-3-030-70115-4_12">10.1007/978-3-030-70115-4_12</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>2021-01-01</td>

@@ -45,6 +45,11 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1080/22221751.2021.1898291">10.1080/22221751.2021.1898291</a></td>
   </tr>
   <tr>
+    <td>2021-11-04</td>
+    <td><a href="https://scholia.toolforge.org/Q109422338">CTD of SARS‐CoV‐2 N protein is a cryptic domain for binding ATP and nucleic acid that interplay in modulating phase separation</a> (<a href="http://www.wikidata.org/entity/Q109422338">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/PRO.4221">10.1002/PRO.4221</a></td>
+  </tr>
+  <tr>
     <td>2021-11-01</td>
     <td><a href="https://scholia.toolforge.org/Q109374473">NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q109374473">edit</a>)</td>
     <td><a href="https://doi.org/10.1172/JCI146408">10.1172/JCI146408</a></td>
@@ -63,11 +68,6 @@ Isto te fornece 10 documentos:
     <td>2021-10-27</td>
     <td><a href="https://scholia.toolforge.org/Q109374860">Structural, Electronic, and Electrostatic Determinants for Inhibitor Binding to Subsites S1 and S2 in SARS-CoV-2 Main Protease</a> (<a href="http://www.wikidata.org/entity/Q109374860">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACS.JMEDCHEM.1C01475">10.1021/ACS.JMEDCHEM.1C01475</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-26</td>
-    <td><a href="https://scholia.toolforge.org/Q109296957">Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CL substrate degradome</a> (<a href="http://www.wikidata.org/entity/Q109296957">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELREP.2021.109892">10.1016/J.CELREP.2021.109892</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -169,6 +169,11 @@ Que atualmente dá:
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
   </tr>
   <tr>
+    <td>2021-11-04</td>
+    <td><a href="https://scholia.toolforge.org/Q109422338">CTD of SARS‐CoV‐2 N protein is a cryptic domain for binding ATP and nucleic acid that interplay in modulating phase separation</a> (<a href="http://www.wikidata.org/entity/Q109422338">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/PRO.4221">10.1002/PRO.4221</a></td>
+  </tr>
+  <tr>
     <td>2021-10-31</td>
     <td><a href="https://scholia.toolforge.org/Q109374442">Structural basis for the interaction of SARS‐CoV‐2 virulence factor nsp1 with DNA Polymerase a ‐ Primase</a> (<a href="http://www.wikidata.org/entity/Q109374442">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PRO.4220">10.1002/PRO.4220</a></td>
@@ -197,11 +202,6 @@ Que atualmente dá:
     <td>2021-10-21</td>
     <td><a href="https://scholia.toolforge.org/Q109296743">The SARS-CoV-2 main protease Mpro causes microvascular brain pathology by cleaving NEMO in brain endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q109296743">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41593-021-00926-1">10.1038/S41593-021-00926-1</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-21</td>
-    <td><a href="https://scholia.toolforge.org/Q109296806">Micronucleus production, activation of DNA damage response and cGAS-STING signaling in syncytia induced by SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q109296806">edit</a>)</td>
-    <td><a href="https://doi.org/10.1186/S13062-021-00305-7">10.1186/S13062-021-00305-7</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -324,7 +324,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>19867</td>
+    <td>19875</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -392,13 +392,13 @@ O que nos mostra:
     <td>6</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q8351095">Coronavírus humano NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88176272">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88176272">edit</a>)</td>
-    <td>5</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q8351095">Coronavírus humano NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88176272">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88176272">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>
@@ -583,7 +583,7 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>284</td>
+    <td>285</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -593,7 +593,7 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>93</td>
+    <td>94</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

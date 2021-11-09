@@ -69,10 +69,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35865538">Pre- and postexposure efficacy of fully human antibodies against Spike protein in a novel humanized mouse model of MERS-CoV infection</a> (<a href="http://www.wikidata.org/entity/Q35865538">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q41088356">Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study.</a> (<a href="http://www.wikidata.org/entity/Q41088356">edit</a>)</td>
   </tr>
   <tr>
@@ -98,6 +94,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q37188934">Passive Transfer of A Germline-like Neutralizing Human Monoclonal Antibody Protects Transgenic Mice Against Lethal Middle East Respiratory Syndrome Coronavirus Infection.</a> (<a href="http://www.wikidata.org/entity/Q37188934">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35865538">Pre- and postexposure efficacy of fully human antibodies against Spike protein in a novel humanized mouse model of MERS-CoV infection</a> (<a href="http://www.wikidata.org/entity/Q35865538">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -169,10 +169,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35881133">Antibodies to SARS coronavirus in civets.</a> (<a href="http://www.wikidata.org/entity/Q35881133">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40834199">Detection of specific antibodies to severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein for serodiagnosis of SARS coronavirus pneumonia.</a> (<a href="http://www.wikidata.org/entity/Q40834199">edit</a>)</td>
   </tr>
   <tr>
@@ -186,14 +182,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33212372">Identification of single-chain antibody fragments specific against SARS-associated coronavirus from phage-displayed antibody library</a> (<a href="http://www.wikidata.org/entity/Q33212372">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35817398">Longitudinally profiling neutralizing antibody response to SARS coronavirus with pseudotypes.</a> (<a href="http://www.wikidata.org/entity/Q35817398">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35901171">Potent cross-reactive neutralization of SARS coronavirus isolates by human monoclonal antibodies.</a> (<a href="http://www.wikidata.org/entity/Q35901171">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -218,6 +206,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q51803005">Antibodies against trimeric S glycoprotein protect hamsters against SARS-CoV challenge despite their capacity to mediate FcgammaRII-dependent entry into B cells in vitro.</a> (<a href="http://www.wikidata.org/entity/Q51803005">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35881133">Antibodies to SARS coronavirus in civets.</a> (<a href="http://www.wikidata.org/entity/Q35881133">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -305,6 +297,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35817398">Longitudinally profiling neutralizing antibody response to SARS coronavirus with pseudotypes.</a> (<a href="http://www.wikidata.org/entity/Q35817398">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q34417623">Monoclonal antibodies to SARS-associated coronavirus (SARS-CoV): identification of neutralizing and antibodies reactive to S, N, M and E viral proteins.</a> (<a href="http://www.wikidata.org/entity/Q34417623">edit</a>)</td>
   </tr>
   <tr>
@@ -318,6 +314,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q34332142">Potent and persistent antibody responses against the receptor-binding domain of SARS-CoV spike protein in recovered patients.</a> (<a href="http://www.wikidata.org/entity/Q34332142">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35901171">Potent cross-reactive neutralization of SARS coronavirus isolates by human monoclonal antibodies.</a> (<a href="http://www.wikidata.org/entity/Q35901171">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

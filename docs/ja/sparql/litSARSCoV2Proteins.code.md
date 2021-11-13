@@ -26,6 +26,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
   </tr>
   <tr>
+    <td>2021-11-05</td>
+    <td><a href="https://scholia.toolforge.org/Q109525312">In-solution buffer-free digestion allows full-sequence coverage and complete characterization of post-translational modifications of the receptor-binding domain of SARS-CoV-2 in a single ESI–MS spectrum</a> (<a href="http://www.wikidata.org/entity/Q109525312">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00216-021-03721-W">10.1007/S00216-021-03721-W</a></td>
+  </tr>
+  <tr>
     <td>2021-11-04</td>
     <td><a href="https://scholia.toolforge.org/Q109422338">CTD of SARS‐CoV‐2 N protein is a cryptic domain for binding ATP and nucleic acid that interplay in modulating phase separation</a> (<a href="http://www.wikidata.org/entity/Q109422338">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PRO.4221">10.1002/PRO.4221</a></td>
@@ -34,6 +39,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2021-10-31</td>
     <td><a href="https://scholia.toolforge.org/Q109374442">Structural basis for the interaction of SARS‐CoV‐2 virulence factor nsp1 with DNA Polymerase a ‐ Primase</a> (<a href="http://www.wikidata.org/entity/Q109374442">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PRO.4220">10.1002/PRO.4220</a></td>
+  </tr>
+  <tr>
+    <td>2021-10-29</td>
+    <td><a href="https://scholia.toolforge.org/Q109525076">SARS-CoV-2 spike protein causes blood coagulation and thrombosis by competitive binding to heparan sulfate</a> (<a href="http://www.wikidata.org/entity/Q109525076">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IJBIOMAC.2021.10.112">10.1016/J.IJBIOMAC.2021.10.112</a></td>
   </tr>
   <tr>
     <td>2021-10-27</td>
@@ -364,6 +374,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2021-08-01</td>
     <td><a href="https://scholia.toolforge.org/Q108582089">Predictable fold switching by the SARS-CoV-2 protein ORF9b</a> (<a href="http://www.wikidata.org/entity/Q108582089">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PRO.4097">10.1002/PRO.4097</a></td>
+  </tr>
+  <tr>
+    <td>2021-07-31</td>
+    <td><a href="https://scholia.toolforge.org/Q109525087">Heparin: A simplistic repurposing to prevent SARS-CoV-2 transmission in light of its in-vitro nanomolar efficacy</a> (<a href="http://www.wikidata.org/entity/Q109525087">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IJBIOMAC.2021.04.148">10.1016/J.IJBIOMAC.2021.04.148</a></td>
   </tr>
   <tr>
     <td>2021-07-30</td>
@@ -834,6 +849,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2021-05-15</td>
     <td><a href="https://scholia.toolforge.org/Q107980878">The human pandemic coronaviruses on the show: The spike glycoprotein as the main actor in the coronaviruses play</a> (<a href="http://www.wikidata.org/entity/Q107980878">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.IJBIOMAC.2021.02.203">10.1016/J.IJBIOMAC.2021.02.203</a></td>
+  </tr>
+  <tr>
+    <td>2021-05-15</td>
+    <td><a href="https://scholia.toolforge.org/Q109525090">Heparan sulfates from bat and human lung and their binding to the spike protein of SARS-CoV-2 virus</a> (<a href="http://www.wikidata.org/entity/Q109525090">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CARBPOL.2021.117797">10.1016/J.CARBPOL.2021.117797</a></td>
   </tr>
   <tr>
     <td>2021-05-14</td>
@@ -2082,11 +2102,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q104527452">Mass spectrometric based detection of protein nucleotidylation in the RNA polymerase of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104527452">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.10.07.330324">10.1101/2020.10.07.330324</a></td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q104499876">NSP 11 of SARS-CoV-2 is an Intrinsically Disordered Protein</a> (<a href="http://www.wikidata.org/entity/Q104499876">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.10.07.330068">10.1101/2020.10.07.330068</a></td>
   </tr>
@@ -2094,6 +2109,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q100490995">Metallodrug ranitidine bismuth citrate suppresses SARS-CoV-2 replication and relieves virus-associated pneumonia in Syrian hamsters</a> (<a href="http://www.wikidata.org/entity/Q100490995">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41564-020-00802-X">10.1038/S41564-020-00802-X</a></td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q104527452">Mass spectrometric based detection of protein nucleotidylation in the RNA polymerase of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104527452">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.10.07.330324">10.1101/2020.10.07.330324</a></td>
   </tr>
   <tr>
     <td>2020-10-06</td>

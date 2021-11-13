@@ -51,29 +51,29 @@ This gives these 10 papers:
     <td><a href="https://doi.org/10.1080/22221751.2021.1898291">10.1080/22221751.2021.1898291</a></td>
   </tr>
   <tr>
+    <td>2021-11-11</td>
+    <td><a href="https://scholia.toolforge.org/Q109525173">Research progress of human coronaviruses and associated eye diseases</a> (<a href="http://www.wikidata.org/entity/Q109525173">edit</a>)</td>
+    <td><a href="https://doi.org/10.3760/cma.j.cn112142-20210426-00190">10.3760/cma.j.cn112142-20210426-00190</a></td>
+  </tr>
+  <tr>
+    <td>2021-11-09</td>
+    <td><a href="https://scholia.toolforge.org/Q109525013">CCR2 Signaling Restricts SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q109525013">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/MBIO.02749-21">10.1128/MBIO.02749-21</a></td>
+  </tr>
+  <tr>
+    <td>2021-11-05</td>
+    <td><a href="https://scholia.toolforge.org/Q109525312">In-solution buffer-free digestion allows full-sequence coverage and complete characterization of post-translational modifications of the receptor-binding domain of SARS-CoV-2 in a single ESI–MS spectrum</a> (<a href="http://www.wikidata.org/entity/Q109525312">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00216-021-03721-W">10.1007/S00216-021-03721-W</a></td>
+  </tr>
+  <tr>
     <td>2021-11-04</td>
     <td><a href="https://scholia.toolforge.org/Q109422338">CTD of SARS‐CoV‐2 N protein is a cryptic domain for binding ATP and nucleic acid that interplay in modulating phase separation</a> (<a href="http://www.wikidata.org/entity/Q109422338">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PRO.4221">10.1002/PRO.4221</a></td>
   </tr>
   <tr>
-    <td>2021-11-01</td>
-    <td><a href="https://scholia.toolforge.org/Q109374473">NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q109374473">edit</a>)</td>
-    <td><a href="https://doi.org/10.1172/JCI146408">10.1172/JCI146408</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-31</td>
-    <td><a href="https://scholia.toolforge.org/Q109374442">Structural basis for the interaction of SARS‐CoV‐2 virulence factor nsp1 with DNA Polymerase a ‐ Primase</a> (<a href="http://www.wikidata.org/entity/Q109374442">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/PRO.4220">10.1002/PRO.4220</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-28</td>
-    <td><a href="https://scholia.toolforge.org/Q109374690">The intersection of COVID-19 and autoimmunity</a> (<a href="http://www.wikidata.org/entity/Q109374690">edit</a>)</td>
-    <td><a href="https://doi.org/10.1172/JCI154886">10.1172/JCI154886</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-27</td>
-    <td><a href="https://scholia.toolforge.org/Q109374860">Structural, Electronic, and Electrostatic Determinants for Inhibitor Binding to Subsites S1 and S2 in SARS-CoV-2 Main Protease</a> (<a href="http://www.wikidata.org/entity/Q109374860">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/ACS.JMEDCHEM.1C01475">10.1021/ACS.JMEDCHEM.1C01475</a></td>
+    <td>2021-11-04</td>
+    <td><a href="https://scholia.toolforge.org/Q109524993">SARS-CoV-2 can infect and propagate in human placenta explants</a> (<a href="http://www.wikidata.org/entity/Q109524993">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.XCRM.2021.100456">10.1016/J.XCRM.2021.100456</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -223,6 +223,11 @@ Which currently returns:
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
   </tr>
   <tr>
+    <td>2021-11-05</td>
+    <td><a href="https://scholia.toolforge.org/Q109525312">In-solution buffer-free digestion allows full-sequence coverage and complete characterization of post-translational modifications of the receptor-binding domain of SARS-CoV-2 in a single ESI–MS spectrum</a> (<a href="http://www.wikidata.org/entity/Q109525312">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00216-021-03721-W">10.1007/S00216-021-03721-W</a></td>
+  </tr>
+  <tr>
     <td>2021-11-04</td>
     <td><a href="https://scholia.toolforge.org/Q109422338">CTD of SARS‐CoV‐2 N protein is a cryptic domain for binding ATP and nucleic acid that interplay in modulating phase separation</a> (<a href="http://www.wikidata.org/entity/Q109422338">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PRO.4221">10.1002/PRO.4221</a></td>
@@ -233,14 +238,14 @@ Which currently returns:
     <td><a href="https://doi.org/10.1002/PRO.4220">10.1002/PRO.4220</a></td>
   </tr>
   <tr>
+    <td>2021-10-29</td>
+    <td><a href="https://scholia.toolforge.org/Q109525076">SARS-CoV-2 spike protein causes blood coagulation and thrombosis by competitive binding to heparan sulfate</a> (<a href="http://www.wikidata.org/entity/Q109525076">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IJBIOMAC.2021.10.112">10.1016/J.IJBIOMAC.2021.10.112</a></td>
+  </tr>
+  <tr>
     <td>2021-10-27</td>
     <td><a href="https://scholia.toolforge.org/Q109374860">Structural, Electronic, and Electrostatic Determinants for Inhibitor Binding to Subsites S1 and S2 in SARS-CoV-2 Main Protease</a> (<a href="http://www.wikidata.org/entity/Q109374860">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACS.JMEDCHEM.1C01475">10.1021/ACS.JMEDCHEM.1C01475</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-26</td>
-    <td><a href="https://scholia.toolforge.org/Q109296957">Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CL substrate degradome</a> (<a href="http://www.wikidata.org/entity/Q109296957">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELREP.2021.109892">10.1016/J.CELREP.2021.109892</a></td>
   </tr>
   <tr>
     <td>2021-10-26</td>
@@ -248,14 +253,9 @@ Which currently returns:
     <td><a href="https://doi.org/10.1038/S41421-021-00338-2">10.1038/S41421-021-00338-2</a></td>
   </tr>
   <tr>
-    <td>2021-10-23</td>
-    <td><a href="https://scholia.toolforge.org/Q109296626">SARS-CoV-2 Spike Protein Disrupts Blood-Brain Barrier Integrity via RhoA Activation</a> (<a href="http://www.wikidata.org/entity/Q109296626">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S11481-021-10029-0">10.1007/S11481-021-10029-0</a></td>
-  </tr>
-  <tr>
-    <td>2021-10-21</td>
-    <td><a href="https://scholia.toolforge.org/Q109296743">The SARS-CoV-2 main protease Mpro causes microvascular brain pathology by cleaving NEMO in brain endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q109296743">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41593-021-00926-1">10.1038/S41593-021-00926-1</a></td>
+    <td>2021-10-26</td>
+    <td><a href="https://scholia.toolforge.org/Q109296957">Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CL substrate degradome</a> (<a href="http://www.wikidata.org/entity/Q109296957">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELREP.2021.109892">10.1016/J.CELREP.2021.109892</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -381,7 +381,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>19875</td>
+    <td>19883</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -640,7 +640,7 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>285</td>
+    <td>289</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -42,6 +42,14 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-3.0 40.0)</td>
   </tr>
   <tr>
+    <td>https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C%E7%8A%B6%E6%B3%81</td>
+    <td>Point(136.0 35.0)</td>
+  </tr>
+  <tr>
+    <td>https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C%E7%8A%B6%E6%B3%81</td>
+    <td>Point(17.0 1.0)</td>
+  </tr>
+  <tr>
     <td>https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C%E7%8A%B6%E6%B3%81</td>
     <td>Point(108.0 16.0)</td>
   </tr>
@@ -60,14 +68,6 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
   <tr>
     <td>https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C%E7%8A%B6%E6%B3%81</td>
     <td>Point(15.0 61.0)</td>
-  </tr>
-  <tr>
-    <td>https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C%E7%8A%B6%E6%B3%81</td>
-    <td>Point(136.0 35.0)</td>
-  </tr>
-  <tr>
-    <td>https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C%E7%8A%B6%E6%B3%81</td>
-    <td>Point(17.0 1.0)</td>
   </tr>
   <tr>
     <td>https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C%E7%8A%B6%E6%B3%81</td>

@@ -195,13 +195,13 @@ Que atualmente dá:
   </tr>
   <tr>
     <td>2021-10-26</td>
-    <td><a href="https://scholia.toolforge.org/Q109374826">SARS-CoV-2 exploits host DGAT and ADRP for efficient replication</a> (<a href="http://www.wikidata.org/entity/Q109374826">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41421-021-00338-2">10.1038/S41421-021-00338-2</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109296957">Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CL substrate degradome</a> (<a href="http://www.wikidata.org/entity/Q109296957">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CELREP.2021.109892">10.1016/J.CELREP.2021.109892</a></td>
   </tr>
   <tr>
     <td>2021-10-26</td>
-    <td><a href="https://scholia.toolforge.org/Q109296957">Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CL substrate degradome</a> (<a href="http://www.wikidata.org/entity/Q109296957">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELREP.2021.109892">10.1016/J.CELREP.2021.109892</a></td>
+    <td><a href="https://scholia.toolforge.org/Q109374826">SARS-CoV-2 exploits host DGAT and ADRP for efficient replication</a> (<a href="http://www.wikidata.org/entity/Q109374826">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41421-021-00338-2">10.1038/S41421-021-00338-2</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>

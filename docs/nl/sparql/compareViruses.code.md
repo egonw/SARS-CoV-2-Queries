@@ -678,7 +678,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33694361">Coronaviruses post-SARS: update on replication and pathogenesis.</a> (<a href="http://www.wikidata.org/entity/Q33694361">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33694361">Coronaviruses post-SARS: update on replication and pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q33694361">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -690,7 +690,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33723058">Cxcl16 interact with SARS-CoV N protein in and out cell.</a> (<a href="http://www.wikidata.org/entity/Q33723058">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33723058">Cxcl16 interact with SARS-CoV N protein in and out cell</a> (<a href="http://www.wikidata.org/entity/Q33723058">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -811,10 +811,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33253863">Factors associated with nosocomial SARS-CoV transmission among healthcare workers in Hanoi, Vietnam, 2003</a> (<a href="http://www.wikidata.org/entity/Q33253863">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34429423">False-positive results in a recombinant severe acute respiratory syndrome-associated coronavirus (SARS-CoV) nucleocapsid-based western blot assay were rectified by the use of two subunits (S1 and S2) of spike for detection of antibody to SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q34429423">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2623,6 +2619,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q37702502">False-positive results in a recombinant severe acute respiratory syndrome-associated coronavirus</a> (<a href="http://www.wikidata.org/entity/Q37702502">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34429423">False-positive results in a recombinant severe acute respiratory syndrome-associated coronavirus (SARS-CoV) nucleocapsid-based western blot assay were rectified by the use of two subunits (S1 and S2) of spike for detection of antibody to SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q34429423">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

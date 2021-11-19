@@ -1330,7 +1330,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33694361">Coronaviruses post-SARS: update on replication and pathogenesis.</a> (<a href="http://www.wikidata.org/entity/Q33694361">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33694361">Coronaviruses post-SARS: update on replication and pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q33694361">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1374,7 +1374,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33723058">Cxcl16 interact with SARS-CoV N protein in and out cell.</a> (<a href="http://www.wikidata.org/entity/Q33723058">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33723058">Cxcl16 interact with SARS-CoV N protein in and out cell</a> (<a href="http://www.wikidata.org/entity/Q33723058">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

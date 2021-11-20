@@ -65,7 +65,7 @@ Which gives us these proteins:
 
 Thanks to work done by a team at the online
 [BioHackathon in April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
-macromolecular structures from the [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<cite>Q57793775</cite>]
+macromolecular structures from the [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<cite>Q57793775</cite>,<cite>Q109348309</cite>]
 have been entering Wikidata:
 
 <sparql>complexes</sparql>

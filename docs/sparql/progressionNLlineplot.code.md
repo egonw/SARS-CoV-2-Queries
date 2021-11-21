@@ -1491,6 +1491,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2021-11-17</td>
     <td>2355232</td>
   </tr>
+  <tr>
+    <td>2021-11-18</td>
+    <td>2378823</td>
+  </tr>
+  <tr>
+    <td>2021-11-19</td>
+    <td>2399849</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

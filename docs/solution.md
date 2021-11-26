@@ -410,7 +410,7 @@ This gives:
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide (radical)</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>

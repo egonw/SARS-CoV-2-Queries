@@ -51,6 +51,16 @@ This gives these 10 papers:
     <td><a href="https://doi.org/10.1080/22221751.2021.1898291">10.1080/22221751.2021.1898291</a></td>
   </tr>
   <tr>
+    <td>2021-11-23</td>
+    <td><a href="https://scholia.toolforge.org/Q109728604">SARS‐CoV‐2 N Protein Induces Acute Kidney Injury via Smad3‐Dependent G1 Cell Cycle Arrest Mechanism</a> (<a href="http://www.wikidata.org/entity/Q109728604">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/ADVS.202103248">10.1002/ADVS.202103248</a></td>
+  </tr>
+  <tr>
+    <td>2021-11-22</td>
+    <td><a href="https://scholia.toolforge.org/Q109729425">TMPRSS2 promotes SARS-CoV-2 evasion from NCOA7-mediated restriction</a> (<a href="http://www.wikidata.org/entity/Q109729425">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1009820">10.1371/JOURNAL.PPAT.1009820</a></td>
+  </tr>
+  <tr>
     <td>2021-11-18</td>
     <td><a href="https://scholia.toolforge.org/Q109649507">Clinical Antiviral Drug Arbidol Inhibits Infection by SARS-CoV-2 and Variants through Direct Binding to the Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q109649507">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACSCHEMBIO.1C00756">10.1021/ACSCHEMBIO.1C00756</a></td>
@@ -64,16 +74,6 @@ This gives these 10 papers:
     <td>2021-11-18</td>
     <td><a href="https://scholia.toolforge.org/Q109657653">Dissecting the early COVID-19 cases in Wuhan</a> (<a href="http://www.wikidata.org/entity/Q109657653">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABM4454">10.1126/SCIENCE.ABM4454</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-16</td>
-    <td><a href="https://scholia.toolforge.org/Q109649907">A Bacterial Cell-Based Assay To Study SARS-CoV-2 Protein-Protein Interactions</a> (<a href="http://www.wikidata.org/entity/Q109649907">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/MBIO.02936-21">10.1128/MBIO.02936-21</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-15</td>
-    <td><a href="https://scholia.toolforge.org/Q109649568">The glycosylation in SARS-CoV-2 and its receptor ACE2</a> (<a href="http://www.wikidata.org/entity/Q109649568">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41392-021-00809-8">10.1038/S41392-021-00809-8</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -223,6 +223,16 @@ Which currently returns:
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
   </tr>
   <tr>
+    <td>2021-11-23</td>
+    <td><a href="https://scholia.toolforge.org/Q109728604">SARS‐CoV‐2 N Protein Induces Acute Kidney Injury via Smad3‐Dependent G1 Cell Cycle Arrest Mechanism</a> (<a href="http://www.wikidata.org/entity/Q109728604">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/ADVS.202103248">10.1002/ADVS.202103248</a></td>
+  </tr>
+  <tr>
+    <td>2021-11-22</td>
+    <td><a href="https://scholia.toolforge.org/Q109729425">TMPRSS2 promotes SARS-CoV-2 evasion from NCOA7-mediated restriction</a> (<a href="http://www.wikidata.org/entity/Q109729425">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1009820">10.1371/JOURNAL.PPAT.1009820</a></td>
+  </tr>
+  <tr>
     <td>2021-11-18</td>
     <td><a href="https://scholia.toolforge.org/Q109649523">Backbone and Ile, Leu, Val methyl group resonance assignment of CoV-Y domain of SARS-CoV-2 non-structural protein 3</a> (<a href="http://www.wikidata.org/entity/Q109649523">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S12104-021-10059-Y">10.1007/S12104-021-10059-Y</a></td>
@@ -246,16 +256,6 @@ Which currently returns:
     <td>2021-11-15</td>
     <td><a href="https://scholia.toolforge.org/Q109649897">SARS-CoV-2 inhibits induction of the MHC class I pathway by targeting the STAT1-IRF1-NLRC5 axis</a> (<a href="http://www.wikidata.org/entity/Q109649897">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41467-021-26910-8">10.1038/S41467-021-26910-8</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-13</td>
-    <td><a href="https://scholia.toolforge.org/Q109650048">SARS-CoV-2 deregulates the vascular and immune functions of brain pericytes via Spike protein</a> (<a href="http://www.wikidata.org/entity/Q109650048">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.NBD.2021.105561">10.1016/J.NBD.2021.105561</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-12</td>
-    <td><a href="https://scholia.toolforge.org/Q109650098">Disulfide bonds play a critical role in the structure and function of the receptor-binding domain of the SARS-CoV-2 Spike antigen</a> (<a href="http://www.wikidata.org/entity/Q109650098">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JMB.2021.167357">10.1016/J.JMB.2021.167357</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -381,7 +381,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>19906</td>
+    <td>19900</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -640,12 +640,12 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>305</td>
+    <td>306</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>96</td>
+    <td>97</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

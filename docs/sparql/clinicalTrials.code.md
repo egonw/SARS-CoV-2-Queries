@@ -1487,7 +1487,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87931427">NO Prevention of COVID-19 for Healthcare Providers</a> (<a href="http://www.wikidata.org/entity/Q87931427">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide (radical)</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04312243</td>
   </tr>
@@ -1547,7 +1547,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87931003">Nitric Oxide Gas Inhalation Therapy for Mild/Moderate COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87931003">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide (radical)</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04305457</td>
   </tr>
@@ -1661,13 +1661,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87078716">Nitric Oxide Gas Inhalation for Severe Acute Respiratory Syndrome in COVID-19.</a> (<a href="http://www.wikidata.org/entity/Q87078716">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide (radical)</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04290871</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87078718">Nitric Oxide Gas Inhalation Therapy for Mild/Moderate COVID19 Infection</a> (<a href="http://www.wikidata.org/entity/Q87078718">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide (radical)</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q207843">nitric oxide</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04290858</td>
   </tr>

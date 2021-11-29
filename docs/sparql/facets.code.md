@@ -17,18 +17,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><b>facet</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107405004">timeline of the COVID-19 pandemic in June 2021</a> (<a href="http://www.wikidata.org/entity/Q107405004">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109502125">Q109502125</a> (<a href="http://www.wikidata.org/entity/Q109502125">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109569306">Q109569306</a> (<a href="http://www.wikidata.org/entity/Q109569306">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">Timeline of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
@@ -327,6 +315,18 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107143124">variants under monitoring</a> (<a href="http://www.wikidata.org/entity/Q107143124">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q107405004">timeline of the COVID-19 pandemic in June 2021</a> (<a href="http://www.wikidata.org/entity/Q107405004">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109502125">Q109502125</a> (<a href="http://www.wikidata.org/entity/Q109502125">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109569306">Q109569306</a> (<a href="http://www.wikidata.org/entity/Q109569306">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

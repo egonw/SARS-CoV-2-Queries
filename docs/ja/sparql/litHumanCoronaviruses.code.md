@@ -34942,13 +34942,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-01</td>
-    <td><a href="https://scholia.toolforge.org/Q98654433">Supportive Management and Interventions for Respiratory Failure Due to SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q98654433">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1097/CNQ.0000000000000322">10.1097/CNQ.0000000000000322</a></td>
-    <td>32833773</td>
-  </tr>
-  <tr>
-    <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q101128811">Comparison of clinical, laboratory, and radiological characteristics between SARS-CoV-2 infection and community-acquired pneumonia caused by influenza virus: A cross-sectional retrospective study</a> (<a href="http://www.wikidata.org/entity/Q101128811">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1097/MD.0000000000023064">10.1097/MD.0000000000023064</a></td>
@@ -34991,6 +34984,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q100533422">[The Peripheral Neuropathy and Myopathy Associated with Severe Acute Respiratory Syndrome-Correlated New Coronavirus (SARS-Cov-2)]</a> (<a href="http://www.wikidata.org/entity/Q100533422">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.11477/MF.1416201646">10.11477/MF.1416201646</a></td>
+    <td>33051390</td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q100486257">Commentaries on Viewpoint: The interaction between SARS-CoV-2 and ACE2 may have consequences for skeletal muscle viral susceptibility and myopathies</a> (<a href="http://www.wikidata.org/entity/Q100486257">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1152/JAPPLPHYSIOL.00775.2020">10.1152/JAPPLPHYSIOL.00775.2020</a></td>
@@ -35019,6 +35019,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q100562330">Reduced prevalence of SARS-CoV-2 infection in ABO blood group O</a> (<a href="http://www.wikidata.org/entity/Q100562330">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1182/BLOODADVANCES.2020002657">10.1182/BLOODADVANCES.2020002657</a></td>
+    <td>33057631</td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q100516105">Age-related D-dimer elevation and occasional lethality in SARS-CoV-2 infected patients</a> (<a href="http://www.wikidata.org/entity/Q100516105">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1556/650.2020.31998">10.1556/650.2020.31998</a></td>
@@ -35030,13 +35037,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.21203/RS.3.RS-80345/V1">10.21203/RS.3.RS-80345/V1</a></td>
     <td>33024961</td>
-  </tr>
-  <tr>
-    <td>2020-10-01</td>
-    <td><a href="https://scholia.toolforge.org/Q99714502">Quantitative Proteomic Analysis of the Expression of SARS-CoV-2 Receptors in the Gut of Patients with Chronic Enterocolitis</a> (<a href="http://www.wikidata.org/entity/Q99714502">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3349/YMJ.2020.61.10.891">10.3349/YMJ.2020.61.10.891</a></td>
-    <td>32975064</td>
   </tr>
   <tr>
     <td>2020-10-01</td>

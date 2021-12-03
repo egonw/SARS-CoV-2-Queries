@@ -1866,7 +1866,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34014447">Genetic variation of the human α-2-Heremans-Schmid glycoprotein (AHSG) gene associated with the risk of SARS-CoV infection.</a> (<a href="http://www.wikidata.org/entity/Q34014447">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34014447">Genetic variation of the human α-2-Heremans-Schmid glycoprotein (AHSG) gene associated with the risk of SARS-CoV infection</a> (<a href="http://www.wikidata.org/entity/Q34014447">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2334,7 +2334,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34009523">Inhibition of SARS pseudovirus cell entry by lactoferrin binding to heparan sulfate proteoglycans.</a> (<a href="http://www.wikidata.org/entity/Q34009523">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34009523">Inhibition of SARS pseudovirus cell entry by lactoferrin binding to heparan sulfate proteoglycans</a> (<a href="http://www.wikidata.org/entity/Q34009523">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2850,7 +2850,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34020329">Novel system for detecting SARS coronavirus nucleocapsid protein using an ssDNA aptamer.</a> (<a href="http://www.wikidata.org/entity/Q34020329">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34020329">Novel system for detecting SARS coronavirus nucleocapsid protein using an ssDNA aptamer</a> (<a href="http://www.wikidata.org/entity/Q34020329">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4246,7 +4246,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33977649">The nucleocapsid protein of the SARS coronavirus is capable of self-association through a C-terminal 209 amino acid interaction domain.</a> (<a href="http://www.wikidata.org/entity/Q33977649">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33977649">The nucleocapsid protein of the SARS coronavirus is capable of self-association through a C-terminal 209 amino acid interaction domain</a> (<a href="http://www.wikidata.org/entity/Q33977649">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4282,7 +4282,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34015988">The spike protein of SARS-CoV--a target for vaccine and therapeutic development.</a> (<a href="http://www.wikidata.org/entity/Q34015988">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34015988">The spike protein of SARS-CoV--a target for vaccine and therapeutic development</a> (<a href="http://www.wikidata.org/entity/Q34015988">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -29,6 +29,12 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q109569306">Q109569306</a> (<a href="http://www.wikidata.org/entity/Q109569306">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q109805104">Technical Advisory Group on SARS-CoV-2 Virus Evolution</a> (<a href="http://www.wikidata.org/entity/Q109805104">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109828957">Q109828957</a> (<a href="http://www.wikidata.org/entity/Q109828957">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">2019-20年コロナウイルス感染症流行のタイムライン</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>

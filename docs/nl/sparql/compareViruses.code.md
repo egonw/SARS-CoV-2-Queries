@@ -526,14 +526,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33247472">A new nucleotide-composition based fingerprint of SARS-CoV with visualization analysis</a> (<a href="http://www.wikidata.org/entity/Q33247472">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33375590">A noncovalent class of papain-like protease/deubiquitinase inhibitors blocks SARS virus replication</a> (<a href="http://www.wikidata.org/entity/Q33375590">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40462959">A novel cell-based binding assay system reconstituting interaction between SARS-CoV S protein and its cellular receptor.</a> (<a href="http://www.wikidata.org/entity/Q40462959">edit</a>)</td>
   </tr>
   <tr>
@@ -570,10 +562,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33243091">An efficient method for the synthesis of peptide aldehyde libraries employed in the discovery of reversible SARS coronavirus main protease (SARS-CoV Mpro) inhibitors</a> (<a href="http://www.wikidata.org/entity/Q33243091">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40220859">Analysis of SARS-CoV receptor activity of ACE2 orthologs.</a> (<a href="http://www.wikidata.org/entity/Q40220859">edit</a>)</td>
   </tr>
   <tr>
@@ -583,10 +571,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30350298">Animal coronavirus vaccines: lessons for SARS.</a> (<a href="http://www.wikidata.org/entity/Q30350298">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33205812">Animal origins of SARS coronavirus: possible links with the international trade in small carnivores</a> (<a href="http://www.wikidata.org/entity/Q33205812">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -610,15 +594,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33215103">Assays for the assessment of neutralizing antibody activities against Severe Acute Respiratory Syndrome (SARS) associated coronavirus (SCV).</a> (<a href="http://www.wikidata.org/entity/Q33215103">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40395618">Autoantibodies against human epithelial cells and endothelial cells after severe acute respiratory syndrome (SARS)-associated coronavirus infection.</a> (<a href="http://www.wikidata.org/entity/Q40395618">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33225199">Binding interaction of SARS coronavirus 3CL(pro) protease with vacuolar-H+ ATPase G1 subunit</a> (<a href="http://www.wikidata.org/entity/Q33225199">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -626,15 +602,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33383237">Broadening of neutralization activity to directly block a dominant antibody-driven SARS-coronavirus evolution pathway</a> (<a href="http://www.wikidata.org/entity/Q33383237">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40317281">Characterization of the antiviral effects of interferon-alpha against a SARS-like coronoavirus infection in vitro.</a> (<a href="http://www.wikidata.org/entity/Q40317281">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33291389">Chicken single-chain variable fragments against the SARS-CoV spike protein.</a> (<a href="http://www.wikidata.org/entity/Q33291389">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -654,19 +622,11 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33218272">Construction of a large human scFv library against SARS virus</a> (<a href="http://www.wikidata.org/entity/Q33218272">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q31112148">Construction of phage antibody library for Fab fragment from a convalescent patient infected with SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q31112148">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40362033">Cross-reaction of SARS-CoV antigen with autoantibodies in autoimmune diseases.</a> (<a href="http://www.wikidata.org/entity/Q40362033">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33226421">Cross-reactivity of antibody against SARS-coronavirus nucleocapsid protein with IL-11.</a> (<a href="http://www.wikidata.org/entity/Q33226421">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -702,10 +662,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33268016">Development and validation of a high-throughput screen for inhibitors of SARS CoV and its application in screening of a 100,000-compound library</a> (<a href="http://www.wikidata.org/entity/Q33268016">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40715781">Development of a SARS Coronavirus Vaccine from Recombinant Spike Protein Plus Delta Inulin Adjuvant.</a> (<a href="http://www.wikidata.org/entity/Q40715781">edit</a>)</td>
   </tr>
   <tr>
@@ -714,19 +670,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33362888">Development of human single-chain antibodies against SARS-associated coronavirus</a> (<a href="http://www.wikidata.org/entity/Q33362888">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33386945">Differential inhibitory activities and stabilisation of DNA aptamers against the SARS coronavirus helicase</a> (<a href="http://www.wikidata.org/entity/Q33386945">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q41828714">Differential sensitivities of severe acute respiratory syndrome (SARS) coronavirus spike polypeptide enzyme-linked immunosorbent assay (ELISA) and SARS coronavirus nucleocapsid protein ELISA for serodiagnosis of SARS coronavirus pneumonia.</a> (<a href="http://www.wikidata.org/entity/Q41828714">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33414885">Differential stepwise evolution of SARS coronavirus functional proteins in different host species</a> (<a href="http://www.wikidata.org/entity/Q33414885">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -750,10 +694,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33206632">Evaluation of metal-conjugated compounds as inhibitors of 3CL protease of SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33206632">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q41750216">Evidence for substrate binding-induced zwitterion formation in the catalytic Cys-His dyad of the SARS-CoV main protease.</a> (<a href="http://www.wikidata.org/entity/Q41750216">edit</a>)</td>
   </tr>
   <tr>
@@ -774,10 +714,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33227105">Expression and renaturation of a novel human single-chain Fv antibody against SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q33227105">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q31041420">Expression cloning of functional receptor used by SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q31041420">edit</a>)</td>
   </tr>
   <tr>
@@ -786,23 +722,11 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33253863">Factors associated with nosocomial SARS-CoV transmission among healthcare workers in Hanoi, Vietnam, 2003</a> (<a href="http://www.wikidata.org/entity/Q33253863">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40183915">Features discriminating SARS from other severe viral respiratory tract infections.</a> (<a href="http://www.wikidata.org/entity/Q40183915">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33359207">Genomic analysis and geographic visualization of H5N1 and SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33359207">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40164804">Heterologous viral RNA export elements improve expression of severe acute respiratory syndrome (SARS) coronavirus spike protein and protective efficacy of DNA vaccines against SARS.</a> (<a href="http://www.wikidata.org/entity/Q40164804">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33347218">High-throughput assay using a GFP-expressing replicon for SARS-CoV drug discovery</a> (<a href="http://www.wikidata.org/entity/Q33347218">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -843,10 +767,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40436586">Identification of murine CD8 T cell epitopes in codon-optimized SARS-associated coronavirus spike protein.</a> (<a href="http://www.wikidata.org/entity/Q40436586">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33212372">Identification of single-chain antibody fragments specific against SARS-associated coronavirus from phage-displayed antibody library</a> (<a href="http://www.wikidata.org/entity/Q33212372">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -930,10 +850,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33286672">Isolation and identification of an scFv antibody against nucleocapsid protein of SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33286672">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40441237">Isolation of virus from a SARS patient and genome-wide analysis of genetic mutations related to pathogenesis and epidemiology from 47 SARS-CoV isolates.</a> (<a href="http://www.wikidata.org/entity/Q40441237">edit</a>)</td>
   </tr>
   <tr>
@@ -962,10 +878,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33240696">Mapping a neutralizing epitope on the SARS coronavirus spike protein: computational prediction based on affinity-selected peptides.</a> (<a href="http://www.wikidata.org/entity/Q33240696">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30939828">Mass spectrometric characterization of proteins from the SARS virus: a preliminary report</a> (<a href="http://www.wikidata.org/entity/Q30939828">edit</a>)</td>
   </tr>
   <tr>
@@ -975,10 +887,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30986002">Mining SARS-CoV protease cleavage data using non-orthogonal decision trees: a novel method for decisive template selection</a> (<a href="http://www.wikidata.org/entity/Q30986002">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33214622">Molecular cloning, expression, and purification of SARS-CoV nsp13.</a> (<a href="http://www.wikidata.org/entity/Q33214622">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -995,10 +903,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40569736">Mutation analysis of 20 SARS virus genome sequences: evidence for negative selection in replicase ORF1b and spike gene.</a> (<a href="http://www.wikidata.org/entity/Q40569736">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33392688">MyD88 is required for protection from lethal infection with a mouse-adapted SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33392688">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1070,15 +974,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33242774">Production of an anti-severe acute respiratory syndrome (SARS) coronavirus human monoclonal antibody Fab fragment by using a combinatorial immunoglobulin gene library derived from patients who recovered from SARS.</a> (<a href="http://www.wikidata.org/entity/Q33242774">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40468494">Profile of antibodies to the nucleocapsid protein of the severe acute respiratory syndrome (SARS)-associated coronavirus in probable SARS patients.</a> (<a href="http://www.wikidata.org/entity/Q40468494">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33420250">Prokaryotic expression of S2 extracellular domain of SARS coronavirus spike protein and its fusion with Hela cell membrane</a> (<a href="http://www.wikidata.org/entity/Q33420250">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1107,10 +1003,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40366467">Quantitative evaluation of infection control models in the prevention of nosocomial transmission of SARS virus to healthcare workers: implication to nosocomial viral infection control for healthcare workers.</a> (<a href="http://www.wikidata.org/entity/Q40366467">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33239175">Rapid peptide-based screening on the substrate specificity of severe acute respiratory syndrome (SARS) coronavirus 3C-like protease by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry</a> (<a href="http://www.wikidata.org/entity/Q33239175">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1170,10 +1062,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33211511">SARS-CoV protease inhibitors design using virtual screening method from natural products libraries</a> (<a href="http://www.wikidata.org/entity/Q33211511">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40220808">SARS-CoV, but not HCoV-NL63, utilizes cathepsins to infect cells: viral entry.</a> (<a href="http://www.wikidata.org/entity/Q40220808">edit</a>)</td>
   </tr>
   <tr>
@@ -1182,27 +1070,11 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33209364">SARS-coronavirus replication in human peripheral monocytes/macrophages</a> (<a href="http://www.wikidata.org/entity/Q33209364">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40173036">SARS-unique fold in the Rousettus bat coronavirus HKU9.</a> (<a href="http://www.wikidata.org/entity/Q40173036">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33223061">Screening and identification of linear B-cell epitopes and entry-blocking peptide of severe acute respiratory syndrome (SARS)-associated coronavirus using synthetic overlapping peptide library.</a> (<a href="http://www.wikidata.org/entity/Q33223061">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33261049">Selection of SARS-coronavirus-specific B cell epitopes by phage peptide library screening and evaluation of the immunological effect of epitope-based peptides on mice</a> (<a href="http://www.wikidata.org/entity/Q33261049">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q41857864">Self-assembly of a nine-residue amyloid-forming peptide fragment of SARS corona virus E-protein: mechanism of self aggregation and amyloid-inhibition of hIAPP.</a> (<a href="http://www.wikidata.org/entity/Q41857864">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33223139">Sensitive detection of SARS coronavirus RNA by a novel asymmetric multiplex nested RT-PCR amplification coupled with oligonucleotide microarray hybridization</a> (<a href="http://www.wikidata.org/entity/Q33223139">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1215,10 +1087,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42239828">Severe acute respiratory syndrome (SARS) coronavirus: possible re-emergence of the Asian-global novel threat.</a> (<a href="http://www.wikidata.org/entity/Q42239828">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33248093">Severe acute respiratory syndrome (SARS): development of diagnostics and antivirals</a> (<a href="http://www.wikidata.org/entity/Q33248093">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1294,23 +1162,11 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33348829">The effect of SARS coronavirus on blood system: its clinical findings and the pathophysiologic hypothesis</a> (<a href="http://www.wikidata.org/entity/Q33348829">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30350087">The financial impact of controlling a respiratory virus outbreak in a teaching hospital: lessons learned from SARS.</a> (<a href="http://www.wikidata.org/entity/Q30350087">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33223190">The interaction of the SARS coronavirus non-structural protein 10 with the cellular oxido-reductase system causes an extensive cytopathic effect</a> (<a href="http://www.wikidata.org/entity/Q33223190">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40220937">The nsp2 proteins of mouse hepatitis virus and SARS coronavirus are dispensable for viral replication.</a> (<a href="http://www.wikidata.org/entity/Q40220937">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33389939">The phylogeny of SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q33389939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1322,15 +1178,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33207348">The spike protein of severe acute respiratory syndrome (SARS) is cleaved in virus infected Vero-E6 cells</a> (<a href="http://www.wikidata.org/entity/Q33207348">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q31138256">The structural characterization and antigenicity of the S protein of SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q31138256">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33463837">Toll-like receptors, chemokine receptors and death receptor ligands responses in SARS coronavirus infected human monocyte derived dendritic cells.</a> (<a href="http://www.wikidata.org/entity/Q33463837">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1370,10 +1218,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33351949">Virus-like particles of SARS-like coronavirus formed by membrane proteins from different origins demonstrate stimulating activity in human dendritic cells</a> (<a href="http://www.wikidata.org/entity/Q33351949">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q30350124">When animal viruses attack: SARS and avian influenza.</a> (<a href="http://www.wikidata.org/entity/Q30350124">edit</a>)</td>
   </tr>
   <tr>
@@ -1390,15 +1234,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33195529">[Analysis on the SARS-CoV genome of PUMC01 isolate].</a> (<a href="http://www.wikidata.org/entity/Q33195529">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q40534318">[Comparative study of clinical characteristics and prognosis of clinically diagnosed SARS patients with positive and negative serum SARS coronavirus-specific antibodies test].</a> (<a href="http://www.wikidata.org/entity/Q40534318">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33210530">[Construction and screening of human phage antibody library against SARS virus].</a> (<a href="http://www.wikidata.org/entity/Q33210530">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1518,6 +1354,14 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33247472">A new nucleotide-composition based fingerprint of SARS-CoV with visualization analysis</a> (<a href="http://www.wikidata.org/entity/Q33247472">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33375590">A noncovalent class of papain-like protease/deubiquitinase inhibitors blocks SARS virus replication</a> (<a href="http://www.wikidata.org/entity/Q33375590">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q44727152">A novel fingerprint map for detecting SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q44727152">edit</a>)</td>
   </tr>
   <tr>
@@ -1634,6 +1478,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33243091">An efficient method for the synthesis of peptide aldehyde libraries employed in the discovery of reversible SARS coronavirus main protease (SARS-CoV Mpro) inhibitors</a> (<a href="http://www.wikidata.org/entity/Q33243091">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q47957009">An efficient method to make human monoclonal antibodies from memory B cells: potent neutralization of SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q47957009">edit</a>)</td>
   </tr>
   <tr>
@@ -1667,6 +1515,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q26799857">Animal models for SARS and MERS coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q26799857">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33205812">Animal origins of SARS coronavirus: possible links with the international trade in small carnivores</a> (<a href="http://www.wikidata.org/entity/Q33205812">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1802,6 +1654,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33215103">Assays for the assessment of neutralizing antibody activities against Severe Acute Respiratory Syndrome (SARS) associated coronavirus (SCV).</a> (<a href="http://www.wikidata.org/entity/Q33215103">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q51981247">Assembling the SARS-CoV genome -- new method based on graph theoretical approach.</a> (<a href="http://www.wikidata.org/entity/Q51981247">edit</a>)</td>
   </tr>
   <tr>
@@ -1862,6 +1718,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33225199">Binding interaction of SARS coronavirus 3CL(pro) protease with vacuolar-H+ ATPase G1 subunit</a> (<a href="http://www.wikidata.org/entity/Q33225199">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q51661127">Binding mechanism of coronavirus main proteinase with ligands and its implication to drug design against SARS.</a> (<a href="http://www.wikidata.org/entity/Q51661127">edit</a>)</td>
   </tr>
   <tr>
@@ -1883,6 +1743,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q51932689">Boosted expression of the SARS-CoV nucleocapsid protein in tobacco and its immunogenicity in mice.</a> (<a href="http://www.wikidata.org/entity/Q51932689">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33383237">Broadening of neutralization activity to directly block a dominant antibody-driven SARS-coronavirus evolution pathway</a> (<a href="http://www.wikidata.org/entity/Q33383237">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1978,6 +1842,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33291389">Chicken single-chain variable fragments against the SARS-CoV spike protein.</a> (<a href="http://www.wikidata.org/entity/Q33291389">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42833766">Children's vaccines do not induce cross reactivity against SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q42833766">edit</a>)</td>
   </tr>
   <tr>
@@ -2066,6 +1934,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33218272">Construction of a large human scFv library against SARS virus</a> (<a href="http://www.wikidata.org/entity/Q33218272">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q46488636">Construction of a non-infectious SARS coronavirus replicon for application in drug screening and analysis of viral protein function.</a> (<a href="http://www.wikidata.org/entity/Q46488636">edit</a>)</td>
   </tr>
   <tr>
@@ -2119,6 +1991,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q34650448">Cross-reactive antibodies in convalescent SARS patients' sera against the emerging novel human coronavirus EMC</a> (<a href="http://www.wikidata.org/entity/Q34650448">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33226421">Cross-reactivity of antibody against SARS-coronavirus nucleocapsid protein with IL-11.</a> (<a href="http://www.wikidata.org/entity/Q33226421">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2238,6 +2114,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33268016">Development and validation of a high-throughput screen for inhibitors of SARS CoV and its application in screening of a 100,000-compound library</a> (<a href="http://www.wikidata.org/entity/Q33268016">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q43791900">Development of Taqman RT-nested PCR system for clinical SARS-CoV detection.</a> (<a href="http://www.wikidata.org/entity/Q43791900">edit</a>)</td>
   </tr>
   <tr>
@@ -2278,6 +2158,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33362888">Development of human single-chain antibodies against SARS-associated coronavirus</a> (<a href="http://www.wikidata.org/entity/Q33362888">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35989141">Development of mouse hepatitis virus and SARS-CoV infectious cDNA constructs.</a> (<a href="http://www.wikidata.org/entity/Q35989141">edit</a>)</td>
   </tr>
   <tr>
@@ -2311,6 +2195,14 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q46113539">Differential characteristics of the early stage of lung inflammation induced by SARS-CoV Nucleocapsid protein related to age in the mouse.</a> (<a href="http://www.wikidata.org/entity/Q46113539">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33386945">Differential inhibitory activities and stabilisation of DNA aptamers against the SARS coronavirus helicase</a> (<a href="http://www.wikidata.org/entity/Q33386945">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33414885">Differential stepwise evolution of SARS coronavirus functional proteins in different host species</a> (<a href="http://www.wikidata.org/entity/Q33414885">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2498,6 +2390,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33206632">Evaluation of metal-conjugated compounds as inhibitors of 3CL protease of SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33206632">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q45501850">Evaluation of modified vaccinia virus Ankara based recombinant SARS vaccine in ferrets.</a> (<a href="http://www.wikidata.org/entity/Q45501850">edit</a>)</td>
   </tr>
   <tr>
@@ -2554,6 +2450,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33227105">Expression and renaturation of a novel human single-chain Fv antibody against SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q33227105">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q45135870">Expression of SARS-coronavirus envelope protein in Escherichia coli cells alters membrane permeability.</a> (<a href="http://www.wikidata.org/entity/Q45135870">edit</a>)</td>
   </tr>
   <tr>
@@ -2587,6 +2487,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q27335547">Ezrin interacts with the SARS coronavirus Spike protein and restrains infection at the entry stage</a> (<a href="http://www.wikidata.org/entity/Q27335547">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33253863">Factors associated with nosocomial SARS-CoV transmission among healthcare workers in Hanoi, Vietnam, 2003</a> (<a href="http://www.wikidata.org/entity/Q33253863">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2674,6 +2578,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33359207">Genomic analysis and geographic visualization of H5N1 and SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33359207">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q48116249">Genomic classification using an information-based similarity index: application to the SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q48116249">edit</a>)</td>
   </tr>
   <tr>
@@ -2731,6 +2639,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q38332095">High-dose hydrocortisone reduces expression of the pro-inflammatory chemokines CXCL8 and CXCL10 in SARS coronavirus-infected intestinal cells</a> (<a href="http://www.wikidata.org/entity/Q38332095">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33347218">High-throughput assay using a GFP-expressing replicon for SARS-CoV drug discovery</a> (<a href="http://www.wikidata.org/entity/Q33347218">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2867,6 +2779,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q34687042">Identification of pulmonary Oct-4+ stem/progenitor cells and demonstration of their susceptibility to SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q34687042">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33212372">Identification of single-chain antibody fragments specific against SARS-associated coronavirus from phage-displayed antibody library</a> (<a href="http://www.wikidata.org/entity/Q33212372">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3034,7 +2950,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34009523">Inhibition of SARS pseudovirus cell entry by lactoferrin binding to heparan sulfate proteoglycans.</a> (<a href="http://www.wikidata.org/entity/Q34009523">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34009523">Inhibition of SARS pseudovirus cell entry by lactoferrin binding to heparan sulfate proteoglycans</a> (<a href="http://www.wikidata.org/entity/Q34009523">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3194,6 +3110,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33286672">Isolation and identification of an scFv antibody against nucleocapsid protein of SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33286672">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33310531">Isolation of inhibitory RNA aptamers against severe acute respiratory syndrome</a> (<a href="http://www.wikidata.org/entity/Q33310531">edit</a>)</td>
   </tr>
   <tr>
@@ -3266,6 +3186,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33240696">Mapping a neutralizing epitope on the SARS coronavirus spike protein: computational prediction based on affinity-selected peptides.</a> (<a href="http://www.wikidata.org/entity/Q33240696">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q27684519">Mechanism for controlling the monomer-dimer conversion of SARS coronavirus main protease</a> (<a href="http://www.wikidata.org/entity/Q27684519">edit</a>)</td>
   </tr>
   <tr>
@@ -3319,6 +3243,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q43877119">Molecular characterization of a panel of murine monoclonal antibodies specific for the SARS-coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q43877119">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33214622">Molecular cloning, expression, and purification of SARS-CoV nsp13.</a> (<a href="http://www.wikidata.org/entity/Q33214622">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3394,6 +3322,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33392688">MyD88 is required for protection from lethal infection with a mouse-adapted SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q33392688">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q46166706">NMR assignment of the protein nsp3a from SARS-CoV.</a> (<a href="http://www.wikidata.org/entity/Q46166706">edit</a>)</td>
   </tr>
   <tr>
@@ -3430,7 +3362,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34020329">Novel system for detecting SARS coronavirus nucleocapsid protein using an ssDNA aptamer.</a> (<a href="http://www.wikidata.org/entity/Q34020329">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34020329">Novel system for detecting SARS coronavirus nucleocapsid protein using an ssDNA aptamer</a> (<a href="http://www.wikidata.org/entity/Q34020329">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3638,6 +3570,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33242774">Production of an anti-severe acute respiratory syndrome (SARS) coronavirus human monoclonal antibody Fab fragment by using a combinatorial immunoglobulin gene library derived from patients who recovered from SARS.</a> (<a href="http://www.wikidata.org/entity/Q33242774">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33865858">Production of specific antibodies against SARS-coronavirus nucleocapsid protein without cross reactivity with human coronaviruses 229E and OC43.</a> (<a href="http://www.wikidata.org/entity/Q33865858">edit</a>)</td>
   </tr>
   <tr>
@@ -3659,6 +3595,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q37283689">Progress in Anti-SARS Coronavirus Chemistry, Biology and Chemotherapy.</a> (<a href="http://www.wikidata.org/entity/Q37283689">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33420250">Prokaryotic expression of S2 extracellular domain of SARS coronavirus spike protein and its fusion with Hela cell membrane</a> (<a href="http://www.wikidata.org/entity/Q33420250">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3735,6 +3675,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q51671857">Rapid diagnosis of a coronavirus associated with severe acute respiratory syndrome</a> (<a href="http://www.wikidata.org/entity/Q51671857">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33239175">Rapid peptide-based screening on the substrate specificity of severe acute respiratory syndrome (SARS) coronavirus 3C-like protease by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry</a> (<a href="http://www.wikidata.org/entity/Q33239175">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3986,6 +3930,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33211511">SARS-CoV protease inhibitors design using virtual screening method from natural products libraries</a> (<a href="http://www.wikidata.org/entity/Q33211511">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q36144565">SARS-CoV regulates immune function-related gene expression in human monocytic cells.</a> (<a href="http://www.wikidata.org/entity/Q36144565">edit</a>)</td>
   </tr>
   <tr>
@@ -4066,6 +4014,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33209364">SARS-coronavirus replication in human peripheral monocytes/macrophages</a> (<a href="http://www.wikidata.org/entity/Q33209364">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q33331393">SARS-coronavirus replication/transcription complexes are membrane-protected and need a host factor for activity in vitro.</a> (<a href="http://www.wikidata.org/entity/Q33331393">edit</a>)</td>
   </tr>
   <tr>
@@ -4118,6 +4070,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33223061">Screening and identification of linear B-cell epitopes and entry-blocking peptide of severe acute respiratory syndrome (SARS)-associated coronavirus using synthetic overlapping peptide library.</a> (<a href="http://www.wikidata.org/entity/Q33223061">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q46540496">Screening of drugs by FRET analysis identifies inhibitors of SARS-CoV 3CL protease.</a> (<a href="http://www.wikidata.org/entity/Q46540496">edit</a>)</td>
   </tr>
   <tr>
@@ -4127,6 +4083,14 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q37090141">Searching immunodominant epitopes prior to epidemic: HLA class II-restricted SARS-CoV spike protein epitopes in unexposed individuals.</a> (<a href="http://www.wikidata.org/entity/Q37090141">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33261049">Selection of SARS-coronavirus-specific B cell epitopes by phage peptide library screening and evaluation of the immunological effect of epitope-based peptides on mice</a> (<a href="http://www.wikidata.org/entity/Q33261049">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33223139">Sensitive detection of SARS coronavirus RNA by a novel asymmetric multiplex nested RT-PCR amplification coupled with oligonucleotide microarray hybridization</a> (<a href="http://www.wikidata.org/entity/Q33223139">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4187,6 +4151,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35150843">Severe acute respiratory syndrome (SARS): an old virus jumping into a new host or a new creation?</a> (<a href="http://www.wikidata.org/entity/Q35150843">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33248093">Severe acute respiratory syndrome (SARS): development of diagnostics and antivirals</a> (<a href="http://www.wikidata.org/entity/Q33248093">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4486,6 +4454,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33348829">The effect of SARS coronavirus on blood system: its clinical findings and the pathophysiologic hypothesis</a> (<a href="http://www.wikidata.org/entity/Q33348829">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q36143370">The effect of inhibition of PP1 and TNFα signaling on pathogenesis of SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q36143370">edit</a>)</td>
   </tr>
   <tr>
@@ -4510,6 +4482,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33223190">The interaction of the SARS coronavirus non-structural protein 10 with the cellular oxido-reductase system causes an extensive cytopathic effect</a> (<a href="http://www.wikidata.org/entity/Q33223190">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q38436263">The large 386-nt deletion in SARS-associated coronavirus: evidence for quasispecies?</a> (<a href="http://www.wikidata.org/entity/Q38436263">edit</a>)</td>
   </tr>
   <tr>
@@ -4526,7 +4502,11 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q33977649">The nucleocapsid protein of the SARS coronavirus is capable of self-association through a C-terminal 209 amino acid interaction domain.</a> (<a href="http://www.wikidata.org/entity/Q33977649">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33977649">The nucleocapsid protein of the SARS coronavirus is capable of self-association through a C-terminal 209 amino acid interaction domain</a> (<a href="http://www.wikidata.org/entity/Q33977649">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33389939">The phylogeny of SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q33389939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4550,7 +4530,11 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34015988">The spike protein of SARS-CoV--a target for vaccine and therapeutic development.</a> (<a href="http://www.wikidata.org/entity/Q34015988">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34015988">The spike protein of SARS-CoV--a target for vaccine and therapeutic development</a> (<a href="http://www.wikidata.org/entity/Q34015988">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33207348">The spike protein of severe acute respiratory syndrome (SARS) is cleaved in virus infected Vero-E6 cells</a> (<a href="http://www.wikidata.org/entity/Q33207348">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4571,6 +4555,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q25256694">Time course and cellular localization of SARS-CoV nucleoprotein and RNA in lungs from fatal cases of SARS</a> (<a href="http://www.wikidata.org/entity/Q25256694">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33463837">Toll-like receptors, chemokine receptors and death receptor ligands responses in SARS coronavirus infected human monocyte derived dendritic cells.</a> (<a href="http://www.wikidata.org/entity/Q33463837">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4722,6 +4710,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33351949">Virus-like particles of SARS-like coronavirus formed by membrane proteins from different origins demonstrate stimulating activity in human dendritic cells</a> (<a href="http://www.wikidata.org/entity/Q33351949">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35880751">Virus-specific RNA and antibody from convalescent-phase SARS patients discharged from hospital.</a> (<a href="http://www.wikidata.org/entity/Q35880751">edit</a>)</td>
   </tr>
   <tr>
@@ -4770,6 +4762,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33195529">[Analysis on the SARS-CoV genome of PUMC01 isolate].</a> (<a href="http://www.wikidata.org/entity/Q33195529">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q54329727">[Antigenicity characterization of six different fragments of SARS-CoV N protein expressed in E. coli].</a> (<a href="http://www.wikidata.org/entity/Q54329727">edit</a>)</td>
   </tr>
   <tr>
@@ -4799,6 +4795,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q34887110">[Construction and screening of SARS-CoV S protein-specific phage displayed antigen library].</a> (<a href="http://www.wikidata.org/entity/Q34887110">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q33210530">[Construction and screening of human phage antibody library against SARS virus].</a> (<a href="http://www.wikidata.org/entity/Q33210530">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

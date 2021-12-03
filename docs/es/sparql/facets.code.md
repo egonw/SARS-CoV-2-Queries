@@ -29,10 +29,16 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q109569306">Q109569306</a> (<a href="http://www.wikidata.org/entity/Q109569306">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q109805104">Technical Advisory Group on SARS-CoV-2 Virus Evolution</a> (<a href="http://www.wikidata.org/entity/Q109805104">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109828957">Q109828957</a> (<a href="http://www.wikidata.org/entity/Q109828957">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">Anexo:Cronología de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q83741704">pandemia de enfermedad por coronavirus de 2019-2020 por país y territorio</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q83741704">pandemia de COVID-19 por país y territorio</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q84056433">controversy surrounding the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84056433">edit</a>)</td>
@@ -146,7 +152,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q90213139">Impact of the 2019–20 coronavirus pandemic on long-term care facilities</a> (<a href="http://www.wikidata.org/entity/Q90213139">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90290885">List of healthcare workers who died during COVID-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q90290885">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90290885">list of healthcare workers who died during COVID-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q90290885">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90416196">face masks during the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q90416196">edit</a>)</td>

@@ -30,6 +30,11 @@ Isto te fornece 10 documentos:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2022-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q109544643">Rapid detection of novel coronavirus SARS-CoV-2 by RT-LAMP coupled solid-state nanopores</a> (<a href="http://www.wikidata.org/entity/Q109544643">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.BIOS.2021.113759">10.1016/J.BIOS.2021.113759</a></td>
+  </tr>
+  <tr>
     <td>2021-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q108504474">Hypoxia reduces cell attachment of SARS-CoV-2 spike protein by modulating the expression of ACE2, neuropilin-1, syndecan-1 and cellular heparan sulfate</a> (<a href="http://www.wikidata.org/entity/Q108504474">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
@@ -45,6 +50,11 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1080/22221751.2021.1898291">10.1080/22221751.2021.1898291</a></td>
   </tr>
   <tr>
+    <td>2021-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q109649604">Lentil lectin derived from exhibit broad antiviral activities against SARS-CoV-2 variants</a> (<a href="http://www.wikidata.org/entity/Q109649604">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2021.1957720">10.1080/22221751.2021.1957720</a></td>
+  </tr>
+  <tr>
     <td>2021-11-23</td>
     <td><a href="https://scholia.toolforge.org/Q109728604">SARS‐CoV‐2 N Protein Induces Acute Kidney Injury via Smad3‐Dependent G1 Cell Cycle Arrest Mechanism</a> (<a href="http://www.wikidata.org/entity/Q109728604">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/ADVS.202103248">10.1002/ADVS.202103248</a></td>
@@ -58,16 +68,6 @@ Isto te fornece 10 documentos:
     <td>2021-11-18</td>
     <td><a href="https://scholia.toolforge.org/Q109649507">Clinical Antiviral Drug Arbidol Inhibits Infection by SARS-CoV-2 and Variants through Direct Binding to the Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q109649507">edit</a>)</td>
     <td><a href="https://doi.org/10.1021/ACSCHEMBIO.1C00756">10.1021/ACSCHEMBIO.1C00756</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-18</td>
-    <td><a href="https://scholia.toolforge.org/Q109649523">Backbone and Ile, Leu, Val methyl group resonance assignment of CoV-Y domain of SARS-CoV-2 non-structural protein 3</a> (<a href="http://www.wikidata.org/entity/Q109649523">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S12104-021-10059-Y">10.1007/S12104-021-10059-Y</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-18</td>
-    <td><a href="https://scholia.toolforge.org/Q109657653">Dissecting the early COVID-19 cases in Wuhan</a> (<a href="http://www.wikidata.org/entity/Q109657653">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIENCE.ABM4454">10.1126/SCIENCE.ABM4454</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -324,7 +324,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>19900</td>
+    <td>20069</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

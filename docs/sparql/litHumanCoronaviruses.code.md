@@ -34921,13 +34921,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100444119">Durability of neutralizing antibodies and T-cell response post SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q100444119">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S11684-020-0822-5">10.1007/S11684-020-0822-5</a></td>
-    <td>33017040</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
     <td><a href="https://scholia.toolforge.org/Q100940809">Supporting Clinical Decision-Making during the SARS-CoV-2 Pandemic through a Global Research Commitment: The TERAVOLT Experience</a> (<a href="http://www.wikidata.org/entity/Q100940809">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CCELL.2020.10.002">10.1016/J.CCELL.2020.10.002</a></td>
@@ -34935,10 +34928,38 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100954407">Imbalance of Regulatory and Cytotoxic SARS-CoV-2-Reactive CD4+ T Cells in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q100954407">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100501088">Canadian Society of Clinical Chemists (CSCC) Interim Consensus Guidance for Testing and Reporting of SARS-CoV-2 Serology</a> (<a href="http://www.wikidata.org/entity/Q100501088">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELL.2020.10.001">10.1016/J.CELL.2020.10.001</a></td>
-    <td>33096020</td>
+    <td><a href="https://doi.org/10.1016/J.CLINBIOCHEM.2020.09.005">10.1016/J.CLINBIOCHEM.2020.09.005</a></td>
+    <td>33031819</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100501403">Accuracy of a nucleocapsid protein antigen rapid test in the diagnosis of SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q100501403">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CMI.2020.09.057">10.1016/J.CMI.2020.09.057</a></td>
+    <td>33031947</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100520073">Thromboprophylaxis with enoxaparin is associated with a lower death rate in patients hospitalized with SARS-CoV-2 infection. A cohort study</a> (<a href="http://www.wikidata.org/entity/Q100520073">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.ECLINM.2020.100562">10.1016/J.ECLINM.2020.100562</a></td>
+    <td>33043287</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100501427">[Infection with SARS-CoV-2 in pregnancy. Update of Information and proposed care. CNGOF.]</a> (<a href="http://www.wikidata.org/entity/Q100501427">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.GOFS.2020.10.001">10.1016/J.GOFS.2020.10.001</a></td>
+    <td>33031963</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100520068">SARS-CoV-2 infection dysregulates the metabolomic and lipidomic profiles of serum</a> (<a href="http://www.wikidata.org/entity/Q100520068">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.ISCI.2020.101645">10.1016/J.ISCI.2020.101645</a></td>
+    <td>33043283</td>
   </tr>
   <tr>
     <td>2020-10-05</td>
@@ -34949,17 +34970,73 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100954542">Obese patients with NASH have increased hepatic expression of SARS-CoV-2 critical entry points</a> (<a href="http://www.wikidata.org/entity/Q100954542">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100501131">Serial semiquantitative detection of SARS-CoV-2 in saliva samples</a> (<a href="http://www.wikidata.org/entity/Q100501131">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JHEP.2020.09.027">10.1016/J.JHEP.2020.09.027</a></td>
-    <td>33096086</td>
+    <td><a href="https://doi.org/10.1016/J.JINF.2020.10.002">10.1016/J.JINF.2020.10.002</a></td>
+    <td>33031835</td>
   </tr>
   <tr>
     <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100440484">A Comparison of Five SARS-CoV-2 Molecular Assays With Clinical Correlations</a> (<a href="http://www.wikidata.org/entity/Q100440484">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100520082">SARS-CoV-2 RapidPlex: A Graphene-based Multiplexed Telemedicine Platform for Rapid and Low-Cost COVID-19 Diagnosis and Monitoring</a> (<a href="http://www.wikidata.org/entity/Q100520082">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/AJCP/AQAA181">10.1093/AJCP/AQAA181</a></td>
-    <td>33015712</td>
+    <td><a href="https://doi.org/10.1016/J.MATT.2020.09.027">10.1016/J.MATT.2020.09.027</a></td>
+    <td>33043291</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100501288">Study presence of COVID-19 (SARS-CoV-2) in the sweat of patients infected with Covid-19</a> (<a href="http://www.wikidata.org/entity/Q100501288">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.MICPATH.2020.104556">10.1016/J.MICPATH.2020.104556</a></td>
+    <td>33031898</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q103721016">The impact of viral transport media on PCR assay results for the detection of nucleic acid from SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q103721016">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.PATHOL.2020.09.013">10.1016/J.PATHOL.2020.09.013</a></td>
+    <td>33250079</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100520021">Assessing the SARS-CoV-2 threat to wildlife: Potential risk to a broad range of mammals</a> (<a href="http://www.wikidata.org/entity/Q100520021">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.PECON.2020.09.008">10.1016/J.PECON.2020.09.008</a></td>
+    <td>33043253</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100503220">SARS-CoV-2 as a causative agent of idiopathic interstitial pneumonia and interstitial pneumonia associated with collagen vascular disorders</a> (<a href="http://www.wikidata.org/entity/Q100503220">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.RESINV.2020.09.002">10.1016/J.RESINV.2020.09.002</a></td>
+    <td>33032954</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100520077">Structures and dynamics of the novel S1/S2 protease cleavage site loop of the SARS-CoV-2 spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q100520077">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.YJSBX.2020.100038">10.1016/J.YJSBX.2020.100038</a></td>
+    <td>33043289</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100500961">Why misinterpretation of electron micrographs in SARS-CoV-2-infected tissue goes viral</a> (<a href="http://www.wikidata.org/entity/Q100500961">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S0140-6736(20)32079-1">10.1016/S0140-6736(20)32079-1</a></td>
+    <td>33031763</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100500891">Catch me if you can: SARS-CoV-2 detection in brains of deceased patients with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q100500891">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S1474-4422(20)30371-9">10.1016/S1474-4422(20)30371-9</a></td>
+    <td>33031734</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100500953">Prevalence, management, and outcomes of SARS-CoV-2 infections in older people and those with dementia in mental health wards in London, UK: a retrospective observational study</a> (<a href="http://www.wikidata.org/entity/Q100500953">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/S2215-0366(20)30434-X">10.1016/S2215-0366(20)30434-X</a></td>
+    <td>33031760</td>
   </tr>
   <tr>
     <td>2020-10-05</td>
@@ -34967,83 +35044,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.10.02.20204859">10.1101/2020.10.02.20204859</a></td>
     <td>33052363</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100454049">Airborne transmission of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100454049">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIENCE.ABF0521">10.1126/SCIENCE.ABF0521</a></td>
-    <td>33020250</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100453862">Evaluation of Three Commercial SARS-CoV-2 Serologic Assays and their Performance in Two-Test Algorithms</a> (<a href="http://www.wikidata.org/entity/Q100453862">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/JCM.01892-20">10.1128/JCM.01892-20</a></td>
-    <td>33020186</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100453859">Application, Verification and Implementation of SARS-CoV-2 Serologic Assays with Emergency Use Authorization</a> (<a href="http://www.wikidata.org/entity/Q100453859">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/JCM.02148-20">10.1128/JCM.02148-20</a></td>
-    <td>33020185</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100453709">Is extensive cardiopulmonary screening useful in athletes with previous asymptomatic or mild SARS-CoV-2 infection?</a> (<a href="http://www.wikidata.org/entity/Q100453709">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/BJSPORTS-2020-102789">10.1136/BJSPORTS-2020-102789</a></td>
-    <td>33020140</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100453905">Gynecologic cancer surveillance in the era of SARS-CoV-2 (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q100453905">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/IJGC-2020-001942">10.1136/IJGC-2020-001942</a></td>
-    <td>33020205</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100446875">Management of a Unique Sinonasal Undifferentiated Carcinoma Subtype in the Era of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100446875">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1159/000511713">10.1159/000511713</a></td>
-    <td>33017834</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100446341">Sampling manholes to home in on SARS-CoV-2 infections</a> (<a href="http://www.wikidata.org/entity/Q100446341">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0240007">10.1371/JOURNAL.PONE.0240007</a></td>
-    <td>33017438</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100449883">Potential repurposing of drugs with anti-SARS-CoV-2 activity in preclinical trials: a systematic review</a> (<a href="http://www.wikidata.org/entity/Q100449883">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.2174/0929867327666201005113204">10.2174/0929867327666201005113204</a></td>
-    <td>33019921</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100443553">Incidence of appendicitis during SARS-CoV-2 pandemic quarantine: report of a single area experience</a> (<a href="http://www.wikidata.org/entity/Q100443553">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.23736/S0026-4946.20.05901-0">10.23736/S0026-4946.20.05901-0</a></td>
-    <td>33016682</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100441388">Is androgen deprivation therapy protective against SARS-CoV-2 infection and related complications in prostate cancer patients?</a> (<a href="http://www.wikidata.org/entity/Q100441388">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.23736/S0393-2249.20.04021-7">10.23736/S0393-2249.20.04021-7</a></td>
-    <td>33016032</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100441373">Coronavirus-19 (SARS-CoV-2) induces acute severe lung inflammation via IL-1 causing cytokine storm in COVID-19: a promising inhibitory strategy</a> (<a href="http://www.wikidata.org/entity/Q100441373">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.23812/20-1-E">10.23812/20-1-E</a></td>
-    <td>33016027</td>
   </tr>
   <tr>
     <td>2020-10-05</td>

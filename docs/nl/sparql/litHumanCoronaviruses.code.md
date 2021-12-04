@@ -34914,10 +34914,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100701197">Prevention is not adapting to the model of coronavirus spread</a> (<a href="http://www.wikidata.org/entity/Q100701197">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100455560">The SARS-CoV-2 pandemic scenario in Africa: What should be done to address the needs of pregnant women?</a> (<a href="http://www.wikidata.org/entity/Q100455560">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://doi.org/10.1002/IJGO.13403">10.1002/IJGO.13403</a></td>
+    <td>33020902</td>
   </tr>
   <tr>
     <td>2020-10-05</td>
@@ -34942,13 +34942,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100697821">Low prevalence of SARS-CoV-2 in plasma of COVID-19 patients presenting to the emergency department</a> (<a href="http://www.wikidata.org/entity/Q100697821">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JCV.2020.104655">10.1016/J.JCV.2020.104655</a></td>
-    <td>33069846</td>
-  </tr>
-  <tr>
-    <td>2020-10-05</td>
     <td><a href="https://scholia.toolforge.org/Q100954542">Obese patients with NASH have increased hepatic expression of SARS-CoV-2 critical entry points</a> (<a href="http://www.wikidata.org/entity/Q100954542">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JHEP.2020.09.027">10.1016/J.JHEP.2020.09.027</a></td>
@@ -34967,6 +34960,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/AJCP/AQAA181">10.1093/AJCP/AQAA181</a></td>
     <td>33015712</td>
+  </tr>
+  <tr>
+    <td>2020-10-05</td>
+    <td><a href="https://scholia.toolforge.org/Q100455775">Detection of SARS-CoV-2 in vaginal swabs of women with acute SARS-CoV-2 infection: a prospective study</a> (<a href="http://www.wikidata.org/entity/Q100455775">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/1471-0528.16556">10.1111/1471-0528.16556</a></td>
+    <td>33021026</td>
   </tr>
   <tr>
     <td>2020-10-05</td>
@@ -35047,10 +35047,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-05</td>
-    <td><a href="https://scholia.toolforge.org/Q100544892">SARS-CoV-2 severity in african americans - A role for Duffy Null?</a> (<a href="http://www.wikidata.org/entity/Q100544892">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100456243">Interventions of emergency medical teams in Poland during the SARS-CoV-2 pandemic</a> (<a href="http://www.wikidata.org/entity/Q100456243">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3324/HAEMATOL.2020.269415">10.3324/HAEMATOL.2020.269415</a></td>
-    <td>33054139</td>
+    <td><a href="https://doi.org/10.33963/KP.15632">10.33963/KP.15632</a></td>
+    <td>33021351</td>
   </tr>
 </table>
 ## Broncode voorbeelden

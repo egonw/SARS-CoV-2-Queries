@@ -42,14 +42,6 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(103.8 1.3)</td>
   </tr>
   <tr>
-    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Oostenrijk</td>
-    <td>Point(14.0 48.0)</td>
-  </tr>
-  <tr>
-    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Zwitserland</td>
-    <td>Point(8.231973055 46.798561944)</td>
-  </tr>
-  <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Itali%C3%AB</td>
     <td>Point(12.5 42.5)</td>
   </tr>
@@ -58,16 +50,20 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-3.0 40.0)</td>
   </tr>
   <tr>
+    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Zweden</td>
+    <td>Point(15.0 61.0)</td>
+  </tr>
+  <tr>
+    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Noord-Korea</td>
+    <td>Point(127.0 40.0)</td>
+  </tr>
+  <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_India</td>
     <td>Point(77.0 22.0)</td>
   </tr>
   <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Japan</td>
     <td>Point(136.0 35.0)</td>
-  </tr>
-  <tr>
-    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Aruba</td>
-    <td>Point(-69.974166666 12.511111111)</td>
   </tr>
   <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Afrika</td>
@@ -82,16 +78,16 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-105.0 47.0)</td>
   </tr>
   <tr>
+    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Oostenrijk</td>
+    <td>Point(14.0 48.0)</td>
+  </tr>
+  <tr>
+    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Zwitserland</td>
+    <td>Point(8.231973055 46.798561944)</td>
+  </tr>
+  <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Sint_Maarten</td>
     <td>Point(-63.067777777 18.031944444)</td>
-  </tr>
-  <tr>
-    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Noord-Korea</td>
-    <td>Point(127.0 40.0)</td>
-  </tr>
-  <tr>
-    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Zweden</td>
-    <td>Point(15.0 61.0)</td>
   </tr>
   <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Turkije</td>
@@ -104,6 +100,10 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
   <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_%C3%85land</td>
     <td>Point(20.0 60.25)</td>
+  </tr>
+  <tr>
+    <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Aruba</td>
+    <td>Point(-69.974166666 12.511111111)</td>
   </tr>
   <tr>
     <td>https://nl.wikipedia.org/wiki/Coronacrisis_in_Australi%C3%AB</td>

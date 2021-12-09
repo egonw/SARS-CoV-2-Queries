@@ -82,7 +82,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td>2020-08-11</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">Enzima conversora da angiotensina 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q98720898">Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding</a> (<a href="http://www.wikidata.org/entity/Q98720898">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98720898">Deep mutational scanning of SARS-CoV-2 receptor binding domain reveals constraints on folding and ACE2 binding</a> (<a href="http://www.wikidata.org/entity/Q98720898">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELL.2020.08.012">10.1016/J.CELL.2020.08.012</a></td>
   </tr>
   <tr>

@@ -359,7 +359,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">Human Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88176280">replicase polyprotein 1ab</a> (<a href="http://www.wikidata.org/entity/Q88176280">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88176280">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88176280">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/2943501">2943501</a></td>
   </tr>
   <tr>

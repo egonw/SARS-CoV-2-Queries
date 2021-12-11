@@ -994,7 +994,7 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>2021-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q109717340">SARS-CoV-2-neutralising monoclonal antibodies for treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q109717340">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/14651858.CD013825.pub2">10.1002/14651858.CD013825.pub2</a></td>
+    <td><a href="https://doi.org/10.1002/14651858.CD013825.PUB2">10.1002/14651858.CD013825.PUB2</a></td>
     <td></td>
   </tr>
   <tr>
@@ -34970,6 +34970,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-06</td>
+    <td><a href="https://scholia.toolforge.org/Q103834882">A chronicle of SARS-CoV-2: Seasonality, environmental fate, transport, inactivation, and antiviral drug resistance</a> (<a href="http://www.wikidata.org/entity/Q103834882">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JHAZMAT.2020.124043">10.1016/J.JHAZMAT.2020.124043</a></td>
+    <td>33268203</td>
+  </tr>
+  <tr>
+    <td>2020-10-06</td>
     <td><a href="https://scholia.toolforge.org/Q100944363">The novel SARS-CoV-2 pandemic: Possible environmental transmission, detection, persistence and fate during wastewater and water treatment</a> (<a href="http://www.wikidata.org/entity/Q100944363">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.SCITOTENV.2020.142746">10.1016/J.SCITOTENV.2020.142746</a></td>
@@ -35026,24 +35033,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-06</td>
+    <td><a href="https://scholia.toolforge.org/Q100457252">Biochemical screening for SARS-CoV-2 main protease inhibitors</a> (<a href="http://www.wikidata.org/entity/Q100457252">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0240079">10.1371/JOURNAL.PONE.0240079</a></td>
+    <td>33022015</td>
+  </tr>
+  <tr>
+    <td>2020-10-06</td>
     <td><a href="https://scholia.toolforge.org/Q100457117">Risk for SARS-CoV-2 Infection in Healthcare Workers, Turin, Italy</a> (<a href="http://www.wikidata.org/entity/Q100457117">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3201/EID2701.203027">10.3201/EID2701.203027</a></td>
     <td>33021927</td>
-  </tr>
-  <tr>
-    <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q101121687">From Influenza Virus to Novel Corona Virus (SARS-CoV-2)-The Contribution of Obesity</a> (<a href="http://www.wikidata.org/entity/Q101121687">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FENDO.2020.556962">10.3389/FENDO.2020.556962</a></td>
-    <td>33123087</td>
-  </tr>
-  <tr>
-    <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q101121767">SARS-CoV-2: Pathogenesis, and Advancements in Diagnostics and Treatment</a> (<a href="http://www.wikidata.org/entity/Q101121767">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FIMMU.2020.570927">10.3389/FIMMU.2020.570927</a></td>
-    <td>33123144</td>
   </tr>
   <tr>
     <td>2020-10-06</td>

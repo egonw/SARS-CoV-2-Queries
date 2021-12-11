@@ -17,30 +17,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><b>facet</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107210990">COVID-19 and homelessness</a> (<a href="http://www.wikidata.org/entity/Q107210990">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q107405004">timeline of the COVID-19 pandemic in June 2021</a> (<a href="http://www.wikidata.org/entity/Q107405004">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109502125">Q109502125</a> (<a href="http://www.wikidata.org/entity/Q109502125">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109569306">Q109569306</a> (<a href="http://www.wikidata.org/entity/Q109569306">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109805104">Technical Advisory Group on SARS-CoV-2 Virus Evolution</a> (<a href="http://www.wikidata.org/entity/Q109805104">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109828957">Q109828957</a> (<a href="http://www.wikidata.org/entity/Q109828957">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109995308">Resolution 2361 (2021) Covid-19 vaccines: ethical, legal and practical considerations</a> (<a href="http://www.wikidata.org/entity/Q109995308">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">Anexo:Cronología de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
@@ -339,6 +315,33 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107143124">variants under monitoring</a> (<a href="http://www.wikidata.org/entity/Q107143124">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q107210990">COVID-19 and homelessness</a> (<a href="http://www.wikidata.org/entity/Q107210990">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q107405004">timeline of the COVID-19 pandemic in June 2021</a> (<a href="http://www.wikidata.org/entity/Q107405004">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109502125">Q109502125</a> (<a href="http://www.wikidata.org/entity/Q109502125">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109569306">Q109569306</a> (<a href="http://www.wikidata.org/entity/Q109569306">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109805104">Technical Advisory Group on SARS-CoV-2 Virus Evolution</a> (<a href="http://www.wikidata.org/entity/Q109805104">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109828957">Q109828957</a> (<a href="http://www.wikidata.org/entity/Q109828957">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109995308">Resolution 2361 (2021) Covid-19 vaccines: ethical, legal and practical considerations</a> (<a href="http://www.wikidata.org/entity/Q109995308">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q110015070">Coronavirus Structural Task Force</a> (<a href="http://www.wikidata.org/entity/Q110015070">edit</a>)</td>
   </tr>
 </table>
 ## Ejemplos de código

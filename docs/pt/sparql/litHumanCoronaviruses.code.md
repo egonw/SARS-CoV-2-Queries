@@ -994,7 +994,7 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>2021-09-02</td>
     <td><a href="https://scholia.toolforge.org/Q109717340">SARS-CoV-2-neutralising monoclonal antibodies for treatment of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q109717340">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/14651858.CD013825.pub2">10.1002/14651858.CD013825.pub2</a></td>
+    <td><a href="https://doi.org/10.1002/14651858.CD013825.PUB2">10.1002/14651858.CD013825.PUB2</a></td>
     <td></td>
   </tr>
   <tr>
@@ -34977,13 +34977,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q102050623">SARS-CoV-2-related rapid reorganization of an epilepsy outpatient clinic from personal appointments to telemedicine services: A German single-center experience</a> (<a href="http://www.wikidata.org/entity/Q102050623">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.YEBEH.2020.107483">10.1016/J.YEBEH.2020.107483</a></td>
-    <td>33181898</td>
-  </tr>
-  <tr>
-    <td>2020-10-06</td>
     <td><a href="https://scholia.toolforge.org/Q100752785">Risk estimation of SARS-CoV-2 transmission from bluetooth low energy measurements</a> (<a href="http://www.wikidata.org/entity/Q100752785">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41746-020-00340-0">10.1038/S41746-020-00340-0</a></td>
@@ -35016,6 +35009,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/RHEUMATOLOGY/KEAA587">10.1093/RHEUMATOLOGY/KEAA587</a></td>
     <td>33020836</td>
+  </tr>
+  <tr>
+    <td>2020-10-06</td>
+    <td><a href="https://scholia.toolforge.org/Q100458455">SARS-CoV-2 infection, COVID-19 pathogenesis, and exposure to air pollution: What is the connection?</a> (<a href="http://www.wikidata.org/entity/Q100458455">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/NYAS.14512">10.1111/NYAS.14512</a></td>
+    <td>33022781</td>
   </tr>
   <tr>
     <td>2020-10-06</td>

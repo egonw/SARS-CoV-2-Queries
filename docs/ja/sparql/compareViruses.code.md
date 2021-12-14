@@ -566,7 +566,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34197103">Aetiology: Koch's postulates fulfilled for SARS virus.</a> (<a href="http://www.wikidata.org/entity/Q34197103">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34197103">Aetiology: Koch's postulates fulfilled for SARS virus</a> (<a href="http://www.wikidata.org/entity/Q34197103">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3342,7 +3342,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34193444">Reverse genetics of SARS-related coronavirus using vaccinia virus-based recombination.</a> (<a href="http://www.wikidata.org/entity/Q34193444">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34193444">Reverse genetics of SARS-related coronavirus using vaccinia virus-based recombination</a> (<a href="http://www.wikidata.org/entity/Q34193444">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3614,7 +3614,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34201009">SARS-Coronavirus ancestor's foot-prints in South-East Asian bat colonies and the refuge theory.</a> (<a href="http://www.wikidata.org/entity/Q34201009">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34201009">SARS-Coronavirus ancestor's foot-prints in South-East Asian bat colonies and the refuge theory</a> (<a href="http://www.wikidata.org/entity/Q34201009">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

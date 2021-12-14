@@ -34970,6 +34970,27 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-06</td>
+    <td><a href="https://scholia.toolforge.org/Q100944363">The novel SARS-CoV-2 pandemic: Possible environmental transmission, detection, persistence and fate during wastewater and water treatment</a> (<a href="http://www.wikidata.org/entity/Q100944363">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.SCITOTENV.2020.142746">10.1016/J.SCITOTENV.2020.142746</a></td>
+    <td>33092831</td>
+  </tr>
+  <tr>
+    <td>2020-10-06</td>
+    <td><a href="https://scholia.toolforge.org/Q102050623">SARS-CoV-2-related rapid reorganization of an epilepsy outpatient clinic from personal appointments to telemedicine services: A German single-center experience</a> (<a href="http://www.wikidata.org/entity/Q102050623">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.YEBEH.2020.107483">10.1016/J.YEBEH.2020.107483</a></td>
+    <td>33181898</td>
+  </tr>
+  <tr>
+    <td>2020-10-06</td>
+    <td><a href="https://scholia.toolforge.org/Q100752785">Risk estimation of SARS-CoV-2 transmission from bluetooth low energy measurements</a> (<a href="http://www.wikidata.org/entity/Q100752785">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41746-020-00340-0">10.1038/S41746-020-00340-0</a></td>
+    <td>33083564</td>
+  </tr>
+  <tr>
+    <td>2020-10-06</td>
     <td><a href="https://scholia.toolforge.org/Q100456955">Acute Onset of Bilateral Follicular Conjunctivitis in two Patients with Confirmed SARS-CoV-2 Infections</a> (<a href="http://www.wikidata.org/entity/Q100456955">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/09273948.2020.1821901">10.1080/09273948.2020.1821901</a></td>
@@ -35012,13 +35033,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q100457264">Correlation of ELISA method with three other automated serological tests for the detection of anti-SARS-CoV-2 antibodies</a> (<a href="http://www.wikidata.org/entity/Q100457264">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0240076">10.1371/JOURNAL.PONE.0240076</a></td>
-    <td>33022019</td>
-  </tr>
-  <tr>
-    <td>2020-10-06</td>
     <td><a href="https://scholia.toolforge.org/Q100457252">Biochemical screening for SARS-CoV-2 main protease inhibitors</a> (<a href="http://www.wikidata.org/entity/Q100457252">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0240079">10.1371/JOURNAL.PONE.0240079</a></td>
@@ -35033,24 +35047,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q101122442">Within-Host Diversity of SARS-CoV-2 in COVID-19 Patients With Variable Disease Severities</a> (<a href="http://www.wikidata.org/entity/Q101122442">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q101565265">Decreased Mortality in Patients With Severe Bronchospasm Associated With SARS-CoV-2: An Alternative to Invasive Mechanical Ventilation</a> (<a href="http://www.wikidata.org/entity/Q101565265">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FCIMB.2020.575613">10.3389/FCIMB.2020.575613</a></td>
-    <td>33123498</td>
-  </tr>
-  <tr>
-    <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q101121687">From Influenza Virus to Novel Corona Virus (SARS-CoV-2)-The Contribution of Obesity</a> (<a href="http://www.wikidata.org/entity/Q101121687">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FENDO.2020.556962">10.3389/FENDO.2020.556962</a></td>
-    <td>33123087</td>
-  </tr>
-  <tr>
-    <td>2020-10-06</td>
-    <td><a href="https://scholia.toolforge.org/Q101121767">SARS-CoV-2: Pathogenesis, and Advancements in Diagnostics and Treatment</a> (<a href="http://www.wikidata.org/entity/Q101121767">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FIMMU.2020.570927">10.3389/FIMMU.2020.570927</a></td>
-    <td>33123144</td>
+    <td><a href="https://doi.org/10.7759/CUREUS.10822">10.7759/CUREUS.10822</a></td>
+    <td>33173630</td>
   </tr>
 </table>
 ## Broncode voorbeelden

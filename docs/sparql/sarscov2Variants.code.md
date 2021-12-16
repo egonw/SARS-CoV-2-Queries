@@ -29,6 +29,10 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>B.1.616</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q109710954">SARS-CoV-2 Lineage C.1.2</a> (<a href="http://www.wikidata.org/entity/Q109710954">edit</a>)</td>
+    <td>C.1.2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107291621">SARS-CoV-2 Lambda variant</a> (<a href="http://www.wikidata.org/entity/Q107291621">edit</a>)</td>
     <td>C.37</td>
   </tr>
@@ -51,10 +55,6 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107059496">Lineage B.1.617.3</a> (<a href="http://www.wikidata.org/entity/Q107059496">edit</a>)</td>
     <td>B.1.617.3</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q109710954">C.1.2</a> (<a href="http://www.wikidata.org/entity/Q109710954">edit</a>)</td>
-    <td>C.1.2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>

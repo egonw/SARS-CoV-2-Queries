@@ -2810,7 +2810,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34247261">Immunization with SARS coronavirus vaccines leads to pulmonary immunopathology on challenge with the SARS virus.</a> (<a href="http://www.wikidata.org/entity/Q34247261">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34247261">Immunization with SARS coronavirus vaccines leads to pulmonary immunopathology on challenge with the SARS virus</a> (<a href="http://www.wikidata.org/entity/Q34247261">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

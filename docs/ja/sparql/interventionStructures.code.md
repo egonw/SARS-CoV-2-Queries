@@ -54,7 +54,7 @@ SELECT ?intervention ?interventionLabel ?image WITH {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q410074">ロサルタン</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
-    <td>http://commons.wikimedia.org/wiki/Special:FilePath/Losartan%20structure.png</td>
+    <td>http://commons.wikimedia.org/wiki/Special:FilePath/Losartan%20structure.svg</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q417222">メチルプレドニゾロン</a> (<a href="http://www.wikidata.org/entity/Q417222">edit</a>)</td>

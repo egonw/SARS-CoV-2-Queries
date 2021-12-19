@@ -73,6 +73,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
     <td>P.1</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q110154305">Lineage C.36.3</a> (<a href="http://www.wikidata.org/entity/Q110154305">edit</a>)</td>
+    <td>C.36.3</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106581308">SARS-CoV-2 lineage B.1.617</a> (<a href="http://www.wikidata.org/entity/Q106581308">edit</a>)</td>
     <td>B.1.617</td>
   </tr>

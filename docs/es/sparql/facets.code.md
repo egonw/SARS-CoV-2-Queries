@@ -44,6 +44,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110015070">Coronavirus Structural Task Force</a> (<a href="http://www.wikidata.org/entity/Q110015070">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q110182457">Q110182457</a> (<a href="http://www.wikidata.org/entity/Q110182457">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">Anexo:Cronología de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>

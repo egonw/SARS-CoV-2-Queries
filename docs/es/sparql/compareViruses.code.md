@@ -3590,7 +3590,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34295383">SARS-associated viral hepatitis caused by a novel coronavirus: report of three cases.</a> (<a href="http://www.wikidata.org/entity/Q34295383">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34295383">SARS-associated viral hepatitis caused by a novel coronavirus: report of three cases</a> (<a href="http://www.wikidata.org/entity/Q34295383">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -35,39 +35,39 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1016/J.BIOS.2021.113759">10.1016/J.BIOS.2021.113759</a></td>
   </tr>
   <tr>
+    <td>2021-12-16</td>
+    <td><a href="https://scholia.toolforge.org/Q110175353">A virus‐derived microRNA targets immune response genes during SARS‐CoV‐2 infection</a> (<a href="http://www.wikidata.org/entity/Q110175353">edit</a>)</td>
+    <td><a href="https://doi.org/10.15252/EMBR.202154341">10.15252/EMBR.202154341</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-15</td>
+    <td><a href="https://scholia.toolforge.org/Q110177329">Highly conserved s2m element of SARS-CoV-2 dimerizes via a kissing complex and interacts with host miRNA-1307-3p</a> (<a href="http://www.wikidata.org/entity/Q110177329">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/NAR/GKAB1226">10.1093/NAR/GKAB1226</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-14</td>
+    <td><a href="https://scholia.toolforge.org/Q110185116">The atomic portrait of SARS‐CoV‐2 as captured by cryo‐electron microscopy</a> (<a href="http://www.wikidata.org/entity/Q110185116">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/JCMM.17103">10.1111/JCMM.17103</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-08</td>
+    <td><a href="https://scholia.toolforge.org/Q110136828">Detection of N6-methyladenosine in SARS-CoV-2 RNA by methylated RNA immunoprecipitation sequencing (MeRIP-Seq)</a> (<a href="http://www.wikidata.org/entity/Q110136828">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.XPRO.2021.101067">10.1016/J.XPRO.2021.101067</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-07</td>
+    <td><a href="https://scholia.toolforge.org/Q110136911">A single-cell transcriptomic landscape of the lungs of patients with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q110136911">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41556-021-00796-6">10.1038/S41556-021-00796-6</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-07</td>
+    <td><a href="https://scholia.toolforge.org/Q110137053">N-glycosylation profiles of the SARS-CoV-2 spike D614G mutant and its ancestral protein characterized by advanced mass spectrometry</a> (<a href="http://www.wikidata.org/entity/Q110137053">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-021-02904-W">10.1038/S41598-021-02904-W</a></td>
+  </tr>
+  <tr>
     <td>2021-12-06</td>
     <td><a href="https://scholia.toolforge.org/Q110011866">SARS-CoV-2 spike protein induces inflammation via TLR2-dependent activation of the NF-kB pathway</a> (<a href="http://www.wikidata.org/entity/Q110011866">edit</a>)</td>
     <td><a href="https://doi.org/10.7554/ELIFE.68563">10.7554/ELIFE.68563</a></td>
-  </tr>
-  <tr>
-    <td>2021-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q108504474">Hypoxia reduces cell attachment of SARS-CoV-2 spike protein by modulating the expression of ACE2, neuropilin-1, syndecan-1 and cellular heparan sulfate</a> (<a href="http://www.wikidata.org/entity/Q108504474">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
-  </tr>
-  <tr>
-    <td>2021-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q108504560">The antiviral activity of lactoferrin against common human coronaviruses and SARS-CoV-2 is mediated by targeting the heparan sulfate co-receptor</a> (<a href="http://www.wikidata.org/entity/Q108504560">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.1888660">10.1080/22221751.2021.1888660</a></td>
-  </tr>
-  <tr>
-    <td>2021-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q108784191">Lessons learned 1 year after SARS-CoV-2 emergence leading to COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q108784191">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.1898291">10.1080/22221751.2021.1898291</a></td>
-  </tr>
-  <tr>
-    <td>2021-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q109649604">Lentil lectin derived from exhibit broad antiviral activities against SARS-CoV-2 variants</a> (<a href="http://www.wikidata.org/entity/Q109649604">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.1957720">10.1080/22221751.2021.1957720</a></td>
-  </tr>
-  <tr>
-    <td>2021-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q109918794">Pannexin-1 channel opening is critical for COVID-19 pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q109918794">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.ISCI.2021.103478">10.1016/J.ISCI.2021.103478</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-30</td>
-    <td><a href="https://scholia.toolforge.org/Q109918710">Multiplex Gene Tagging with CRISPR-Cas9 for Live-Cell Microscopy and Application to Study the Role of SARS-CoV-2 Proteins in Autophagy, Mitochondrial Dynamics, and Cell Growth</a> (<a href="http://www.wikidata.org/entity/Q109918710">edit</a>)</td>
-    <td><a href="https://doi.org/10.1089/CRISPR.2021.0041">10.1089/CRISPR.2021.0041</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -164,44 +164,44 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2021-12-15</td>
+    <td><a href="https://scholia.toolforge.org/Q110177329">Highly conserved s2m element of SARS-CoV-2 dimerizes via a kissing complex and interacts with host miRNA-1307-3p</a> (<a href="http://www.wikidata.org/entity/Q110177329">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/NAR/GKAB1226">10.1093/NAR/GKAB1226</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-07</td>
+    <td><a href="https://scholia.toolforge.org/Q110137053">N-glycosylation profiles of the SARS-CoV-2 spike D614G mutant and its ancestral protein characterized by advanced mass spectrometry</a> (<a href="http://www.wikidata.org/entity/Q110137053">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-021-02904-W">10.1038/S41598-021-02904-W</a></td>
+  </tr>
+  <tr>
     <td>2021-12-06</td>
     <td><a href="https://scholia.toolforge.org/Q110011866">SARS-CoV-2 spike protein induces inflammation via TLR2-dependent activation of the NF-kB pathway</a> (<a href="http://www.wikidata.org/entity/Q110011866">edit</a>)</td>
     <td><a href="https://doi.org/10.7554/ELIFE.68563">10.7554/ELIFE.68563</a></td>
   </tr>
   <tr>
+    <td>2021-12-06</td>
+    <td><a href="https://scholia.toolforge.org/Q110176936">Forced association of SARS-CoV-2 proteins with the yeast proteome perturb vesicle trafficking</a> (<a href="http://www.wikidata.org/entity/Q110176936">edit</a>)</td>
+    <td><a href="https://doi.org/10.15698/MIC2021.12.766">10.15698/MIC2021.12.766</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-04</td>
+    <td><a href="https://scholia.toolforge.org/Q110136744">SARS-CoV-2 Nucleocapsid protein attenuates stress granules and interacts with mRNAs to impair host stress response</a> (<a href="http://www.wikidata.org/entity/Q110136744">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.ISCI.2021.103562">10.1016/J.ISCI.2021.103562</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-04</td>
+    <td><a href="https://scholia.toolforge.org/Q110176615">A structural view of the SARS-CoV-2 virus and its assembly</a> (<a href="http://www.wikidata.org/entity/Q110176615">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.COVIRO.2021.11.011">10.1016/J.COVIRO.2021.11.011</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q110178376">Convergent use of phosphatidic acid for hepatitis C virus and SARS-CoV-2 replication organelle formation</a> (<a href="http://www.wikidata.org/entity/Q110178376">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-27511-1">10.1038/S41467-021-27511-1</a></td>
+  </tr>
+  <tr>
     <td>2021-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q108504474">Hypoxia reduces cell attachment of SARS-CoV-2 spike protein by modulating the expression of ACE2, neuropilin-1, syndecan-1 and cellular heparan sulfate</a> (<a href="http://www.wikidata.org/entity/Q108504474">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/22221751.2021.1932607">10.1080/22221751.2021.1932607</a></td>
-  </tr>
-  <tr>
-    <td>2021-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q109918794">Pannexin-1 channel opening is critical for COVID-19 pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q109918794">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.ISCI.2021.103478">10.1016/J.ISCI.2021.103478</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-30</td>
-    <td><a href="https://scholia.toolforge.org/Q109918710">Multiplex Gene Tagging with CRISPR-Cas9 for Live-Cell Microscopy and Application to Study the Role of SARS-CoV-2 Proteins in Autophagy, Mitochondrial Dynamics, and Cell Growth</a> (<a href="http://www.wikidata.org/entity/Q109918710">edit</a>)</td>
-    <td><a href="https://doi.org/10.1089/CRISPR.2021.0041">10.1089/CRISPR.2021.0041</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-29</td>
-    <td><a href="https://scholia.toolforge.org/Q109918728">SARS-CoV-2 ORF10 suppresses the antiviral innate immune response by degrading MAVS through mitophagy</a> (<a href="http://www.wikidata.org/entity/Q109918728">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41423-021-00807-4">10.1038/S41423-021-00807-4</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-29</td>
-    <td><a href="https://scholia.toolforge.org/Q109918658">The SARS-CoV-2 RNA polymerase is a viral RNA capping enzyme</a> (<a href="http://www.wikidata.org/entity/Q109918658">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/NAR/GKAB1160">10.1093/NAR/GKAB1160</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-26</td>
-    <td><a href="https://scholia.toolforge.org/Q109918781">Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication</a> (<a href="http://www.wikidata.org/entity/Q109918781">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.REDOX.2021.102199">10.1016/J.REDOX.2021.102199</a></td>
-  </tr>
-  <tr>
-    <td>2021-11-26</td>
-    <td><a href="https://scholia.toolforge.org/Q109919888">Receptome profiling identifies KREMEN1 and ASGR1 as alternative functional receptors of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q109919888">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41422-021-00595-6">10.1038/S41422-021-00595-6</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -322,7 +322,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20154</td>
+    <td>20171</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -395,11 +395,6 @@ ORDER BY DESC(?count)
     <td>5</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88176265">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88176265">edit</a>)</td>
     <td>3</td>
@@ -415,24 +410,9 @@ ORDER BY DESC(?count)
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175148">spike surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88175148">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089689">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089689">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
-    <td>2</td>
+    <td><a href="https://scholia.toolforge.org/Q88089438">ORF7b</a> (<a href="http://www.wikidata.org/entity/Q88089438">edit</a>)</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
@@ -456,38 +436,23 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175157">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88175157">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175144">I protein;nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88175144">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175133">ns2</a> (<a href="http://www.wikidata.org/entity/Q88175133">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q88175148">spike surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88175148">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q88089689">nucleocapsid phosphoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089689">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88089048">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089048">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88088888">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88088888">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
-    <td>1</td>
+    <td><a href="https://scholia.toolforge.org/Q88000922">surface glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88000922">edit</a>)</td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
@@ -539,6 +504,41 @@ ORDER BY DESC(?count)
     <td><a href="https://scholia.toolforge.org/Q88171718">spike glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88171718">edit</a>)</td>
     <td>1</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175157">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88175157">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175144">I protein;nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88175144">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175133">ns2</a> (<a href="http://www.wikidata.org/entity/Q88175133">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88089283">ORF7a protein</a> (<a href="http://www.wikidata.org/entity/Q88089283">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88089048">membrane glycoprotein</a> (<a href="http://www.wikidata.org/entity/Q88089048">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088888">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88088888">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088053">ORF1a polyprotein;ORF1ab polyprotein</a> (<a href="http://www.wikidata.org/entity/Q88088053">edit</a>)</td>
+    <td>1</td>
+  </tr>
 </table>
 
 #### それから、他のタンパク質です
@@ -581,12 +581,12 @@ ORDER BY DESC(?count) ?virus ?protein
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>315</td>
+    <td>319</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>97</td>
+    <td>99</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -606,7 +606,7 @@ ORDER BY DESC(?count) ?virus ?protein
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -619,13 +619,13 @@ ORDER BY DESC(?count) ?virus ?protein
     <td>50</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89560425">papain-like proteinase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89560425">edit</a>)</td>
-    <td>45</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90038952">Host translation inhibitor nsp1 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038952">edit</a>)</td>
+    <td>46</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89560425">papain-like proteinase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89560425">edit</a>)</td>
     <td>45</td>
   </tr>
   <tr>
@@ -834,6 +834,11 @@ ORDER BY DESC(?count) ?virus ?protein
     <td>6</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90038956">Non-structural protein 4 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038956">edit</a>)</td>
+    <td>6</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88660197">nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q88660197">edit</a>)</td>
     <td>5</td>
@@ -846,11 +851,6 @@ ORDER BY DESC(?count) ?virus ?protein
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89459410">spike protein S2 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89459410">edit</a>)</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90038956">Non-structural protein 4 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038956">edit</a>)</td>
     <td>5</td>
   </tr>
   <tr>

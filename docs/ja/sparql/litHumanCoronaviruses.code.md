@@ -34781,13 +34781,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q100961667">Correlates of death among SARS-CoV-2 positive veterans: The contribution of lifetime tobacco use</a> (<a href="http://www.wikidata.org/entity/Q100961667">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.ADDBEH.2020.106692">10.1016/J.ADDBEH.2020.106692</a></td>
-    <td>33099250</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q100733798">Rapid detection of SARS-CoV-2 antibodies using electrochemical impedance-based detector</a> (<a href="http://www.wikidata.org/entity/Q100733798">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BIOS.2020.112709">10.1016/J.BIOS.2020.112709</a></td>
@@ -34799,6 +34792,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CPLETT.2020.138068">10.1016/J.CPLETT.2020.138068</a></td>
     <td>33052144</td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q101139450">SARS-CoV-2 diagnostics: Some reflections on current assays</a> (<a href="http://www.wikidata.org/entity/Q101139450">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.DIAGMICROBIO.2020.115237">10.1016/J.DIAGMICROBIO.2020.115237</a></td>
+    <td>33130508</td>
   </tr>
   <tr>
     <td>2020-10-07</td>

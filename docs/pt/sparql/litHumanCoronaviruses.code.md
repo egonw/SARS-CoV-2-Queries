@@ -34893,13 +34893,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q100491024">Extrafollicular B cell responses correlate with neutralizing antibodies and morbidity in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q100491024">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41590-020-00814-Z">10.1038/S41590-020-00814-Z</a></td>
-    <td>33028979</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q100475007">Discovery of potent inhibitors for SARS-CoV-2's main protease by ligand-based/structure-based virtual screening, MD simulations, and binding energy calculations</a> (<a href="http://www.wikidata.org/entity/Q100475007">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1039/D0CP04326E">10.1039/D0CP04326E</a></td>
@@ -34939,6 +34932,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1097/JSM.0000000000000892">10.1097/JSM.0000000000000892</a></td>
     <td>33038090</td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q104499876">NSP 11 of SARS-CoV-2 is an Intrinsically Disordered Protein</a> (<a href="http://www.wikidata.org/entity/Q104499876">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.10.07.330068">10.1101/2020.10.07.330068</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>2020-10-07</td>
@@ -35033,10 +35033,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q101053375">The SARS-CoV-2 Spike Glycoprotein Biosynthesis, Structure, Function, and Antigenicity: Implications for the Design of Spike-Based Vaccine Immunogens</a> (<a href="http://www.wikidata.org/entity/Q101053375">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100406628">Human-Animal Interaction and the Emergence of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100406628">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3389/FIMMU.2020.576622">10.3389/FIMMU.2020.576622</a></td>
-    <td>33117378</td>
+    <td><a href="https://doi.org/10.2196/22117">10.2196/22117</a></td>
+    <td>33001837</td>
   </tr>
   <tr>
     <td>2020-10-07</td>

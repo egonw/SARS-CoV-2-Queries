@@ -34802,13 +34802,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q101139450">SARS-CoV-2 diagnostics: Some reflections on current assays</a> (<a href="http://www.wikidata.org/entity/Q101139450">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.DIAGMICROBIO.2020.115237">10.1016/J.DIAGMICROBIO.2020.115237</a></td>
-    <td>33130508</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q100514026">Molecular mechanisms of the novel coronavirus SARS-CoV-2 and potential anti-COVID19 pharmacological targets since the outbreak of the pandemic</a> (<a href="http://www.wikidata.org/entity/Q100514026">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.FCT.2020.111805">10.1016/J.FCT.2020.111805</a></td>
@@ -35044,6 +35037,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3389/FIMMU.2020.576622">10.3389/FIMMU.2020.576622</a></td>
     <td>33117378</td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q101459408">Ethical Considerations for Treating Cancer Patients During the SARS-CoV-2 Virus Crisis: To Treat or Not to Treat? A Literature Review and Perspective From a Cancer Center in Low-Middle Income Country</a> (<a href="http://www.wikidata.org/entity/Q101459408">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FMED.2020.561168">10.3389/FMED.2020.561168</a></td>
+    <td>33163499</td>
   </tr>
   <tr>
     <td>2020-10-07</td>

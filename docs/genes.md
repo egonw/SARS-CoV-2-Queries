@@ -125,7 +125,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175947">Record to support submission of GeneRIFs for a gene not in Gene (Human coronavirus (strain SARS); SARS coronavirus; SARS virus; SARS-like coronavirus; SARS-related coronavirus; Severe acute respiratory syndrome coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88175947">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175947">Record to support submission of GeneRIFs for a gene not in Gene (Human coronavirus (strain SARS); SARS-like coronavirus; SARS-related coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88175947">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/8673700">8673700</a></td>
   </tr>
   <tr>
@@ -910,7 +910,7 @@ Which returns:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88175947">Record to support submission of GeneRIFs for a gene not in Gene (Human coronavirus (strain SARS); SARS coronavirus; SARS virus; SARS-like coronavirus; SARS-related coronavirus; Severe acute respiratory syndrome coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88175947">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175947">Record to support submission of GeneRIFs for a gene not in Gene (Human coronavirus (strain SARS); SARS-like coronavirus; SARS-related coronavirus).</a> (<a href="http://www.wikidata.org/entity/Q88175947">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/8673700">8673700</a></td>
   </tr>
   <tr>

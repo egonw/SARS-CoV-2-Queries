@@ -7,3 +7,5 @@ toc.*txt
 topics.*tsv
 indexList.??.md
 urlList.txt
+node_modules
+package*.json

@@ -60,7 +60,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105217191">COVIran Barekat</a> (<a href="http://www.wikidata.org/entity/Q105217191">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560939">Geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560939">geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106488871">Walvax COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q106488871">edit</a>)</td>
@@ -84,11 +84,11 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154230">BBIBP-CorV</a> (<a href="http://www.wikidata.org/entity/Q97154230">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560939">Geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560939">geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154233">CoronaVac</a> (<a href="http://www.wikidata.org/entity/Q97154233">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560939">Geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560939">geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154235">NVX-CoV2373</a> (<a href="http://www.wikidata.org/entity/Q97154235">edit</a>)</td>
@@ -120,7 +120,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98703813">Covaxin</a> (<a href="http://www.wikidata.org/entity/Q98703813">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3560939">Geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3560939">geïnactiveerd vaccin</a> (<a href="http://www.wikidata.org/entity/Q3560939">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98947046">EpiVacCorona</a> (<a href="http://www.wikidata.org/entity/Q98947046">edit</a>)</td>

@@ -2650,7 +2650,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34557512">Identification of natural compounds with antiviral activities against SARS-associated coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q34557512">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34557512">Identification of natural compounds with antiviral activities against SARS-associated coronavirus</a> (<a href="http://www.wikidata.org/entity/Q34557512">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

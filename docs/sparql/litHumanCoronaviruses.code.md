@@ -817,17 +817,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-09-30</td>
+    <td><a href="https://scholia.toolforge.org/Q110307150">No increase in anti-A isohemagglutinin titer after SARS-CoV-2 infection: A retrospective cohort analysis of group O apheresis platelet donors</a> (<a href="http://www.wikidata.org/entity/Q110307150">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JCA.21942">10.1002/JCA.21942</a></td>
+    <td>34590725</td>
+  </tr>
+  <tr>
+    <td>2021-09-30</td>
     <td><a href="https://scholia.toolforge.org/Q108782685">Cell death mechanisms involved in cell injury caused by SARS‐CoV‐2</a> (<a href="http://www.wikidata.org/entity/Q108782685">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/RMV.2292">10.1002/RMV.2292</a></td>
     <td>34590761</td>
-  </tr>
-  <tr>
-    <td>2021-09-30</td>
-    <td><a href="https://scholia.toolforge.org/Q110307150">No increase in anti-A isohemagglutinin titer after SARS-CoV-2 infection: A retrospective cohort analysis of group O apheresis platelet donors</a> (<a href="http://www.wikidata.org/entity/Q110307150">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/jca.21942">10.1002/jca.21942</a></td>
-    <td>34590725</td>
   </tr>
   <tr>
     <td>2021-09-30</td>
@@ -1094,6 +1094,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1161/ATVBAHA.121.316925">10.1161/ATVBAHA.121.316925</a></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2021-09-09</td>
+    <td><a href="https://scholia.toolforge.org/Q110410631">Seasonal coronavirus-specific B-cells with limited SARS-CoV-2 cross-reactivity dominate the IgG response in severe COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q110410631">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1172/JCI150613">10.1172/JCI150613</a></td>
+    <td>34499051</td>
   </tr>
   <tr>
     <td>2021-09-08</td>
@@ -34963,13 +34970,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q101139450">SARS-CoV-2 diagnostics: Some reflections on current assays</a> (<a href="http://www.wikidata.org/entity/Q101139450">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.DIAGMICROBIO.2020.115237">10.1016/J.DIAGMICROBIO.2020.115237</a></td>
-    <td>33130508</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q100514026">Molecular mechanisms of the novel coronavirus SARS-CoV-2 and potential anti-COVID19 pharmacological targets since the outbreak of the pandemic</a> (<a href="http://www.wikidata.org/entity/Q100514026">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.FCT.2020.111805">10.1016/J.FCT.2020.111805</a></td>
@@ -35019,10 +35019,17 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q100503335">Epidemiological investigation of the first 5685 cases of SARS-CoV-2 infection in Qatar, 28 February-18 April 2020</a> (<a href="http://www.wikidata.org/entity/Q100503335">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100655156">Pregnancy and Neonatal Outcomes in SARS-CoV-2 Infection: A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q100655156">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1136/BMJOPEN-2020-040428">10.1136/BMJOPEN-2020-040428</a></td>
-    <td>33033033</td>
+    <td><a href="https://doi.org/10.1155/2020/4592450">10.1155/2020/4592450</a></td>
+    <td>33062333</td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q100461240">Antecedent Administration of Angiotensin Converting Enzyme Inhibitors or Angiotensin II Receptor Antagonists and Survival After Hospitalization for SARS-CoV-2 (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q100461240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1161/JAHA.120.017364">10.1161/JAHA.120.017364</a></td>
+    <td>33023356</td>
   </tr>
   <tr>
     <td>2020-10-07</td>
@@ -35044,13 +35051,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.2196/22117">10.2196/22117</a></td>
     <td>33001837</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q100511294">SARS-CoV-2 and Oral Manifestation: An Observational, Human Study</a> (<a href="http://www.wikidata.org/entity/Q100511294">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.3390/JCM9103218">10.3390/JCM9103218</a></td>
-    <td>33036482</td>
   </tr>
 </table>
 ## Code examples

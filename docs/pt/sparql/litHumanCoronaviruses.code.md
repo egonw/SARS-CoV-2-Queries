@@ -34963,17 +34963,24 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q100479896">Suppression of SARS-CoV-2 infection in ex-vivo human lung tissues by targeting class III phosphoinositide 3-kinase</a> (<a href="http://www.wikidata.org/entity/Q100479896">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/JMV.26583">10.1002/JMV.26583</a></td>
-    <td>33026649</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q100473012">Ambulatory Rehabilitation of Patients Hospitalized with SARS CoV-2 Infections: Early Pandemic Experience in New York City and Boston</a> (<a href="http://www.wikidata.org/entity/Q100473012">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/PMRJ.12506">10.1002/PMRJ.12506</a></td>
     <td>33025674</td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q100733798">Rapid detection of SARS-CoV-2 antibodies using electrochemical impedance-based detector</a> (<a href="http://www.wikidata.org/entity/Q100733798">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.BIOS.2020.112709">10.1016/J.BIOS.2020.112709</a></td>
+    <td>33075724</td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q100736360">Clinical characteristics and outcome of hospitalized patients with SARS-CoV-2 infection at Toulouse University hospital (France). Results from the Covid-clinic-Toul cohort</a> (<a href="http://www.wikidata.org/entity/Q100736360">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.REVMED.2020.08.006">10.1016/J.REVMED.2020.08.006</a></td>
+    <td>33077266</td>
   </tr>
   <tr>
     <td>2020-10-07</td>
@@ -34998,13 +35005,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q100475007">Discovery of potent inhibitors for SARS-CoV-2's main protease by ligand-based/structure-based virtual screening, MD simulations, and binding energy calculations</a> (<a href="http://www.wikidata.org/entity/Q100475007">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1039/D0CP04326E">10.1039/D0CP04326E</a></td>
-    <td>33025993</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
     <td><a href="https://scholia.toolforge.org/Q100461516">In silico exploration of small-molecule α-helix mimetics as inhibitors of SARS-COV-2 attachment to ACE2</a> (<a href="http://www.wikidata.org/entity/Q100461516">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/07391102.2020.1830175">10.1080/07391102.2020.1830175</a></td>
@@ -35016,13 +35016,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/1040841X.2020.1822279">10.1080/1040841X.2020.1822279</a></td>
     <td>33023358</td>
-  </tr>
-  <tr>
-    <td>2020-10-07</td>
-    <td><a href="https://scholia.toolforge.org/Q100477265">SARS-CoV-2 Infection Among Serially Tested Emergency Medical Services Workers</a> (<a href="http://www.wikidata.org/entity/Q100477265">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/10903127.2020.1831668">10.1080/10903127.2020.1831668</a></td>
-    <td>33026286</td>
   </tr>
   <tr>
     <td>2020-10-07</td>
@@ -35044,6 +35037,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1177/1010539520965360">10.1177/1010539520965360</a></td>
     <td>33025788</td>
+  </tr>
+  <tr>
+    <td>2020-10-07</td>
+    <td><a href="https://scholia.toolforge.org/Q100323703">The effect of temperature on persistence of SARS-CoV-2 on common surfaces</a> (<a href="http://www.wikidata.org/entity/Q100323703">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1186/S12985-020-01418-7">10.1186/S12985-020-01418-7</a></td>
+    <td>33028356</td>
   </tr>
   <tr>
     <td>2020-10-07</td>

@@ -122,7 +122,7 @@ SELECT ?variant ?variantLabel ?sequence ?sequenceLabel ?taxon ?taxonLabel WHERE 
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q106171144">Lineage B.1.429</a> (<a href="http://www.wikidata.org/entity/Q106171144">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106171144">SARS-CoV-2 Lineage B.1.429</a> (<a href="http://www.wikidata.org/entity/Q106171144">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104535071">D614G mutation</a> (<a href="http://www.wikidata.org/entity/Q104535071">edit</a>)</td>

@@ -38,7 +38,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q109805104">Technical Advisory Group on SARS-CoV-2 Virus Evolution</a> (<a href="http://www.wikidata.org/entity/Q109805104">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q109828957">Q109828957</a> (<a href="http://www.wikidata.org/entity/Q109828957">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q109828957">2G-Regel</a> (<a href="http://www.wikidata.org/entity/Q109828957">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q109995308">Resolution 2361 (2021) Covid-19 vaccines: ethical, legal and practical considerations</a> (<a href="http://www.wikidata.org/entity/Q109995308">edit</a>)</td>

@@ -34669,24 +34669,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-08</td>
-    <td><a href="https://scholia.toolforge.org/Q101565516">Adaptive Evolution of Peptide Inhibitors for Mutating SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q101565516">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/ADTS.202000156">10.1002/ADTS.202000156</a></td>
-    <td>33173846</td>
-  </tr>
-  <tr>
-    <td>2020-10-08</td>
     <td><a href="https://scholia.toolforge.org/Q100500539">Tackling SARS-CoV-2 Infections using Remdesivir and Favipiravir as Therapeutic Options</a> (<a href="http://www.wikidata.org/entity/Q100500539">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/CBIC.202000595">10.1002/CBIC.202000595</a></td>
     <td>33031623</td>
-  </tr>
-  <tr>
-    <td>2020-10-08</td>
-    <td><a href="https://scholia.toolforge.org/Q100938152">Co-infection of malaria and dengue in pregnant women with SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100938152">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/IJGO.13415">10.1002/IJGO.13415</a></td>
-    <td>33090458</td>
   </tr>
   <tr>
     <td>2020-10-08</td>
@@ -34844,6 +34830,20 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-08</td>
+    <td><a href="https://scholia.toolforge.org/Q101119458">Focus on SARS-CoV-2 and COVID-19</a> (<a href="http://www.wikidata.org/entity/Q101119458">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.PATHOL.2020.09.010">10.1016/J.PATHOL.2020.09.010</a></td>
+    <td>33121820</td>
+  </tr>
+  <tr>
+    <td>2020-10-08</td>
+    <td><a href="https://scholia.toolforge.org/Q101142923">Virus isolation of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) for diagnostic and research purposes</a> (<a href="http://www.wikidata.org/entity/Q101142923">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.PATHOL.2020.09.012">10.1016/J.PATHOL.2020.09.012</a></td>
+    <td>33131800</td>
+  </tr>
+  <tr>
+    <td>2020-10-08</td>
     <td><a href="https://scholia.toolforge.org/Q100725213">Airborne spread of infectious SARS-CoV-2: Moving forward using lessons from SARS-CoV and MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q100725213">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.SCITOTENV.2020.142802">10.1016/J.SCITOTENV.2020.142802</a></td>
@@ -34890,13 +34890,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41467-020-18848-0">10.1038/S41467-020-18848-0</a></td>
     <td>33033249</td>
-  </tr>
-  <tr>
-    <td>2020-10-08</td>
-    <td><a href="https://scholia.toolforge.org/Q100751553">Experimental and in silico evidence suggests vaccines are unlikely to be affected by D614G mutation in SARS-CoV-2 spike protein</a> (<a href="http://www.wikidata.org/entity/Q100751553">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41541-020-00246-8">10.1038/S41541-020-00246-8</a></td>
-    <td>33083031</td>
   </tr>
   <tr>
     <td>2020-10-08</td>
@@ -35030,6 +35023,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.23822/EURANNACI.1764-1489.173">10.23822/EURANNACI.1764-1489.173</a></td>
     <td>33034169</td>
+  </tr>
+  <tr>
+    <td>2020-10-08</td>
+    <td><a href="https://scholia.toolforge.org/Q101145670">ssRNA Virus and Host Lipid Rearrangements: Is There a Role for Lipid Droplets in SARS-CoV-2 Infection?</a> (<a href="http://www.wikidata.org/entity/Q101145670">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FMOLB.2020.578964">10.3389/FMOLB.2020.578964</a></td>
+    <td>33134318</td>
   </tr>
   <tr>
     <td>2020-10-08</td>

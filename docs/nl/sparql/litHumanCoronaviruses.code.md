@@ -34683,6 +34683,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-08</td>
+    <td><a href="https://scholia.toolforge.org/Q100938152">Co-infection of malaria and dengue in pregnant women with SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100938152">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/IJGO.13415">10.1002/IJGO.13415</a></td>
+    <td>33090458</td>
+  </tr>
+  <tr>
+    <td>2020-10-08</td>
     <td><a href="https://scholia.toolforge.org/Q100500482">Angiotensin-converting enzyme 2: A protective factor in regulating disease virulence of SARS-COV-2</a> (<a href="http://www.wikidata.org/entity/Q100500482">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/IUB.2391">10.1002/IUB.2391</a></td>
@@ -34963,31 +34970,10 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-08</td>
-    <td><a href="https://scholia.toolforge.org/Q100535071">Clinical, laboratory, and temporal predictors of neutralizing antibodies to SARS-CoV-2 after COVID-19</a> (<a href="http://www.wikidata.org/entity/Q100535071">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.10.06.20207472">10.1101/2020.10.06.20207472</a></td>
-    <td>33052361</td>
-  </tr>
-  <tr>
-    <td>2020-10-08</td>
     <td><a href="https://scholia.toolforge.org/Q100535021">Genome-scale identification of SARS-CoV-2 and pan-coronavirus host factor networks</a> (<a href="http://www.wikidata.org/entity/Q100535021">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.10.07.326462">10.1101/2020.10.07.326462</a></td>
     <td>33052332</td>
-  </tr>
-  <tr>
-    <td>2020-10-08</td>
-    <td><a href="https://scholia.toolforge.org/Q100535042">CD8+ T cell responses in convalescent COVID-19 individuals target epitopes from the entire SARS-CoV-2 proteome and show kinetics of early differentiation</a> (<a href="http://www.wikidata.org/entity/Q100535042">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.10.08.330688">10.1101/2020.10.08.330688</a></td>
-    <td>33052343</td>
-  </tr>
-  <tr>
-    <td>2020-10-08</td>
-    <td><a href="https://scholia.toolforge.org/Q100535027">Preferential recognition and antagonism of SARS-CoV-2 spike glycoprotein binding to 3- O -sulfated heparan sulfate</a> (<a href="http://www.wikidata.org/entity/Q100535027">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.10.08.331751">10.1101/2020.10.08.331751</a></td>
-    <td>33052337</td>
   </tr>
   <tr>
     <td>2020-10-08</td>
@@ -35026,6 +35012,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-08</td>
+    <td><a href="https://scholia.toolforge.org/Q101052626">Three Quarters of People with SARS-CoV-2 Infection are Asymptomatic: Analysis of English Household Survey Data</a> (<a href="http://www.wikidata.org/entity/Q101052626">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.2147/CLEP.S276825">10.2147/CLEP.S276825</a></td>
+    <td>33116898</td>
+  </tr>
+  <tr>
+    <td>2020-10-08</td>
     <td><a href="https://scholia.toolforge.org/Q100505976">Urticaria and coronavirus infection: a lesson from SARS-CoV-2 pandemic</a> (<a href="http://www.wikidata.org/entity/Q100505976">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.23822/EURANNACI.1764-1489.173">10.23822/EURANNACI.1764-1489.173</a></td>
@@ -35051,6 +35044,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/VACCINES8040591">10.3390/VACCINES8040591</a></td>
     <td>33050053</td>
+  </tr>
+  <tr>
+    <td>2020-10-08</td>
+    <td><a href="https://scholia.toolforge.org/Q100993431">SARS-CoV-2 Infection in Pregnant Women and Their Newborns</a> (<a href="http://www.wikidata.org/entity/Q100993431">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.5334/AOGH.3072">10.5334/AOGH.3072</a></td>
+    <td>33102152</td>
   </tr>
 </table>
 ## Broncode voorbeelden

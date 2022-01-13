@@ -34893,13 +34893,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-08</td>
-    <td><a href="https://scholia.toolforge.org/Q100751553">Experimental and in silico evidence suggests vaccines are unlikely to be affected by D614G mutation in SARS-CoV-2 spike protein</a> (<a href="http://www.wikidata.org/entity/Q100751553">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41541-020-00246-8">10.1038/S41541-020-00246-8</a></td>
-    <td>33083031</td>
-  </tr>
-  <tr>
-    <td>2020-10-08</td>
     <td><a href="https://scholia.toolforge.org/Q100503981">Hot spot profiles of SARS-CoV-2 and human ACE2 receptor protein protein interaction obtained by density functional tight binding fragment molecular orbital method</a> (<a href="http://www.wikidata.org/entity/Q100503981">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41598-020-73820-8">10.1038/S41598-020-73820-8</a></td>
@@ -35051,6 +35044,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/VACCINES8040591">10.3390/VACCINES8040591</a></td>
     <td>33050053</td>
+  </tr>
+  <tr>
+    <td>2020-10-08</td>
+    <td><a href="https://scholia.toolforge.org/Q100993431">SARS-CoV-2 Infection in Pregnant Women and Their Newborns</a> (<a href="http://www.wikidata.org/entity/Q100993431">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.5334/AOGH.3072">10.5334/AOGH.3072</a></td>
+    <td>33102152</td>
   </tr>
 </table>
 ## コード例

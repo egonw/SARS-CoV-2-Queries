@@ -120,11 +120,11 @@ SELECT ?date ?numberOfCases WHERE {
   </tr>
   <tr>
     <td>2020-02-14</td>
-    <td>49053</td>
+    <td>64437</td>
   </tr>
   <tr>
     <td>2020-02-14</td>
-    <td>64437</td>
+    <td>49053</td>
   </tr>
   <tr>
     <td>2020-02-15</td>
@@ -977,6 +977,10 @@ SELECT ?date ?numberOfCases WHERE {
   <tr>
     <td>2021-08-06</td>
     <td>200840180</td>
+  </tr>
+  <tr>
+    <td>2022-01-12</td>
+    <td>312173462</td>
   </tr>
 </table>
 ## Ejemplos de código

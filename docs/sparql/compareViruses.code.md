@@ -810,7 +810,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34818143">An immunosuppressed Syrian golden hamster model for SARS-CoV infection.</a> (<a href="http://www.wikidata.org/entity/Q34818143">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34818143">An immunosuppressed Syrian golden hamster model for SARS-CoV infection</a> (<a href="http://www.wikidata.org/entity/Q34818143">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4186,7 +4186,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q34780031">Synergistic inhibitor binding to the papain-like protease of human SARS coronavirus: mechanistic and inhibitor design implications.</a> (<a href="http://www.wikidata.org/entity/Q34780031">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q34780031">Synergistic inhibitor binding to the papain-like protease of human SARS coronavirus: mechanistic and inhibitor design implications</a> (<a href="http://www.wikidata.org/entity/Q34780031">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

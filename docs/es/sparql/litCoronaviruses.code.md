@@ -44,6 +44,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://scholia.toolforge.org/Q88485680">The First Disease X is Caused by a Highly Transmissible Acute Respiratory Syndrome Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q88485680">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S12250-020-00206-5">10.1007/S12250-020-00206-5</a></td>
   </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://scholia.toolforge.org/Q110590100">PAGER-CoV</a> (<a href="http://www.wikidata.org/entity/Q110590100">edit</a>)</td>
+    <td></td>
+  </tr>
 </table>
 ## Ejemplos de código
 ### curl

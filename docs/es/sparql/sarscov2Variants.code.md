@@ -81,6 +81,10 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>B.1.640</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q109747618">SARS-CoV-2 Lineage B.1.214.2</a> (<a href="http://www.wikidata.org/entity/Q109747618">edit</a>)</td>
+    <td>B.1.214.2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106171203">SARS-CoV-2 Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
     <td>B.1.1.318</td>
   </tr>

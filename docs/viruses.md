@@ -106,6 +106,10 @@ This gives us:
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q107248454">RpYN06</a> (<a href="http://www.wikidata.org/entity/Q107248454">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107719644">RhGB01</a> (<a href="http://www.wikidata.org/entity/Q107719644">edit</a>)</td>
     <td></td>
   </tr>
@@ -379,6 +383,10 @@ This gives us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105759623">BtCoV/BM48-31/Rhi bla/Bulgaria/2008</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q107248454">RpYN06</a> (<a href="http://www.wikidata.org/entity/Q107248454">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

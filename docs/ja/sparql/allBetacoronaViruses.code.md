@@ -126,6 +126,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501962">2501962</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q107248454">RpYN06</a> (<a href="http://www.wikidata.org/entity/Q107248454">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q88169973">SARS coronavirus B024</a> (<a href="http://www.wikidata.org/entity/Q88169973">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/305407">305407</a></td>
   </tr>

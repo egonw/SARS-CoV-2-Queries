@@ -58,6 +58,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1016/J.CELL.2021.02.033">10.1016/J.CELL.2021.02.033</a></td>
   </tr>
   <tr>
+    <td>2021-03-05</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21111466">CCHC-type zinc finger nucleic acid binding protein</a> (<a href="http://www.wikidata.org/entity/Q21111466">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q110653052">CNBP Binds and Unfolds In Vitro G-Quadruplexes Formed in the SARS-CoV-2 Positive and Negative Genome Strands</a> (<a href="http://www.wikidata.org/entity/Q110653052">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/IJMS22052614">10.3390/IJMS22052614</a></td>
+  </tr>
+  <tr>
     <td>2020-11-23</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">Transmembraan serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>

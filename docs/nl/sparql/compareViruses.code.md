@@ -2370,7 +2370,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35131311">Expression, crystallization and preliminary crystallographic study of the C-terminal half of nsp2 from SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q35131311">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35131311">Expression, crystallization and preliminary crystallographic study of the C-terminal half of nsp2 from SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q35131311">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

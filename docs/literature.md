@@ -51,29 +51,29 @@ This gives these 10 papers:
     <td><a href="https://doi.org/10.1016/J.MEHY.2021.110752">10.1016/J.MEHY.2021.110752</a></td>
   </tr>
   <tr>
-    <td>2022-01-21</td>
-    <td><a href="https://scholia.toolforge.org/Q110644262">The intrinsically disordered SARS-CoV-2 nucleoprotein in dynamic complex with its viral partner nsp3a</a> (<a href="http://www.wikidata.org/entity/Q110644262">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIADV.ABM4034">10.1126/SCIADV.ABM4034</a></td>
+    <td>2022-01-26</td>
+    <td><a href="https://scholia.toolforge.org/Q110733697">Trypsin enhances SARS-CoV-2 infection by facilitating viral entry</a> (<a href="http://www.wikidata.org/entity/Q110733697">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00705-021-05343-0">10.1007/S00705-021-05343-0</a></td>
   </tr>
   <tr>
-    <td>2022-01-17</td>
-    <td><a href="https://scholia.toolforge.org/Q110644560">Characterization of the SARS-CoV-2 ExoN (nsp14ExoN–nsp10) complex: implications for its role in viral genome stability and inhibitor identification</a> (<a href="http://www.wikidata.org/entity/Q110644560">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/NAR/GKAB1303">10.1093/NAR/GKAB1303</a></td>
+    <td>2022-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q110733552">Extracellular vimentin is an attachment factor that facilitates SARS-CoV-2 entry into human endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q110733552">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2113874119">10.1073/PNAS.2113874119</a></td>
   </tr>
   <tr>
-    <td>2022-01-12</td>
-    <td><a href="https://scholia.toolforge.org/Q110566187">SARS-CoV-2 membrane protein causes the mitochondrial apoptosis and pulmonary edema via targeting BOK</a> (<a href="http://www.wikidata.org/entity/Q110566187">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41418-022-00928-X">10.1038/S41418-022-00928-X</a></td>
+    <td>2022-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q110733672">Dual RNA-Seq analysis of SARS-CoV-2 correlates specific human transcriptional response pathways directly to viral expression</a> (<a href="http://www.wikidata.org/entity/Q110733672">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-022-05342-4">10.1038/S41598-022-05342-4</a></td>
   </tr>
   <tr>
-    <td>2022-01-12</td>
-    <td><a href="https://scholia.toolforge.org/Q110566440">SNX27 suppresses SARS-CoV-2 infection by inhibiting viral lysosome/late endosome entry</a> (<a href="http://www.wikidata.org/entity/Q110566440">edit</a>)</td>
-    <td><a href="https://doi.org/10.1073/PNAS.2117576119">10.1073/PNAS.2117576119</a></td>
+    <td>2022-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q110733797">N7-Methylation of the Coronavirus RNA Cap Is Required for Maximal Virulence by Preventing Innate Immune Recognition</a> (<a href="http://www.wikidata.org/entity/Q110733797">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/MBIO.03662-21">10.1128/MBIO.03662-21</a></td>
   </tr>
   <tr>
-    <td>2022-01-11</td>
-    <td><a href="https://scholia.toolforge.org/Q110566478">Alpha-Soluble NSF Attachment Protein Prevents the Cleavage of the SARS-CoV-2 Spike Protein by Functioning as an Interferon-Upregulated Furin Inhibitor</a> (<a href="http://www.wikidata.org/entity/Q110566478">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/MBIO.02443-21">10.1128/MBIO.02443-21</a></td>
+    <td>2022-01-24</td>
+    <td><a href="https://scholia.toolforge.org/Q110733867">SARS-CoV-2 NSP5 and N protein counteract the RIG-I signaling pathway by suppressing the formation of stress granules</a> (<a href="http://www.wikidata.org/entity/Q110733867">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41392-022-00878-3">10.1038/S41392-022-00878-3</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -223,6 +223,31 @@ Which currently returns:
     <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
   </tr>
   <tr>
+    <td>2022-01-26</td>
+    <td><a href="https://scholia.toolforge.org/Q110733697">Trypsin enhances SARS-CoV-2 infection by facilitating viral entry</a> (<a href="http://www.wikidata.org/entity/Q110733697">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S00705-021-05343-0">10.1007/S00705-021-05343-0</a></td>
+  </tr>
+  <tr>
+    <td>2022-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q110733797">N7-Methylation of the Coronavirus RNA Cap Is Required for Maximal Virulence by Preventing Innate Immune Recognition</a> (<a href="http://www.wikidata.org/entity/Q110733797">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/MBIO.03662-21">10.1128/MBIO.03662-21</a></td>
+  </tr>
+  <tr>
+    <td>2022-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q110733552">Extracellular vimentin is an attachment factor that facilitates SARS-CoV-2 entry into human endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q110733552">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2113874119">10.1073/PNAS.2113874119</a></td>
+  </tr>
+  <tr>
+    <td>2022-01-24</td>
+    <td><a href="https://scholia.toolforge.org/Q110733867">SARS-CoV-2 NSP5 and N protein counteract the RIG-I signaling pathway by suppressing the formation of stress granules</a> (<a href="http://www.wikidata.org/entity/Q110733867">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41392-022-00878-3">10.1038/S41392-022-00878-3</a></td>
+  </tr>
+  <tr>
+    <td>2022-01-22</td>
+    <td><a href="https://scholia.toolforge.org/Q110733906">Insights into the specificity for the interaction of the promiscuous SARS-CoV-2 nucleocapsid protein N-terminal domain with deoxyribonucleic acids</a> (<a href="http://www.wikidata.org/entity/Q110733906">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IJBIOMAC.2022.01.121">10.1016/J.IJBIOMAC.2022.01.121</a></td>
+  </tr>
+  <tr>
     <td>2022-01-21</td>
     <td><a href="https://scholia.toolforge.org/Q110644262">The intrinsically disordered SARS-CoV-2 nucleoprotein in dynamic complex with its viral partner nsp3a</a> (<a href="http://www.wikidata.org/entity/Q110644262">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIADV.ABM4034">10.1126/SCIADV.ABM4034</a></td>
@@ -231,31 +256,6 @@ Which currently returns:
     <td>2022-01-17</td>
     <td><a href="https://scholia.toolforge.org/Q110644560">Characterization of the SARS-CoV-2 ExoN (nsp14ExoN–nsp10) complex: implications for its role in viral genome stability and inhibitor identification</a> (<a href="http://www.wikidata.org/entity/Q110644560">edit</a>)</td>
     <td><a href="https://doi.org/10.1093/NAR/GKAB1303">10.1093/NAR/GKAB1303</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-12</td>
-    <td><a href="https://scholia.toolforge.org/Q110566187">SARS-CoV-2 membrane protein causes the mitochondrial apoptosis and pulmonary edema via targeting BOK</a> (<a href="http://www.wikidata.org/entity/Q110566187">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41418-022-00928-X">10.1038/S41418-022-00928-X</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-11</td>
-    <td><a href="https://scholia.toolforge.org/Q110566478">Alpha-Soluble NSF Attachment Protein Prevents the Cleavage of the SARS-CoV-2 Spike Protein by Functioning as an Interferon-Upregulated Furin Inhibitor</a> (<a href="http://www.wikidata.org/entity/Q110566478">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/MBIO.02443-21">10.1128/MBIO.02443-21</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-08</td>
-    <td><a href="https://scholia.toolforge.org/Q110566944">SARS-CoV-2 non-structural protein 6 triggers NLRP3-dependent pyroptosis by targeting ATP6AP1</a> (<a href="http://www.wikidata.org/entity/Q110566944">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41418-021-00916-7">10.1038/S41418-021-00916-7</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-07</td>
-    <td><a href="https://scholia.toolforge.org/Q110566976">SARS-CoV-2 NSP13 Inhibits Type I IFN Production by Degradation of TBK1 via p62-Dependent Selective Autophagy</a> (<a href="http://www.wikidata.org/entity/Q110566976">edit</a>)</td>
-    <td><a href="https://doi.org/10.4049/JIMMUNOL.2100684">10.4049/JIMMUNOL.2100684</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-03</td>
-    <td><a href="https://scholia.toolforge.org/Q110461179">The hyper-transmissible SARS-CoV-2 Omicron variant exhibits significant antigenic change, vaccine escape and a switch in cell entry mechanism</a> (<a href="http://www.wikidata.org/entity/Q110461179">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2022.01.03.21268111">10.1101/2022.01.03.21268111</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -386,7 +386,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20243</td>
+    <td>20255</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -645,17 +645,17 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>346</td>
+    <td>352</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>102</td>
+    <td>104</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89458416">spike glycoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89458416">edit</a>)</td>
-    <td>95</td>
+    <td>96</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -675,7 +675,7 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>51</td>
+    <td>52</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -715,7 +715,7 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90042407">Non-structural protein 14 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042407">edit</a>)</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -755,7 +755,7 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

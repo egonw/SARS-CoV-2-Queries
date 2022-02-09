@@ -2,6 +2,8 @@
 //
 // GPL v3
 
+import groovy.xml.XmlSlurper
+
 input = args[0]
 langs = [ "en", "ja", "nl", "es", "pt" ]
 lang = "en"

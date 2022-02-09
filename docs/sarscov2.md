@@ -169,6 +169,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
     <td>B.1.617.1</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q110811149">SARS-CoV-2 Lineage BA.3</a> (<a href="http://www.wikidata.org/entity/Q110811149">edit</a>)</td>
+    <td>BA.3</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106809407">Lineage B.1.620</a> (<a href="http://www.wikidata.org/entity/Q106809407">edit</a>)</td>
     <td>B.1.620</td>
   </tr>

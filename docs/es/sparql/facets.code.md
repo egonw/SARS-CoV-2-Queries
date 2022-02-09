@@ -281,7 +281,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q99772823">Timeline of the COVID-19 pandemic in October 2020</a> (<a href="http://www.wikidata.org/entity/Q99772823">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q100152858">La Declaración De Great Barrington</a> (<a href="http://www.wikidata.org/entity/Q100152858">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100152858">declaración de Great Barrington</a> (<a href="http://www.wikidata.org/entity/Q100152858">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q101071358">Timeline of the COVID-19 pandemic in November 2020</a> (<a href="http://www.wikidata.org/entity/Q101071358">edit</a>)</td>

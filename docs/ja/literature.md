@@ -175,13 +175,13 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2022-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q110733552">Extracellular vimentin is an attachment factor that facilitates SARS-CoV-2 entry into human endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q110733552">edit</a>)</td>
-    <td><a href="https://doi.org/10.1073/PNAS.2113874119">10.1073/PNAS.2113874119</a></td>
+    <td><a href="https://scholia.toolforge.org/Q110733797">N7-Methylation of the Coronavirus RNA Cap Is Required for Maximal Virulence by Preventing Innate Immune Recognition</a> (<a href="http://www.wikidata.org/entity/Q110733797">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/MBIO.03662-21">10.1128/MBIO.03662-21</a></td>
   </tr>
   <tr>
     <td>2022-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q110733797">N7-Methylation of the Coronavirus RNA Cap Is Required for Maximal Virulence by Preventing Innate Immune Recognition</a> (<a href="http://www.wikidata.org/entity/Q110733797">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/MBIO.03662-21">10.1128/MBIO.03662-21</a></td>
+    <td><a href="https://scholia.toolforge.org/Q110733552">Extracellular vimentin is an attachment factor that facilitates SARS-CoV-2 entry into human endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q110733552">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2113874119">10.1073/PNAS.2113874119</a></td>
   </tr>
   <tr>
     <td>2022-01-24</td>
@@ -235,30 +235,41 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1111/CLA.12454">10.1111/CLA.12454</a></td>
   </tr>
   <tr>
-    <td>2020-04-01</td>
-    <td><a href="https://scholia.toolforge.org/Q87675797">[Recommendations for critically ill patients with COVID-19]</a> (<a href="http://www.wikidata.org/entity/Q87675797">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S00063-020-00674-3">10.1007/S00063-020-00674-3</a></td>
+    <td>2021-03-19</td>
+    <td><a href="https://scholia.toolforge.org/Q106077883">Major coronavirus variant found in pets for first time</a> (<a href="http://www.wikidata.org/entity/Q106077883">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIENCE.ABI6152">10.1126/SCIENCE.ABI6152</a></td>
   </tr>
   <tr>
-    <td>2020-03-27</td>
-    <td><a href="https://scholia.toolforge.org/Q89046119">A new threat from an old enemy: Re‑emergence of coronavirus (Review)</a> (<a href="http://www.wikidata.org/entity/Q89046119">edit</a>)</td>
-    <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
+    <td>2020-11-23</td>
+    <td><a href="https://scholia.toolforge.org/Q102329953">No Evidence of Coronaviruses or Other Potentially Zoonotic Viruses in Sunda pangolins (Manis javanica) Entering the Wildlife Trade via Malaysia</a> (<a href="http://www.wikidata.org/entity/Q102329953">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S10393-020-01503-X">10.1007/S10393-020-01503-X</a></td>
   </tr>
   <tr>
-    <td>2020-02-26</td>
-    <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
-    <td><a href="https://doi.org/10.3390/JCM9030623">10.3390/JCM9030623</a></td>
+    <td>2020-08-27</td>
+    <td><a href="https://scholia.toolforge.org/Q98777477">Characterization of accessory genes in coronavirus genomes</a> (<a href="http://www.wikidata.org/entity/Q98777477">edit</a>)</td>
+    <td><a href="https://doi.org/10.1186/S12985-020-01402-1">10.1186/S12985-020-01402-1</a></td>
   </tr>
   <tr>
-    <td>2020-02-14</td>
-    <td><a href="https://scholia.toolforge.org/Q88485680">The First Disease X is Caused by a Highly Transmissible Acute Respiratory Syndrome Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q88485680">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S12250-020-00206-5">10.1007/S12250-020-00206-5</a></td>
+    <td>2020-05-23</td>
+    <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td><a href="https://scholia.toolforge.org/Q110590100">PAGER-CoV</a> (<a href="http://www.wikidata.org/entity/Q110590100">edit</a>)</td>
-    <td></td>
+    <td>2020-04-25</td>
+    <td><a href="https://scholia.toolforge.org/Q91956371">The coronavirus proofreading exoribonuclease mediates extensive viral recombination</a> (<a href="http://www.wikidata.org/entity/Q91956371">edit</a>)</td>
+    <td><a href="https://doi.org/10.1101/2020.04.23.057786">10.1101/2020.04.23.057786</a></td>
   </tr>
+  <tr>
+    <td>2020-04-10</td>
+    <td><a href="https://scholia.toolforge.org/Q91806468">COVID-19 Autopsies, Oklahoma, USA</a> (<a href="http://www.wikidata.org/entity/Q91806468">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/AJCP/AQAA062">10.1093/AJCP/AQAA062</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-06</td>
+    <td><a href="https://scholia.toolforge.org/Q91610063">An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice</a> (<a href="http://www.wikidata.org/entity/Q91610063">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCITRANSLMED.ABB5883">10.1126/SCITRANSLMED.ABB5883</a></td>
+  </tr>
+  <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litCoronaviruses.code.html">sparql/litCoronaviruses.rq</a></td></tr>
 </table>
 
 ### ヒトのコロナウイルスについて
@@ -327,7 +338,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20255</td>
+    <td>20257</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -586,7 +597,7 @@ ORDER BY DESC(?count) ?virus ?protein
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>352</td>
+    <td>355</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

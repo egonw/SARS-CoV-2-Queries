@@ -35,6 +35,26 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
   </tr>
   <tr>
+    <td>2022-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q110709382">SARS-CoV-2 viroporin encoded by ORF3a triggers the NLRP3 inflammatory pathway</a> (<a href="http://www.wikidata.org/entity/Q110709382">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.VIROL.2022.01.003">10.1016/J.VIROL.2022.01.003</a></td>
+  </tr>
+  <tr>
+    <td>2022-02-03</td>
+    <td><a href="https://scholia.toolforge.org/Q110849772">Omicron (B.1.1.529) variant of SARS-CoV-2 – Concerns, challenges and recent updates</a> (<a href="http://www.wikidata.org/entity/Q110849772">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.27633">10.1002/JMV.27633</a></td>
+  </tr>
+  <tr>
+    <td>2022-02-03</td>
+    <td><a href="https://scholia.toolforge.org/Q110854976">Tracking cryptic SARS-CoV-2 lineages detected in NYC wastewater</a> (<a href="http://www.wikidata.org/entity/Q110854976">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-022-28246-3">10.1038/S41467-022-28246-3</a></td>
+  </tr>
+  <tr>
+    <td>2022-02-02</td>
+    <td><a href="https://scholia.toolforge.org/Q110865783">Host cellular RNA helicases regulate SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q110865783">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/JVI.00002-22">10.1128/JVI.00002-22</a></td>
+  </tr>
+  <tr>
     <td>2022-02-01</td>
     <td><a href="https://scholia.toolforge.org/Q109544643">Rapid detection of novel coronavirus SARS-CoV-2 by RT-LAMP coupled solid-state nanopores</a> (<a href="http://www.wikidata.org/entity/Q109544643">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.BIOS.2021.113759">10.1016/J.BIOS.2021.113759</a></td>
@@ -45,29 +65,9 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1016/J.MEHY.2021.110752">10.1016/J.MEHY.2021.110752</a></td>
   </tr>
   <tr>
-    <td>2022-01-26</td>
-    <td><a href="https://scholia.toolforge.org/Q110733697">Trypsin enhances SARS-CoV-2 infection by facilitating viral entry</a> (<a href="http://www.wikidata.org/entity/Q110733697">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S00705-021-05343-0">10.1007/S00705-021-05343-0</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q110733552">Extracellular vimentin is an attachment factor that facilitates SARS-CoV-2 entry into human endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q110733552">edit</a>)</td>
-    <td><a href="https://doi.org/10.1073/PNAS.2113874119">10.1073/PNAS.2113874119</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q110733672">Dual RNA-Seq analysis of SARS-CoV-2 correlates specific human transcriptional response pathways directly to viral expression</a> (<a href="http://www.wikidata.org/entity/Q110733672">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41598-022-05342-4">10.1038/S41598-022-05342-4</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q110733797">N7-Methylation of the Coronavirus RNA Cap Is Required for Maximal Virulence by Preventing Innate Immune Recognition</a> (<a href="http://www.wikidata.org/entity/Q110733797">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/MBIO.03662-21">10.1128/MBIO.03662-21</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-24</td>
-    <td><a href="https://scholia.toolforge.org/Q110733867">SARS-CoV-2 NSP5 and N protein counteract the RIG-I signaling pathway by suppressing the formation of stress granules</a> (<a href="http://www.wikidata.org/entity/Q110733867">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41392-022-00878-3">10.1038/S41392-022-00878-3</a></td>
+    <td>2022-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q110864690">SARS-CoV-2 RNA elements share human sequence identity and upregulate hyaluronan via NamiRNA-enhancer network</a> (<a href="http://www.wikidata.org/entity/Q110864690">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.EBIOM.2022.103861">10.1016/J.EBIOM.2022.103861</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -169,14 +169,29 @@ Que atualmente dá:
     <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
   </tr>
   <tr>
+    <td>2022-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q110868252">The E3 Ubiquitin Ligase RNF5 Facilitates SARS-CoV-2 Membrane Protein-Mediated Virion Release</a> (<a href="http://www.wikidata.org/entity/Q110868252">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/MBIO.03168-21">10.1128/MBIO.03168-21</a></td>
+  </tr>
+  <tr>
+    <td>2022-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q110868231">Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant</a> (<a href="http://www.wikidata.org/entity/Q110868231">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-022-04462-1">10.1038/S41586-022-04462-1</a></td>
+  </tr>
+  <tr>
+    <td>2022-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q110868274">Altered TMPRSS2 usage by SARS-CoV-2 Omicron impacts tropism and fusogenicity</a> (<a href="http://www.wikidata.org/entity/Q110868274">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-022-04474-X">10.1038/S41586-022-04474-X</a></td>
+  </tr>
+  <tr>
+    <td>2022-01-29</td>
+    <td><a href="https://scholia.toolforge.org/Q110864776">The function of SARS-CoV-2 spike protein is impaired by disulfide-bond disruption with mutation at cysteine-488 and by thiol-reactive N-acetyl-cysteine and glutathione</a> (<a href="http://www.wikidata.org/entity/Q110864776">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.BBRC.2022.01.106">10.1016/J.BBRC.2022.01.106</a></td>
+  </tr>
+  <tr>
     <td>2022-01-26</td>
     <td><a href="https://scholia.toolforge.org/Q110733697">Trypsin enhances SARS-CoV-2 infection by facilitating viral entry</a> (<a href="http://www.wikidata.org/entity/Q110733697">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S00705-021-05343-0">10.1007/S00705-021-05343-0</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-25</td>
-    <td><a href="https://scholia.toolforge.org/Q110733552">Extracellular vimentin is an attachment factor that facilitates SARS-CoV-2 entry into human endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q110733552">edit</a>)</td>
-    <td><a href="https://doi.org/10.1073/PNAS.2113874119">10.1073/PNAS.2113874119</a></td>
   </tr>
   <tr>
     <td>2022-01-25</td>
@@ -184,24 +199,9 @@ Que atualmente dá:
     <td><a href="https://doi.org/10.1128/MBIO.03662-21">10.1128/MBIO.03662-21</a></td>
   </tr>
   <tr>
-    <td>2022-01-24</td>
-    <td><a href="https://scholia.toolforge.org/Q110733867">SARS-CoV-2 NSP5 and N protein counteract the RIG-I signaling pathway by suppressing the formation of stress granules</a> (<a href="http://www.wikidata.org/entity/Q110733867">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41392-022-00878-3">10.1038/S41392-022-00878-3</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-22</td>
-    <td><a href="https://scholia.toolforge.org/Q110733906">Insights into the specificity for the interaction of the promiscuous SARS-CoV-2 nucleocapsid protein N-terminal domain with deoxyribonucleic acids</a> (<a href="http://www.wikidata.org/entity/Q110733906">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.IJBIOMAC.2022.01.121">10.1016/J.IJBIOMAC.2022.01.121</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-21</td>
-    <td><a href="https://scholia.toolforge.org/Q110644262">The intrinsically disordered SARS-CoV-2 nucleoprotein in dynamic complex with its viral partner nsp3a</a> (<a href="http://www.wikidata.org/entity/Q110644262">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCIADV.ABM4034">10.1126/SCIADV.ABM4034</a></td>
-  </tr>
-  <tr>
-    <td>2022-01-17</td>
-    <td><a href="https://scholia.toolforge.org/Q110644560">Characterization of the SARS-CoV-2 ExoN (nsp14ExoN–nsp10) complex: implications for its role in viral genome stability and inhibitor identification</a> (<a href="http://www.wikidata.org/entity/Q110644560">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/NAR/GKAB1303">10.1093/NAR/GKAB1303</a></td>
+    <td>2022-01-25</td>
+    <td><a href="https://scholia.toolforge.org/Q110733552">Extracellular vimentin is an attachment factor that facilitates SARS-CoV-2 entry into human endothelial cells</a> (<a href="http://www.wikidata.org/entity/Q110733552">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2113874119">10.1073/PNAS.2113874119</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -340,7 +340,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20257</td>
+    <td>20508</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -356,7 +356,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Coronavírus humano 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td>88</td>
+    <td>89</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">Coronavírus humano NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
@@ -599,7 +599,7 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>355</td>
+    <td>361</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -649,7 +649,7 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
-    <td>44</td>
+    <td>45</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -669,7 +669,7 @@ Onde encontramos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90042407">Non-structural protein 14 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042407">edit</a>)</td>
-    <td>31</td>
+    <td>32</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -683,23 +683,23 @@ Onde encontramos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90042799">Helicase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042799">edit</a>)</td>
     <td>25</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
     <td>24</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
-    <td>23</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88656821">membrane protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656821">edit</a>)</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

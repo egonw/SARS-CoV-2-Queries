@@ -71,7 +71,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q86901049">COVID-19-diagnostiek</a> (<a href="http://www.wikidata.org/entity/Q86901049">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87479384">cancelled event due to the 2019–21 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87479384">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87479384">cancelled event due to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q87479384">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87625383">impact of the COVID-19 pandemic on aviation</a> (<a href="http://www.wikidata.org/entity/Q87625383">edit</a>)</td>

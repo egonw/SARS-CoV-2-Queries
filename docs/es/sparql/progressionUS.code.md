@@ -20,6 +20,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>2022-02-14</td>
+    <td>77925899</td>
+  </tr>
+  <tr>
+    <td>2022-02-13</td>
+    <td>77739880</td>
+  </tr>
+  <tr>
     <td>2022-02-12</td>
     <td>77707349</td>
   </tr>
@@ -1449,11 +1457,11 @@ SELECT ?date ?numberOfCases WHERE {
   </tr>
   <tr>
     <td>2021-01-17</td>
-    <td>23754315</td>
+    <td>23936773</td>
   </tr>
   <tr>
     <td>2021-01-17</td>
-    <td>23936773</td>
+    <td>23754315</td>
   </tr>
   <tr>
     <td>2021-01-15</td>

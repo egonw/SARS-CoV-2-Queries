@@ -818,7 +818,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35418761">An initial investigation of the association between the SARS outbreak and weather: with the view of the environmental temperature and its variation.</a> (<a href="http://www.wikidata.org/entity/Q35418761">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35418761">An initial investigation of the association between the SARS outbreak and weather: with the view of the environmental temperature and its variation</a> (<a href="http://www.wikidata.org/entity/Q35418761">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2598,7 +2598,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35499344">Inhibitors of SARS-CoV entry--identification using an internally-controlled dual envelope pseudovirion assay.</a> (<a href="http://www.wikidata.org/entity/Q35499344">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35499344">Inhibitors of SARS-CoV entry--identification using an internally-controlled dual envelope pseudovirion assay</a> (<a href="http://www.wikidata.org/entity/Q35499344">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

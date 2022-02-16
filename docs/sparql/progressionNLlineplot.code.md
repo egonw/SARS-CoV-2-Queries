@@ -1436,6 +1436,14 @@ SELECT ?date ?numberOfCases WHERE {
     <td>5674315</td>
   </tr>
   <tr>
+    <td>2022-02-13</td>
+    <td>5734472</td>
+  </tr>
+  <tr>
+    <td>2022-02-14</td>
+    <td>5789483</td>
+  </tr>
+  <tr>
     <td>2021-06-27</td>
     <td>1683271</td>
   </tr>

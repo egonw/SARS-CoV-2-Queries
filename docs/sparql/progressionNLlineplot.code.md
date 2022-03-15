@@ -1911,6 +1911,42 @@ SELECT ?date ?numberOfCases WHERE {
     <td>2022-03-03</td>
     <td>6589008</td>
   </tr>
+  <tr>
+    <td>2022-03-04</td>
+    <td>6657317</td>
+  </tr>
+  <tr>
+    <td>2022-03-05</td>
+    <td>6724524</td>
+  </tr>
+  <tr>
+    <td>2022-03-06</td>
+    <td>6791323</td>
+  </tr>
+  <tr>
+    <td>2022-03-07</td>
+    <td>6855764</td>
+  </tr>
+  <tr>
+    <td>2022-03-08</td>
+    <td>6921995</td>
+  </tr>
+  <tr>
+    <td>2022-03-09</td>
+    <td>6996231</td>
+  </tr>
+  <tr>
+    <td>2022-03-10</td>
+    <td>7070749</td>
+  </tr>
+  <tr>
+    <td>2022-03-11</td>
+    <td>7139935</td>
+  </tr>
+  <tr>
+    <td>2022-03-12</td>
+    <td>7199977</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

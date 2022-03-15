@@ -35,6 +35,26 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
   </tr>
   <tr>
+    <td>2022-03-08</td>
+    <td><a href="https://scholia.toolforge.org/Q111199898">An intra-cytoplasmic route for SARS-CoV-2 transmission unveiled by Helium-ion microscopy</a> (<a href="http://www.wikidata.org/entity/Q111199898">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-022-07867-0">10.1038/S41598-022-07867-0</a></td>
+  </tr>
+  <tr>
+    <td>2022-03-08</td>
+    <td><a href="https://scholia.toolforge.org/Q111200136">Ensemble cryo-EM reveals conformational states of the nsp13 helicase in the SARS-CoV-2 helicase replication–transcription complex</a> (<a href="http://www.wikidata.org/entity/Q111200136">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41594-022-00734-6">10.1038/S41594-022-00734-6</a></td>
+  </tr>
+  <tr>
+    <td>2022-03-07</td>
+    <td><a href="https://scholia.toolforge.org/Q111199832">Cytoplasmic domain and enzymatic activity of ACE2 are not required for PI4KB dependent endocytosis entry of SARS-CoV-2 into host cells</a> (<a href="http://www.wikidata.org/entity/Q111199832">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.VIRS.2022.03.003">10.1016/J.VIRS.2022.03.003</a></td>
+  </tr>
+  <tr>
+    <td>2022-03-03</td>
+    <td><a href="https://scholia.toolforge.org/Q111200503">SARS-CoV-2 ORF3a induces RETREG1/FAM134B-dependent reticulophagy and triggers sequential ER stress and inflammatory responses during SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q111200503">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/15548627.2022.2039992">10.1080/15548627.2022.2039992</a></td>
+  </tr>
+  <tr>
     <td>2022-03-01</td>
     <td><a href="https://scholia.toolforge.org/Q110709382">SARS-CoV-2 viroporin encoded by ORF3a triggers the NLRP3 inflammatory pathway</a> (<a href="http://www.wikidata.org/entity/Q110709382">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.VIROL.2022.01.003">10.1016/J.VIROL.2022.01.003</a></td>
@@ -48,26 +68,6 @@ Esto le da estos 10 documentos:
     <td>2022-03-01</td>
     <td><a href="https://scholia.toolforge.org/Q111086158">Modulation of the monomer-dimer equilibrium and catalytic activity of SARS-CoV-2 main protease by a transition-state analog inhibitor</a> (<a href="http://www.wikidata.org/entity/Q111086158">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S42003-022-03084-7">10.1038/S42003-022-03084-7</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-24</td>
-    <td><a href="https://scholia.toolforge.org/Q111086228">Viroporins: structure, function, and their role in the life cycle of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q111086228">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BIOCEL.2022.106185">10.1016/J.BIOCEL.2022.106185</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-23</td>
-    <td><a href="https://scholia.toolforge.org/Q111019276">Neuropilin‐1‐Mediated SARS‐CoV‐2 Infection in Bone Marrow‐Derived Macrophages Inhibits Osteoclast Differentiation</a> (<a href="http://www.wikidata.org/entity/Q111019276">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/ADBI.202200007">10.1002/ADBI.202200007</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-23</td>
-    <td><a href="https://scholia.toolforge.org/Q111019375">Is heparan sulfate a target for inhibition of RNA virus infection?</a> (<a href="http://www.wikidata.org/entity/Q111019375">edit</a>)</td>
-    <td><a href="https://doi.org/10.1152/AJPCELL.00028.2022">10.1152/AJPCELL.00028.2022</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-22</td>
-    <td><a href="https://scholia.toolforge.org/Q111019195">Polymorphisms and mutations of ACE2 and TMPRSS2 genes are associated with COVID-19: a systematic review</a> (<a href="http://www.wikidata.org/entity/Q111019195">edit</a>)</td>
-    <td><a href="https://doi.org/10.1186/S40001-022-00647-6">10.1186/S40001-022-00647-6</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -169,6 +169,26 @@ Que actualmente da:
     <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
   </tr>
   <tr>
+    <td>2022-03-08</td>
+    <td><a href="https://scholia.toolforge.org/Q111199898">An intra-cytoplasmic route for SARS-CoV-2 transmission unveiled by Helium-ion microscopy</a> (<a href="http://www.wikidata.org/entity/Q111199898">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41598-022-07867-0">10.1038/S41598-022-07867-0</a></td>
+  </tr>
+  <tr>
+    <td>2022-03-08</td>
+    <td><a href="https://scholia.toolforge.org/Q111200136">Ensemble cryo-EM reveals conformational states of the nsp13 helicase in the SARS-CoV-2 helicase replication–transcription complex</a> (<a href="http://www.wikidata.org/entity/Q111200136">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41594-022-00734-6">10.1038/S41594-022-00734-6</a></td>
+  </tr>
+  <tr>
+    <td>2022-03-07</td>
+    <td><a href="https://scholia.toolforge.org/Q111199832">Cytoplasmic domain and enzymatic activity of ACE2 are not required for PI4KB dependent endocytosis entry of SARS-CoV-2 into host cells</a> (<a href="http://www.wikidata.org/entity/Q111199832">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.VIRS.2022.03.003">10.1016/J.VIRS.2022.03.003</a></td>
+  </tr>
+  <tr>
+    <td>2022-03-03</td>
+    <td><a href="https://scholia.toolforge.org/Q111200503">SARS-CoV-2 ORF3a induces RETREG1/FAM134B-dependent reticulophagy and triggers sequential ER stress and inflammatory responses during SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q111200503">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/15548627.2022.2039992">10.1080/15548627.2022.2039992</a></td>
+  </tr>
+  <tr>
     <td>2022-03-01</td>
     <td><a href="https://scholia.toolforge.org/Q111086158">Modulation of the monomer-dimer equilibrium and catalytic activity of SARS-CoV-2 main protease by a transition-state analog inhibitor</a> (<a href="http://www.wikidata.org/entity/Q111086158">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S42003-022-03084-7">10.1038/S42003-022-03084-7</a></td>
@@ -179,29 +199,9 @@ Que actualmente da:
     <td><a href="https://doi.org/10.1261/RNA.079086.121">10.1261/RNA.079086.121</a></td>
   </tr>
   <tr>
-    <td>2022-02-24</td>
-    <td><a href="https://scholia.toolforge.org/Q111086228">Viroporins: structure, function, and their role in the life cycle of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q111086228">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.BIOCEL.2022.106185">10.1016/J.BIOCEL.2022.106185</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-23</td>
-    <td><a href="https://scholia.toolforge.org/Q111019276">Neuropilin‐1‐Mediated SARS‐CoV‐2 Infection in Bone Marrow‐Derived Macrophages Inhibits Osteoclast Differentiation</a> (<a href="http://www.wikidata.org/entity/Q111019276">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/ADBI.202200007">10.1002/ADBI.202200007</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-22</td>
-    <td><a href="https://scholia.toolforge.org/Q111019414">The SARS‐CoV‐2 Spike Glycoprotein Directly Binds Exogeneous Sialic Acids: A NMR View</a> (<a href="http://www.wikidata.org/entity/Q111019414">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/ANIE.202201432">10.1002/ANIE.202201432</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-21</td>
-    <td><a href="https://scholia.toolforge.org/Q111019424">Decoupling SARS-CoV-2 ORF6 localization and interferon antagonism</a> (<a href="http://www.wikidata.org/entity/Q111019424">edit</a>)</td>
-    <td><a href="https://doi.org/10.1242/JCS.259666">10.1242/JCS.259666</a></td>
-  </tr>
-  <tr>
-    <td>2022-02-21</td>
-    <td><a href="https://scholia.toolforge.org/Q111086082">SARS-CoV-2 Nsp13 encodes for an HLA-E-stabilizing peptide that abrogates inhibition of NKG2A-expressing NK cells</a> (<a href="http://www.wikidata.org/entity/Q111086082">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CELREP.2022.110503">10.1016/J.CELREP.2022.110503</a></td>
+    <td>2022-02-28</td>
+    <td><a href="https://scholia.toolforge.org/Q111200511">SARS-CoV-2 nucleocapsid protein targets a conserved surface groove of the NTF2-like domain of G3BP1</a> (<a href="http://www.wikidata.org/entity/Q111200511">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JMB.2022.167516">10.1016/J.JMB.2022.167516</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -339,7 +339,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20542</td>
+    <td>20553</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -598,17 +598,17 @@ Donde están los recuentos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>380</td>
+    <td>384</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917584">nucleocapsid protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917584">edit</a>)</td>
-    <td>105</td>
+    <td>107</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89458416">spike glycoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89458416">edit</a>)</td>
-    <td>96</td>
+    <td>97</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -628,7 +628,7 @@ Donde están los recuentos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
-    <td>53</td>
+    <td>54</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -677,22 +677,22 @@ Donde están los recuentos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90042799">Helicase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042799">edit</a>)</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
     <td>27</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90042799">Helicase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042799">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
     <td>26</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88365900">Membrane protein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365900">edit</a>)</td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
     <td>25</td>
   </tr>
   <tr>

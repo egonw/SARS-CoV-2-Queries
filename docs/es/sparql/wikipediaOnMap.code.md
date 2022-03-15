@@ -26,24 +26,8 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-103.676388888 20.566666666)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Emiratos_%C3%81rabes_Unidos</td>
-    <td>Point(54.3 24.4)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Suiza</td>
-    <td>Point(8.231973055 46.798561944)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Corea_del_Sur</td>
-    <td>Point(128.0 36.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Camboya</td>
-    <td>Point(105.0 12.6)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Singapur</td>
-    <td>Point(103.8 1.3)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Zambia</td>
+    <td>Point(28.0 -14.0)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islas_Malvinas</td>
@@ -54,52 +38,12 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(29.624444444 46.842222222)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Italia</td>
-    <td>Point(12.5 42.5)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Washington</td>
+    <td>Point(-120.5 47.5)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Espa%C3%B1a</td>
-    <td>Point(-3.0 40.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Popular_de_Lugansk</td>
-    <td>Point(39.02 48.92)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Austria</td>
-    <td>Point(14.0 48.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Indonesia</td>
-    <td>Point(118.0 -2.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Israel</td>
-    <td>Point(35.0 31.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_San_Bartolom%C3%A9</td>
-    <td>Point(-62.834244444 17.897727777)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nueva_Caledonia</td>
-    <td>Point(165.3 -21.25)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kazajist%C3%A1n</td>
-    <td>Point(68.0 48.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_California</td>
-    <td>Point(-120.0 37.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bulgaria</td>
-    <td>Point(25.5 42.75)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Zambia</td>
-    <td>Point(28.0 -14.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Emiratos_%C3%81rabes_Unidos</td>
+    <td>Point(54.3 24.4)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Arkansas</td>
@@ -126,76 +70,20 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-77.036666666 38.895)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Suecia</td>
-    <td>Point(15.0 61.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Dominicana</td>
+    <td>Point(-70.2 18.8)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Laos</td>
-    <td>Point(104.0 18.2)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nueva_Jersey</td>
+    <td>Point(-74.5 40.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Angola</td>
-    <td>Point(17.35 -12.35)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kosovo</td>
+    <td>Point(20.833333333 42.55)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Pap%C3%BAa_Nueva_Guinea</td>
-    <td>Point(147.0 -6.3)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nicaragua</td>
-    <td>Point(-85.0 13.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Vietnam</td>
-    <td>Point(108.0 16.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Tailandia</td>
-    <td>Point(101.0 14.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Malasia</td>
-    <td>Point(108.0 3.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Tayikist%C3%A1n</td>
-    <td>Point(71.366669444 38.583330555)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ant%C3%A1rtida</td>
-    <td>Point(-57.8875 -63.320833333)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Popular_de_Donetsk</td>
-    <td>Point(37.804166666 48.008888888)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nigeria</td>
-    <td>Point(8.0 9.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Wisconsin</td>
-    <td>Point(-89.5 44.5)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rhode_Island</td>
-    <td>Point(-71.5 41.7)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ohio</td>
-    <td>Point(-82.5 40.5)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Alaska</td>
-    <td>Point(-150.0 64.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Costa_de_Marfil</td>
-    <td>Point(-6.0 8.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Texas</td>
-    <td>Point(-100.0 31.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Honduras</td>
+    <td>Point(-86.816669444 14.633330555)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Finlandia</td>
@@ -214,22 +102,6 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(53.0 32.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Noruega</td>
-    <td>Point(11.0 65.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Hungr%C3%ADa</td>
-    <td>Point(19.0 47.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Corea_del_Norte</td>
-    <td>Point(127.0 40.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_la_India</td>
-    <td>Point(77.0 22.0)</td>
-  </tr>
-  <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_M%C3%ADchigan</td>
     <td>Point(-85.58 44.34)</td>
   </tr>
@@ -242,12 +114,20 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-2.066669444 12.266669444)</td>
   </tr>
   <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Democr%C3%A1tica_del_Congo</td>
+    <td>Point(23.656111111 -2.88)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_El_Salvador</td>
+    <td>Point(-88.866111111 13.668888888)</td>
+  </tr>
+  <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Vermont</td>
     <td>Point(-72.7 44.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Democr%C3%A1tica_del_Congo</td>
-    <td>Point(23.656111111 -2.88)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bermudas</td>
+    <td>Point(-64.75 32.333330555)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Carolina_del_Norte</td>
@@ -258,16 +138,228 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(125.75 -8.966669444)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Am%C3%A9rica_del_Norte</td>
-    <td>Point(-105.0 47.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Laos</td>
+    <td>Point(104.0 18.2)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_El_Salvador</td>
-    <td>Point(-88.866111111 13.668888888)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Angola</td>
+    <td>Point(17.35 -12.35)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bermudas</td>
-    <td>Point(-64.75 32.333330555)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Pap%C3%BAa_Nueva_Guinea</td>
+    <td>Point(147.0 -6.3)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nicaragua</td>
+    <td>Point(-85.0 13.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_San_Bartolom%C3%A9</td>
+    <td>Point(-62.834244444 17.897727777)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nueva_Caledonia</td>
+    <td>Point(165.3 -21.25)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kazajist%C3%A1n</td>
+    <td>Point(68.0 48.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_California</td>
+    <td>Point(-120.0 37.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bulgaria</td>
+    <td>Point(25.5 42.75)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Corea_del_Sur</td>
+    <td>Point(128.0 36.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Camboya</td>
+    <td>Point(105.0 12.6)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Singapur</td>
+    <td>Point(103.8 1.3)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Suecia</td>
+    <td>Point(15.0 61.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Vietnam</td>
+    <td>Point(108.0 16.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Tailandia</td>
+    <td>Point(101.0 14.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Malasia</td>
+    <td>Point(108.0 3.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Filipinas</td>
+    <td>Point(123.0 12.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Alemania</td>
+    <td>Point(10.0 51.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Popular_China</td>
+    <td>Point(103.0 35.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Quintana_Roo</td>
+    <td>Point(-87.916666666 19.6)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Botsuana</td>
+    <td>Point(23.7 -22.2)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guinea-Bis%C3%A1u</td>
+    <td>Point(-15.0 12.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Anguila</td>
+    <td>Point(-63.05 18.233333333)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Noruega</td>
+    <td>Point(11.0 65.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Hungr%C3%ADa</td>
+    <td>Point(19.0 47.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Corea_del_Norte</td>
+    <td>Point(127.0 40.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Italia</td>
+    <td>Point(12.5 42.5)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Espa%C3%B1a</td>
+    <td>Point(-3.0 40.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argelia</td>
+    <td>Point(1.0 28.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina</td>
+    <td>Point(-64.0 -34.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Estonia</td>
+    <td>Point(26.0 59.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Seychelles</td>
+    <td>Point(52.766669444 -7.1)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Colombia</td>
+    <td>Point(-74.0 4.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Centroafricana</td>
+    <td>Point(20.9 6.7)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islas_V%C3%ADrgenes_de_los_Estados_Unidos</td>
+    <td>Point(-64.833330555 18.333330555)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Chipre</td>
+    <td>Point(33.0 35.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Eslovenia</td>
+    <td>Point(15.0 46.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Croacia</td>
+    <td>Point(15.466669444 45.25)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Liechtenstein</td>
+    <td>Point(9.553888888 47.145)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kansas</td>
+    <td>Point(-98.0 38.5)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Pensilvania</td>
+    <td>Point(-77.5 41.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Chad</td>
+    <td>Point(19.4 15.466669444)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Maryland</td>
+    <td>Point(-76.7 39.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kentucky</td>
+    <td>Point(-85.0 38.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Tennessee</td>
+    <td>Point(-86.0 36.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Iowa</td>
+    <td>Point(-93.0 42.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ocean%C3%ADa</td>
+    <td>Point(166.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Letonia</td>
+    <td>Point(25.0 57.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guayana_Francesa</td>
+    <td>Point(-52.999938888 3.998861111)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_el_Reino_Unido</td>
+    <td>Point(-2.0 54.6)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Om%C3%A1n</td>
+    <td>Point(57.0 21.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Paraguay</td>
+    <td>Point(-58.0 -23.5)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Irlanda</td>
+    <td>Point(-8.0 53.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ciudad_del_Vaticano</td>
+    <td>Point(12.453055555 41.903888888)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rumania</td>
+    <td>Point(25.0 46.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_L%C3%ADbano</td>
+    <td>Point(35.766669444 33.833330555)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Massachusetts</td>
@@ -298,16 +390,64 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(136.0 35.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_%C3%81frica</td>
-    <td>Point(17.0 1.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Popular_de_Lugansk</td>
+    <td>Point(39.02 48.92)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Dinamarca</td>
-    <td>Point(10.0 56.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Tayikist%C3%A1n</td>
+    <td>Point(71.366669444 38.583330555)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rusia</td>
-    <td>Point(100.0 62.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ant%C3%A1rtida</td>
+    <td>Point(-57.8875 -63.320833333)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Popular_de_Donetsk</td>
+    <td>Point(37.804166666 48.008888888)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_San_Crist%C3%B3bal_y_Nieves</td>
+    <td>Point(-62.666669444 17.33)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nigeria</td>
+    <td>Point(8.0 9.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Wisconsin</td>
+    <td>Point(-89.5 44.5)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rhode_Island</td>
+    <td>Point(-71.5 41.7)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ohio</td>
+    <td>Point(-82.5 40.5)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Alaska</td>
+    <td>Point(-150.0 64.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Costa_de_Marfil</td>
+    <td>Point(-6.0 8.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Texas</td>
+    <td>Point(-100.0 31.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islandia</td>
+    <td>Point(-19.0 65.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Lituania</td>
+    <td>Point(24.0 55.2)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Albania</td>
+    <td>Point(20.0 41.0)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Aruba</td>
@@ -330,8 +470,8 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(90.5 27.45)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sebastopol</td>
-    <td>Point(33.533333333 44.6)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Minesota</td>
+    <td>Point(-94.0 46.0)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Moldavia</td>
@@ -350,32 +490,20 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(44.95 40.383330555)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Mal%C3%AD</td>
-    <td>Point(-4.0 17.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Suiza</td>
+    <td>Point(8.231973055 46.798561944)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islas_Marianas_del_Norte</td>
-    <td>Point(146.0 17.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Austria</td>
+    <td>Point(14.0 48.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Connecticut</td>
-    <td>Point(-72.7 41.6)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Indonesia</td>
+    <td>Point(118.0 -2.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Groenlandia</td>
-    <td>Point(-40.0 72.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Minesota</td>
-    <td>Point(-94.0 46.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Illinois</td>
-    <td>Point(-89.0 40.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Haw%C3%A1i</td>
-    <td>Point(-157.796388888 21.311388888)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Israel</td>
+    <td>Point(35.0 31.0)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guatemala</td>
@@ -394,72 +522,24 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-56.65 -32.733333333)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Irlanda</td>
-    <td>Point(-8.0 53.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Pakist%C3%A1n</td>
+    <td>Point(71.0 30.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ciudad_del_Vaticano</td>
-    <td>Point(12.453055555 41.903888888)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_la_India</td>
+    <td>Point(77.0 22.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rumania</td>
-    <td>Point(25.0 46.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sebastopol</td>
+    <td>Point(33.533333333 44.6)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_L%C3%ADbano</td>
-    <td>Point(35.766669444 33.833330555)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Afganist%C3%A1n</td>
+    <td>Point(66.0 34.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Seychelles</td>
-    <td>Point(52.766669444 -7.1)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islas_V%C3%ADrgenes_de_los_Estados_Unidos</td>
-    <td>Point(-64.833330555 18.333330555)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Chipre</td>
-    <td>Point(33.0 35.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Alemania</td>
-    <td>Point(10.0 51.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Popular_China</td>
-    <td>Point(103.0 35.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Colombia</td>
-    <td>Point(-74.0 4.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argelia</td>
-    <td>Point(1.0 28.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina</td>
-    <td>Point(-64.0 -34.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Estonia</td>
-    <td>Point(26.0 59.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guayana_Francesa</td>
-    <td>Point(-52.999938888 3.998861111)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Eslovenia</td>
-    <td>Point(15.0 46.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Croacia</td>
-    <td>Point(15.466669444 45.25)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Liechtenstein</td>
-    <td>Point(9.553888888 47.145)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bahamas</td>
+    <td>Point(-76.4 23.7)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Zimbabue</td>
@@ -478,112 +558,28 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(10.0 17.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_San_Crist%C3%B3bal_y_Nieves</td>
-    <td>Point(-62.666669444 17.33)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Mal%C3%AD</td>
+    <td>Point(-4.0 17.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Quintana_Roo</td>
-    <td>Point(-87.916666666 19.6)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islas_Marianas_del_Norte</td>
+    <td>Point(146.0 17.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kansas</td>
-    <td>Point(-98.0 38.5)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Connecticut</td>
+    <td>Point(-72.7 41.6)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Pensilvania</td>
-    <td>Point(-77.5 41.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Groenlandia</td>
+    <td>Point(-40.0 72.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Chad</td>
-    <td>Point(19.4 15.466669444)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Illinois</td>
+    <td>Point(-89.0 40.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Maryland</td>
-    <td>Point(-76.7 39.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Centroafricana</td>
-    <td>Point(20.9 6.7)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kentucky</td>
-    <td>Point(-85.0 38.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Tennessee</td>
-    <td>Point(-86.0 36.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Iowa</td>
-    <td>Point(-93.0 42.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sahara_Occidental</td>
-    <td>Point(-13.0 25.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Pakist%C3%A1n</td>
-    <td>Point(71.0 30.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islandia</td>
-    <td>Point(-19.0 65.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Lituania</td>
-    <td>Point(24.0 55.2)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Albania</td>
-    <td>Point(20.0 41.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Paraguay</td>
-    <td>Point(-58.0 -23.5)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Afganist%C3%A1n</td>
-    <td>Point(66.0 34.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bahamas</td>
-    <td>Point(-76.4 23.7)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rep%C3%BAblica_Dominicana</td>
-    <td>Point(-70.2 18.8)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nueva_Jersey</td>
-    <td>Point(-74.5 40.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Washington</td>
-    <td>Point(-120.5 47.5)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kosovo</td>
-    <td>Point(20.833333333 42.55)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Honduras</td>
-    <td>Point(-86.816669444 14.633330555)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ocean%C3%ADa</td>
-    <td>Point(166.0 -21.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Letonia</td>
-    <td>Point(25.0 57.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_el_Reino_Unido</td>
-    <td>Point(-2.0 54.6)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Filipinas</td>
-    <td>Point(123.0 12.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Haw%C3%A1i</td>
+    <td>Point(-157.796388888 21.311388888)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Australia</td>
@@ -594,16 +590,60 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(84.0 28.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guinea-Bis%C3%A1u</td>
-    <td>Point(-15.0 12.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_%C3%81frica</td>
+    <td>Point(17.0 1.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Anguila</td>
-    <td>Point(-63.05 18.233333333)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Dinamarca</td>
+    <td>Point(10.0 56.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Rusia</td>
+    <td>Point(100.0 62.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sahara_Occidental</td>
+    <td>Point(-13.0 25.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Am%C3%A9rica_del_Norte</td>
+    <td>Point(-105.0 47.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guyana</td>
+    <td>Point(-59.316669444 5.733330555)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Turqu%C3%ADa</td>
+    <td>Point(36.0 39.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Jamaica</td>
+    <td>Point(-77.4 18.18)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bolivia</td>
+    <td>Point(-64.991228611 -17.056869611)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Cabo_Verde</td>
+    <td>Point(-24.083333333 15.916666666)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Chipre_del_Norte</td>
+    <td>Point(33.363473888 35.180975)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nuevo_M%C3%A9xico</td>
+    <td>Point(-106.0 34.0)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Santa_Luc%C3%ADa</td>
     <td>Point(-61.0 13.883330555)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Gab%C3%B3n</td>
+    <td>Point(12.0 -1.0)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Curazao</td>
@@ -616,6 +656,90 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Mauritania</td>
     <td>Point(-11.0 21.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Virginia</td>
+    <td>Point(-79.0 38.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Surinam</td>
+    <td>Point(-56.0 4.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guinea_Ecuatorial</td>
+    <td>Point(10.0 1.5)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Indiana</td>
+    <td>Point(-86.216666666 39.933333333)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Virginia_Occidental</td>
+    <td>Point(-80.5 39.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ben%C3%ADn</td>
+    <td>Point(2.183333333 8.833333333)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nuevo_Hampshire</td>
+    <td>Point(-71.5 44.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Akrotiri_y_Dekelia</td>
+    <td>Point(32.983333333 34.583333333)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Irak</td>
+    <td>Point(43.0 33.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_San_Marino</td>
+    <td>Point(12.466666666 43.933333333)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kuwait</td>
+    <td>Point(47.6 29.166669444)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Palestina</td>
+    <td>Point(35.25 32.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_M%C3%A9xico</td>
+    <td>Point(-102.0 23.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Diamond_Princess</td>
+    <td>Point(139.702416666 35.463694444)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sud%C3%A1frica</td>
+    <td>Point(24.0 -29.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ucrania</td>
+    <td>Point(32.0 49.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Costa_Rica</td>
+    <td>Point(-84.0 10.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Per%C3%BA</td>
+    <td>Point(-76.0 -9.4)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Am%C3%A9rica</td>
+    <td>Point(-100.0 20.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nueva_York</td>
+    <td>Point(-75.0 43.0)</td>
+  </tr>
+  <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Asturias</td>
+    <td>Point(-6.0 43.333333333)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Brun%C3%A9i</td>
@@ -634,36 +758,8 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-80.366669444 8.616669444)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Cabo_Verde</td>
-    <td>Point(-24.083333333 15.916666666)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Chipre_del_Norte</td>
-    <td>Point(33.363473888 35.180975)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nuevo_M%C3%A9xico</td>
-    <td>Point(-106.0 34.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Turqu%C3%ADa</td>
-    <td>Point(36.0 39.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Jamaica</td>
-    <td>Point(-77.4 18.18)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Gab%C3%B3n</td>
-    <td>Point(12.0 -1.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Bolivia</td>
-    <td>Point(-64.991228611 -17.056869611)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guayana_Esequiba</td>
-    <td>Point(-59.7 6.3)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Banglad%C3%A9s</td>
+    <td>Point(89.866669444 24.016669444)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nebraska</td>
@@ -686,6 +782,10 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-83.5 33.0)</td>
   </tr>
   <tr>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Puerto_Rico</td>
+    <td>Point(-66.5 18.25)</td>
+  </tr>
+  <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Barbados</td>
     <td>Point(-59.5525 13.17)</td>
   </tr>
@@ -698,24 +798,20 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(-98.0 35.5)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Puerto_Rico</td>
-    <td>Point(-66.5 18.25)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islas_V%C3%ADrgenes_Brit%C3%A1nicas</td>
+    <td>Point(-64.5 18.5)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Irak</td>
-    <td>Point(43.0 33.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Birmania</td>
+    <td>Point(96.0 22.0)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_San_Marino</td>
-    <td>Point(12.466666666 43.933333333)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Granada</td>
+    <td>Point(-61.666669444 12.116669444)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Kuwait</td>
-    <td>Point(47.6 29.166669444)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Palestina</td>
-    <td>Point(35.25 32.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Isla_de_Man</td>
+    <td>Point(-4.5 54.25)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Macao</td>
@@ -732,38 +828,6 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Canad%C3%A1</td>
     <td>Point(-109.0 56.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Virginia</td>
-    <td>Point(-79.0 38.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Surinam</td>
-    <td>Point(-56.0 4.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guinea_Ecuatorial</td>
-    <td>Point(10.0 1.5)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Indiana</td>
-    <td>Point(-86.216666666 39.933333333)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_M%C3%A9xico</td>
-    <td>Point(-102.0 23.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Diamond_Princess</td>
-    <td>Point(139.702416666 35.463694444)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sud%C3%A1frica</td>
-    <td>Point(24.0 -29.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ucrania</td>
-    <td>Point(32.0 49.0)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Arabia_Saudita</td>
@@ -794,24 +858,16 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
     <td>Point(28.046666666 53.528333333)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Acrotiri_y_Dhekelia</td>
-    <td>Point(32.983333333 34.583333333)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Luxemburgo</td>
+    <td>Point(6.13 49.77)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Virginia_Occidental</td>
-    <td>Point(-80.5 39.0)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sierra_Leona</td>
+    <td>Point(-11.916669444 8.5)</td>
   </tr>
   <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Ben%C3%ADn</td>
-    <td>Point(2.183333333 8.833333333)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nuevo_Hampshire</td>
-    <td>Point(-71.5 44.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Isla_de_Man</td>
-    <td>Point(-4.5 54.25)</td>
+    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guayana_Esequiba</td>
+    <td>Point(-59.7 6.3)</td>
   </tr>
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Belice</td>
@@ -832,58 +888,6 @@ SELECT DISTINCT ?wpArticle ?itemLabel ?coord WHERE {
   <tr>
     <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Dominica</td>
     <td>Point(-61.333330555 15.416669444)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Banglad%C3%A9s</td>
-    <td>Point(89.866669444 24.016669444)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Botsuana</td>
-    <td>Point(23.7 -22.2)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Islas_V%C3%ADrgenes_Brit%C3%A1nicas</td>
-    <td>Point(-64.5 18.5)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Sierra_Leona</td>
-    <td>Point(-11.916669444 8.5)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Birmania</td>
-    <td>Point(96.0 22.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Granada</td>
-    <td>Point(-61.666669444 12.116669444)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Guyana</td>
-    <td>Point(-59.316669444 5.733330555)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Luxemburgo</td>
-    <td>Point(6.13 49.77)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Costa_Rica</td>
-    <td>Point(-84.0 10.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Per%C3%BA</td>
-    <td>Point(-76.0 -9.4)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Am%C3%A9rica</td>
-    <td>Point(-100.0 20.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Nueva_York</td>
-    <td>Point(-75.0 43.0)</td>
-  </tr>
-  <tr>
-    <td>https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Asturias</td>
-    <td>Point(-6.0 43.333333333)</td>
   </tr>
 </table>
 ## Ejemplos de código

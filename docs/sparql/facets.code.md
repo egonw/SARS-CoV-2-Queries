@@ -62,7 +62,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q84056433">controversy surrounding the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84056433">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84897850">timeline of the 2019–20 coronavirus pandemic in November 2019 - January 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84897850">Timeline of the 2019–20 coronavirus pandemic in November 2019 – January 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85173778">COVID-19 misinformation</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>

@@ -1898,7 +1898,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35801738">Genome Wide Identification of SARS-CoV Susceptibility Loci Using the Collaborative Cross.</a> (<a href="http://www.wikidata.org/entity/Q35801738">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35801738">Genome Wide Identification of SARS-CoV Susceptibility Loci Using the Collaborative Cross</a> (<a href="http://www.wikidata.org/entity/Q35801738">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -120,11 +120,11 @@ SELECT ?date ?numberOfCases WHERE {
   </tr>
   <tr>
     <td>2020-02-14</td>
-    <td>64437</td>
+    <td>49053</td>
   </tr>
   <tr>
     <td>2020-02-14</td>
-    <td>49053</td>
+    <td>64437</td>
   </tr>
   <tr>
     <td>2020-02-15</td>

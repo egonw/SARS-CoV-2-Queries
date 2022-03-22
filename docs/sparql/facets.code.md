@@ -50,6 +50,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110015070">Coronavirus Structural Task Force</a> (<a href="http://www.wikidata.org/entity/Q110015070">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q110392239">Zero-COVID</a> (<a href="http://www.wikidata.org/entity/Q110392239">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q110923270">Q110923270</a> (<a href="http://www.wikidata.org/entity/Q110923270">edit</a>)</td>
   </tr>
   <tr>

@@ -3794,7 +3794,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35834692">SARS-CoV virus-host interactions and comparative etiologies of acute respiratory distress syndrome as determined by transcriptional and cytokine profiling of formalin-fixed paraffin-embedded tissues.</a> (<a href="http://www.wikidata.org/entity/Q35834692">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35834692">SARS-CoV virus-host interactions and comparative etiologies of acute respiratory distress syndrome as determined by transcriptional and cytokine profiling of formalin-fixed paraffin-embedded tissues</a> (<a href="http://www.wikidata.org/entity/Q35834692">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3898,7 +3898,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q35835938">SARS: responding to an unknown virus.</a> (<a href="http://www.wikidata.org/entity/Q35835938">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q35835938">SARS: responding to an unknown virus</a> (<a href="http://www.wikidata.org/entity/Q35835938">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

@@ -398,10 +398,6 @@ This gives:
     <td>12</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td>11</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q425154">tocilizumab</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
     <td>6</td>
   </tr>
@@ -427,6 +423,10 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q11426176">prednisolone</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q165399">azithromycin</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrialsByIntervention.code.html">sparql/clinicalTrialsByIntervention.rq</a></td></tr>

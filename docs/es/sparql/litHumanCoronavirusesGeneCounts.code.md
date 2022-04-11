@@ -138,6 +138,11 @@ ORDER BY DESC(?count)
     <td>1</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88175965">matrix protein</a> (<a href="http://www.wikidata.org/entity/Q88175965">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88175320">envelope protein</a> (<a href="http://www.wikidata.org/entity/Q88175320">edit</a>)</td>
     <td>1</td>

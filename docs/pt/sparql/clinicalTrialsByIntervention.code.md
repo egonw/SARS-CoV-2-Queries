@@ -43,10 +43,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>12</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td>11</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q425154">tocilizumabe</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
     <td>6</td>
   </tr>
@@ -183,6 +179,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q9268800">gloriosine</a> (<a href="http://www.wikidata.org/entity/Q9268800">edit</a>)</td>
     <td>2</td>
   </tr>
@@ -280,10 +280,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q5515384">gabexate</a> (<a href="http://www.wikidata.org/entity/Q5515384">edit</a>)</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q576104">recém-nascido</a> (<a href="http://www.wikidata.org/entity/Q576104">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

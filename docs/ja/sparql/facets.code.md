@@ -56,6 +56,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110923270">Q110923270</a> (<a href="http://www.wikidata.org/entity/Q110923270">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q111430003">Q111430003</a> (<a href="http://www.wikidata.org/entity/Q111430003">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">2019-20年コロナウイルス感染症流行のタイムライン</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>

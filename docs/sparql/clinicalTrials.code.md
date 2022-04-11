@@ -1636,12 +1636,6 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04292899</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87078390">Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87078390">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04292899</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q87078421">Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment</a> (<a href="http://www.wikidata.org/entity/Q87078421">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q28209496">remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
@@ -1673,13 +1667,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td></td>
     <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td></td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
@@ -1732,20 +1726,14 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04280588</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87076197">Fingolimod in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q87076197">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04280588</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td></td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04278963</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q86280112">Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19</a> (<a href="http://www.wikidata.org/entity/Q86280112">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q84263196">COVID-19</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
+    <td></td>
     <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04278963</td>
   </tr>

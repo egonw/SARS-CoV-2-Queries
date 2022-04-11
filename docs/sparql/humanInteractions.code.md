@@ -422,6 +422,41 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1016/J.COVIRO.2015.08.004">10.1016/J.COVIRO.2015.08.004</a></td>
   </tr>
   <tr>
+    <td>2014-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21106301">Hepsin</a> (<a href="http://www.wikidata.org/entity/Q21106301">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q24339582">TMPRSS2 and ADAM17 cleave ACE2 differentially and only proteolysis by TMPRSS2 augments entry driven by the severe acute respiratory syndrome coronavirus spike protein</a> (<a href="http://www.wikidata.org/entity/Q24339582">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/JVI.02202-13">10.1128/JVI.02202-13</a></td>
+  </tr>
+  <tr>
+    <td>2014-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21126585">Transmembrane serine protease 11D</a> (<a href="http://www.wikidata.org/entity/Q21126585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q24339582">TMPRSS2 and ADAM17 cleave ACE2 differentially and only proteolysis by TMPRSS2 augments entry driven by the severe acute respiratory syndrome coronavirus spike protein</a> (<a href="http://www.wikidata.org/entity/Q24339582">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/JVI.02202-13">10.1128/JVI.02202-13</a></td>
+  </tr>
+  <tr>
+    <td>2014-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21126599">Transmembrane serine protease 2</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q24339582">TMPRSS2 and ADAM17 cleave ACE2 differentially and only proteolysis by TMPRSS2 augments entry driven by the severe acute respiratory syndrome coronavirus spike protein</a> (<a href="http://www.wikidata.org/entity/Q24339582">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/JVI.02202-13">10.1128/JVI.02202-13</a></td>
+  </tr>
+  <tr>
+    <td>2014-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q24339582">TMPRSS2 and ADAM17 cleave ACE2 differentially and only proteolysis by TMPRSS2 augments entry driven by the severe acute respiratory syndrome coronavirus spike protein</a> (<a href="http://www.wikidata.org/entity/Q24339582">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/JVI.02202-13">10.1128/JVI.02202-13</a></td>
+  </tr>
+  <tr>
+    <td>2014-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4032890">ADAM metallopeptidase domain 17</a> (<a href="http://www.wikidata.org/entity/Q4032890">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q24339582">TMPRSS2 and ADAM17 cleave ACE2 differentially and only proteolysis by TMPRSS2 augments entry driven by the severe acute respiratory syndrome coronavirus spike protein</a> (<a href="http://www.wikidata.org/entity/Q24339582">edit</a>)</td>
+    <td><a href="https://doi.org/10.1128/JVI.02202-13">10.1128/JVI.02202-13</a></td>
+  </tr>
+  <tr>
     <td>2013-10-30</td>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>

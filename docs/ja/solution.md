@@ -275,10 +275,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>12</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84263196">新型コロナウイルス感染症 (2019年)</a> (<a href="http://www.wikidata.org/entity/Q84263196">edit</a>)</td>
-    <td>11</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q425154">トシリズマブ</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
     <td>6</td>
   </tr>
@@ -304,6 +300,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q11426176">プレドニゾロン</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q165399">アジスロマイシン</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrialsByIntervention.code.html">sparql/clinicalTrialsByIntervention.rq</a></td></tr>

@@ -1433,6 +1433,20 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-11-11</td>
+    <td><a href="https://scholia.toolforge.org/Q111550588">Dresdner Kinder und Corona - kein schöne(s)r Land zu dieser Zeit: Eine Beobachtung aus Prohlis</a> (<a href="http://www.wikidata.org/entity/Q111550588">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2021-11-11</td>
+    <td><a href="https://scholia.toolforge.org/Q111550589">Meine Kindheit mit Corona: Bericht einer Zehnjährigen</a> (<a href="http://www.wikidata.org/entity/Q111550589">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2021-11-11</td>
     <td><a href="https://scholia.toolforge.org/Q109649564">Epigenetic glycosylation of SARS-CoV-2 impact viral infection through DC&L-SIGN receptors</a> (<a href="http://www.wikidata.org/entity/Q109649564">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.ISCI.2021.103426">10.1016/J.ISCI.2021.103426</a></td>
@@ -11909,6 +11923,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.26776">10.1002/JMV.26776</a></td>
     <td>33404091</td>
+  </tr>
+  <tr>
+    <td>2021-01-06</td>
+    <td><a href="https://scholia.toolforge.org/Q104752888">Neuroinvasive potential of human coronavirus OC43: case report of fatal encephalitis in an immunocompromised host</a> (<a href="http://www.wikidata.org/entity/Q104752888">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S13365-020-00926-0">10.1007/S13365-020-00926-0</a></td>
+    <td>33405204</td>
   </tr>
   <tr>
     <td>2021-01-06</td>
@@ -35030,27 +35051,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.7717/PEERJ.10234">10.7717/PEERJ.10234</a></td>
     <td>33088633</td>
-  </tr>
-  <tr>
-    <td>2020-10-15</td>
-    <td><a href="https://scholia.toolforge.org/Q98288340">SARS-CoV-2 - a new challenge for laboratory medicine</a> (<a href="http://www.wikidata.org/entity/Q98288340">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.11613/BM.2020.030503">10.11613/BM.2020.030503</a></td>
-    <td>32774121</td>
-  </tr>
-  <tr>
-    <td>2020-10-15</td>
-    <td><a href="https://scholia.toolforge.org/Q100546076">Assessment of SARS-CoV-2 in the Cerumen of COVID-19-Positive Patients</a> (<a href="http://www.wikidata.org/entity/Q100546076">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1177/0145561320966067">10.1177/0145561320966067</a></td>
-    <td>33054373</td>
-  </tr>
-  <tr>
-    <td>2020-10-15</td>
-    <td><a href="https://scholia.toolforge.org/Q100545623">SARS-CoV-2 and acute pancreatitis: a new etiological agent?</a> (<a href="http://www.wikidata.org/entity/Q100545623">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.17235/REED.2020.7481/2020">10.17235/REED.2020.7481/2020</a></td>
-    <td>33054297</td>
   </tr>
 </table>
 ## コード例

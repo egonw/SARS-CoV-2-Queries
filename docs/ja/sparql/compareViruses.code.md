@@ -290,6 +290,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q110733797">N7-Methylation of the Coronavirus RNA Cap Is Required for Maximal Virulence by Preventing Innate Immune Recognition</a> (<a href="http://www.wikidata.org/entity/Q110733797">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87945289">Novel coronavirus 2019-nCoV: prevalence, biological and clinical characteristics comparison with SARS-CoV and MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q87945289">edit</a>)</td>
   </tr>
   <tr>
@@ -626,7 +630,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36171303">An Outbreak of Human Coronavirus OC43 Infection and Serological Cross-reactivity with SARS Coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q36171303">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36171303">An Outbreak of Human Coronavirus OC43 Infection and Serological Cross-reactivity with SARS Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q36171303">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1934,7 +1938,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36209481">Global virus alert. How SARS highlighted the risk of viral pandemics.</a> (<a href="http://www.wikidata.org/entity/Q36209481">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36209481">Global virus alert. How SARS highlighted the risk of viral pandemics</a> (<a href="http://www.wikidata.org/entity/Q36209481">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3930,7 +3934,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36303186">Structural insights into SARS coronavirus proteins.</a> (<a href="http://www.wikidata.org/entity/Q36303186">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36303186">Structural insights into SARS coronavirus proteins</a> (<a href="http://www.wikidata.org/entity/Q36303186">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4974,7 +4978,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36171303">An Outbreak of Human Coronavirus OC43 Infection and Serological Cross-reactivity with SARS Coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q36171303">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36171303">An Outbreak of Human Coronavirus OC43 Infection and Serological Cross-reactivity with SARS Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q36171303">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">ベータコロナウイルス１</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>

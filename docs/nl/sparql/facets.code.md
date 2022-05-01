@@ -17,6 +17,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><b>facet</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q107088531">timeline of the COVID-19 pandemic in May 2021</a> (<a href="http://www.wikidata.org/entity/Q107088531">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107129120">COVID-19-related data</a> (<a href="http://www.wikidata.org/entity/Q107129120">edit</a>)</td>
   </tr>
   <tr>
@@ -341,6 +344,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q105730136">Responses to the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105730136">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105966340">Statistics of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q105966340">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106298799">livestream shopping</a> (<a href="http://www.wikidata.org/entity/Q106298799">edit</a>)</td>
   </tr>
   <tr>
@@ -354,9 +360,6 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106971802">2020–2021 global chip shortage</a> (<a href="http://www.wikidata.org/entity/Q106971802">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q107088531">timeline of the COVID-19 pandemic in May 2021</a> (<a href="http://www.wikidata.org/entity/Q107088531">edit</a>)</td>
   </tr>
 </table>
 ## Broncode voorbeelden

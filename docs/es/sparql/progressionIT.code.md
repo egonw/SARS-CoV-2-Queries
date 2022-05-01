@@ -19,6 +19,30 @@ SELECT ?date ?numberOfCases WHERE {
     <td><b>numberOfCases</b></td>
   </tr>
   <tr>
+    <td>2022-04-29</td>
+    <td>16409183</td>
+  </tr>
+  <tr>
+    <td>2022-04-28</td>
+    <td>16349788</td>
+  </tr>
+  <tr>
+    <td>2022-04-27</td>
+    <td>16279754</td>
+  </tr>
+  <tr>
+    <td>2022-04-26</td>
+    <td>16191323</td>
+  </tr>
+  <tr>
+    <td>2022-04-25</td>
+    <td>16161339</td>
+  </tr>
+  <tr>
+    <td>2022-04-24</td>
+    <td>16136057</td>
+  </tr>
+  <tr>
     <td>2022-04-23</td>
     <td>16079209</td>
   </tr>

@@ -35019,6 +35019,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-21</td>
+    <td><a href="https://scholia.toolforge.org/Q103051717">IMPACT-Restart: the influence of COVID-19 on postoperative mortality and risk factors associated with SARS-CoV-2 infection after orthopaedic and trauma surgery</a> (<a href="http://www.wikidata.org/entity/Q103051717">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1302/0301-620X.102B12.BJJ-2020-1395.R2">10.1302/0301-620X.102B12.BJJ-2020-1395.R2</a></td>
+    <td>33249904</td>
+  </tr>
+  <tr>
+    <td>2020-10-21</td>
     <td><a href="https://scholia.toolforge.org/Q100757747">Serum-IgG responses to SARS-CoV-2 after mild and severe COVID-19 infection and analysis of IgG non-responders</a> (<a href="http://www.wikidata.org/entity/Q100757747">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0241104">10.1371/JOURNAL.PONE.0241104</a></td>
@@ -35044,13 +35051,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1542/PEDS.2020-033852">10.1542/PEDS.2020-033852</a></td>
     <td>33087556</td>
-  </tr>
-  <tr>
-    <td>2020-10-21</td>
-    <td><a href="https://scholia.toolforge.org/Q100940691">SARS-CoV-2 virus outbreak and the emergency public health measures in Bosnia and Herzegovina: January - July, 2020</a> (<a href="http://www.wikidata.org/entity/Q100940691">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.17305/BJBMS.2020.5081">10.17305/BJBMS.2020.5081</a></td>
-    <td>33091331</td>
   </tr>
 </table>
 ## Code examples

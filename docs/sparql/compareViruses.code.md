@@ -3922,7 +3922,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36321029">SARS: understanding the virus and development of rational therapy.</a> (<a href="http://www.wikidata.org/entity/Q36321029">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36321029">SARS: understanding the virus and development of rational therapy</a> (<a href="http://www.wikidata.org/entity/Q36321029">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

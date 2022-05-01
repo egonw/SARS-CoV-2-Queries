@@ -341,13 +341,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507421">Angiotensin-(1,7) Treatment in COVID-19: the ATCO Trial</a> (<a href="http://www.wikidata.org/entity/Q89507421">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q288280">Inhibidor de la enzima convertidora de angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q288280">inhibidor de la enzima convertidora de angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04332666</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507421">Angiotensin-(1,7) Treatment in COVID-19: the ATCO Trial</a> (<a href="http://www.wikidata.org/entity/Q89507421">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q288280">Inhibidor de la enzima convertidora de angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q288280">inhibidor de la enzima convertidora de angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">fase 3 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04332666</td>
   </tr>
@@ -701,7 +701,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435801">ACE Inhibitors or ARBs Discontinuation in Context of SARS-CoV-2 Pandemia</a> (<a href="http://www.wikidata.org/entity/Q89435801">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q288280">Inhibidor de la enzima convertidora de angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q288280">inhibidor de la enzima convertidora de angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">fase 3 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04329195</td>
   </tr>

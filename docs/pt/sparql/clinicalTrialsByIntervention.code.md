@@ -99,7 +99,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q288280">Inibidor da enzima de conversão da angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q288280">inibidor da enzima de conversão da angiotensina</a> (<a href="http://www.wikidata.org/entity/Q288280">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>

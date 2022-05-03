@@ -4142,7 +4142,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36414621">Severe acute respiratory syndrome (SARS) coronavirus: application of monoclonal antibodies and development of an effective vaccine.</a> (<a href="http://www.wikidata.org/entity/Q36414621">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36414621">Severe acute respiratory syndrome (SARS) coronavirus: application of monoclonal antibodies and development of an effective vaccine</a> (<a href="http://www.wikidata.org/entity/Q36414621">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

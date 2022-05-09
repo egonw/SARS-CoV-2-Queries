@@ -46,6 +46,11 @@ This gives these 10 papers:
     <td><a href="https://doi.org/10.1080/22221751.2021.2022440">10.1080/22221751.2021.2022440</a></td>
   </tr>
   <tr>
+    <td>2022-05-02</td>
+    <td><a href="https://scholia.toolforge.org/Q111911054">SARS-CoV-2/COVID-19 and its relationship with NOD2 and ubiquitination</a> (<a href="http://www.wikidata.org/entity/Q111911054">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CLIM.2022.109027">10.1016/J.CLIM.2022.109027</a></td>
+  </tr>
+  <tr>
     <td>2022-04-14</td>
     <td><a href="https://scholia.toolforge.org/Q111620835">Abnormal global alternative RNA splicing in COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q111620835">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PGEN.1010137">10.1371/JOURNAL.PGEN.1010137</a></td>
@@ -69,11 +74,6 @@ This gives these 10 papers:
     <td>2022-04-06</td>
     <td><a href="https://scholia.toolforge.org/Q111524911">FcγR-mediated SARS-CoV-2 infection of monocytes activates inflammation</a> (<a href="http://www.wikidata.org/entity/Q111524911">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-022-04702-4">10.1038/S41586-022-04702-4</a></td>
-  </tr>
-  <tr>
-    <td>2022-04-05</td>
-    <td><a href="https://scholia.toolforge.org/Q111537568">pH- and Calcium-Dependent Aromatic Network in the SARS-CoV-2 Envelope Protein</a> (<a href="http://www.wikidata.org/entity/Q111537568">edit</a>)</td>
-    <td><a href="https://doi.org/10.1021/JACS.2C00973">10.1021/JACS.2C00973</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -397,7 +397,7 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20810</td>
+    <td>20813</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

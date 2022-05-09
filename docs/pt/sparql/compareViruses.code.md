@@ -818,7 +818,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36447438">Characterization and inhibition of SARS-coronavirus main protease.</a> (<a href="http://www.wikidata.org/entity/Q36447438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36447438">Characterization and inhibition of SARS-coronavirus main protease</a> (<a href="http://www.wikidata.org/entity/Q36447438">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1286,7 +1286,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36483269">Difference in receptor usage between severe acute respiratory syndrome (SARS) coronavirus and SARS-like coronavirus of bat origin.</a> (<a href="http://www.wikidata.org/entity/Q36483269">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36483269">Difference in receptor usage between severe acute respiratory syndrome (SARS) coronavirus and SARS-like coronavirus of bat origin</a> (<a href="http://www.wikidata.org/entity/Q36483269">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2782,7 +2782,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36478400">Peptide mimicrying between SARS coronavirus spike protein and human proteins reacts with SARS patient serum.</a> (<a href="http://www.wikidata.org/entity/Q36478400">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36478400">Peptide mimicrying between SARS coronavirus spike protein and human proteins reacts with SARS patient serum</a> (<a href="http://www.wikidata.org/entity/Q36478400">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2886,7 +2886,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36441511">Potential antivirals and antiviral strategies against SARS coronavirus infections.</a> (<a href="http://www.wikidata.org/entity/Q36441511">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36441511">Potential antivirals and antiviral strategies against SARS coronavirus infections</a> (<a href="http://www.wikidata.org/entity/Q36441511">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

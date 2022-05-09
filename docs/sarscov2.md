@@ -157,6 +157,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
     <td>B.1.617.2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q111829537">SARS-CoV-2 lineage XD</a> (<a href="http://www.wikidata.org/entity/Q111829537">edit</a>)</td>
+    <td>XD</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q110488017">Deltacron</a> (<a href="http://www.wikidata.org/entity/Q110488017">edit</a>)</td>
     <td></td>
   </tr>
@@ -209,6 +213,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q111737567">SARS-CoV-2 lineage XE</a> (<a href="http://www.wikidata.org/entity/Q111737567">edit</a>)</td>
+    <td>XE</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q107985125">SARS-CoV-2 Mu variant</a> (<a href="http://www.wikidata.org/entity/Q107985125">edit</a>)</td>
     <td>B.1.621</td>
   </tr>
@@ -223,6 +231,10 @@ are listed in Wikidata, and includes the [PANGO lineage code](https://github.com
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106527526">SARS-CoV-2 20C clade</a> (<a href="http://www.wikidata.org/entity/Q106527526">edit</a>)</td>
     <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q111829536">SARS-CoV-2 lineage XF</a> (<a href="http://www.wikidata.org/entity/Q111829536">edit</a>)</td>
+    <td>XF</td>
   </tr>
 </table>
 

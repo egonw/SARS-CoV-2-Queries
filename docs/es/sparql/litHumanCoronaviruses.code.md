@@ -53,6 +53,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td>34935594</td>
   </tr>
   <tr>
+    <td>2022-05-02</td>
+    <td><a href="https://scholia.toolforge.org/Q111911054">SARS-CoV-2/COVID-19 and its relationship with NOD2 and ubiquitination</a> (<a href="http://www.wikidata.org/entity/Q111911054">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CLIM.2022.109027">10.1016/J.CLIM.2022.109027</a></td>
+    <td>35513305</td>
+  </tr>
+  <tr>
     <td>2022-04-14</td>
     <td><a href="https://scholia.toolforge.org/Q111620835">Abnormal global alternative RNA splicing in COVID-19 patients</a> (<a href="http://www.wikidata.org/entity/Q111620835">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -1010,6 +1017,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.3389/FMICB.2022.854567">10.3389/FMICB.2022.854567</a></td>
     <td>35356515</td>
+  </tr>
+  <tr>
+    <td>2022-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q111911746">Multisystem Inflammatory Syndrome and Autoimmune Diseases Following COVID-19: Molecular Mechanisms and Therapeutic Opportunities</a> (<a href="http://www.wikidata.org/entity/Q111911746">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FMOLB.2022.804109">10.3389/FMOLB.2022.804109</a></td>
+    <td>35495619</td>
   </tr>
   <tr>
     <td>2021-12-31</td>
@@ -6305,6 +6319,13 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q111911193">An autoantigen profile of human A549 lung cells reveals viral and host etiologic molecular attributes of autoimmunity in COVID-19</a> (<a href="http://www.wikidata.org/entity/Q111911193">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JAUT.2021.102644">10.1016/J.JAUT.2021.102644</a></td>
+    <td>33971585</td>
+  </tr>
+  <tr>
+    <td>2021-06-01</td>
     <td><a href="https://scholia.toolforge.org/Q107377222">A Crystallographic Snapshot of SARS-CoV-2 Main Protease Maturation Process</a> (<a href="http://www.wikidata.org/entity/Q107377222">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.JMB.2021.167118">10.1016/J.JMB.2021.167118</a></td>
@@ -8503,7 +8524,7 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2021-04-12</td>
-    <td><a href="https://scholia.toolforge.org/Q108818961">What Impact Have SARS-CoV-2/Covid-19 Pandemic on domestic violence against women in India across different states and union territories from the beginning of lockdown due to covid-19 pandemic in March 2020 till 20th September 2020?&nbsp;</a> (<a href="http://www.wikidata.org/entity/Q108818961">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108818961">What Impact Have SARS-CoV-2/Covid-19 Pandemic on domestic violence against women in India across different states and union territories from the beginning of lockdown due to covid-19 pandemic in March 2020 till 20th September 2020?</a> (<a href="http://www.wikidata.org/entity/Q108818961">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.21203/RS.3.RS-414848/V1">10.21203/RS.3.RS-414848/V1</a></td>
     <td></td>
@@ -34886,13 +34907,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
   </tr>
   <tr>
     <td>2020-10-21</td>
-    <td><a href="https://scholia.toolforge.org/Q100765115">Human Hematopoietic Stem, Progenitor, and Immune Cells Respond Ex Vivo to SARS-CoV-2 Spike Protein</a> (<a href="http://www.wikidata.org/entity/Q100765115">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1007/S12015-020-10056-Z">10.1007/S12015-020-10056-Z</a></td>
-    <td>33089452</td>
-  </tr>
-  <tr>
-    <td>2020-10-21</td>
     <td><a href="https://scholia.toolforge.org/Q100749154">Lockdown measures and relative changes in the age-specific incidence of SARS-CoV-2 in Spain</a> (<a href="http://www.wikidata.org/entity/Q100749154">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1017/S0950268820002551">10.1017/S0950268820002551</a></td>
@@ -34904,13 +34918,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41467-020-19146-5">10.1038/S41467-020-19146-5</a></td>
     <td>33087721</td>
-  </tr>
-  <tr>
-    <td>2020-10-21</td>
-    <td><a href="https://scholia.toolforge.org/Q100762166">Immunological considerations for SARS-CoV-2 human challenge studies</a> (<a href="http://www.wikidata.org/entity/Q100762166">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41577-020-00472-0">10.1038/S41577-020-00472-0</a></td>
-    <td>33087904</td>
   </tr>
   <tr>
     <td>2020-10-21</td>
@@ -35016,13 +35023,6 @@ ORDER BY DESC(?date) ?doi ?pubmed ?virus
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S12985-020-01435-6">10.1186/S12985-020-01435-6</a></td>
     <td>33087160</td>
-  </tr>
-  <tr>
-    <td>2020-10-21</td>
-    <td><a href="https://scholia.toolforge.org/Q103051717">IMPACT-Restart: the influence of COVID-19 on postoperative mortality and risk factors associated with SARS-CoV-2 infection after orthopaedic and trauma surgery</a> (<a href="http://www.wikidata.org/entity/Q103051717">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://doi.org/10.1302/0301-620X.102B12.BJJ-2020-1395.R2">10.1302/0301-620X.102B12.BJJ-2020-1395.R2</a></td>
-    <td>33249904</td>
   </tr>
   <tr>
     <td>2020-10-21</td>

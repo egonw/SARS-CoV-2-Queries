@@ -842,7 +842,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36513137">Application of bioinformatics in search for cleavable peptides of SARS-CoV M(pro) and chemical modification of octapeptides.</a> (<a href="http://www.wikidata.org/entity/Q36513137">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36513137">Application of bioinformatics in search for cleavable peptides of SARS-CoV M(pro) and chemical modification of octapeptides</a> (<a href="http://www.wikidata.org/entity/Q36513137">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3066,7 +3066,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36602721">Potent neutralization of severe acute respiratory syndrome (SARS) coronavirus by a human mAb to S1 protein that blocks receptor association.</a> (<a href="http://www.wikidata.org/entity/Q36602721">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36602721">Potent neutralization of severe acute respiratory syndrome (SARS) coronavirus by a human mAb to S1 protein that blocks receptor association</a> (<a href="http://www.wikidata.org/entity/Q36602721">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3442,7 +3442,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36622031">SARS and other coronaviruses in humans and animals.</a> (<a href="http://www.wikidata.org/entity/Q36622031">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36622031">SARS and other coronaviruses in humans and animals</a> (<a href="http://www.wikidata.org/entity/Q36622031">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3462,7 +3462,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36539000">SARS coronavirus and innate immunity.</a> (<a href="http://www.wikidata.org/entity/Q36539000">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36539000">SARS coronavirus and innate immunity</a> (<a href="http://www.wikidata.org/entity/Q36539000">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3618,7 +3618,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36559927">SARS-CoV replicates in primary human alveolar type II cell cultures but not in type I-like cells.</a> (<a href="http://www.wikidata.org/entity/Q36559927">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36559927">SARS-CoV replicates in primary human alveolar type II cell cultures but not in type I-like cells</a> (<a href="http://www.wikidata.org/entity/Q36559927">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

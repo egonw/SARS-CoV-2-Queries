@@ -1,10 +1,12 @@
-// Copyright (c) 2019  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2019-2022  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
 // find all topics and makes a data file to be converted into an Index
 //
 // it takes one optional argument, which is appended to the output
+
+import groovy.xml.XmlSlurper
 
 if (args.length == 0) {
   println "groovy findTopics.groovy <directory>"

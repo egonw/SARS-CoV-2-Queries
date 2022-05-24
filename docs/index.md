@@ -12,14 +12,14 @@
     "@type": "Organization",
     "name": "GitHub"
   },
-  "copyrightYear": "2021",
+  "copyrightYear": "2022",
   "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
 }
 </script>
 
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
-© 2020-2021 Addshore, Daniel Mietchen, Egon Willighagen
+© 2020-2022 Addshore, Daniel Mietchen, Egon Willighagen
 
 [![DOI](https://zenodo.org/badge/247777238.svg)](https://zenodo.org/badge/latestdoi/247777238)
 
@@ -27,6 +27,11 @@ Editor: [Egon L. Willighagen](https://orcid.org/0000-0001-7542-0286)
 Translators: Yayamamo, Marvin Martens, Sharon and Carolina Prado, Tiago Lubiana
 
 License: [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
+WARNING: for the past two years the data in this book was regularly updated. Content was added in the first
+year at a regular basis. There is still a lot of SARS-CoV-2 knowledge in Wikidata to be summarized, but
+the updates have become irregular. Check this [version history](https://github.com/egonw/SARS-CoV-2-Queries/commits/master)
+for the most recent updates. Updated translations and other contributions are still welcome.
 
 This book is written in Markdown with additional instructions that are preprocessed.
 This project was started after [this tweet by Maulik Kamdar](https://twitter.com/maulikkamdar/status/1239599404098740225)

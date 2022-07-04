@@ -16,14 +16,16 @@ PREFIX bd: <http://www.bigdata.com/rdf#>
 PREFIX ps: <http://www.wikidata.org/prop/statement/>
 PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 
-SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?identifier WHERE {
-  VALUES ?topic {
-    wd:Q84263196 wd:Q82069695
+SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?identifier WITH {
+  SELECT DISTINCT ?trial ?phase ?identifier WHERE {
+    VALUES ?topic { wd:Q84263196 wd:Q82069695 }
+    ?trial wdt:P31 wd:Q30612 ;
+           wdt:P921 ?topic ;
+           wdt:P6099 ?phase ;
+           wdt:P3098 ?identifier .
   }
-  ?trial wdt:P31 wd:Q30612 ;
-         wdt:P921 ?topic ;
-         wdt:P6099 ?phase ;
-         wdt:P3098 ?identifier .
+} AS %TRIALS {
+  INCLUDE %TRIALS
   OPTIONAL {
     ?trial wdt:P4844 ?intervention .
   }

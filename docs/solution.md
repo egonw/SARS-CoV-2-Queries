@@ -228,17 +228,19 @@ While far from complete, <a name="tp2">clinical trials</a> registered in <a name
 into Wikidata. The following query lists a number of clinical trials with COVID-19
 as main topic:
 
-**SPARQL** [sparql/clinicalTrials.rq](sparql/clinicalTrials.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WHERE%20%7B%0A%20%20VALUES%20%3Ftopic%20%7B%0A%20%20%20%20wd%3AQ84263196%20wd%3AQ82069695%0A%20%20%7D%0A%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%20ASC%28%3Fintervention%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WHERE%20%7B%0A%20%20VALUES%20%3Ftopic%20%7B%0A%20%20%20%20wd%3AQ84263196%20wd%3AQ82069695%0A%20%20%7D%0A%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%20ASC%28%3Fintervention%29%0A))
+**SPARQL** [sparql/clinicalTrials.rq](sparql/clinicalTrials.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Ftrial%20%3Fphase%20%3Fidentifier%20WHERE%20%7B%0A%20%20%20%20VALUES%20%3Ftopic%20%7B%20wd%3AQ84263196%20wd%3AQ82069695%20%7D%0A%20%20%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20%7D%0A%7D%20AS%20%25TRIALS%20%7B%0A%20%20INCLUDE%20%25TRIALS%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%20ASC%28%3Fintervention%29%0A), [edit](https://query.wikidata.org/#SELECT%20%3Ftrial%20%3FtrialLabel%20%3Fintervention%20%3FinterventionLabel%20%3Fphase%20%3FphaseLabel%20%3Fidentifier%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Ftrial%20%3Fphase%20%3Fidentifier%20WHERE%20%7B%0A%20%20%20%20VALUES%20%3Ftopic%20%7B%20wd%3AQ84263196%20wd%3AQ82069695%20%7D%0A%20%20%20%20%3Ftrial%20wdt%3AP31%20wd%3AQ30612%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP6099%20%3Fphase%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP3098%20%3Fidentifier%20.%0A%20%20%7D%0A%7D%20AS%20%25TRIALS%20%7B%0A%20%20INCLUDE%20%25TRIALS%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Ftrial%20wdt%3AP4844%20%3Fintervention%20.%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20DESC%28%3Fidentifier%29%20ASC%28%3Fintervention%29%0A))
 
 ```sparql
-SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?identifier WHERE {
-  VALUES ?topic {
-    wd:Q84263196 wd:Q82069695
+SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?identifier WITH {
+  SELECT DISTINCT ?trial ?phase ?identifier WHERE {
+    VALUES ?topic { wd:Q84263196 wd:Q82069695 }
+    ?trial wdt:P31 wd:Q30612 ;
+           wdt:P921 ?topic ;
+           wdt:P6099 ?phase ;
+           wdt:P3098 ?identifier .
   }
-  ?trial wdt:P31 wd:Q30612 ;
-         wdt:P921 ?topic ;
-         wdt:P6099 ?phase ;
-         wdt:P3098 ?identifier .
+} AS %TRIALS {
+  INCLUDE %TRIALS
   OPTIONAL {
     ?trial wdt:P4844 ?intervention .
   }
@@ -249,6 +251,93 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
 This lists has become very long, and click one of the above links
 to list them all, and only 15 are given here:
 
+<table>
+  <tr>
+    <td><b>trial</b></td>
+    <td><b>intervention</b></td>
+    <td><b>phase</b></td>
+    <td><b>identifier</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q98710332">A Randomised, Controlled, Phase 1 Study to Evaluate the Safety and Immunogenicity of a Candidate Adjuvanted Recombinant Protein SARS-COV-2 Vaccine in Healthy Adult Subjects</a> (<a href="http://www.wikidata.org/entity/Q98710332">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td>NCT04453852</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q421094">hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q421094">hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04434248</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q95719961">Dose-Confirmation Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1273 COVID-19 Vaccine in Adults Aged 18 Years and Older</a> (<a href="http://www.wikidata.org/entity/Q95719961">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04405076</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q93704421">Study of the Efficacy and Safety of a Single Administration of Olokizumab and RPH-104 With Standard Therapy in Patients With Severe Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q93704421">edit</a>)</td>
+    <td></td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04380519</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q93704421">Study of the Efficacy and Safety of a Single Administration of Olokizumab and RPH-104 With Standard Therapy in Patients With Severe Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q93704421">edit</a>)</td>
+    <td></td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td>NCT04380519</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td>NCT04368728</td>
+  </tr>
+  <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrials.code.html">sparql/clinicalTrials.rq</a></td></tr>
+</table>
 
 ## Drug repurposing
 

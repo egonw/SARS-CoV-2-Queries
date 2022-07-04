@@ -249,97 +249,10 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
 This lists has become very long, and click one of the above links
 to list them all, and only 15 are given here:
 
-<table>
-  <tr>
-    <td><b>trial</b></td>
-    <td><b>intervention</b></td>
-    <td><b>phase</b></td>
-    <td><b>identifier</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q98710332">A Randomised, Controlled, Phase 1 Study to Evaluate the Safety and Immunogenicity of a Candidate Adjuvanted Recombinant Protein SARS-COV-2 Vaccine in Healthy Adult Subjects</a> (<a href="http://www.wikidata.org/entity/Q98710332">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04453852</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q421094">hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q421094">hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q422438">chloroquine</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q96759429">An Adaptive Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96759429">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04434248</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q95719961">Dose-Confirmation Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1273 COVID-19 Vaccine in Adults Aged 18 Years and Older</a> (<a href="http://www.wikidata.org/entity/Q95719961">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04405076</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q93704421">Study of the Efficacy and Safety of a Single Administration of Olokizumab and RPH-104 With Standard Therapy in Patients With Severe Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q93704421">edit</a>)</td>
-    <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04380519</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q93704421">Study of the Efficacy and Safety of a Single Administration of Olokizumab and RPH-104 With Standard Therapy in Patients With Severe Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection (COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q93704421">edit</a>)</td>
-    <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
-    <td>NCT04380519</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
-    <td>NCT04368728</td>
-  </tr>
-  <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrials.code.html">sparql/clinicalTrials.rq</a></td></tr>
-</table>
 
 ## Drug repurposing
 
-The Section [8.3](#sec:trials) already listed an overview of clinical trials.
+The Section ?? already listed an overview of clinical trials.
 It gives an idea of what symptoms people are worried about. It also gives
 insight in what <a name="tp4">drugs</a> are studied for <a name="tp5">repurposing</a>.
 Some of these have received a lot of attention, others less so. They look like

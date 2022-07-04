@@ -115,7 +115,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
 </table>
 
-この結果を[2.2](#sec:sevenhuman)章の結果と比較すれば、それらが完全には一致しないことが分かります。
+この結果を??章の結果と比較すれば、それらが完全には一致しないことが分かります。
 
 <a name="sec:sevenhuman"></a>
 ## ヒトに感染する7つのコロナウイルス

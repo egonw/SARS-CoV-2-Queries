@@ -45,6 +45,11 @@ Isto te fornece 10 documentos:
     <td><a href="https://doi.org/10.1016/J.CYTO.2022.155873">10.1016/J.CYTO.2022.155873</a></td>
   </tr>
   <tr>
+    <td>2022-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q112794283">The SARS-CoV2 envelope differs from host cells, exposes procoagulant lipids, and is disrupted in vivo by oral rinses</a> (<a href="http://www.wikidata.org/entity/Q112794283">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JLR.2022.100208">10.1016/J.JLR.2022.100208</a></td>
+  </tr>
+  <tr>
     <td>2022-05-12</td>
     <td><a href="https://scholia.toolforge.org/Q112039584">The role of NSP6 in the biogenesis of the SARS-CoV-2 replication organelle</a> (<a href="http://www.wikidata.org/entity/Q112039584">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-022-04835-6">10.1038/S41586-022-04835-6</a></td>
@@ -63,11 +68,6 @@ Isto te fornece 10 documentos:
     <td>2022-05-08</td>
     <td><a href="https://scholia.toolforge.org/Q112052687">ADAM10 and ADAM17 promote SARS‐CoV‐2 cell entry and spike protein‐mediated lung cell fusion</a> (<a href="http://www.wikidata.org/entity/Q112052687">edit</a>)</td>
     <td><a href="https://doi.org/10.15252/EMBR.202154305">10.15252/EMBR.202154305</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-02</td>
-    <td><a href="https://scholia.toolforge.org/Q111911054">SARS-CoV-2/COVID-19 and its relationship with NOD2 and ubiquitination</a> (<a href="http://www.wikidata.org/entity/Q111911054">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CLIM.2022.109027">10.1016/J.CLIM.2022.109027</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -340,7 +340,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20832</td>
+    <td>20835</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -352,7 +352,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Coronavírus humano OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
-    <td>110</td>
+    <td>112</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Coronavírus humano 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>

@@ -539,7 +539,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435627">Treatment of COVID-19 Patients With Anti-interleukin Drugs</a> (<a href="http://www.wikidata.org/entity/Q89435627">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3960572">siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">第IV相試験</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04330638</td>
   </tr>
@@ -629,7 +629,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435739">Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q89435739">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3960572">siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">第II相試験</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04329650</td>
   </tr>

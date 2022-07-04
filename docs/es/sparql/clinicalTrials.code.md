@@ -539,7 +539,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435627">Treatment of COVID-19 Patients With Anti-interleukin Drugs</a> (<a href="http://www.wikidata.org/entity/Q89435627">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3960572">siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">fase 4 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04330638</td>
   </tr>
@@ -629,7 +629,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435739">Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q89435739">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3960572">siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04329650</td>
   </tr>
@@ -953,7 +953,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153456">Sargramostim in Patients With Acute Hypoxic Respiratory Failure Due to COVID-19 (SARPAC)</a> (<a href="http://www.wikidata.org/entity/Q89153456">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42825046">fase 4 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42825046">edit</a>)</td>
     <td>NCT04326920</td>
   </tr>
@@ -1013,13 +1013,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>

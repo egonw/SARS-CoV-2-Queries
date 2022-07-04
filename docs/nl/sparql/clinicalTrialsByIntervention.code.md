@@ -271,7 +271,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q50840582">Angiotensin II</a> (<a href="http://www.wikidata.org/entity/Q50840582">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q50840582">Q50840582</a> (<a href="http://www.wikidata.org/entity/Q50840582">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

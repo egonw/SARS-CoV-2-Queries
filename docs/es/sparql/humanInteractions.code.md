@@ -606,7 +606,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
   <tr>
     <td>2007-04-11</td>
     <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q408476">BCL2 associated X, apoptosis regulator</a> (<a href="http://www.wikidata.org/entity/Q408476">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q408476">Proteína X asociada a Bcl-2</a> (<a href="http://www.wikidata.org/entity/Q408476">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q35857154">Induction of apoptosis by the severe acute respiratory syndrome coronavirus 7a protein is dependent on its interaction with the Bcl-XL protein</a> (<a href="http://www.wikidata.org/entity/Q35857154">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.00090-07">10.1128/JVI.00090-07</a></td>
   </tr>

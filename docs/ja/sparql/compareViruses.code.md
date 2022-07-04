@@ -410,7 +410,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36702376">A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence.</a> (<a href="http://www.wikidata.org/entity/Q36702376">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36702376">A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence</a> (<a href="http://www.wikidata.org/entity/Q36702376">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -534,7 +534,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36798770">A review of studies on animal reservoirs of the SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q36798770">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36798770">A review of studies on animal reservoirs of the SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q36798770">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -670,7 +670,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36683624">An overall picture of SARS coronavirus (SARS-CoV) genome-encoded major proteins: structures, functions and drug development.</a> (<a href="http://www.wikidata.org/entity/Q36683624">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36683624">An overall picture of SARS coronavirus (SARS-CoV) genome-encoded major proteins: structures, functions and drug development</a> (<a href="http://www.wikidata.org/entity/Q36683624">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -942,7 +942,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36683628">Bioinformatics research on the SARS coronavirus (SARS_CoV) in China.</a> (<a href="http://www.wikidata.org/entity/Q36683628">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36683628">Bioinformatics research on the SARS coronavirus (SARS_CoV) in China</a> (<a href="http://www.wikidata.org/entity/Q36683628">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -970,7 +970,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36848956">Cell entry by enveloped viruses: redox considerations for HIV and SARS-coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q36848956">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36848956">Cell entry by enveloped viruses: redox considerations for HIV and SARS-coronavirus</a> (<a href="http://www.wikidata.org/entity/Q36848956">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2422,7 +2422,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36972346">Inhibition of severe acute respiratory syndrome-associated coronavirus (SARS-CoV) infectivity by peptides analogous to the viral spike protein.</a> (<a href="http://www.wikidata.org/entity/Q36972346">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36972346">Inhibition of severe acute respiratory syndrome-associated coronavirus (SARS-CoV) infectivity by peptides analogous to the viral spike protein</a> (<a href="http://www.wikidata.org/entity/Q36972346">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2486,7 +2486,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36740258">Interferon alfacon 1 inhibits SARS-CoV infection in human bronchial epithelial Calu-3 cells.</a> (<a href="http://www.wikidata.org/entity/Q36740258">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36740258">Interferon alfacon 1 inhibits SARS-CoV infection in human bronchial epithelial Calu-3 cells</a> (<a href="http://www.wikidata.org/entity/Q36740258">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3490,7 +3490,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36897535">SARS coronavirus papain-like protease induces Egr-1-dependent up-regulation of TGF-β1 via ROS/p38 MAPK/STAT3 pathway.</a> (<a href="http://www.wikidata.org/entity/Q36897535">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36897535">SARS coronavirus papain-like protease induces Egr-1-dependent up-regulation of TGF-β1 via ROS/p38 MAPK/STAT3 pathway</a> (<a href="http://www.wikidata.org/entity/Q36897535">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3706,7 +3706,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36676297">SARS-coronavirus spike S2 domain flanked by cysteine residues C822 and C833 is important for activation of membrane fusion.</a> (<a href="http://www.wikidata.org/entity/Q36676297">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36676297">SARS-coronavirus spike S2 domain flanked by cysteine residues C822 and C833 is important for activation of membrane fusion</a> (<a href="http://www.wikidata.org/entity/Q36676297">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3870,7 +3870,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36807258">Signal transduction in SARS-CoV-infected cells.</a> (<a href="http://www.wikidata.org/entity/Q36807258">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36807258">Signal transduction in SARS-CoV-infected cells</a> (<a href="http://www.wikidata.org/entity/Q36807258">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4106,7 +4106,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36986417">Synthetic recombinant bat SARS-like coronavirus is infectious in cultured cells and in mice.</a> (<a href="http://www.wikidata.org/entity/Q36986417">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36986417">Synthetic recombinant bat SARS-like coronavirus is infectious in cultured cells and in mice</a> (<a href="http://www.wikidata.org/entity/Q36986417">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4366,7 +4366,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36886595">Towards our understanding of SARS-CoV, an emerging and devastating but quickly conquered virus.</a> (<a href="http://www.wikidata.org/entity/Q36886595">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36886595">Towards our understanding of SARS-CoV, an emerging and devastating but quickly conquered virus</a> (<a href="http://www.wikidata.org/entity/Q36886595">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4438,7 +4438,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36701186">Unique SARS-CoV protein nsp1: bioinformatics, biochemistry and potential effects on virulence.</a> (<a href="http://www.wikidata.org/entity/Q36701186">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q36701186">Unique SARS-CoV protein nsp1: bioinformatics, biochemistry and potential effects on virulence</a> (<a href="http://www.wikidata.org/entity/Q36701186">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

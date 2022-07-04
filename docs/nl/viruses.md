@@ -119,7 +119,7 @@ Dit geeft ons:
   </tr>
 </table>
 
-Als we dit vergelijken met de lijst in Sectie [2.2](#sec:sevenhuman), dan zien we dat
+Als we dit vergelijken met de lijst in Sectie ??, dan zien we dat
 deze twee lijsten niet helemaal overlappen.
 
 <a name="sec:sevenhuman"></a>

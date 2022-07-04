@@ -257,7 +257,7 @@ ORDER BY DESC(?count) ?virus ?gene
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85438966">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q408476">BCL2 associated X, apoptosis regulator</a> (<a href="http://www.wikidata.org/entity/Q408476">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q408476">Proteína X asociada a Bcl-2</a> (<a href="http://www.wikidata.org/entity/Q408476">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

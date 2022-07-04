@@ -103,7 +103,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3960572">siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -271,7 +271,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q50840582">Angiotensin II</a> (<a href="http://www.wikidata.org/entity/Q50840582">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q50840582">Q50840582</a> (<a href="http://www.wikidata.org/entity/Q50840582">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

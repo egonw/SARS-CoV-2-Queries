@@ -131,7 +131,7 @@ Deve-se enfatizar que os anticorpos são específicos para cada proteína e cada
 
 ## Reuso de medicamentos
 
-A seção [8.3](#sec:trials)  inclui uma descrição geral dos ensaios clínicos. Esta aqui dá uma ideia dos sintomas que preocupam às pessoas. Também traz informações sobre quais medicamentos se estudam para <a name="tp2">reuso</a>.
+A seção ??  inclui uma descrição geral dos ensaios clínicos. Esta aqui dá uma ideia dos sintomas que preocupam às pessoas. Também traz informações sobre quais medicamentos se estudam para <a name="tp2">reuso</a>.
 Alguns destes tem recebido mais atenção, outros menos. 
 
 
@@ -162,65 +162,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
 
 Isso nos dá:
 
-<table>
-  <tr>
-    <td><b>intervention</b></td>
-    <td><b>trials</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q421094">Hidroxicloroquina</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td>43</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q422438">cloroquina</a> (<a href="http://www.wikidata.org/entity/Q422438">edit</a>)</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q56363387">Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites</a> (<a href="http://www.wikidata.org/entity/Q56363387">edit</a>)</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q425154">tocilizumabe</a> (<a href="http://www.wikidata.org/entity/Q425154">edit</a>)</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q188269">interferon</a> (<a href="http://www.wikidata.org/entity/Q188269">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q207843">óxido nítrico</a> (<a href="http://www.wikidata.org/entity/Q207843">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q40207875">antiviral agent</a> (<a href="http://www.wikidata.org/entity/Q40207875">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q57055">paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q11426176">prednisolona</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q165399">azitromicina</a> (<a href="http://www.wikidata.org/entity/Q165399">edit</a>)</td>
-    <td>3</td>
-  </tr>
-  <tr><td colspan="2">null <a href="sparql/clinicalTrialsByIntervention.code.html">sparql/clinicalTrialsByIntervention.rq</a></td></tr>
-</table>
 
 É importante destacar que essa lista só dá uma ideia de quais intervenções tiveram mais atenção que as outras. É essencial perceber que atenção NÃO é uma medida de sucesso. 
 

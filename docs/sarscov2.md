@@ -451,7 +451,9 @@ This gives us this list:
 </table>
 
 Each sequence variant is a change in the genes encoded by the viral DNA and cause a change in the protein encoded
-by that gene. The following two sections lists all genes and proteins.
+by that gene. The following two sections lists all genes and proteins. An interestion online book
+is found online under the title <i>A sequence alignment and analysis of SARS-CoV-2 spike glycoprotein</i>
+[<a href="#citeref1">1</a>].
 
 ## Genes
 
@@ -878,7 +880,7 @@ Which gives us these proteins:
 
 Thanks to work done by a team at the online
 [BioHackathon in April 2020](https://github.com/virtual-biohackathons/covid-19-bh20),
-macromolecular structures from the [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<a href="#citeref1">1</a>,<a href="#citeref2">2</a>]
+macromolecular structures from the [Complex Portal](https://www.ebi.ac.uk/complexportal/) [<a href="#citeref2">2</a>,<a href="#citeref3">3</a>]
 have been entering Wikidata:
 
 **SPARQL** [sparql/complexes.rq](sparql/complexes.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fcpx%20%3Fcomplex%20%3FcomplexLabel%20WHERE%20%7B%0A%20%20%3Fcomplex%20wdt%3AP7718%20%3Fcpx%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP703%20wd%3AQ82069695%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A))
@@ -986,7 +988,7 @@ Listing these complexes:
 
 ## PDB structures
 
-For the proteins, we can then query for the <a name="tp6">PDB structures</a> [<a href="#citeref3">3</a>]:
+For the proteins, we can then query for the <a name="tp6">PDB structures</a> [<a href="#citeref4">4</a>]:
 
 **SPARQL** [sparql/virusProteinsPDB.rq](sparql/virusProteinsPDB.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20%3Fprotein%20%3FproteinLabel%20%3Frefseq%20%3Funiprot%20%3Fpdb%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fprotein%20wdt%3AP638%20%3Fpdb%20.%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP637%20%3Frefseq%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP352%20%3Funiprot%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A), [edit](https://query.wikidata.org/#SELECT%20%3Fprotein%20%3FproteinLabel%20%3Frefseq%20%3Funiprot%20%3Fpdb%20WHERE%20%7B%0A%20%20%3Fprotein%20wdt%3AP703%20wd%3AQ82069695%20%3B%20wdt%3AP31%20wd%3AQ8054%20.%0A%20%20%3Fprotein%20wdt%3AP638%20%3Fpdb%20.%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP637%20%3Frefseq%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fprotein%20wdt%3AP352%20%3Funiprot%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0A))
 
@@ -1026,8 +1028,9 @@ SELECT ?protein ?proteinLabel (COUNT(?pdb) AS ?count) WHERE {
 
 ## References
 
-1. <a name="citeref1"></a>Meldal BHM, Bye-A-Jee H, Gajdoš L, Hammerová Z, Horácková A, Melicher F, et al. Complex Portal 2018: extended content and enhanced visualization tools for macromolecular complexes. NAR. 2019 Jan 1;47(D1):D550–8.  doi:[10.1093/NAR/GKY1001](https://doi.org/10.1093/NAR/GKY1001) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY1001))
-2. <a name="citeref2"></a>Missing
-3. <a name="citeref3"></a>Burley SK, Berman HM, Kleywegt G, Markley JL, Nakamura H, Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. Methods in Molecular Biology. 2017 Jan 1;1607:627–41.  doi:[10.1007/978-1-4939-7000-1_26](https://doi.org/10.1007/978-1-4939-7000-1_26) ([Scholia](https://scholia.toolforge.org/doi/10.1007/978-1-4939-7000-1_26))
+1. <a name="citeref1"></a>Sgro J-Y. A sequence alignment and analysis of SARS-CoV-2 spike glycoprotein [Internet]. 2020. Available from: https://static-bcrf.biochem.wisc.edu/tutorials/COVID19/spikealignment/book/
+2. <a name="citeref2"></a>Meldal BHM, Bye-A-Jee H, Gajdoš L, Hammerová Z, Horácková A, Melicher F, et al. Complex Portal 2018: extended content and enhanced visualization tools for macromolecular complexes. NAR. 2019 Jan 1;47(D1):D550–8.  doi:[10.1093/NAR/GKY1001](https://doi.org/10.1093/NAR/GKY1001) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKY1001))
+3. <a name="citeref3"></a>Meldal BHM, Perfetto L, Combe C, Lubiana T, Cavalcante JVF, Bye-A-Jee H, et al. Complex Portal 2022: new curation frontiers. NAR. 2021 Oct 29;  doi:[10.1093/NAR/GKAB991](https://doi.org/10.1093/NAR/GKAB991) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKAB991))
+4. <a name="citeref4"></a>Burley SK, Berman HM, Kleywegt G, Markley JL, Nakamura H, Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. Methods Mol Biol. 2017 Jan 1;1607:627–41.  doi:[10.1007/978-1-4939-7000-1_26](https://doi.org/10.1007/978-1-4939-7000-1_26) ([Scholia](https://scholia.toolforge.org/doi/10.1007/978-1-4939-7000-1_26))
 
 

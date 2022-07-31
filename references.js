@@ -1,8 +1,9 @@
-const fs = require('fs');
+const fs = require('fs').promises;
 
 const Cite = require('citation-js');
 
-fs.readFile('references.qids', 'utf8', async function (err, file) {
+(async function () {
+  const file = await fs.readFile('references.qids', 'utf8')
   const data = Array.from(await Cite.async(file))
     .map(item => item.id + '=' + Cite(item).format('bibliography', {
       template: 'vancouver',
@@ -13,5 +14,5 @@ fs.readFile('references.qids', 'utf8', async function (err, file) {
           : '';
       }
     }))
-  fs.writeFile('references.dat', data.join(''), function() {})
-})
+  await fs.writeFile('references.dat', data.join(''))
+})().catch(console.error)

@@ -37,7 +37,9 @@ This gives us this list:
 <out>sequenceVariants</out>
 
 Each sequence variant is a change in the genes encoded by the viral DNA and cause a change in the protein encoded
-by that gene. The following two sections lists all genes and proteins.
+by that gene. The following two sections lists all genes and proteins. An interestion online book
+is found online under the title <i>A sequence alignment and analysis of SARS-CoV-2 spike glycoprotein</i>
+[<cite>Q113367696</cite>].
 
 ## Genes
 

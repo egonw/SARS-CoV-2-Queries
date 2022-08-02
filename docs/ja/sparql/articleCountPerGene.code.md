@@ -24,7 +24,7 @@ SELECT ?gene ?geneLabel (COUNT(?work) AS ?count) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein-encoding gene</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>

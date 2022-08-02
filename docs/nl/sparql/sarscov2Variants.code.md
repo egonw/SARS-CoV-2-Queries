@@ -21,6 +21,10 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td><b>pango</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q112163086">SARS-CoV-2 Lineage BA.1.1</a> (<a href="http://www.wikidata.org/entity/Q112163086">edit</a>)</td>
+    <td>BA.1.1</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104412033">Cluster 5</a> (<a href="http://www.wikidata.org/entity/Q104412033">edit</a>)</td>
     <td></td>
   </tr>
@@ -85,8 +89,20 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>B.1.640</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q109747620">SARS-CoV-2 Lineage B.1.619</a> (<a href="http://www.wikidata.org/entity/Q109747620">edit</a>)</td>
+    <td>B.1.619</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q109747618">SARS-CoV-2 Lineage B.1.214.2</a> (<a href="http://www.wikidata.org/entity/Q109747618">edit</a>)</td>
     <td>B.1.214.2</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109747615">SARS-CoV-2 Lineage B.1.466.2</a> (<a href="http://www.wikidata.org/entity/Q109747615">edit</a>)</td>
+    <td>B.1.466.2</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109747616">SARS-CoV-2 Lineage B.1.1.519</a> (<a href="http://www.wikidata.org/entity/Q109747616">edit</a>)</td>
+    <td>B.1.1.519</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171203">SARS-CoV-2 Lineage B.1.1.318</a> (<a href="http://www.wikidata.org/entity/Q106171203">edit</a>)</td>
@@ -173,12 +189,12 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td>B.1.620</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106171195">SARS-CoV-2 Eta variant</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
-    <td>B.1.525</td>
+    <td><a href="https://scholia.toolforge.org/Q109747614">SARS-CoV-2 Lineage R.1</a> (<a href="http://www.wikidata.org/entity/Q109747614">edit</a>)</td>
+    <td>R.1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q112163086">SARS-CoV-2 Lineage BA.1.1</a> (<a href="http://www.wikidata.org/entity/Q112163086">edit</a>)</td>
-    <td>BA.1.1</td>
+    <td><a href="https://scholia.toolforge.org/Q106171195">SARS-CoV-2 Eta variant</a> (<a href="http://www.wikidata.org/entity/Q106171195">edit</a>)</td>
+    <td>B.1.525</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q106171244">Lineage B.1.1.7 with E484K</a> (<a href="http://www.wikidata.org/entity/Q106171244">edit</a>)</td>

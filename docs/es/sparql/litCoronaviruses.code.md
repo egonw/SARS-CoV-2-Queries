@@ -35,14 +35,29 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1007/S10393-020-01503-X">10.1007/S10393-020-01503-X</a></td>
   </tr>
   <tr>
+    <td>2020-09-01</td>
+    <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
+  </tr>
+  <tr>
+    <td>2020-09-01</td>
+    <td><a href="https://scholia.toolforge.org/Q97547322">Wild birds as reservoirs for diverse and abundant gamma- and deltacoronaviruses</a> (<a href="http://www.wikidata.org/entity/Q97547322">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/FEMSRE/FUAA026">10.1093/FEMSRE/FUAA026</a></td>
+  </tr>
+  <tr>
     <td>2020-08-27</td>
     <td><a href="https://scholia.toolforge.org/Q98777477">Characterization of accessory genes in coronavirus genomes</a> (<a href="http://www.wikidata.org/entity/Q98777477">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S12985-020-01402-1">10.1186/S12985-020-01402-1</a></td>
   </tr>
   <tr>
-    <td>2020-05-23</td>
-    <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
-    <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
+    <td>2020-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q87716536">The neuroinvasive potential of SARS‐CoV2 may be at least partially responsible for the respiratory failure of COVID‐19 patients</a> (<a href="http://www.wikidata.org/entity/Q87716536">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.25728">10.1002/JMV.25728</a></td>
+  </tr>
+  <tr>
+    <td>2020-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q89046119">A new threat from an old enemy: Re‑emergence of coronavirus (Review)</a> (<a href="http://www.wikidata.org/entity/Q89046119">edit</a>)</td>
+    <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
   </tr>
   <tr>
     <td>2020-04-25</td>
@@ -63,11 +78,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-04-01</td>
     <td><a href="https://scholia.toolforge.org/Q87675797">[Recommendations for critically ill patients with COVID-19]</a> (<a href="http://www.wikidata.org/entity/Q87675797">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S00063-020-00674-3">10.1007/S00063-020-00674-3</a></td>
-  </tr>
-  <tr>
-    <td>2020-03-27</td>
-    <td><a href="https://scholia.toolforge.org/Q89046119">A new threat from an old enemy: Re‑emergence of coronavirus (Review)</a> (<a href="http://www.wikidata.org/entity/Q89046119">edit</a>)</td>
-    <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
   </tr>
   <tr>
     <td>2020-03-20</td>
@@ -110,11 +120,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1038/D41586-020-00548-W">10.1038/D41586-020-00548-W</a></td>
   </tr>
   <tr>
-    <td>2020-02-27</td>
-    <td><a href="https://scholia.toolforge.org/Q87716536">The neuroinvasive potential of SARS‐CoV2 may be at least partially responsible for the respiratory failure of COVID‐19 patients</a> (<a href="http://www.wikidata.org/entity/Q87716536">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/JMV.25728">10.1002/JMV.25728</a></td>
-  </tr>
-  <tr>
     <td>2020-02-26</td>
     <td><a href="https://scholia.toolforge.org/Q88182256">Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review</a> (<a href="http://www.wikidata.org/entity/Q88182256">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/JCM9030623">10.3390/JCM9030623</a></td>
@@ -123,6 +128,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-02-14</td>
     <td><a href="https://scholia.toolforge.org/Q88485680">The First Disease X is Caused by a Highly Transmissible Acute Respiratory Syndrome Coronavirus</a> (<a href="http://www.wikidata.org/entity/Q88485680">edit</a>)</td>
     <td><a href="https://doi.org/10.1007/S12250-020-00206-5">10.1007/S12250-020-00206-5</a></td>
+  </tr>
+  <tr>
+    <td>2019-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q84315387">Emerging and re-emerging coronaviruses in pigs</a> (<a href="http://www.wikidata.org/entity/Q84315387">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.COVIRO.2018.12.001">10.1016/J.COVIRO.2018.12.001</a></td>
   </tr>
   <tr>
     <td>2017-11-14</td>

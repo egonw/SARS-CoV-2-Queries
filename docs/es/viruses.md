@@ -112,7 +112,7 @@ Esto nos da:
   </tr>
 </table>
 
-Si comparamos esta lista con la de la Sección ??, no es que estas dos listas no se superpongan completamente.
+Si comparamos esta lista con la de la Sección [2.2](#sec:sevenhuman), no es que estas dos listas no se superpongan completamente.
 
 <a name="sec:sevenhuman"></a>
 ## Los siete coronavirus que infectan a los humanos

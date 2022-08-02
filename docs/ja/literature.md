@@ -40,6 +40,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1080/22221751.2021.2022440">10.1080/22221751.2021.2022440</a></td>
   </tr>
   <tr>
+    <td>2022-07-01</td>
+    <td><a href="https://scholia.toolforge.org/Q100523614">CRISPR-based assays for rapid detection of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100523614">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.YMETH.2020.10.003">10.1016/J.YMETH.2020.10.003</a></td>
+  </tr>
+  <tr>
     <td>2022-06-01</td>
     <td><a href="https://scholia.toolforge.org/Q112034058">SARS-CoV-2 triggering autoimmune diseases</a> (<a href="http://www.wikidata.org/entity/Q112034058">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CYTO.2022.155873">10.1016/J.CYTO.2022.155873</a></td>
@@ -63,11 +68,6 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2022-05-09</td>
     <td><a href="https://scholia.toolforge.org/Q112052653">A glucose-like metabolite deficient in diabetes inhibits cellular entry of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q112052653">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S42255-022-00567-Z">10.1038/S42255-022-00567-Z</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-08</td>
-    <td><a href="https://scholia.toolforge.org/Q112052687">ADAM10 and ADAM17 promote SARS‐CoV‐2 cell entry and spike protein‐mediated lung cell fusion</a> (<a href="http://www.wikidata.org/entity/Q112052687">edit</a>)</td>
-    <td><a href="https://doi.org/10.15252/EMBR.202154305">10.15252/EMBR.202154305</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -208,7 +208,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
 
 ## コロナウイルスについて
 
-??章で概説した通り、SARS-Cov-2はヒトに感染するコロナウイルスの一つです。
+[2](viruses.md#sec:viruses)章で概説した通り、SARS-Cov-2はヒトに感染するコロナウイルスの一つです。
 
 **SPARQL** [sparql/litCoronaviruses.rq](sparql/litCoronaviruses.code.html) ([実行](https://query.wikidata.org/embed.html#SELECT%20%28MAX%28%3Fdates%29%20as%20%3Fdate%29%20%3Fwork%20%3FworkLabel%20%3Fdoi%20WHERE%20%7B%0A%20%20%3Fwork%20wdt%3AP921%20wd%3AQ57751738%20.%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP577%20%3Fdates%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP356%20%3Fdoi%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fwork%20%3FworkLabel%20%3Fdoi%20ORDER%20BY%20DESC%28%3Fdate%29%0A), [編集](https://query.wikidata.org/#SELECT%20%28MAX%28%3Fdates%29%20as%20%3Fdate%29%20%3Fwork%20%3FworkLabel%20%3Fdoi%20WHERE%20%7B%0A%20%20%3Fwork%20wdt%3AP921%20wd%3AQ57751738%20.%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP577%20%3Fdates%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fwork%20wdt%3AP356%20%3Fdoi%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ja%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fwork%20%3FworkLabel%20%3Fdoi%20ORDER%20BY%20DESC%28%3Fdate%29%0A))
 
@@ -245,29 +245,29 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1007/S10393-020-01503-X">10.1007/S10393-020-01503-X</a></td>
   </tr>
   <tr>
+    <td>2020-09-01</td>
+    <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
+    <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
+  </tr>
+  <tr>
+    <td>2020-09-01</td>
+    <td><a href="https://scholia.toolforge.org/Q97547322">Wild birds as reservoirs for diverse and abundant gamma- and deltacoronaviruses</a> (<a href="http://www.wikidata.org/entity/Q97547322">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/FEMSRE/FUAA026">10.1093/FEMSRE/FUAA026</a></td>
+  </tr>
+  <tr>
     <td>2020-08-27</td>
     <td><a href="https://scholia.toolforge.org/Q98777477">Characterization of accessory genes in coronavirus genomes</a> (<a href="http://www.wikidata.org/entity/Q98777477">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S12985-020-01402-1">10.1186/S12985-020-01402-1</a></td>
   </tr>
   <tr>
-    <td>2020-05-23</td>
-    <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
-    <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
+    <td>2020-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q87716536">The neuroinvasive potential of SARS‐CoV2 may be at least partially responsible for the respiratory failure of COVID‐19 patients</a> (<a href="http://www.wikidata.org/entity/Q87716536">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.25728">10.1002/JMV.25728</a></td>
   </tr>
   <tr>
-    <td>2020-04-25</td>
-    <td><a href="https://scholia.toolforge.org/Q91956371">The coronavirus proofreading exoribonuclease mediates extensive viral recombination</a> (<a href="http://www.wikidata.org/entity/Q91956371">edit</a>)</td>
-    <td><a href="https://doi.org/10.1101/2020.04.23.057786">10.1101/2020.04.23.057786</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-10</td>
-    <td><a href="https://scholia.toolforge.org/Q91806468">COVID-19 Autopsies, Oklahoma, USA</a> (<a href="http://www.wikidata.org/entity/Q91806468">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/AJCP/AQAA062">10.1093/AJCP/AQAA062</a></td>
-  </tr>
-  <tr>
-    <td>2020-04-06</td>
-    <td><a href="https://scholia.toolforge.org/Q91610063">An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice</a> (<a href="http://www.wikidata.org/entity/Q91610063">edit</a>)</td>
-    <td><a href="https://doi.org/10.1126/SCITRANSLMED.ABB5883">10.1126/SCITRANSLMED.ABB5883</a></td>
+    <td>2020-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q89046119">A new threat from an old enemy: Re‑emergence of coronavirus (Review)</a> (<a href="http://www.wikidata.org/entity/Q89046119">edit</a>)</td>
+    <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litCoronaviruses.code.html">sparql/litCoronaviruses.rq</a></td></tr>
 </table>
@@ -338,11 +338,11 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20835</td>
+    <td>20839</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2491</td>
+    <td>2490</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -354,11 +354,11 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td>89</td>
+    <td>90</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td>80</td>
+    <td>81</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
@@ -462,7 +462,7 @@ ORDER BY DESC(?count)
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88088595">ORF3a protein-encoding gene</a> (<a href="http://www.wikidata.org/entity/Q88088595">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -602,7 +602,7 @@ ORDER BY DESC(?count) ?virus ?protein
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>413</td>
+    <td>414</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

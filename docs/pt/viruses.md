@@ -112,7 +112,7 @@ Isso nos dá:
   </tr>
 </table>
 
-Se compararmos essa lista com a da seção  ??, elas não se sobrepõe completamente.
+Se compararmos essa lista com a da seção  [2.2](#sec:sevenhuman), elas não se sobrepõe completamente.
 
 <a name="sec:sevenhuman"></a>
 ##  Os sete coronavírus que infectam humanos

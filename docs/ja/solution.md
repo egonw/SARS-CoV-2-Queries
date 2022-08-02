@@ -119,7 +119,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q37188934">Passive Transfer of A Germline-like Neutralizing Human Monoclonal Antibody Protects Transgenic Mice Against Lethal Middle East Respiratory Syndrome Coronavirus Infection.</a> (<a href="http://www.wikidata.org/entity/Q37188934">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q37188934">Passive Transfer of A Germline-like Neutralizing Human Monoclonal Antibody Protects Transgenic Mice Against Lethal Middle East Respiratory Syndrome Coronavirus Infection</a> (<a href="http://www.wikidata.org/entity/Q37188934">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -217,7 +217,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
 
 ## 既存薬再開発
 
-??章で既に臨床試験の概要を取得しました。
+[8.3](#sec:trials)章で既に臨床試験の概要を取得しました。
 そこでは、どのような症状に人は心配するのかについて知見を得られました。
 また、どのような<a name="tp2">薬</a>が<a name="tp3">既存薬再開発</a>のために研究されているのか知ることができました。
 大きな注目を浴びる薬もあれば、それほどでもないものもあります。これらは以下のような感じです。

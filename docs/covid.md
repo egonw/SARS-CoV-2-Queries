@@ -21,7 +21,7 @@
 </script>
 
 This Chapter gives information about this disease.
-<a name="tp1">COVID-19</a> is the disease caused by the <a name="tp2">SARS-CoV-2</a> virus (see Section ??).
+<a name="tp1">COVID-19</a> is the disease caused by the <a name="tp2">SARS-CoV-2</a> virus (see Section [5](sarscov2.md#sec:sars-cov-2)).
 
 ## Symptoms
 

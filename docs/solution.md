@@ -341,7 +341,7 @@ to list them all, and only 15 are given here:
 
 ## Drug repurposing
 
-The Section ?? already listed an overview of clinical trials.
+The Section [8.3](#sec:trials) already listed an overview of clinical trials.
 It gives an idea of what symptoms people are worried about. It also gives
 insight in what <a name="tp4">drugs</a> are studied for <a name="tp5">repurposing</a>.
 Some of these have received a lot of attention, others less so. They look like

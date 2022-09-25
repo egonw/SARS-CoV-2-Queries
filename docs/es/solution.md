@@ -204,7 +204,7 @@ Esto da:
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartán, losartano</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>4</td>
   </tr>
   <tr>

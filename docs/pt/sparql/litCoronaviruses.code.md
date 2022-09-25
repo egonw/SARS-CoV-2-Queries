@@ -20,6 +20,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2022-08-05</td>
+    <td><a href="https://scholia.toolforge.org/Q99522133">A history of coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q99522133">edit</a>)</td>
+    <td><a href="https://doi.org/10.15347/WJM/2022.005">10.15347/WJM/2022.005</a></td>
+  </tr>
+  <tr>
     <td>2021-04-26</td>
     <td><a href="https://scholia.toolforge.org/Q107296589">Fundamental evolution of all Orthocoronavirinae including three deadly lineages descendent from Chiroptera‐hosted coronaviruses: SARS‐CoV, MERS‐CoV and SARS‐CoV‐2</a> (<a href="http://www.wikidata.org/entity/Q107296589">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/CLA.12454">10.1111/CLA.12454</a></td>
@@ -88,6 +93,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2020-03-19</td>
     <td><a href="https://scholia.toolforge.org/Q88457639">New blood tests for antibodies could show true scale of coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88457639">edit</a>)</td>
     <td><a href="https://doi.org/10.1126/SCIENCE.ABB8028">10.1126/SCIENCE.ABB8028</a></td>
+  </tr>
+  <tr>
+    <td>2020-03-19</td>
+    <td><a href="https://scholia.toolforge.org/Q90463040">WHO International Health Regulations Emergency Committee for the COVID-19 outbreak</a> (<a href="http://www.wikidata.org/entity/Q90463040">edit</a>)</td>
+    <td><a href="https://doi.org/10.4178/EPIH.E2020013">10.4178/EPIH.E2020013</a></td>
   </tr>
   <tr>
     <td>2020-03-16</td>

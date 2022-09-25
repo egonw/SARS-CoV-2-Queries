@@ -58,6 +58,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1009599">10.1371/JOURNAL.PPAT.1009599</a></td>
   </tr>
   <tr>
+    <td>2021-05-11</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q18039091">TRBV11-2</a> (<a href="http://www.wikidata.org/entity/Q18039091">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q111912039">Immune dysregulation and autoreactivity correlate with disease severity in SARS-CoV-2-associated multisystem inflammatory syndrome in children</a> (<a href="http://www.wikidata.org/entity/Q111912039">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IMMUNI.2021.04.003">10.1016/J.IMMUNI.2021.04.003</a></td>
+  </tr>
+  <tr>
     <td>2021-04-15</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q18038944">IGHV3-53</a> (<a href="http://www.wikidata.org/entity/Q18038944">edit</a>)</td>
@@ -161,6 +168,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://scholia.toolforge.org/Q14875321">ACE2</a> (<a href="http://www.wikidata.org/entity/Q14875321">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97531023">SARS-CoV-2 infection in the lungs of human ACE2 transgenic mice causes severe inflammation, immune cell infiltration, and compromised respiratory function</a> (<a href="http://www.wikidata.org/entity/Q97531023">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.07.09.196188">10.1101/2020.07.09.196188</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-01</td>
+    <td><a href="https://scholia.toolforge.org/Q16532287">Betacoronavirus</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422766">C-reactief proteïne</a> (<a href="http://www.wikidata.org/entity/Q422766">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96026591">Laboratory abnormalities in children with mild and severe coronavirus disease 2019 (COVID-19): A pooled analysis and review</a> (<a href="http://www.wikidata.org/entity/Q96026591">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.CLINBIOCHEM.2020.05.012">10.1016/J.CLINBIOCHEM.2020.05.012</a></td>
   </tr>
   <tr>
     <td>2020-06-08</td>

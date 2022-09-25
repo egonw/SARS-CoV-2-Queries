@@ -1490,13 +1490,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
   <tr>

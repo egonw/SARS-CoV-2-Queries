@@ -95,9 +95,6 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q111181370">Timeline of the COVID-19 pandemic in February 2022</a> (<a href="http://www.wikidata.org/entity/Q111181370">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q111430003">Q111430003</a> (<a href="http://www.wikidata.org/entity/Q111430003">edit</a>)</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q111956055">Timeline of the COVID-19 pandemic in April 2022</a> (<a href="http://www.wikidata.org/entity/Q111956055">edit</a>)</td>
   </tr>
   <tr>

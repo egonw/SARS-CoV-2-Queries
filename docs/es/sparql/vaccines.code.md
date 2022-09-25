@@ -71,6 +71,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q578537">vacuna de ADN</a> (<a href="http://www.wikidata.org/entity/Q578537">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106522065">DelNS1-2019-nCoV-RBD-OPT</a> (<a href="http://www.wikidata.org/entity/Q106522065">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106336308">vacuna de vector viral</a> (<a href="http://www.wikidata.org/entity/Q106336308">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q96841548">vacuna basada en adenovirus</a> (<a href="http://www.wikidata.org/entity/Q96841548">edit</a>)</td>
   </tr>
@@ -105,6 +109,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q97154239">zorecimerán</a> (<a href="http://www.wikidata.org/entity/Q97154239">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q85795487">Vacuna de ARN</a> (<a href="http://www.wikidata.org/entity/Q85795487">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q97154243">CoVLP</a> (<a href="http://www.wikidata.org/entity/Q97154243">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105967696">tipo de vacuna</a> (<a href="http://www.wikidata.org/entity/Q105967696">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98270627">Gam-COVID-Vac</a> (<a href="http://www.wikidata.org/entity/Q98270627">edit</a>)</td>

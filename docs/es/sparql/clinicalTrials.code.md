@@ -703,13 +703,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartán, losartano</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">fase 3 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04328012</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153273">Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)</a> (<a href="http://www.wikidata.org/entity/Q89153273">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartán, losartano</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04328012</td>
   </tr>
@@ -1315,7 +1315,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87931467">Randomized Controlled Trial of Losartan for Patients With COVID-19 Requiring Hospitalization</a> (<a href="http://www.wikidata.org/entity/Q87931467">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartán, losartano</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04312009</td>
   </tr>
@@ -1327,7 +1327,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87931644">Randomized Controlled Trial of Losartan for Patients With COVID-19 Not Requiring Hospitalization</a> (<a href="http://www.wikidata.org/entity/Q87931644">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartán, losartano</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04311177</td>
   </tr>

@@ -40,34 +40,34 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1080/22221751.2021.2022440">10.1080/22221751.2021.2022440</a></td>
   </tr>
   <tr>
-    <td>2022-07-01</td>
-    <td><a href="https://scholia.toolforge.org/Q100523614">CRISPR-based assays for rapid detection of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q100523614">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.YMETH.2020.10.003">10.1016/J.YMETH.2020.10.003</a></td>
+    <td>2022-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q112277169">Folic acid: a potential inhibitor against SARS-CoV-2 nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q112277169">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/13880209.2022.2063341">10.1080/13880209.2022.2063341</a></td>
   </tr>
   <tr>
-    <td>2022-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112034058">SARS-CoV-2 triggering autoimmune diseases</a> (<a href="http://www.wikidata.org/entity/Q112034058">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.CYTO.2022.155873">10.1016/J.CYTO.2022.155873</a></td>
+    <td>2022-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q112568619">Analysis of SARS-CoV-2 variants B.1.617: host tropism, proteolytic activation, cell-cell fusion, and neutralization sensitivity</a> (<a href="http://www.wikidata.org/entity/Q112568619">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2022.2054369">10.1080/22221751.2022.2054369</a></td>
   </tr>
   <tr>
-    <td>2022-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112794283">The SARS-CoV2 envelope differs from host cells, exposes procoagulant lipids, and is disrupted in vivo by oral rinses</a> (<a href="http://www.wikidata.org/entity/Q112794283">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JLR.2022.100208">10.1016/J.JLR.2022.100208</a></td>
+    <td>2022-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q112573599">Reduced sensitivity of the SARS-CoV-2 Lambda variant to monoclonal antibodies and neutralizing antibodies induced by infection and vaccination</a> (<a href="http://www.wikidata.org/entity/Q112573599">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2021.2008775">10.1080/22221751.2021.2008775</a></td>
   </tr>
   <tr>
-    <td>2022-05-12</td>
-    <td><a href="https://scholia.toolforge.org/Q112039584">The role of NSP6 in the biogenesis of the SARS-CoV-2 replication organelle</a> (<a href="http://www.wikidata.org/entity/Q112039584">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41586-022-04835-6">10.1038/S41586-022-04835-6</a></td>
+    <td>2022-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q112573601">A monoclonal antibody that neutralizes SARS-CoV-2 variants, SARS-CoV, and other sarbecoviruses</a> (<a href="http://www.wikidata.org/entity/Q112573601">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2021.2011623">10.1080/22221751.2021.2011623</a></td>
   </tr>
   <tr>
-    <td>2022-05-11</td>
-    <td><a href="https://scholia.toolforge.org/Q112052324">SARS-CoV-2 Variants of Concern Hijack IFITM2 for Efficient Replication in Human Lung Cells</a> (<a href="http://www.wikidata.org/entity/Q112052324">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/JVI.00594-22">10.1128/JVI.00594-22</a></td>
+    <td>2022-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q112638347">Identification of circulating microRNA profiles associated with pulmonary function and radiologic features in survivors of SARS-CoV-2-induced ARDS</a> (<a href="http://www.wikidata.org/entity/Q112638347">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2022.2081615">10.1080/22221751.2022.2081615</a></td>
   </tr>
   <tr>
-    <td>2022-05-09</td>
-    <td><a href="https://scholia.toolforge.org/Q112052653">A glucose-like metabolite deficient in diabetes inhibits cellular entry of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q112052653">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S42255-022-00567-Z">10.1038/S42255-022-00567-Z</a></td>
+    <td>2022-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q112707325">Drastic decline in sera neutralization against SARS-CoV-2 Omicron variant in Wuhan COVID-19 convalescents</a> (<a href="http://www.wikidata.org/entity/Q112707325">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2022.2031311">10.1080/22221751.2022.2031311</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -230,6 +230,11 @@ Esto le da estos 10 documentos:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2022-08-05</td>
+    <td><a href="https://scholia.toolforge.org/Q99522133">A history of coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q99522133">edit</a>)</td>
+    <td><a href="https://doi.org/10.15347/WJM/2022.005">10.15347/WJM/2022.005</a></td>
+  </tr>
+  <tr>
     <td>2021-04-26</td>
     <td><a href="https://scholia.toolforge.org/Q107296589">Fundamental evolution of all Orthocoronavirinae including three deadly lineages descendent from Chiroptera‐hosted coronaviruses: SARS‐CoV, MERS‐CoV and SARS‐CoV‐2</a> (<a href="http://www.wikidata.org/entity/Q107296589">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/CLA.12454">10.1111/CLA.12454</a></td>
@@ -263,11 +268,6 @@ Esto le da estos 10 documentos:
     <td>2020-06-01</td>
     <td><a href="https://scholia.toolforge.org/Q87716536">The neuroinvasive potential of SARS‐CoV2 may be at least partially responsible for the respiratory failure of COVID‐19 patients</a> (<a href="http://www.wikidata.org/entity/Q87716536">edit</a>)</td>
     <td><a href="https://doi.org/10.1002/JMV.25728">10.1002/JMV.25728</a></td>
-  </tr>
-  <tr>
-    <td>2020-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q89046119">A new threat from an old enemy: Re‑emergence of coronavirus (Review)</a> (<a href="http://www.wikidata.org/entity/Q89046119">edit</a>)</td>
-    <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litCoronaviruses.code.html">sparql/litCoronaviruses.rq</a></td></tr>
 </table>
@@ -339,7 +339,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>20839</td>
+    <td>23009</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

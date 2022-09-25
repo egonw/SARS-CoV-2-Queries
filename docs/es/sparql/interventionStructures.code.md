@@ -53,7 +53,7 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/N-Acetyl-p-aminophenol.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartán</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartán, losartano</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Losartan%20structure.svg</td>
   </tr>
   <tr>

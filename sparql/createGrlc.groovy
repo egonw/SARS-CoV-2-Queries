@@ -1,9 +1,9 @@
-// Copyright (c) 2020  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2020-2022  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.0.42')
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.0.42')
+@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.1.2')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.1.2')
 
 bioclipse = new net.bioclipse.managers.BioclipseManager(".");
 

@@ -23,7 +23,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q106971802">2020–2021 global chip shortage</a> (<a href="http://www.wikidata.org/entity/Q106971802">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107088531">Timeline of the COVID-19 pandemic in May 2021</a> (<a href="http://www.wikidata.org/entity/Q107088531">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107088531">timeline of the COVID-19 pandemic in May 2021</a> (<a href="http://www.wikidata.org/entity/Q107088531">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107129120">COVID-19-related data</a> (<a href="http://www.wikidata.org/entity/Q107129120">edit</a>)</td>
@@ -35,25 +35,25 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q107210990">COVID-19 and homelessness</a> (<a href="http://www.wikidata.org/entity/Q107210990">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107405004">Timeline of the COVID-19 pandemic in June 2021</a> (<a href="http://www.wikidata.org/entity/Q107405004">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107405004">timeline of the COVID-19 pandemic in June 2021</a> (<a href="http://www.wikidata.org/entity/Q107405004">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107863182">Timeline of the COVID-19 pandemic in July 2021</a> (<a href="http://www.wikidata.org/entity/Q107863182">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107863182">timeline of the COVID-19 pandemic in July 2021</a> (<a href="http://www.wikidata.org/entity/Q107863182">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q108378177">Timeline of the COVID-19 pandemic in August 2021</a> (<a href="http://www.wikidata.org/entity/Q108378177">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108378177">timeline of the COVID-19 pandemic in August 2021</a> (<a href="http://www.wikidata.org/entity/Q108378177">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q108495517">Q108495517</a> (<a href="http://www.wikidata.org/entity/Q108495517">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q108796241">Timeline of the COVID-19 pandemic in September 2021</a> (<a href="http://www.wikidata.org/entity/Q108796241">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q108796241">timeline of the COVID-19 pandemic in September 2021</a> (<a href="http://www.wikidata.org/entity/Q108796241">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q109236236">Timeline of the COVID-19 pandemic in October 2021</a> (<a href="http://www.wikidata.org/entity/Q109236236">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q109236236">timeline of the COVID-19 pandemic in October 2021</a> (<a href="http://www.wikidata.org/entity/Q109236236">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q109309949">Timeline of the COVID-19 pandemic in November 2021</a> (<a href="http://www.wikidata.org/entity/Q109309949">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q109309949">timeline of the COVID-19 pandemic in November 2021</a> (<a href="http://www.wikidata.org/entity/Q109309949">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q109502125">Q109502125</a> (<a href="http://www.wikidata.org/entity/Q109502125">edit</a>)</td>
@@ -68,7 +68,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q109828957">2G-Regel</a> (<a href="http://www.wikidata.org/entity/Q109828957">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q109973334">Timeline of the COVID-19 pandemic in December 2021</a> (<a href="http://www.wikidata.org/entity/Q109973334">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q109973334">timeline of the COVID-19 pandemic in December 2021</a> (<a href="http://www.wikidata.org/entity/Q109973334">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q109995308">Resolution 2361 (2021) Covid-19 vaccines: ethical, legal and practical considerations</a> (<a href="http://www.wikidata.org/entity/Q109995308">edit</a>)</td>
@@ -80,7 +80,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110271706">The Bloomberg Cubid 19 Immunity Index</a> (<a href="http://www.wikidata.org/entity/Q110271706">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q110361801">Timeline of the COVID-19 pandemic in January 2022</a> (<a href="http://www.wikidata.org/entity/Q110361801">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q110361801">timeline of the COVID-19 pandemic in January 2022</a> (<a href="http://www.wikidata.org/entity/Q110361801">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q110392239">Zero-COVID</a> (<a href="http://www.wikidata.org/entity/Q110392239">edit</a>)</td>
@@ -92,16 +92,34 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110983443">Q110983443</a> (<a href="http://www.wikidata.org/entity/Q110983443">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q111181370">Timeline of the COVID-19 pandemic in February 2022</a> (<a href="http://www.wikidata.org/entity/Q111181370">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q111181370">timeline of the COVID-19 pandemic in February 2022</a> (<a href="http://www.wikidata.org/entity/Q111181370">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q111956055">Timeline of the COVID-19 pandemic in April 2022</a> (<a href="http://www.wikidata.org/entity/Q111956055">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q111956055">timeline of the COVID-19 pandemic in April 2022</a> (<a href="http://www.wikidata.org/entity/Q111956055">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q111956133">Timeline of the COVID-19 pandemic in March 2022</a> (<a href="http://www.wikidata.org/entity/Q111956133">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q111956133">timeline of the COVID-19 pandemic in March 2022</a> (<a href="http://www.wikidata.org/entity/Q111956133">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q83493517">Timeline of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q112221722">timeline of the COVID-19 pandemic in May 2022</a> (<a href="http://www.wikidata.org/entity/Q112221722">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q112396522">timeline of the COVID-19 pandemic in June 2022</a> (<a href="http://www.wikidata.org/entity/Q112396522">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q112869052">timeline of the COVID-19 pandemic in July 2022</a> (<a href="http://www.wikidata.org/entity/Q112869052">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q113379917">timeline of the COVID-19 pandemic in August 2022</a> (<a href="http://www.wikidata.org/entity/Q113379917">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q113870898">timeline of the COVID-19 pandemic in September 2022</a> (<a href="http://www.wikidata.org/entity/Q113870898">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q114345283">timeline of the COVID-19 pandemic in October 2022</a> (<a href="http://www.wikidata.org/entity/Q114345283">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q83493517">timeline of the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q83741704">COVID-19 pandemic by country and territory</a> (<a href="http://www.wikidata.org/entity/Q83741704">edit</a>)</td>
@@ -110,13 +128,13 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q84056433">controversy surrounding the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84056433">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84897850">Timeline of the COVID-19 pandemic in January 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84897850">timeline of the COVID-19 pandemic in January 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85173778">COVID-19 misinformation</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q85173796">Timeline of the COVID-19 pandemic in February 2020</a> (<a href="http://www.wikidata.org/entity/Q85173796">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85173796">timeline of the COVID-19 pandemic in February 2020</a> (<a href="http://www.wikidata.org/entity/Q85173796">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85173855">2019–20 coronavirus outbreak data</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>
@@ -140,7 +158,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q87747992">impact of the COVID-19 pandemic on the music industry</a> (<a href="http://www.wikidata.org/entity/Q87747992">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87774378">Timeline of the COVID-19 pandemic in March 2020</a> (<a href="http://www.wikidata.org/entity/Q87774378">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87774378">timeline of the COVID-19 pandemic in March 2020</a> (<a href="http://www.wikidata.org/entity/Q87774378">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87796964">Human rights issues during the 2019–20 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q87796964">edit</a>)</td>
@@ -185,16 +203,16 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q88860637">Clap for our Carers</a> (<a href="http://www.wikidata.org/entity/Q88860637">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88903067">cancelled sports event due to the 2019–21 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88903067">cancelled sports event due to the coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q88903067">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q89016387">Timeline of the COVID-19 pandemic in April 2020</a> (<a href="http://www.wikidata.org/entity/Q89016387">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89016387">timeline of the COVID-19 pandemic in April 2020</a> (<a href="http://www.wikidata.org/entity/Q89016387">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89031984">cancelled music event due to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q89031984">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q89033277">postponed sports event due to the 2019–21 coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89033277">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89033277">postponed sports event due to the  coronavirus pandemic</a> (<a href="http://www.wikidata.org/entity/Q89033277">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89113106">Impact of the 2019–20 coronavirus pandemic on the arts and cultural heritage</a> (<a href="http://www.wikidata.org/entity/Q89113106">edit</a>)</td>
@@ -248,10 +266,10 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q92150479">impact of the COVID-19 pandemic on journalism</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q92600442">Timeline of the COVID-19 pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q92600442">timeline of the COVID-19 pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q92601059">Timeline of the COVID-19 pandemic in 2019</a> (<a href="http://www.wikidata.org/entity/Q92601059">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q92601059">timeline of the COVID-19 pandemic in 2019</a> (<a href="http://www.wikidata.org/entity/Q92601059">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q93593520">Impact of the COVID-19 pandemic on the fashion industry</a> (<a href="http://www.wikidata.org/entity/Q93593520">edit</a>)</td>
@@ -278,13 +296,13 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q95982336">Global Pride</a> (<a href="http://www.wikidata.org/entity/Q95982336">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96048874">Timeline of the COVID-19 pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96048874">timeline of the COVID-19 pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96058732">impact of the COVID-19 pandemic on food</a> (<a href="http://www.wikidata.org/entity/Q96058732">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96246183">Response to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q96246183">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96246183">response to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q96246183">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96336226">Q96336226</a> (<a href="http://www.wikidata.org/entity/Q96336226">edit</a>)</td>
@@ -296,7 +314,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96419281">investigations into the origin of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q96419281">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96728989">Timeline of the COVID-19 pandemic in July 2020</a> (<a href="http://www.wikidata.org/entity/Q96728989">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96728989">timeline of the COVID-19 pandemic in July 2020</a> (<a href="http://www.wikidata.org/entity/Q96728989">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96731773">Responses to the COVID-19 pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96731773">edit</a>)</td>
@@ -320,7 +338,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q97861418">Responses to the COVID-19 pandemic in August 2020</a> (<a href="http://www.wikidata.org/entity/Q97861418">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97965631">Timeline of the COVID-19 pandemic in August 2020</a> (<a href="http://www.wikidata.org/entity/Q97965631">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97965631">timeline of the COVID-19 pandemic in August 2020</a> (<a href="http://www.wikidata.org/entity/Q97965631">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98404895">Impact of the COVID-19 pandemic on the Catholic Church</a> (<a href="http://www.wikidata.org/entity/Q98404895">edit</a>)</td>
@@ -329,7 +347,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q98557220">event affected by the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q98557220">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q98704550">Timeline of the COVID-19 pandemic in September 2020</a> (<a href="http://www.wikidata.org/entity/Q98704550">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q98704550">timeline of the COVID-19 pandemic in September 2020</a> (<a href="http://www.wikidata.org/entity/Q98704550">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q99228019">list of Indonesian health workers due to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q99228019">edit</a>)</td>
@@ -338,16 +356,16 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q99360983">COVAX</a> (<a href="http://www.wikidata.org/entity/Q99360983">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q99772823">Timeline of the COVID-19 pandemic in October 2020</a> (<a href="http://www.wikidata.org/entity/Q99772823">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99772823">timeline of the COVID-19 pandemic in October 2020</a> (<a href="http://www.wikidata.org/entity/Q99772823">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q100152858">Great Barrington Declaration</a> (<a href="http://www.wikidata.org/entity/Q100152858">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q101071358">Timeline of the COVID-19 pandemic in November 2020</a> (<a href="http://www.wikidata.org/entity/Q101071358">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q101071358">timeline of the COVID-19 pandemic in November 2020</a> (<a href="http://www.wikidata.org/entity/Q101071358">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q103083123">Timeline of the COVID-19 pandemic in December 2020</a> (<a href="http://www.wikidata.org/entity/Q103083123">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q103083123">timeline of the COVID-19 pandemic in December 2020</a> (<a href="http://www.wikidata.org/entity/Q103083123">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q103406861">Responses to the COVID-19 pandemic in September 2020</a> (<a href="http://www.wikidata.org/entity/Q103406861">edit</a>)</td>
@@ -362,7 +380,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q103408251">Responses to the COVID-19 pandemic in December 2020</a> (<a href="http://www.wikidata.org/entity/Q103408251">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q104604502">Timeline of the COVID-19 pandemic in January 2021</a> (<a href="http://www.wikidata.org/entity/Q104604502">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q104604502">timeline of the COVID-19 pandemic in January 2021</a> (<a href="http://www.wikidata.org/entity/Q104604502">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104604512">Responses to the COVID-19 pandemic in January 2021</a> (<a href="http://www.wikidata.org/entity/Q104604512">edit</a>)</td>
@@ -374,7 +392,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q105116684">quarantine logbook</a> (<a href="http://www.wikidata.org/entity/Q105116684">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q105186359">Timeline of the COVID-19 pandemic in February 2021</a> (<a href="http://www.wikidata.org/entity/Q105186359">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105186359">timeline of the COVID-19 pandemic in February 2021</a> (<a href="http://www.wikidata.org/entity/Q105186359">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105474669">Responses to the COVID-19 pandemic in February 2021</a> (<a href="http://www.wikidata.org/entity/Q105474669">edit</a>)</td>
@@ -383,7 +401,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q105546623">Q105546623</a> (<a href="http://www.wikidata.org/entity/Q105546623">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q105724046">Timeline of the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105724046">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q105724046">timeline of the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105724046">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q105730136">Responses to the COVID-19 pandemic in March 2021</a> (<a href="http://www.wikidata.org/entity/Q105730136">edit</a>)</td>
@@ -398,7 +416,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q106347456">Responses to the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106347456">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q106484890">Timeline of the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106484890">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q106484890">timeline of the COVID-19 pandemic in April 2021</a> (<a href="http://www.wikidata.org/entity/Q106484890">edit</a>)</td>
   </tr>
 </table>
 ## Code examples

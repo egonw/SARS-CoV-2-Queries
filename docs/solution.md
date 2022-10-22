@@ -261,7 +261,7 @@ to list them all, and only 15 are given here:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98710332">A Randomised, Controlled, Phase 1 Study to Evaluate the Safety and Immunogenicity of a Candidate Adjuvanted Recombinant Protein SARS-COV-2 Vaccine in Healthy Adult Subjects</a> (<a href="http://www.wikidata.org/entity/Q98710332">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04453852</td>
   </tr>
   <tr>
@@ -333,7 +333,7 @@ to list them all, and only 15 are given here:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04368728</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/clinicalTrials.code.html">sparql/clinicalTrials.rq</a></td></tr>

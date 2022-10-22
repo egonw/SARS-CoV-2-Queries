@@ -628,7 +628,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td>2005-09-01</td>
     <td><a href="https://scholia.toolforge.org/Q85438966">severe acute respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q85438966">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21100827">C-type lectin domain family 4 member G</a> (<a href="http://www.wikidata.org/entity/Q21100827">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38323040">LSECtin interacts with filovirus glycoproteins and the spike protein of SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q38323040">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38323040">LSECtin interacts with filovirus glycoproteins and the spike protein of SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q38323040">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.VIROL.2005.06.026">10.1016/J.VIROL.2005.06.026</a></td>
   </tr>
   <tr>

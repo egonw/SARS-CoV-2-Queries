@@ -249,13 +249,13 @@ Which currently returns:
   </tr>
   <tr>
     <td>2022-05-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112039629">Variation in ORF3a Protein of SARS‐CoV‐2 Decreases The Severity of Host Cell Damage</a> (<a href="http://www.wikidata.org/entity/Q112039629">edit</a>)</td>
-    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R4149">10.1096/FASEBJ.2022.36.S1.R4149</a></td>
+    <td><a href="https://scholia.toolforge.org/Q112052158">Synthesis of the transmembrane domain of the accessory protein ORF7a of SARS‐CoV‐2 using solid phase peptide synthesis and analyzing the oligomerization state</a> (<a href="http://www.wikidata.org/entity/Q112052158">edit</a>)</td>
+    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R3870">10.1096/FASEBJ.2022.36.S1.R3870</a></td>
   </tr>
   <tr>
     <td>2022-05-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112039705">The Effect of Glycosylation Modulators on the Trafficking and Interaction of Spike Protein S1 Subunit and Angiotensin‐Converting Enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q112039705">edit</a>)</td>
-    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R3340">10.1096/FASEBJ.2022.36.S1.R3340</a></td>
+    <td><a href="https://scholia.toolforge.org/Q112039629">Variation in ORF3a Protein of SARS‐CoV‐2 Decreases The Severity of Host Cell Damage</a> (<a href="http://www.wikidata.org/entity/Q112039629">edit</a>)</td>
+    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R4149">10.1096/FASEBJ.2022.36.S1.R4149</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -397,11 +397,11 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>23009</td>
+    <td>23015</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2490</td>
+    <td>2489</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>

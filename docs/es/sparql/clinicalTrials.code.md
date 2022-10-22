@@ -32,7 +32,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q98710332">A Randomised, Controlled, Phase 1 Study to Evaluate the Safety and Immunogenicity of a Candidate Adjuvanted Recombinant Protein SARS-COV-2 Vaccine in Healthy Adult Subjects</a> (<a href="http://www.wikidata.org/entity/Q98710332">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97154237">COVAX-19</a> (<a href="http://www.wikidata.org/entity/Q97154237">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04453852</td>
   </tr>
   <tr>
@@ -104,6 +104,12 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97154240">Tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
+    <td>NCT04368728</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">Tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824827">fase 3 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04368728</td>
   </tr>
@@ -111,12 +117,6 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q97154240">Tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
-    <td>NCT04368728</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q93328984">Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Adults</a> (<a href="http://www.wikidata.org/entity/Q93328984">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97154240">Tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
     <td>NCT04368728</td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89506948">Treatment of SARS Caused by COVID-19 With Ruxolitinib</a> (<a href="http://www.wikidata.org/entity/Q89506948">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q7383611">ruxolitinib</a> (<a href="http://www.wikidata.org/entity/Q7383611">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04334044</td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507029">Hydroxychloroquine in Outpatient Adults With COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507029">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q421094">hidroxicloroquina</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04333654</td>
   </tr>
   <tr>
@@ -248,7 +248,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507053">Application of Desferal to Treat COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507053">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q419618">deferoxamina</a> (<a href="http://www.wikidata.org/entity/Q419618">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04333550</td>
   </tr>
   <tr>
@@ -278,19 +278,19 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507113">Cell Therapy Using Umbilical Cord-derived Mesenchymal Stromal Cells in SARS-CoV-2-related ARDS</a> (<a href="http://www.wikidata.org/entity/Q89507113">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04333368</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507115">Safety in Convalescent Plasma Transfusion to COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89507115">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04333355</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507131">Study Testing Convalescent Plasma vs Best Supportive Care</a> (<a href="http://www.wikidata.org/entity/Q89507131">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04333251</td>
   </tr>
   <tr>
@@ -392,7 +392,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89507654">Safety and Efficacy of CAStem for Severe COVID-19 Associated With/Without ARDS</a> (<a href="http://www.wikidata.org/entity/Q89507654">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04331613</td>
   </tr>
   <tr>
@@ -608,7 +608,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435752">Efficacy and Safety of Hydroxychloroquine and Azithromycin for the Treatment of Hospitalized Patients With Moderate to Severe COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89435752">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q421094">hidroxicloroquina</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04329572</td>
   </tr>
   <tr>
@@ -638,13 +638,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435835">Hydroxychloroquine for COVID-19 PEP</a> (<a href="http://www.wikidata.org/entity/Q89435835">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q193598">ácido ascórbico</a> (<a href="http://www.wikidata.org/entity/Q193598">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04328961</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89435835">Hydroxychloroquine for COVID-19 PEP</a> (<a href="http://www.wikidata.org/entity/Q89435835">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q421094">hidroxicloroquina</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04328961</td>
   </tr>
   <tr>
@@ -812,7 +812,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153636">Use of cSVF Via IV Deployment for Residual Lung Damage After Symptomatic COVID-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q89153636">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04326036</td>
   </tr>
   <tr>
@@ -848,13 +848,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>
   <tr>
@@ -866,7 +866,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154124">A Study of a Candidate COVID-19 Vaccine (COV001)</a> (<a href="http://www.wikidata.org/entity/Q89154124">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04324606</td>
   </tr>
   <tr>
@@ -914,7 +914,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154366">Hydroxychloroquine for the Treatment of Patients With Mild to Moderate COVID-19 to Prevent Progression to Severe Infection or Death</a> (<a href="http://www.wikidata.org/entity/Q89154366">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q421094">hidroxicloroquina</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04323631</td>
   </tr>
   <tr>
@@ -1142,13 +1142,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154825">The Impact of Camostat Mesilate on COVID-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q89154825">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q5515384">gabexate</a> (<a href="http://www.wikidata.org/entity/Q5515384">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04321096</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154825">The Impact of Camostat Mesilate on COVID-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q89154825">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q5515384">gabexate</a> (<a href="http://www.wikidata.org/entity/Q5515384">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04321096</td>
   </tr>
   <tr>
@@ -1184,7 +1184,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89155044">A Pilot Study of Human Amniotic Fluid for COVID19 Associated Respiratory Failure</a> (<a href="http://www.wikidata.org/entity/Q89155044">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04319731</td>
   </tr>
   <tr>
@@ -1238,7 +1238,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89155498">NestCell® Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia</a> (<a href="http://www.wikidata.org/entity/Q89155498">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04315987</td>
   </tr>
   <tr>
@@ -1292,7 +1292,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87931159">Treatment of COVID-19 Patients Using Wharton's Jelly-Mesenchymal Stem Cells</a> (<a href="http://www.wikidata.org/entity/Q87931159">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04313322</td>
   </tr>
   <tr>
@@ -1442,7 +1442,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87932554">Safety and Immunity of Covid-19 aAPC Vaccine</a> (<a href="http://www.wikidata.org/entity/Q87932554">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04299724</td>
   </tr>
   <tr>
@@ -1490,13 +1490,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87079148">Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</a> (<a href="http://www.wikidata.org/entity/Q87079148">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">fase 2 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04288102</td>
   </tr>
   <tr>
@@ -1526,7 +1526,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q87775009">Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q87775009">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04283461</td>
   </tr>
   <tr>
@@ -1562,7 +1562,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q86293782">Function and Safety Study of SARS-CoV-2 Synthetic Minigene Vaccines</a> (<a href="http://www.wikidata.org/entity/Q86293782">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824069">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q42824069">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">fase 1 de ensayo clínico</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04276896</td>
   </tr>
   <tr>

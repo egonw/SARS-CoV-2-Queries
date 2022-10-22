@@ -74,7 +74,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">Menselijk Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38248452">Message in a bottle: lessons learned from antagonism of STING signalling during RNA virus infection.</a> (<a href="http://www.wikidata.org/entity/Q38248452">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38248452">Message in a bottle: lessons learned from antagonism of STING signalling during RNA virus infection</a> (<a href="http://www.wikidata.org/entity/Q38248452">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">Menselijk Coronavirus NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
@@ -290,7 +290,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38229070">Sensitivity of SARS/MERS CoV to interferons and other drugs based on achievable serum concentrations in humans.</a> (<a href="http://www.wikidata.org/entity/Q38229070">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38229070">Sensitivity of SARS/MERS CoV to interferons and other drugs based on achievable serum concentrations in humans</a> (<a href="http://www.wikidata.org/entity/Q38229070">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -314,7 +314,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38133082">Therapeutic options for Middle East respiratory syndrome coronavirus (MERS-CoV)--possible lessons from a systematic review of SARS-CoV therapy.</a> (<a href="http://www.wikidata.org/entity/Q38133082">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38133082">Therapeutic options for Middle East respiratory syndrome coronavirus (MERS-CoV)--possible lessons from a systematic review of SARS-CoV therapy</a> (<a href="http://www.wikidata.org/entity/Q38133082">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
@@ -363,6 +363,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87669932">Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1</a> (<a href="http://www.wikidata.org/entity/Q87669932">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q99623808">Age-Related Differences in Immunological Responses to SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q99623808">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -2350,10 +2354,6 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q36127686">Expanding the frontiers of existing antiviral drugs: possible effects of HIV-1 protease inhibitors against SARS and avian influenza</a> (<a href="http://www.wikidata.org/entity/Q36127686">edit</a>)</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q47278854">Exploring the pathogenesis of severe acute respiratory syndrome (SARS): the tissue distribution of the coronavirus (SARS-CoV) and its putative receptor, angiotensin-converting enzyme 2 (ACE2).</a> (<a href="http://www.wikidata.org/entity/Q47278854">edit</a>)</td>
   </tr>
   <tr>
@@ -2446,7 +2446,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38135197">From SARS to MERS: 10 years of research on highly pathogenic human coronaviruses.</a> (<a href="http://www.wikidata.org/entity/Q38135197">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38135197">From SARS to MERS: 10 years of research on highly pathogenic human coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q38135197">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2546,7 +2546,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38314051">HLA-A*0201 T-cell epitopes in severe acute respiratory syndrome (SARS) coronavirus nucleocapsid and spike proteins.</a> (<a href="http://www.wikidata.org/entity/Q38314051">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38314051">HLA-A*0201 T-cell epitopes in severe acute respiratory syndrome (SARS) coronavirus nucleocapsid and spike proteins</a> (<a href="http://www.wikidata.org/entity/Q38314051">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2770,7 +2770,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38310521">Immunogenicity of a receptor-binding domain of SARS coronavirus spike protein in mice: implications for a subunit vaccine.</a> (<a href="http://www.wikidata.org/entity/Q38310521">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38310521">Immunogenicity of a receptor-binding domain of SARS coronavirus spike protein in mice: implications for a subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q38310521">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3838,7 +3838,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38008817">SARS coronavirus pathogenesis: host innate immune responses and viral antagonism of interferon.</a> (<a href="http://www.wikidata.org/entity/Q38008817">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38008817">SARS coronavirus pathogenesis: host innate immune responses and viral antagonism of interferon</a> (<a href="http://www.wikidata.org/entity/Q38008817">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4102,7 +4102,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38229070">Sensitivity of SARS/MERS CoV to interferons and other drugs based on achievable serum concentrations in humans.</a> (<a href="http://www.wikidata.org/entity/Q38229070">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38229070">Sensitivity of SARS/MERS CoV to interferons and other drugs based on achievable serum concentrations in humans</a> (<a href="http://www.wikidata.org/entity/Q38229070">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4586,7 +4586,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38133082">Therapeutic options for Middle East respiratory syndrome coronavirus (MERS-CoV)--possible lessons from a systematic review of SARS-CoV therapy.</a> (<a href="http://www.wikidata.org/entity/Q38133082">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38133082">Therapeutic options for Middle East respiratory syndrome coronavirus (MERS-CoV)--possible lessons from a systematic review of SARS-CoV therapy</a> (<a href="http://www.wikidata.org/entity/Q38133082">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

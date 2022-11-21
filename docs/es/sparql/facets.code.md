@@ -77,6 +77,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110015070">Coronavirus Structural Task Force</a> (<a href="http://www.wikidata.org/entity/Q110015070">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q110115947">Living with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q110115947">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q110271706">The Bloomberg Cubid 19 Immunity Index</a> (<a href="http://www.wikidata.org/entity/Q110271706">edit</a>)</td>
   </tr>
   <tr>
@@ -117,6 +120,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q114345283">timeline of the COVID-19 pandemic in October 2022</a> (<a href="http://www.wikidata.org/entity/Q114345283">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q114968383">Preparing health-care systems for future pandemics</a> (<a href="http://www.wikidata.org/entity/Q114968383">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">Anexo:Cronología de la pandemia de enfermedad por coronavirus de 2019-2020</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>

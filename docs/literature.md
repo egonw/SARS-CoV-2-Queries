@@ -249,13 +249,13 @@ Which currently returns:
   </tr>
   <tr>
     <td>2022-05-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112052158">Synthesis of the transmembrane domain of the accessory protein ORF7a of SARS‐CoV‐2 using solid phase peptide synthesis and analyzing the oligomerization state</a> (<a href="http://www.wikidata.org/entity/Q112052158">edit</a>)</td>
-    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R3870">10.1096/FASEBJ.2022.36.S1.R3870</a></td>
+    <td><a href="https://scholia.toolforge.org/Q112039629">Variation in ORF3a Protein of SARS‐CoV‐2 Decreases The Severity of Host Cell Damage</a> (<a href="http://www.wikidata.org/entity/Q112039629">edit</a>)</td>
+    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R4149">10.1096/FASEBJ.2022.36.S1.R4149</a></td>
   </tr>
   <tr>
     <td>2022-05-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112039629">Variation in ORF3a Protein of SARS‐CoV‐2 Decreases The Severity of Host Cell Damage</a> (<a href="http://www.wikidata.org/entity/Q112039629">edit</a>)</td>
-    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R4149">10.1096/FASEBJ.2022.36.S1.R4149</a></td>
+    <td><a href="https://scholia.toolforge.org/Q112039705">The Effect of Glycosylation Modulators on the Trafficking and Interaction of Spike Protein S1 Subunit and Angiotensin‐Converting Enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q112039705">edit</a>)</td>
+    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R3340">10.1096/FASEBJ.2022.36.S1.R3340</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -305,6 +305,11 @@ This gives these 10 papers:
     <td><a href="https://doi.org/10.1007/S10393-020-01503-X">10.1007/S10393-020-01503-X</a></td>
   </tr>
   <tr>
+    <td>2020-09-08</td>
+    <td><a href="https://scholia.toolforge.org/Q114802107">Polyphenols vs. Coronaviruses: How Far Has Research Moved Forward?</a> (<a href="http://www.wikidata.org/entity/Q114802107">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/MOLECULES25184103">10.3390/MOLECULES25184103</a></td>
+  </tr>
+  <tr>
     <td>2020-09-01</td>
     <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
@@ -318,11 +323,6 @@ This gives these 10 papers:
     <td>2020-08-27</td>
     <td><a href="https://scholia.toolforge.org/Q98777477">Characterization of accessory genes in coronavirus genomes</a> (<a href="http://www.wikidata.org/entity/Q98777477">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S12985-020-01402-1">10.1186/S12985-020-01402-1</a></td>
-  </tr>
-  <tr>
-    <td>2020-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q87716536">The neuroinvasive potential of SARS‐CoV2 may be at least partially responsible for the respiratory failure of COVID‐19 patients</a> (<a href="http://www.wikidata.org/entity/Q87716536">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/JMV.25728">10.1002/JMV.25728</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litCoronaviruses.code.html">sparql/litCoronaviruses.rq</a></td></tr>
 </table>
@@ -397,15 +397,15 @@ Which tells us:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>23015</td>
+    <td>23056</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARSr-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2489</td>
+    <td>2488</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td>1049</td>
+    <td>1050</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -661,7 +661,7 @@ Where the counts are:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>414</td>
+    <td>415</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

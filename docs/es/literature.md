@@ -250,6 +250,11 @@ Esto le da estos 10 documentos:
     <td><a href="https://doi.org/10.1007/S10393-020-01503-X">10.1007/S10393-020-01503-X</a></td>
   </tr>
   <tr>
+    <td>2020-09-08</td>
+    <td><a href="https://scholia.toolforge.org/Q114802107">Polyphenols vs. Coronaviruses: How Far Has Research Moved Forward?</a> (<a href="http://www.wikidata.org/entity/Q114802107">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/MOLECULES25184103">10.3390/MOLECULES25184103</a></td>
+  </tr>
+  <tr>
     <td>2020-09-01</td>
     <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
@@ -263,11 +268,6 @@ Esto le da estos 10 documentos:
     <td>2020-08-27</td>
     <td><a href="https://scholia.toolforge.org/Q98777477">Characterization of accessory genes in coronavirus genomes</a> (<a href="http://www.wikidata.org/entity/Q98777477">edit</a>)</td>
     <td><a href="https://doi.org/10.1186/S12985-020-01402-1">10.1186/S12985-020-01402-1</a></td>
-  </tr>
-  <tr>
-    <td>2020-06-01</td>
-    <td><a href="https://scholia.toolforge.org/Q87716536">The neuroinvasive potential of SARS‐CoV2 may be at least partially responsible for the respiratory failure of COVID‐19 patients</a> (<a href="http://www.wikidata.org/entity/Q87716536">edit</a>)</td>
-    <td><a href="https://doi.org/10.1002/JMV.25728">10.1002/JMV.25728</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litCoronaviruses.code.html">sparql/litCoronaviruses.rq</a></td></tr>
 </table>
@@ -339,15 +339,15 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>23015</td>
+    <td>23056</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2489</td>
+    <td>2488</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td>1049</td>
+    <td>1050</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -603,7 +603,7 @@ Donde están los recuentos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917585">spike glycoprotein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917585">edit</a>)</td>
-    <td>414</td>
+    <td>415</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

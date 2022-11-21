@@ -37,6 +37,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.1016/J.CELREP.2022.110503">10.1016/J.CELREP.2022.110503</a></td>
   </tr>
   <tr>
+    <td>2021-07-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q114825460">The soluble catalytic ectodomain of ACE2 a biomarker of cardiac remodelling: new insights for heart failure and COVID19</a> (<a href="http://www.wikidata.org/entity/Q114825460">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S10741-020-10066-6">10.1007/S10741-020-10066-6</a></td>
+  </tr>
+  <tr>
     <td>2021-06-23</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21126599">II型膜貫通型セリンプロテアーゼ</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
@@ -77,6 +84,34 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://scholia.toolforge.org/Q21111466">CCHC-type zinc finger nucleic acid binding protein</a> (<a href="http://www.wikidata.org/entity/Q21111466">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q110653052">CNBP Binds and Unfolds In Vitro G-Quadruplexes Formed in the SARS-CoV-2 Positive and Negative Genome Strands</a> (<a href="http://www.wikidata.org/entity/Q110653052">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/IJMS22052614">10.3390/IJMS22052614</a></td>
+  </tr>
+  <tr>
+    <td>2021-02-08</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107404381">SARS-CoV-2 D614G spike mutation increases entry efficiency with enhanced ACE2-binding affinity</a> (<a href="http://www.wikidata.org/entity/Q107404381">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-021-21118-2">10.1038/S41467-021-21118-2</a></td>
+  </tr>
+  <tr>
+    <td>2021-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q14911959">BSG</a> (<a href="http://www.wikidata.org/entity/Q14911959">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q114825564">Human Oocytes Express Both ACE2 and BSG Genes and Corresponding Proteins: Is SARS-CoV-2 Infection Possible?</a> (<a href="http://www.wikidata.org/entity/Q114825564">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S12015-020-10101-X">10.1007/S12015-020-10101-X</a></td>
+  </tr>
+  <tr>
+    <td>2021-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q114825564">Human Oocytes Express Both ACE2 and BSG Genes and Corresponding Proteins: Is SARS-CoV-2 Infection Possible?</a> (<a href="http://www.wikidata.org/entity/Q114825564">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S12015-020-10101-X">10.1007/S12015-020-10101-X</a></td>
+  </tr>
+  <tr>
+    <td>2021-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q114825610">Overview of COVID-19 inflammatory pathogenesis from the therapeutic perspective</a> (<a href="http://www.wikidata.org/entity/Q114825610">edit</a>)</td>
+    <td><a href="https://doi.org/10.1007/S12272-020-01301-7">10.1007/S12272-020-01301-7</a></td>
   </tr>
   <tr>
     <td>2020-11-23</td>
@@ -432,7 +467,7 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td>2015-10-01</td>
     <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q21173608">peptidylprolyl isomerase A</a> (<a href="http://www.wikidata.org/entity/Q21173608">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38576023">Genetic deficiency and polymorphisms of cyclophilin A reveal its essential role for Human Coronavirus 229E replication.</a> (<a href="http://www.wikidata.org/entity/Q38576023">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38576023">Genetic deficiency and polymorphisms of cyclophilin A reveal its essential role for Human Coronavirus 229E replication</a> (<a href="http://www.wikidata.org/entity/Q38576023">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.COVIRO.2015.08.004">10.1016/J.COVIRO.2015.08.004</a></td>
   </tr>
   <tr>

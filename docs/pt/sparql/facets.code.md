@@ -77,6 +77,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110015070">Coronavirus Structural Task Force</a> (<a href="http://www.wikidata.org/entity/Q110015070">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q110115947">Living with COVID-19</a> (<a href="http://www.wikidata.org/entity/Q110115947">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q110271706">The Bloomberg Cubid 19 Immunity Index</a> (<a href="http://www.wikidata.org/entity/Q110271706">edit</a>)</td>
   </tr>
   <tr>
@@ -117,6 +120,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q114345283">Cronologia da pandemia de COVID-19 em outubro de 2022</a> (<a href="http://www.wikidata.org/entity/Q114345283">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q114968383">Preparing health-care systems for future pandemics</a> (<a href="http://www.wikidata.org/entity/Q114968383">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q83493517">Cronologia do surto do novo coronavírus 2019-nCoV</a> (<a href="http://www.wikidata.org/entity/Q83493517">edit</a>)</td>
@@ -197,7 +203,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q88634378">impactos da pandemia de COVID-19 nos jogos eletrônicos</a> (<a href="http://www.wikidata.org/entity/Q88634378">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88661507">Impact of the COVID-19 pandemic on science and technology</a> (<a href="http://www.wikidata.org/entity/Q88661507">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88661507">impact of the COVID-19 pandemic on science and technology</a> (<a href="http://www.wikidata.org/entity/Q88661507">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q88860637">Clap for our Carers</a> (<a href="http://www.wikidata.org/entity/Q88860637">edit</a>)</td>

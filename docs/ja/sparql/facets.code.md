@@ -200,7 +200,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q96058732">COVID-19パンデミックの食料への影響</a> (<a href="http://www.wikidata.org/entity/Q96058732">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96246183">response to the COVID-19 pandemic</a> (<a href="http://www.wikidata.org/entity/Q96246183">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96246183">COVID-19パンデミックへの対応</a> (<a href="http://www.wikidata.org/entity/Q96246183">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96336226">Q96336226</a> (<a href="http://www.wikidata.org/entity/Q96336226">edit</a>)</td>
@@ -377,6 +377,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q110015070">Coronavirus Structural Task Force</a> (<a href="http://www.wikidata.org/entity/Q110015070">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q110115947">ウィズコロナ</a> (<a href="http://www.wikidata.org/entity/Q110115947">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q110271706">The Bloomberg Cubid 19 Immunity Index</a> (<a href="http://www.wikidata.org/entity/Q110271706">edit</a>)</td>
   </tr>
   <tr>
@@ -417,6 +420,9 @@ SELECT ?facet ?facetLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q114345283">timeline of the COVID-19 pandemic in October 2022</a> (<a href="http://www.wikidata.org/entity/Q114345283">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q114968383">Preparing health-care systems for future pandemics</a> (<a href="http://www.wikidata.org/entity/Q114968383">edit</a>)</td>
   </tr>
 </table>
 ## コード例

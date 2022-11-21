@@ -40,6 +40,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1007/S10393-020-01503-X">10.1007/S10393-020-01503-X</a></td>
   </tr>
   <tr>
+    <td>2020-09-08</td>
+    <td><a href="https://scholia.toolforge.org/Q114802107">Polyphenols vs. Coronaviruses: How Far Has Research Moved Forward?</a> (<a href="http://www.wikidata.org/entity/Q114802107">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/MOLECULES25184103">10.3390/MOLECULES25184103</a></td>
+  </tr>
+  <tr>
     <td>2020-09-01</td>
     <td><a href="https://scholia.toolforge.org/Q95644841">A Guide to COVID-19: a global pandemic caused by the novel coronavirus SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q95644841">edit</a>)</td>
     <td><a href="https://doi.org/10.1111/FEBS.15375">10.1111/FEBS.15375</a></td>
@@ -163,6 +168,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2012-11-07</td>
     <td><a href="https://scholia.toolforge.org/Q24605877">The role of severe acute respiratory syndrome (SARS)-coronavirus accessory proteins in virus pathogenesis</a> (<a href="http://www.wikidata.org/entity/Q24605877">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/V4112902">10.3390/V4112902</a></td>
+  </tr>
+  <tr>
+    <td>2011-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q35079166">Coronaviruses: an RNA proofreading machine regulates replication fidelity and diversity</a> (<a href="http://www.wikidata.org/entity/Q35079166">edit</a>)</td>
+    <td><a href="https://doi.org/10.4161/RNA.8.2.15013">10.4161/RNA.8.2.15013</a></td>
   </tr>
   <tr>
     <td>2000-06-01</td>

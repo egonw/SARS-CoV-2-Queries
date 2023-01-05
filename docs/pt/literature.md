@@ -30,6 +30,16 @@ Isto te fornece 10 documentos:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2023-01-02</td>
+    <td><a href="https://scholia.toolforge.org/Q115982827">Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave</a> (<a href="http://www.wikidata.org/entity/Q115982827">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41591-022-02138-X">10.1038/S41591-022-02138-X</a></td>
+  </tr>
+  <tr>
+    <td>2022-12-14</td>
+    <td><a href="https://scholia.toolforge.org/Q116030131">SARS-CoV-2 infection and persistence in the human body and brain at autopsy</a> (<a href="http://www.wikidata.org/entity/Q116030131">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41586-022-05542-Y">10.1038/S41586-022-05542-Y</a></td>
+  </tr>
+  <tr>
     <td>2022-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q110485545">ABO blood group is involved in the quality of the specific immune response anti-SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q110485545">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
@@ -58,16 +68,6 @@ Isto te fornece 10 documentos:
     <td>2022-12-01</td>
     <td><a href="https://scholia.toolforge.org/Q112573601">A monoclonal antibody that neutralizes SARS-CoV-2 variants, SARS-CoV, and other sarbecoviruses</a> (<a href="http://www.wikidata.org/entity/Q112573601">edit</a>)</td>
     <td><a href="https://doi.org/10.1080/22221751.2021.2011623">10.1080/22221751.2021.2011623</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112638347">Identification of circulating microRNA profiles associated with pulmonary function and radiologic features in survivors of SARS-CoV-2-induced ARDS</a> (<a href="http://www.wikidata.org/entity/Q112638347">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2022.2081615">10.1080/22221751.2022.2081615</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112707325">Drastic decline in sera neutralization against SARS-CoV-2 Omicron variant in Wuhan COVID-19 convalescents</a> (<a href="http://www.wikidata.org/entity/Q112707325">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2022.2031311">10.1080/22221751.2022.2031311</a></td>
   </tr>
   <tr><td colspan="2">null <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -340,7 +340,7 @@ O que nos diz:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">coronavírus da síndrome respiratória aguda grave 2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>23056</td>
+    <td>23069</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

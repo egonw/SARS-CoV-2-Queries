@@ -114,7 +114,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/694008">694008</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q16988426">Porcine coronavirus HKU15</a> (<a href="http://www.wikidata.org/entity/Q16988426">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16988426">Coronavirus HKU15</a> (<a href="http://www.wikidata.org/entity/Q16988426">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1159905">1159905</a></td>
   </tr>
   <tr>

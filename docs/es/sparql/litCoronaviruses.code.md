@@ -70,9 +70,19 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.3892/IJMM.2020.4555">10.3892/IJMM.2020.4555</a></td>
   </tr>
   <tr>
+    <td>2020-05-04</td>
+    <td><a href="https://scholia.toolforge.org/Q115901245">Considerations for Treating CoronaVirus (Sars-Cov-2) Infection with Passive Immunotherapy</a> (<a href="http://www.wikidata.org/entity/Q115901245">edit</a>)</td>
+    <td><a href="https://doi.org/10.13128/SUBSTANTIA-924">10.13128/SUBSTANTIA-924</a></td>
+  </tr>
+  <tr>
     <td>2020-04-25</td>
     <td><a href="https://scholia.toolforge.org/Q91956371">The coronavirus proofreading exoribonuclease mediates extensive viral recombination</a> (<a href="http://www.wikidata.org/entity/Q91956371">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.04.23.057786">10.1101/2020.04.23.057786</a></td>
+  </tr>
+  <tr>
+    <td>2020-04-22</td>
+    <td><a href="https://scholia.toolforge.org/Q115901242">Coronavirus and the Heterogenesis of Ends: Underpinning the Ecological and Health Catastrophe is a Political Crisis</a> (<a href="http://www.wikidata.org/entity/Q115901242">edit</a>)</td>
+    <td><a href="https://doi.org/10.13128/SUBSTANTIA-911">10.13128/SUBSTANTIA-911</a></td>
   </tr>
   <tr>
     <td>2020-04-10</td>

@@ -32,7 +32,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q85173778">2019-20年コロナウイルス感染症流行に関わる偽情報</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q85173796">timeline of the COVID-19 pandemic in February 2020</a> (<a href="http://www.wikidata.org/entity/Q85173796">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q85173796">Timeline of the COVID-19 pandemic in February 2020</a> (<a href="http://www.wikidata.org/entity/Q85173796">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85173855">2019-20年コロナウイルス感染症流行のデータ表</a> (<a href="http://www.wikidata.org/entity/Q85173855">edit</a>)</td>
@@ -164,7 +164,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q92150479">COVID-19パンデミックのジャーナリズムへの影響</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q92600442">timeline of the COVID-19 pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q92600442">Timeline of the COVID-19 pandemic in May 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92601059">timeline of the COVID-19 pandemic in 2019</a> (<a href="http://www.wikidata.org/entity/Q92601059">edit</a>)</td>
@@ -194,7 +194,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q95982336">Global Pride</a> (<a href="http://www.wikidata.org/entity/Q95982336">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q96048874">timeline of the COVID-19 pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q96048874">Timeline of the COVID-19 pandemic in June 2020</a> (<a href="http://www.wikidata.org/entity/Q96048874">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q96058732">COVID-19パンデミックの食料への影響</a> (<a href="http://www.wikidata.org/entity/Q96058732">edit</a>)</td>

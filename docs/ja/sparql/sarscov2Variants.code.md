@@ -21,6 +21,30 @@ SELECT DISTINCT ?variant ?variantLabel ?pango WHERE {
     <td><b>pango</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q115983015">SARS-CoV-2 lineage XBB</a> (<a href="http://www.wikidata.org/entity/Q115983015">edit</a>)</td>
+    <td>XBB</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q115324808">SARS-CoV-2 Lineage BQ.1.1</a> (<a href="http://www.wikidata.org/entity/Q115324808">edit</a>)</td>
+    <td>BQ.1.1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q115982879">SARS-CoV-2 Lineage BQ.1</a> (<a href="http://www.wikidata.org/entity/Q115982879">edit</a>)</td>
+    <td>BQ.1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q115983022">SARS-CoV-2 lineage XBB.1</a> (<a href="http://www.wikidata.org/entity/Q115983022">edit</a>)</td>
+    <td>XBB.1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q115983033">SARS-CoV-2 Lineage BA.5.2.1</a> (<a href="http://www.wikidata.org/entity/Q115983033">edit</a>)</td>
+    <td>BA.5.2.1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q115983036">SARS-CoV-2 Lineage BA.5.2</a> (<a href="http://www.wikidata.org/entity/Q115983036">edit</a>)</td>
+    <td>BA.5.2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q112163086">SARS-CoV-2 Lineage BA.1.1</a> (<a href="http://www.wikidata.org/entity/Q112163086">edit</a>)</td>
     <td>BA.1.1</td>
   </tr>

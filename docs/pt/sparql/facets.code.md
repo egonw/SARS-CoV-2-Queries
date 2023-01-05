@@ -29,7 +29,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q107129120">COVID-19-related data</a> (<a href="http://www.wikidata.org/entity/Q107129120">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q107143124">variants under monitoring</a> (<a href="http://www.wikidata.org/entity/Q107143124">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q107143124">variant under monitoring</a> (<a href="http://www.wikidata.org/entity/Q107143124">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107210990">COVID-19 and homelessness</a> (<a href="http://www.wikidata.org/entity/Q107210990">edit</a>)</td>
@@ -134,7 +134,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q84056433">controversy surrounding the 2019–20 Wuhan coronavirus outbreak</a> (<a href="http://www.wikidata.org/entity/Q84056433">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q84897850">Cronologia da pandemia de COVID-19 em novembro de 2019 — janeiro de 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q84897850">Cronologia da pandemia de COVID-19 em janeiro de 2020</a> (<a href="http://www.wikidata.org/entity/Q84897850">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q85173778">desinformação na pandemia de COVID-19</a> (<a href="http://www.wikidata.org/entity/Q85173778">edit</a>)</td>
@@ -275,7 +275,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q92600442">Cronologia da pandemia de COVID-19 em maio de 2020</a> (<a href="http://www.wikidata.org/entity/Q92600442">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q92601059">cronologia da pandemia de COVID-19 em 2019</a> (<a href="http://www.wikidata.org/entity/Q92601059">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q92601059">Cronologia da pandemia de COVID-19 em 2019</a> (<a href="http://www.wikidata.org/entity/Q92601059">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q93593520">Impact of the COVID-19 pandemic on the fashion industry</a> (<a href="http://www.wikidata.org/entity/Q93593520">edit</a>)</td>

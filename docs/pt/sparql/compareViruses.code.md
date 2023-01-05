@@ -1330,7 +1330,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38720941">Discovery of unsymmetrical aromatic disulfides as novel inhibitors of SARS-CoV main protease: Chemical synthesis, biological evaluation, molecular docking and 3D-QSAR study.</a> (<a href="http://www.wikidata.org/entity/Q38720941">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38720941">Discovery of unsymmetrical aromatic disulfides as novel inhibitors of SARS-CoV main protease: Chemical synthesis, biological evaluation, molecular docking and 3D-QSAR study</a> (<a href="http://www.wikidata.org/entity/Q38720941">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3458,7 +3458,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q38952916">SARS-CoV-Encoded Small RNAs Contribute to Infection-Associated Lung Pathology.</a> (<a href="http://www.wikidata.org/entity/Q38952916">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q38952916">SARS-CoV-Encoded Small RNAs Contribute to Infection-Associated Lung Pathology</a> (<a href="http://www.wikidata.org/entity/Q38952916">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-CoV</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

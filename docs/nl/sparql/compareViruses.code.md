@@ -350,6 +350,10 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q114799812">Novel coronavirus SARS-CoV-2 and COVID-19. Practice recommendations for obstetric anaesthesia: what we have learned thus far</a> (<a href="http://www.wikidata.org/entity/Q114799812">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q110734107">SARS-CoV-2 Cellular Entry Is Independent of the ACE2 Cytoplasmic Domain Signaling</a> (<a href="http://www.wikidata.org/entity/Q110734107">edit</a>)</td>
   </tr>
   <tr>
@@ -1346,7 +1350,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39191241">Alisporivir inhibits MERS- and SARS-coronavirus replication in cell culture, but not SARS-coronavirus infection in a mouse model.</a> (<a href="http://www.wikidata.org/entity/Q39191241">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39191241">Alisporivir inhibits MERS- and SARS-coronavirus replication in cell culture, but not SARS-coronavirus infection in a mouse model</a> (<a href="http://www.wikidata.org/entity/Q39191241">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -1554,7 +1558,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39038809">Application of real-time PCR for testing antiviral compounds against Lassa virus, SARS coronavirus and Ebola virus in vitro.</a> (<a href="http://www.wikidata.org/entity/Q39038809">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39038809">Application of real-time PCR for testing antiviral compounds against Lassa virus, SARS coronavirus and Ebola virus in vitro</a> (<a href="http://www.wikidata.org/entity/Q39038809">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2070,7 +2074,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39043099">Development of a red-shifted fluorescence-based assay for SARS-coronavirus 3CL protease: identification of a novel class of anti-SARS agents from the tropical marine sponge Axinella corrugata.</a> (<a href="http://www.wikidata.org/entity/Q39043099">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39043099">Development of a red-shifted fluorescence-based assay for SARS-coronavirus 3CL protease: identification of a novel class of anti-SARS agents from the tropical marine sponge Axinella corrugata</a> (<a href="http://www.wikidata.org/entity/Q39043099">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2878,7 +2882,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39095556">Influence of hydrophobic and electrostatic residues on SARS-coronavirus S2 protein stability: insights into mechanisms of general viral fusion and inhibitor design.</a> (<a href="http://www.wikidata.org/entity/Q39095556">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39095556">Influence of hydrophobic and electrostatic residues on SARS-coronavirus S2 protein stability: insights into mechanisms of general viral fusion and inhibitor design</a> (<a href="http://www.wikidata.org/entity/Q39095556">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3610,7 +3614,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39107680">Prophylactic and therapeutic intranasal administration with an immunomodulator, Hiltonol® (Poly IC:LC), in a lethal SARS-CoV-infected BALB/c mouse model.</a> (<a href="http://www.wikidata.org/entity/Q39107680">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39107680">Prophylactic and therapeutic intranasal administration with an immunomodulator, Hiltonol® (Poly IC:LC), in a lethal SARS-CoV-infected BALB/c mouse model</a> (<a href="http://www.wikidata.org/entity/Q39107680">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3646,7 +3650,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39274858">Quantitative and sensitive detection of the SARS-CoV spike protein using bispecific monoclonal antibody-based enzyme-linked immunoassay.</a> (<a href="http://www.wikidata.org/entity/Q39274858">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39274858">Quantitative and sensitive detection of the SARS-CoV spike protein using bispecific monoclonal antibody-based enzyme-linked immunoassay</a> (<a href="http://www.wikidata.org/entity/Q39274858">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -3778,7 +3782,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39397412">SARS CoV subunit vaccine: antibody-mediated neutralisation and enhancement.</a> (<a href="http://www.wikidata.org/entity/Q39397412">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39397412">SARS CoV subunit vaccine: antibody-mediated neutralisation and enhancement</a> (<a href="http://www.wikidata.org/entity/Q39397412">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4690,7 +4694,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39362979">Using siRNA in prophylactic and therapeutic regimens against SARS coronavirus in Rhesus macaque.</a> (<a href="http://www.wikidata.org/entity/Q39362979">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39362979">Using siRNA in prophylactic and therapeutic regimens against SARS coronavirus in Rhesus macaque</a> (<a href="http://www.wikidata.org/entity/Q39362979">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS-virus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

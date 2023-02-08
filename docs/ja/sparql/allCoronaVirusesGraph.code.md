@@ -21,6 +21,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q116151578">Amalacovirus</a> (<a href="http://www.wikidata.org/entity/Q116151578">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116167171">Alphacoronavirus AMALF</a> (<a href="http://www.wikidata.org/entity/Q116167171">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16532287">ベータコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q16983360">ヒトコロナウイルスHKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
@@ -108,6 +113,11 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16532287">ベータコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16532287">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q16908525">アルファコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116151578">Amalacovirus</a> (<a href="http://www.wikidata.org/entity/Q116151578">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
@@ -233,7 +243,7 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16908525">アルファコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q92050731">Soracovirus</a> (<a href="http://www.wikidata.org/entity/Q92050731">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2733306">2733306</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16908525">アルファコロナウイルス属</a> (<a href="http://www.wikidata.org/entity/Q16908525">edit</a>)</td>
@@ -487,6 +497,16 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116167173">Alphacoronavirus CHB25</a> (<a href="http://www.wikidata.org/entity/Q116167173">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116167175">Alphacoronavirus WA3607</a> (<a href="http://www.wikidata.org/entity/Q116167175">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754588">Decacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754588">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q24808938">Bat coronavirus HKU10</a> (<a href="http://www.wikidata.org/entity/Q24808938">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1244203">1244203</a></td>
   </tr>
@@ -542,12 +562,32 @@ SELECT ?parent ?parentLabel ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754632">Nyctacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754632">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116167178">Alphacoronavirus HKU33</a> (<a href="http://www.wikidata.org/entity/Q116167178">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754632">Nyctacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754632">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116167181">Alphacoronavirus WA2028</a> (<a href="http://www.wikidata.org/entity/Q116167181">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754632">Nyctacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754632">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q57758332">Nyctalus velutinus alphacoronavirus SC-2013</a> (<a href="http://www.wikidata.org/entity/Q57758332">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2501928">2501928</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q57754632">Nyctacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754632">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q92109366">Pipistrellus kuhlii coronavirus 3398</a> (<a href="http://www.wikidata.org/entity/Q92109366">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754639">Pedacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754639">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116167182">Alphacoronavirus BT020</a> (<a href="http://www.wikidata.org/entity/Q116167182">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q57754639">Pedacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754639">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q116167183">Alphacoronavirus WA1087</a> (<a href="http://www.wikidata.org/entity/Q116167183">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

@@ -251,7 +251,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q409728">クエン酸ナトリウム</a> (<a href="http://www.wikidata.org/entity/Q409728">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q409728">クエン酸三ナトリウム</a> (<a href="http://www.wikidata.org/entity/Q409728">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

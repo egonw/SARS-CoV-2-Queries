@@ -62,6 +62,38 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q116151578">Amalacovirus</a> (<a href="http://www.wikidata.org/entity/Q116151578">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116167171">Alphacoronavirus AMALF</a> (<a href="http://www.wikidata.org/entity/Q116167171">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116167173">Alphacoronavirus CHB25</a> (<a href="http://www.wikidata.org/entity/Q116167173">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116167175">Alphacoronavirus WA3607</a> (<a href="http://www.wikidata.org/entity/Q116167175">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116167178">Alphacoronavirus HKU33</a> (<a href="http://www.wikidata.org/entity/Q116167178">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116167181">Alphacoronavirus WA2028</a> (<a href="http://www.wikidata.org/entity/Q116167181">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116167182">Alphacoronavirus BT020</a> (<a href="http://www.wikidata.org/entity/Q116167182">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116167183">Alphacoronavirus WA1087</a> (<a href="http://www.wikidata.org/entity/Q116167183">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16000326">SL-CoV-WIV1</a> (<a href="http://www.wikidata.org/entity/Q16000326">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415852">1415852</a></td>
   </tr>
@@ -411,7 +443,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92050731">Soracovirus</a> (<a href="http://www.wikidata.org/entity/Q92050731">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2733306">2733306</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92050762">Sunacovirus</a> (<a href="http://www.wikidata.org/entity/Q92050762">edit</a>)</td>

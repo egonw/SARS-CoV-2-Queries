@@ -30,44 +30,44 @@ Esto le da estos 10 documentos:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2023-03-01</td>
+    <td><a href="https://scholia.toolforge.org/Q114160515">Sensitivity of wastewater surveillance: What is the minimum COVID-19 cases required in population for SARS-CoV-2 RNA to be detected in wastewater?</a> (<a href="http://www.wikidata.org/entity/Q114160515">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JES.2022.08.020">10.1016/J.JES.2022.08.020</a></td>
+  </tr>
+  <tr>
+    <td>2023-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q114149802">Global asymptotic stability, extinction and ergodic stationary distribution in a stochastic model for dual variants of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q114149802">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.MATCOM.2022.08.012">10.1016/J.MATCOM.2022.08.012</a></td>
+  </tr>
+  <tr>
+    <td>2023-02-01</td>
+    <td><a href="https://scholia.toolforge.org/Q114178084">Inactivation of two SARS-CoV-2 virus surrogates by electron beam irradiation on large yellow croaker slices and their packaging surfaces</a> (<a href="http://www.wikidata.org/entity/Q114178084">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.FOODCONT.2022.109340">10.1016/J.FOODCONT.2022.109340</a></td>
+  </tr>
+  <tr>
+    <td>2023-01-13</td>
+    <td><a href="https://scholia.toolforge.org/Q116679910">Booster Vaccination Against SARS-CoV-2 Induces Potent Immune Responses in People With Human Immunodeficiency Virus</a> (<a href="http://www.wikidata.org/entity/Q116679910">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/CID/CIAC796">10.1093/CID/CIAC796</a></td>
+  </tr>
+  <tr>
     <td>2023-01-02</td>
     <td><a href="https://scholia.toolforge.org/Q115982827">Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave</a> (<a href="http://www.wikidata.org/entity/Q115982827">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41591-022-02138-X">10.1038/S41591-022-02138-X</a></td>
   </tr>
   <tr>
+    <td>2023-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q113692154">SARS-CoV-2 getting into the brain; neurological phenotype of COVID-19, and management by nano-biotechnology</a> (<a href="http://www.wikidata.org/entity/Q113692154">edit</a>)</td>
+    <td><a href="https://doi.org/10.4103/1673-5374.346486">10.4103/1673-5374.346486</a></td>
+  </tr>
+  <tr>
+    <td>2023-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q114903422">Audiological and vestibular symptoms following SARS-CoV-2 infection and COVID-19 vaccination in children aged 5–11 years</a> (<a href="http://www.wikidata.org/entity/Q114903422">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.AMJOTO.2022.103669">10.1016/J.AMJOTO.2022.103669</a></td>
+  </tr>
+  <tr>
     <td>2022-12-14</td>
     <td><a href="https://scholia.toolforge.org/Q116030131">SARS-CoV-2 infection and persistence in the human body and brain at autopsy</a> (<a href="http://www.wikidata.org/entity/Q116030131">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-022-05542-Y">10.1038/S41586-022-05542-Y</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q110485545">ABO blood group is involved in the quality of the specific immune response anti-SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q110485545">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q111459523">Omicron variant showed lower neutralizing sensitivity than other SARS-CoV-2 variants to immune sera elicited by vaccines after boost</a> (<a href="http://www.wikidata.org/entity/Q111459523">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.2022440">10.1080/22221751.2021.2022440</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112277169">Folic acid: a potential inhibitor against SARS-CoV-2 nucleocapsid protein</a> (<a href="http://www.wikidata.org/entity/Q112277169">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/13880209.2022.2063341">10.1080/13880209.2022.2063341</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112568619">Analysis of SARS-CoV-2 variants B.1.617: host tropism, proteolytic activation, cell-cell fusion, and neutralization sensitivity</a> (<a href="http://www.wikidata.org/entity/Q112568619">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2022.2054369">10.1080/22221751.2022.2054369</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112573599">Reduced sensitivity of the SARS-CoV-2 Lambda variant to monoclonal antibodies and neutralizing antibodies induced by infection and vaccination</a> (<a href="http://www.wikidata.org/entity/Q112573599">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.2008775">10.1080/22221751.2021.2008775</a></td>
-  </tr>
-  <tr>
-    <td>2022-12-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112573601">A monoclonal antibody that neutralizes SARS-CoV-2 variants, SARS-CoV, and other sarbecoviruses</a> (<a href="http://www.wikidata.org/entity/Q112573601">edit</a>)</td>
-    <td><a href="https://doi.org/10.1080/22221751.2021.2011623">10.1080/22221751.2021.2011623</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -339,7 +339,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>23069</td>
+    <td>23782</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>

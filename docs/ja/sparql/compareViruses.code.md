@@ -1634,7 +1634,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39585199">Emodin inhibits current through SARS-associated coronavirus 3a protein.</a> (<a href="http://www.wikidata.org/entity/Q39585199">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39585199">Emodin inhibits current through SARS-associated coronavirus 3a protein</a> (<a href="http://www.wikidata.org/entity/Q39585199">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2090,7 +2090,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39593044">Identification and characterization of three novel small interference RNAs that effectively down-regulate the isolated nucleocapsid gene expression of SARS coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q39593044">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39593044">Identification and characterization of three novel small interference RNAs that effectively down-regulate the isolated nucleocapsid gene expression of SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q39593044">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -2150,7 +2150,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39436807">Identification of immunogenic determinants of the spike protein of SARS-like coronavirus.</a> (<a href="http://www.wikidata.org/entity/Q39436807">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39436807">Identification of immunogenic determinants of the spike protein of SARS-like coronavirus</a> (<a href="http://www.wikidata.org/entity/Q39436807">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS関連コロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -4910,7 +4910,7 @@ ORDER BY ?virusLabel ?virus ?workLabel ?work
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q39551895">The ADP-ribose-1''-monophosphatase domains of severe acute respiratory syndrome coronavirus and human coronavirus 229E mediate resistance to antiviral interferon responses.</a> (<a href="http://www.wikidata.org/entity/Q39551895">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q39551895">The ADP-ribose-1''-monophosphatase domains of severe acute respiratory syndrome coronavirus and human coronavirus 229E mediate resistance to antiviral interferon responses</a> (<a href="http://www.wikidata.org/entity/Q39551895">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">ヒトコロナウイルス229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>

@@ -424,6 +424,9 @@ SELECT ?facet ?facetLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q114968383">Preparing health-care systems for future pandemics</a> (<a href="http://www.wikidata.org/entity/Q114968383">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q116547134">Cronologia da pandemia de COVID-19 em fevereiro de 2023</a> (<a href="http://www.wikidata.org/entity/Q116547134">edit</a>)</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

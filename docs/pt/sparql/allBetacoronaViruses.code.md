@@ -26,10 +26,6 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88383088">Human coronavirus HKU1 (isolate N1)</a> (<a href="http://www.wikidata.org/entity/Q88383088">edit</a>)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q105759623">BM48-31</a> (<a href="http://www.wikidata.org/entity/Q105759623">edit</a>)</td>
     <td></td>
   </tr>
@@ -82,6 +78,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q91556001">Coronavirus Neoromicia/PML-PHE1/RSA/2011</a> (<a href="http://www.wikidata.org/entity/Q91556001">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1368314">1368314</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">Coronavírus humano HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/290028">290028</a></td>
   </tr>
@@ -94,12 +94,12 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509481">2509481</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q91556362">Erinaceus amurensis hedgehog coronavirus HKU31</a> (<a href="http://www.wikidata.org/entity/Q91556362">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91513573">Erinaceus coronavirus</a> (<a href="http://www.wikidata.org/entity/Q91513573">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q91513573">Erinaceus coronavirus</a> (<a href="http://www.wikidata.org/entity/Q91513573">edit</a>)</td>
-    <td></td>
+    <td><a href="https://scholia.toolforge.org/Q91556362">Erinaceus hedgehog coronavirus HKU31</a> (<a href="http://www.wikidata.org/entity/Q91556362">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2664184">2664184</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q24808940">Hedgehog coronavirus 1</a> (<a href="http://www.wikidata.org/entity/Q24808940">edit</a>)</td>
@@ -112,6 +112,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
     <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q88383088">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q88383088">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/443239">443239</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16984813">London1_novel CoV/2012</a> (<a href="http://www.wikidata.org/entity/Q16984813">edit</a>)</td>

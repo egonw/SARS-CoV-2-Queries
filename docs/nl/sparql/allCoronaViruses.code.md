@@ -238,6 +238,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1335626">1335626</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q55643348">SADS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q55643348">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2032731">2032731</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q57754582">Colacovirus</a> (<a href="http://www.wikidata.org/entity/Q57754582">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2509477">2509477</a></td>
   </tr>
@@ -418,8 +422,12 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2078576">2078576</a></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q91556001">Coronavirus Neoromicia/PML-PHE1/RSA/2011</a> (<a href="http://www.wikidata.org/entity/Q91556001">edit</a>)</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1368314">1368314</a></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q91556362">Erinaceus amurensis hedgehog coronavirus HKU31</a> (<a href="http://www.wikidata.org/entity/Q91556362">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2664184">2664184</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91556617">Hp-BatCoV HKU25</a> (<a href="http://www.wikidata.org/entity/Q91556617">edit</a>)</td>
@@ -427,7 +435,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91559255">Tylonycteris robustula bat coronavirus HKU33</a> (<a href="http://www.wikidata.org/entity/Q91559255">edit</a>)</td>
-    <td></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/2586420">2586420</a></td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q91560228">Rhinolophus sinicus bat coronavirus HKU32</a> (<a href="http://www.wikidata.org/entity/Q91560228">edit</a>)</td>

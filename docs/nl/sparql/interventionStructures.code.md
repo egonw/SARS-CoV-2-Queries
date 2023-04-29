@@ -29,7 +29,7 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td><b>image</b></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q421094">Hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q421094">hydroxychloroquine</a> (<a href="http://www.wikidata.org/entity/Q421094">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxychloroquine.svg</td>
   </tr>
   <tr>
@@ -37,11 +37,11 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Chloroquine.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422585">Lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422585">lopinavir</a> (<a href="http://www.wikidata.org/entity/Q422585">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Lopinavir.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422618">Ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422618">ritonavir</a> (<a href="http://www.wikidata.org/entity/Q422618">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Ritonavir.svg</td>
   </tr>
   <tr>
@@ -53,15 +53,15 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/N-Acetyl-p-aminophenol.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q410074">Losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Losartan%20structure.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q417222">Methylprednisolone</a> (<a href="http://www.wikidata.org/entity/Q417222">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q417222">methylprednisolone</a> (<a href="http://www.wikidata.org/entity/Q417222">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Methylprednisolone.svg</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q422212">Budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q422212">budesonide</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Budesonide.png</td>
   </tr>
   <tr>

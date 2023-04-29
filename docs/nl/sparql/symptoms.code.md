@@ -91,10 +91,10 @@ SELECT ?symptom ?symptomLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q767485">respiratoire insufficiëntie</a> (<a href="http://www.wikidata.org/entity/Q767485">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q2260058">Koude rilling</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q2260058">koude rilling</a> (<a href="http://www.wikidata.org/entity/Q2260058">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q2603200">Virale pneumonie</a> (<a href="http://www.wikidata.org/entity/Q2603200">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q2603200">virale pneumonie</a> (<a href="http://www.wikidata.org/entity/Q2603200">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3245488">nasal congestion</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>

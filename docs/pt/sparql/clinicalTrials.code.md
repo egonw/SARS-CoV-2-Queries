@@ -848,25 +848,25 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89153965">A Phase I/II Study of Universal Off-the-shelf NKG2D-ACE2 CAR-NK Cells for Therapy of COVID-19</a> (<a href="http://www.wikidata.org/entity/Q89153965">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04324996</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154124">A Study of a Candidate COVID-19 Vaccine (COV001)</a> (<a href="http://www.wikidata.org/entity/Q89154124">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04324606</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154124">A Study of a Candidate COVID-19 Vaccine (COV001)</a> (<a href="http://www.wikidata.org/entity/Q89154124">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q95042269">AZD1222</a> (<a href="http://www.wikidata.org/entity/Q95042269">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04324606</td>
   </tr>
   <tr>
@@ -884,13 +884,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154299">Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Sarilumab Trial - CORIMUNO-19 - SARI</a> (<a href="http://www.wikidata.org/entity/Q89154299">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04324073</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154299">Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Sarilumab Trial - CORIMUNO-19 - SARI</a> (<a href="http://www.wikidata.org/entity/Q89154299">edit</a>)</td>
     <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04324073</td>
   </tr>
   <tr>
@@ -1142,13 +1142,13 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154825">The Impact of Camostat Mesilate on COVID-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q89154825">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q5515384">gabexate</a> (<a href="http://www.wikidata.org/entity/Q5515384">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
     <td>NCT04321096</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q89154825">The Impact of Camostat Mesilate on COVID-19 Infection</a> (<a href="http://www.wikidata.org/entity/Q89154825">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q5515384">gabexate</a> (<a href="http://www.wikidata.org/entity/Q5515384">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q5452194">phase I clinical trial</a> (<a href="http://www.wikidata.org/entity/Q5452194">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04321096</td>
   </tr>
   <tr>
@@ -1296,7 +1296,7 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04313322</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q87931212">The Use PUL-042 Inhalation Solution to Prevent COVID-19 in Adults Exposed to SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87931212">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87931212">A Phase 2 Multiple Dose Study to Evaluate the Efficacy and Safety of PUL-042 Inhalation Solution in Reducing the Infection Rate and Progression to COVID-19 in Adults Exposed to SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q87931212">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q57055">paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
     <td>NCT04313023</td>
@@ -1530,9 +1530,9 @@ SELECT ?trial ?trialLabel ?intervention ?interventionLabel ?phase ?phaseLabel ?i
     <td>NCT04283461</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q86276764">Adaptive COVID-19 Treatment Trial</a> (<a href="http://www.wikidata.org/entity/Q86276764">edit</a>)</td>
-    <td></td>
-    <td><a href="https://scholia.toolforge.org/Q42824440">phase II clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824440">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q86276764">A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalized Adults</a> (<a href="http://www.wikidata.org/entity/Q86276764">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28209496">Remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42824827">phase III clinical trial</a> (<a href="http://www.wikidata.org/entity/Q42824827">edit</a>)</td>
     <td>NCT04280705</td>
   </tr>
   <tr>

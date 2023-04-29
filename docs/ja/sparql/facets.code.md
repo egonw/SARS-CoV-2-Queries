@@ -140,7 +140,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q90416196">2019年コロナウイルス感染症の流行におけるマスク</a> (<a href="http://www.wikidata.org/entity/Q90416196">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q90456853">Impact of the 2019–20 coronavirus pandemic on the military</a> (<a href="http://www.wikidata.org/entity/Q90456853">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90456853">impact of the COVID-19 pandemic on the military</a> (<a href="http://www.wikidata.org/entity/Q90456853">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q90630881">impact of the 2019–20 coronavirus pandemic on public transport</a> (<a href="http://www.wikidata.org/entity/Q90630881">edit</a>)</td>
@@ -158,7 +158,7 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q91493633">COVID-19に伴うウィキメディアの対応</a> (<a href="http://www.wikidata.org/entity/Q91493633">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q91911563">Impact of the 2019–20 coronavirus pandemic on the performing arts</a> (<a href="http://www.wikidata.org/entity/Q91911563">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q91911563">impact of the COVID-19 pandemic on the performing arts</a> (<a href="http://www.wikidata.org/entity/Q91911563">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q92150479">COVID-19パンデミックのジャーナリズムへの影響</a> (<a href="http://www.wikidata.org/entity/Q92150479">edit</a>)</td>

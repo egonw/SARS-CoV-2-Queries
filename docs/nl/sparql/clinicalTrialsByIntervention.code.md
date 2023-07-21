@@ -99,7 +99,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q28209496">Remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q28209496">remdesivir</a> (<a href="http://www.wikidata.org/entity/Q28209496">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>3</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q3960572">Siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3960572">siltuximab</a> (<a href="http://www.wikidata.org/entity/Q3960572">edit</a>)</td>
     <td>3</td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q3950557">Sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3950557">sargramostim</a> (<a href="http://www.wikidata.org/entity/Q3950557">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -207,7 +207,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q239778">Broomhexine</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q239778">broomhexine</a> (<a href="http://www.wikidata.org/entity/Q239778">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -243,11 +243,11 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q3765251">Darunavir</a> (<a href="http://www.wikidata.org/entity/Q3765251">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3765251">darunavir</a> (<a href="http://www.wikidata.org/entity/Q3765251">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q3836750">Lopinavir/ritonavir</a> (<a href="http://www.wikidata.org/entity/Q3836750">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q3836750">lopinavir/ritonavir</a> (<a href="http://www.wikidata.org/entity/Q3836750">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -267,7 +267,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q420360">Phentolamine</a> (<a href="http://www.wikidata.org/entity/Q420360">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q420360">phentolamine</a> (<a href="http://www.wikidata.org/entity/Q420360">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -283,7 +283,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q66559285">Immunoglobuline</a> (<a href="http://www.wikidata.org/entity/Q66559285">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q66559285">immunoglobuline</a> (<a href="http://www.wikidata.org/entity/Q66559285">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -291,7 +291,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88454408">Xue-Bi-Jing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

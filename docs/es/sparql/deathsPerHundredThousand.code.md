@@ -77,13 +77,13 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>113.92905776536383440453</td>
   </tr>
   <tr>
-    <td>17.38642643902172822661</td>
-  </tr>
-  <tr>
-    <td>39.63350286602652734314</td>
+    <td>17.38583596775533251501</td>
   </tr>
   <tr>
     <td>7.5567513034047782262</td>
+  </tr>
+  <tr>
+    <td>41.21437999205748836825</td>
   </tr>
   <tr>
     <td>20.52894902687205762105</td>
@@ -113,7 +113,7 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>14.42371925320576020841</td>
   </tr>
   <tr>
-    <td>17.10345987749403608733</td>
+    <td>17.09805423277927817453</td>
   </tr>
   <tr>
     <td>116.90737757844863295932</td>
@@ -132,6 +132,9 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
   </tr>
   <tr>
     <td>11.08226133089503452789</td>
+  </tr>
+  <tr>
+    <td>392.43487595369174259427</td>
   </tr>
   <tr>
     <td>3.67219892215064099136</td>
@@ -153,9 +156,6 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
   </tr>
   <tr>
     <td>228.42188023572884419701</td>
-  </tr>
-  <tr>
-    <td>307.68125290827825218951</td>
   </tr>
   <tr>
     <td>99.92891227901398216223</td>
@@ -221,7 +221,7 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>162.55685048322910744741</td>
   </tr>
   <tr>
-    <td>94.97203854119450885628</td>
+    <td>94.70727494668287451568</td>
   </tr>
   <tr>
     <td>177.71912640418355512022</td>
@@ -230,7 +230,7 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>169.96074585989051311438</td>
   </tr>
   <tr>
-    <td>58.54581232142143995585</td>
+    <td>58.77127058985837154506</td>
   </tr>
   <tr>
     <td>0</td>
@@ -242,10 +242,10 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>73.64061257151452278185</td>
   </tr>
   <tr>
-    <td>160.79834855128034462215</td>
+    <td>464.56032581983778742523</td>
   </tr>
   <tr>
-    <td>464.56032581983778742523</td>
+    <td>166.19097152629050768636</td>
   </tr>
   <tr>
     <td>4.76459219563687817696</td>
@@ -290,10 +290,10 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>334.21173424915913948342</td>
   </tr>
   <tr>
-    <td>121.57911690105418159159</td>
+    <td>7.6423642551154991678</td>
   </tr>
   <tr>
-    <td>7.6423642551154991678</td>
+    <td>130.24544632045494726987</td>
   </tr>
   <tr>
     <td>26.06839695651465532691</td>
@@ -308,13 +308,10 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>3.4328404284876362177</td>
   </tr>
   <tr>
-    <td>216.97837360494174506293</td>
+    <td>215.68449443730214278811</td>
   </tr>
   <tr>
     <td>122.22575677641675623052</td>
-  </tr>
-  <tr>
-    <td>403.40833570682616538498</td>
   </tr>
   <tr>
     <td>32.37305218777803101097</td>
@@ -332,6 +329,9 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>330.31657929900298077911</td>
   </tr>
   <tr>
+    <td>312.98417326114119117035</td>
+  </tr>
+  <tr>
     <td>9.45584309317820019847</td>
   </tr>
   <tr>
@@ -344,7 +344,7 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>451.1865338172983760177</td>
   </tr>
   <tr>
-    <td>189.4957677212630365496</td>
+    <td>185.07617178337462110837</td>
   </tr>
   <tr>
     <td>220.35148622260794098503</td>
@@ -407,7 +407,7 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>17.84234020577426890734</td>
   </tr>
   <tr>
-    <td>79.85541657487414224986</td>
+    <td>76.24679123866951803334</td>
   </tr>
   <tr>
     <td>166.86828846873276519266</td>
@@ -497,7 +497,7 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>152.99973801414723604925</td>
   </tr>
   <tr>
-    <td>2.60026497938361337774</td>
+    <td>2.4764428375082032169</td>
   </tr>
   <tr>
     <td>100.10145417653026716266</td>
@@ -512,7 +512,7 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>71.27632755024866500126</td>
   </tr>
   <tr>
-    <td>31.9987953394695729102</td>
+    <td>30.11651326067724509195</td>
   </tr>
   <tr>
     <td>1.93283873486919172198</td>
@@ -557,9 +557,6 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
     <td>44.88769988465942016392</td>
   </tr>
   <tr>
-    <td>327.8097410406834664057</td>
-  </tr>
-  <tr>
     <td>26.1733196340077077114</td>
   </tr>
   <tr>
@@ -573,6 +570,9 @@ SELECT ?countryLabel ((?maxDeath*100000)/?maxPopulation AS ?numOfDeathsPer100k) 
   </tr>
   <tr>
     <td>119.01094275200996890779</td>
+  </tr>
+  <tr>
+    <td>344.36489193042189884857</td>
   </tr>
   <tr>
     <td>1.68681925997787294096</td>

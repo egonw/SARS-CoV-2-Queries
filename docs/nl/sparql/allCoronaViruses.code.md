@@ -34,6 +34,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q105759613">16BO133</a> (<a href="http://www.wikidata.org/entity/Q105759613">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q105759618">BtKY72</a> (<a href="http://www.wikidata.org/entity/Q105759618">edit</a>)</td>
     <td></td>
   </tr>
@@ -98,7 +102,7 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/1415852">1415852</a></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q16023751">Porcine epidemic diarrhea virus</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q16023751">porcine epidemic diarrhea virus</a> (<a href="http://www.wikidata.org/entity/Q16023751">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/taxonomy/28295">28295</a></td>
   </tr>
   <tr>

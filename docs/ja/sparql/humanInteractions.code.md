@@ -30,6 +30,13 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2023-02-23</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21106751">thioredoxin reductase 1</a> (<a href="http://www.wikidata.org/entity/Q21106751">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q118267338">SARS-CoV-2 Main Protease Targets Host Selenoproteins and Glutathione Biosynthesis for Knockdown via Proteolysis, Potentially Disrupting the Thioredoxin and Glutaredoxin Redox Cycles</a> (<a href="http://www.wikidata.org/entity/Q118267338">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/ANTIOX12030559">10.3390/ANTIOX12030559</a></td>
+  </tr>
+  <tr>
     <td>2022-02-21</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14907768">HLA-E</a> (<a href="http://www.wikidata.org/entity/Q14907768">edit</a>)</td>

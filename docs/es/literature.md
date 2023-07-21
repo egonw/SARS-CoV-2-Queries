@@ -30,44 +30,44 @@ Esto le da estos 10 documentos:
     <td><b>doi</b></td>
   </tr>
   <tr>
-    <td>2023-03-01</td>
-    <td><a href="https://scholia.toolforge.org/Q114160515">Sensitivity of wastewater surveillance: What is the minimum COVID-19 cases required in population for SARS-CoV-2 RNA to be detected in wastewater?</a> (<a href="http://www.wikidata.org/entity/Q114160515">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.JES.2022.08.020">10.1016/J.JES.2022.08.020</a></td>
+    <td>2023-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q119707017">Head and neck reconstruction in the SARS-CoV-2 pandemic era: outcomes and lessons learned</a> (<a href="http://www.wikidata.org/entity/Q119707017">edit</a>)</td>
+    <td><a href="https://doi.org/10.21037/FOMM-21-4">10.21037/FOMM-21-4</a></td>
   </tr>
   <tr>
-    <td>2023-02-01</td>
-    <td><a href="https://scholia.toolforge.org/Q114149802">Global asymptotic stability, extinction and ergodic stationary distribution in a stochastic model for dual variants of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q114149802">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.MATCOM.2022.08.012">10.1016/J.MATCOM.2022.08.012</a></td>
+    <td>2023-05-08</td>
+    <td><a href="https://scholia.toolforge.org/Q119012630">Excess risk of SARS-CoV-2 infection among in-person nonhealthcare workers in six states, September 2020-June 2021</a> (<a href="http://www.wikidata.org/entity/Q119012630">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/AJIM.23487">10.1002/AJIM.23487</a></td>
   </tr>
   <tr>
-    <td>2023-02-01</td>
-    <td><a href="https://scholia.toolforge.org/Q114178084">Inactivation of two SARS-CoV-2 virus surrogates by electron beam irradiation on large yellow croaker slices and their packaging surfaces</a> (<a href="http://www.wikidata.org/entity/Q114178084">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.FOODCONT.2022.109340">10.1016/J.FOODCONT.2022.109340</a></td>
+    <td>2023-04-19</td>
+    <td><a href="https://scholia.toolforge.org/Q119823483">Seroprevalence and SARS-CoV-2 invasion in general populations: A scoping review over the first year of the pandemic</a> (<a href="http://www.wikidata.org/entity/Q119823483">edit</a>)</td>
+    <td><a href="https://doi.org/10.1371/JOURNAL.PONE.0269104">10.1371/JOURNAL.PONE.0269104</a></td>
   </tr>
   <tr>
-    <td>2023-01-13</td>
-    <td><a href="https://scholia.toolforge.org/Q116679910">Booster Vaccination Against SARS-CoV-2 Induces Potent Immune Responses in People With Human Immunodeficiency Virus</a> (<a href="http://www.wikidata.org/entity/Q116679910">edit</a>)</td>
-    <td><a href="https://doi.org/10.1093/CID/CIAC796">10.1093/CID/CIAC796</a></td>
+    <td>2023-04-03</td>
+    <td><a href="https://scholia.toolforge.org/Q118877133">Oral Supplementation with AHCC, a Standardized Extract of Cultured Mycelia, Enhances Host Resistance against SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q118877133">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/PATHOGENS12040554">10.3390/PATHOGENS12040554</a></td>
   </tr>
   <tr>
-    <td>2023-01-02</td>
-    <td><a href="https://scholia.toolforge.org/Q115982827">Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave</a> (<a href="http://www.wikidata.org/entity/Q115982827">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41591-022-02138-X">10.1038/S41591-022-02138-X</a></td>
+    <td>2023-04-01</td>
+    <td><a href="https://scholia.toolforge.org/Q117042291">Novel bispecific human antibody platform specifically targeting a fully open spike conformation potently neutralizes multiple SARS-CoV-2 variants</a> (<a href="http://www.wikidata.org/entity/Q117042291">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.ANTIVIRAL.2023.105576">10.1016/J.ANTIVIRAL.2023.105576</a></td>
   </tr>
   <tr>
-    <td>2023-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q113692154">SARS-CoV-2 getting into the brain; neurological phenotype of COVID-19, and management by nano-biotechnology</a> (<a href="http://www.wikidata.org/entity/Q113692154">edit</a>)</td>
-    <td><a href="https://doi.org/10.4103/1673-5374.346486">10.4103/1673-5374.346486</a></td>
+    <td>2023-04-01</td>
+    <td><a href="https://scholia.toolforge.org/Q119621974">Lessons learned during COVID-19 pandemic, a worldwide survey: impact of SARS-CoV-2 vaccination on neurosurgeons and neurosurgical practice</a> (<a href="http://www.wikidata.org/entity/Q119621974">edit</a>)</td>
+    <td><a href="https://doi.org/10.23736/S0390-5616.22.05885-4">10.23736/S0390-5616.22.05885-4</a></td>
   </tr>
   <tr>
-    <td>2023-01-01</td>
-    <td><a href="https://scholia.toolforge.org/Q114903422">Audiological and vestibular symptoms following SARS-CoV-2 infection and COVID-19 vaccination in children aged 5–11 years</a> (<a href="http://www.wikidata.org/entity/Q114903422">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.AMJOTO.2022.103669">10.1016/J.AMJOTO.2022.103669</a></td>
+    <td>2023-03-31</td>
+    <td><a href="https://scholia.toolforge.org/Q119520634">Molecular In-Depth on the Epidemiological Expansion of SARS-CoV-2 XBB.1.5</a> (<a href="http://www.wikidata.org/entity/Q119520634">edit</a>)</td>
+    <td><a href="https://doi.org/10.3390/MICROORGANISMS11040912">10.3390/MICROORGANISMS11040912</a></td>
   </tr>
   <tr>
-    <td>2022-12-14</td>
-    <td><a href="https://scholia.toolforge.org/Q116030131">SARS-CoV-2 infection and persistence in the human body and brain at autopsy</a> (<a href="http://www.wikidata.org/entity/Q116030131">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41586-022-05542-Y">10.1038/S41586-022-05542-Y</a></td>
+    <td>2023-03-27</td>
+    <td><a href="https://scholia.toolforge.org/Q117336371">Risk of death following COVID-19 vaccination or positive SARS-CoV-2 test in young people in England</a> (<a href="http://www.wikidata.org/entity/Q117336371">edit</a>)</td>
+    <td><a href="https://doi.org/10.1038/S41467-023-36494-0">10.1038/S41467-023-36494-0</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -339,15 +339,15 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>23791</td>
+    <td>24063</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
-    <td>2488</td>
+    <td>2487</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERS-CoV</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td>1050</td>
+    <td>1051</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16991954">Human coronavirus OC43</a> (<a href="http://www.wikidata.org/entity/Q16991954">edit</a>)</td>
@@ -355,15 +355,15 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983356">Human coronavirus 229E</a> (<a href="http://www.wikidata.org/entity/Q16983356">edit</a>)</td>
-    <td>90</td>
+    <td>107</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">Coronavirus Humana NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td>81</td>
+    <td>94</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q16983360">Human coronavirus HKU1</a> (<a href="http://www.wikidata.org/entity/Q16983360">edit</a>)</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
 </table>
 
@@ -404,7 +404,7 @@ Lo que nos muestra:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">Coronavirus Humana NL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88176272">membrane protein</a> (<a href="http://www.wikidata.org/entity/Q88176272">edit</a>)</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>

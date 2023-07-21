@@ -53,6 +53,10 @@ SELECT ?intervention ?interventionLabel ?image WITH {
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/N-Acetyl-p-aminophenol.svg</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q57055">paracetamol</a> (<a href="http://www.wikidata.org/entity/Q57055">edit</a>)</td>
+    <td>http://commons.wikimedia.org/wiki/Special:FilePath/Paracetamol-skeletal.svg</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q410074">losartan</a> (<a href="http://www.wikidata.org/entity/Q410074">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Losartan%20structure.svg</td>
   </tr>
@@ -63,10 +67,6 @@ SELECT ?intervention ?interventionLabel ?image WITH {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q422212">budesonida</a> (<a href="http://www.wikidata.org/entity/Q422212">edit</a>)</td>
     <td>http://commons.wikimedia.org/wiki/Special:FilePath/Budesonide.png</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q11426176">prednisolona</a> (<a href="http://www.wikidata.org/entity/Q11426176">edit</a>)</td>
-    <td>http://commons.wikimedia.org/wiki/Special:FilePath/Prednisolone.svg</td>
   </tr>
 </table>
 ## Code examples

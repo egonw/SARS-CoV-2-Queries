@@ -291,7 +291,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88454408">Xuebijing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88454408">Xue-Bi-Jing</a> (<a href="http://www.wikidata.org/entity/Q88454408">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

@@ -165,6 +165,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><a href="https://doi.org/10.1128/JVI.01352-17">10.1128/JVI.01352-17</a></td>
   </tr>
   <tr>
+    <td>2014-08-15</td>
+    <td><a href="https://scholia.toolforge.org/Q26991666">Middle East respiratory syndrome (MERS): a new zoonotic viral pneumonia</a> (<a href="http://www.wikidata.org/entity/Q26991666">edit</a>)</td>
+    <td><a href="https://doi.org/10.4161/VIRU.32077">10.4161/VIRU.32077</a></td>
+  </tr>
+  <tr>
     <td>2013-09-05</td>
     <td><a href="https://scholia.toolforge.org/Q21131373">Emergence of the Middle East respiratory syndrome coronavirus</a> (<a href="http://www.wikidata.org/entity/Q21131373">edit</a>)</td>
     <td><a href="https://doi.org/10.1371/JOURNAL.PPAT.1003595">10.1371/JOURNAL.PPAT.1003595</a></td>

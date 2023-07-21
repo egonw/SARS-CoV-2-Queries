@@ -4752,7 +4752,7 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
   </tr>
   <tr>
     <td>2006-06-14</td>
-    <td><a href="https://scholia.toolforge.org/Q42036937">Accelerated induction of apoptosis in insect cells by baculovirus-expressed SARS-CoV membrane protein.</a> (<a href="http://www.wikidata.org/entity/Q42036937">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q42036937">Accelerated induction of apoptosis in insect cells by baculovirus-expressed SARS-CoV membrane protein</a> (<a href="http://www.wikidata.org/entity/Q42036937">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.FEBSLET.2006.06.003">10.1016/J.FEBSLET.2006.06.003</a></td>
   </tr>
   <tr>

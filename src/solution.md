@@ -1,11 +1,9 @@
-# Towards a solution
+# Solutions
 
-There is currently no solution for SARS-CoV-2.
-
-But there are ideas about what solutions might be. A vaccine is one of them, but
-development of that takes time [<cite>Q87461271</cite>]. But there is also talk about
+Since the start of the pandemic, various solutions have been developed. A vaccine is one of them, but
+development of that takes time [<cite>Q87461271</cite>]. But there are also ideas about
 antibodies and repurposing of drugs. All this is very much exploratory at this
-moment. Clinical trials are important (see the [Clinical trials](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials) section).
+moment. Clinical trials remain important (see the [Clinical trials](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials) section).
 
 This Chapter shows a number of queries with information in Wikidata about
 leads that people have proposed that may lead to a solution.
@@ -30,9 +28,8 @@ literature for reading, not to draw conclusions from:
 
 ## Vaccines
 
-In time, we may have a vaccine that could provide us with a level of immunity
-to protect us against SARS-CoV-2. Several vaccines-candidates are being
-studied right now [<cite>Q91131712</cite>].
+Over time, several vaccines have been developed that provide us with a level of immunity
+to protect us against SARS-CoV-2. Many vaccines have been developed now [<cite>Q91131712</cite>].
 We can list the vaccines given in Wikidata with this query:
 
 <sparql>vaccines</sparql>

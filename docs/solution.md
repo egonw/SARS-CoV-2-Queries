@@ -2,14 +2,12 @@
 
 [ **en** [ja](ja/solution.md) [es](es/solution.md) [pt](pt/solution.md)  ]
 
-# Towards a solution
+# Solutions
 
-There is currently no solution for SARS-CoV-2.
-
-But there are ideas about what solutions might be. A vaccine is one of them, but
-development of that takes time [<a href="#citeref1">1</a>]. But there is also talk about
+Since the start of the pandemic, various solutions have been developed. A vaccine is one of them, but
+development of that takes time [<a href="#citeref1">1</a>]. But there are also ideas about
 antibodies and repurposing of drugs. All this is very much exploratory at this
-moment. Clinical trials are important (see the [Clinical trials](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials) section).
+moment. Clinical trials remain important (see the [Clinical trials](https://egonw.github.io/SARS-CoV-2-Queries/covid.html#clinical-trials) section).
 
 This Chapter shows a number of queries with information in Wikidata about
 leads that people have proposed that may lead to a solution.
@@ -139,31 +137,80 @@ literature for reading, not to draw conclusions from:
 
 ## Vaccines
 
-In time, we may have a vaccine that could provide us with a level of immunity
-to protect us against SARS-CoV-2. Several vaccines-candidates are being
-studied right now [<a href="#citeref2">2</a>].
+Over time, several vaccines have been developed that provide us with a level of immunity
+to protect us against SARS-CoV-2. Many vaccines have been developed now [<a href="#citeref2">2</a>].
 We can list the vaccines given in Wikidata with this query:
 
-**SPARQL** [sparql/vaccines.rq](sparql/vaccines.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Fvaccine%20%3FvaccineLabel%20%3Ftype%20%3FtypeLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Ffor%20%7B%20wd%3AQ84263196%20%7D%0A%20%20%3Fvaccine%20wdt%3AP31%20%2F%20wdt%3AP279%3F%20wd%3AQ134808%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP1924%20%3Ffor%20.%0A%20%20%3Fvaccine%20wdt%3AP31%20%3Ftype%20.%0A%20%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ28051899%20%29%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ98734151%20%29%0A%20%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ87719492%20%29%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ30612%20%29%0A%20%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ134808%20%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%20ASC%28%3Ftype%29%0A), [edit](https://query.wikidata.org/#SELECT%20DISTINCT%20%3Fvaccine%20%3FvaccineLabel%20%3Ftype%20%3FtypeLabel%20WHERE%20%7B%0A%20%20VALUES%20%3Ffor%20%7B%20wd%3AQ84263196%20%7D%0A%20%20%3Fvaccine%20wdt%3AP31%20%2F%20wdt%3AP279%3F%20wd%3AQ134808%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20wdt%3AP1924%20%3Ffor%20.%0A%20%20%3Fvaccine%20wdt%3AP31%20%3Ftype%20.%0A%20%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ28051899%20%29%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ98734151%20%29%0A%20%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ87719492%20%29%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ30612%20%29%0A%20%20FILTER%20%28%20%3Ftype%20%21%3D%20wd%3AQ134808%20%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%20ASC%28%3Ftype%29%0A))
+**SPARQL** [sparql/vaccines.rq](sparql/vaccines.code.html) ([run](https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Fvaccine%20%3FvaccineLabel%20%3Fannouncement%20WHERE%20%7B%0A%20%20%3Fvaccine%20wdt%3AP279%20wd%3AQ87719492%20.%0A%20%20OPTIONAL%20%7B%20%3Fvaccine%20wdt%3AP6949%20%3Fannouncement%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%20ASC%28%3Fannouncement%29%0A), [edit](https://query.wikidata.org/#SELECT%20DISTINCT%20%3Fvaccine%20%3FvaccineLabel%20%3Fannouncement%20WHERE%20%7B%0A%20%20%3Fvaccine%20wdt%3AP279%20wd%3AQ87719492%20.%0A%20%20OPTIONAL%20%7B%20%3Fvaccine%20wdt%3AP6949%20%3Fannouncement%20.%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3Fvaccine%29%20ASC%28%3Fannouncement%29%0A))
 
 ```sparql
-SELECT DISTINCT ?vaccine ?vaccineLabel ?type ?typeLabel WHERE {
-  VALUES ?for { wd:Q84263196 }
-  ?vaccine wdt:P31 / wdt:P279? wd:Q134808 ;
-           wdt:P1924 ?for .
-  ?vaccine wdt:P31 ?type .
-  FILTER ( ?type != wd:Q28051899 ) FILTER ( ?type != wd:Q98734151 )
-  FILTER ( ?type != wd:Q87719492 ) FILTER ( ?type != wd:Q30612 )
-  FILTER ( ?type != wd:Q134808 )
+SELECT DISTINCT ?vaccine ?vaccineLabel ?announcement WHERE {
+  ?vaccine wdt:P279 wd:Q87719492 .
+  OPTIONAL { ?vaccine wdt:P6949 ?announcement . }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
-} ORDER BY ASC(?vaccine) ASC(?type)
+} ORDER BY ASC(?vaccine) ASC(?announcement)
 ```
 
 It currently list not many:
 
 <table>
   <tr>
+    <td><b>vaccine</b></td>
+    <td><b>announcement</b></td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q100158012">Sanofi/GSK SARS-CoV-2 subunit vaccine</a> (<a href="http://www.wikidata.org/entity/Q100158012">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q100158046">UB-612</a> (<a href="http://www.wikidata.org/entity/Q100158046">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q100158616">RBD SARS-CoV-2 HBsAg VLP</a> (<a href="http://www.wikidata.org/entity/Q100158616">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q100532641">Q100532641</a> (<a href="http://www.wikidata.org/entity/Q100532641">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q100694835">BriLife</a> (<a href="http://www.wikidata.org/entity/Q100694835">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q101246544">bacTRL-Spike</a> (<a href="http://www.wikidata.org/entity/Q101246544">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q101246625">hAd5-S-Fusion+N-ETSD</a> (<a href="http://www.wikidata.org/entity/Q101246625">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q101246699">VXA-CoV2-1</a> (<a href="http://www.wikidata.org/entity/Q101246699">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q101251575">MVC COVID-19 Vaccine</a> (<a href="http://www.wikidata.org/entity/Q101251575">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q104902499">Valneva COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q104902499">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105047585">SOBERANA 02</a> (<a href="http://www.wikidata.org/entity/Q105047585">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q105217191">COVIran Barekat</a> (<a href="http://www.wikidata.org/entity/Q105217191">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q106167301">QazCovid-in</a> (<a href="http://www.wikidata.org/entity/Q106167301">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/vaccines.code.html">sparql/vaccines.rq</a></td></tr>
 </table>
 
 <a name="sec:trials"></a>

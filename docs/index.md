@@ -92,7 +92,7 @@ To cite one of the translations:
 7. [The Human](human.md) <br />
 7.1. [Interacting genes and proteins](human.md#interacting-genes-and-proteins) <br />
 7.2. [Biological processes](human.md#biological-processes) <br />
-8. [Towards a solution](solution.md) <br />
+8. [Solutions](solution.md) <br />
 8.1. [Antibodies](solution.md#antibodies) <br />
 8.2. [Vaccines](solution.md#vaccines) <br />
 8.3. [Clinical trials](solution.md#clinical-trials) <br />

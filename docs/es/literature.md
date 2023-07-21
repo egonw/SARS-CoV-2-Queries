@@ -30,9 +30,29 @@ Esto le da estos 10 documentos:
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2023-09-01</td>
+    <td><a href="https://scholia.toolforge.org/Q120434129">Kaempferol inhibits SARS-CoV-2 invasion by impairing heptad repeats-mediated viral fusion</a> (<a href="http://www.wikidata.org/entity/Q120434129">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.PHYMED.2023.154942">10.1016/J.PHYMED.2023.154942</a></td>
+  </tr>
+  <tr>
     <td>2023-06-01</td>
     <td><a href="https://scholia.toolforge.org/Q119707017">Head and neck reconstruction in the SARS-CoV-2 pandemic era: outcomes and lessons learned</a> (<a href="http://www.wikidata.org/entity/Q119707017">edit</a>)</td>
     <td><a href="https://doi.org/10.21037/FOMM-21-4">10.21037/FOMM-21-4</a></td>
+  </tr>
+  <tr>
+    <td>2023-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q120723821">Uptake and effectiveness of a mobile application for real-time reporting and quality assurance of decentralized SARS-CoV-2 testing in Uganda</a> (<a href="http://www.wikidata.org/entity/Q120723821">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FPUBH.2023.1053544">10.3389/FPUBH.2023.1053544</a></td>
+  </tr>
+  <tr>
+    <td>2023-05-31</td>
+    <td><a href="https://scholia.toolforge.org/Q120161081">Single-cell analysis of adult human heart across healthy and cardiovascular disease patients reveals the cellular landscape underlying SARS-CoV-2 invasion of myocardial tissue through ACE2</a> (<a href="http://www.wikidata.org/entity/Q120161081">edit</a>)</td>
+    <td><a href="https://doi.org/10.1186/S12967-023-04224-1">10.1186/S12967-023-04224-1</a></td>
+  </tr>
+  <tr>
+    <td>2023-05-18</td>
+    <td><a href="https://scholia.toolforge.org/Q120720493">Impact of peptide:HLA complex stability for the identification of SARS-CoV-2-specific CD8+T cells</a> (<a href="http://www.wikidata.org/entity/Q120720493">edit</a>)</td>
+    <td><a href="https://doi.org/10.3389/FIMMU.2023.1151659">10.3389/FIMMU.2023.1151659</a></td>
   </tr>
   <tr>
     <td>2023-05-08</td>
@@ -48,26 +68,6 @@ Esto le da estos 10 documentos:
     <td>2023-04-03</td>
     <td><a href="https://scholia.toolforge.org/Q118877133">Oral Supplementation with AHCC, a Standardized Extract of Cultured Mycelia, Enhances Host Resistance against SARS-CoV-2 Infection</a> (<a href="http://www.wikidata.org/entity/Q118877133">edit</a>)</td>
     <td><a href="https://doi.org/10.3390/PATHOGENS12040554">10.3390/PATHOGENS12040554</a></td>
-  </tr>
-  <tr>
-    <td>2023-04-01</td>
-    <td><a href="https://scholia.toolforge.org/Q117042291">Novel bispecific human antibody platform specifically targeting a fully open spike conformation potently neutralizes multiple SARS-CoV-2 variants</a> (<a href="http://www.wikidata.org/entity/Q117042291">edit</a>)</td>
-    <td><a href="https://doi.org/10.1016/J.ANTIVIRAL.2023.105576">10.1016/J.ANTIVIRAL.2023.105576</a></td>
-  </tr>
-  <tr>
-    <td>2023-04-01</td>
-    <td><a href="https://scholia.toolforge.org/Q119621974">Lessons learned during COVID-19 pandemic, a worldwide survey: impact of SARS-CoV-2 vaccination on neurosurgeons and neurosurgical practice</a> (<a href="http://www.wikidata.org/entity/Q119621974">edit</a>)</td>
-    <td><a href="https://doi.org/10.23736/S0390-5616.22.05885-4">10.23736/S0390-5616.22.05885-4</a></td>
-  </tr>
-  <tr>
-    <td>2023-03-31</td>
-    <td><a href="https://scholia.toolforge.org/Q119520634">Molecular In-Depth on the Epidemiological Expansion of SARS-CoV-2 XBB.1.5</a> (<a href="http://www.wikidata.org/entity/Q119520634">edit</a>)</td>
-    <td><a href="https://doi.org/10.3390/MICROORGANISMS11040912">10.3390/MICROORGANISMS11040912</a></td>
-  </tr>
-  <tr>
-    <td>2023-03-27</td>
-    <td><a href="https://scholia.toolforge.org/Q117336371">Risk of death following COVID-19 vaccination or positive SARS-CoV-2 test in young people in England</a> (<a href="http://www.wikidata.org/entity/Q117336371">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S41467-023-36494-0">10.1038/S41467-023-36494-0</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
@@ -169,39 +169,39 @@ Que actualmente da:
     <td><a href="https://doi.org/10.1080/21505594.2021.2019959">10.1080/21505594.2021.2019959</a></td>
   </tr>
   <tr>
+    <td>2022-12-01</td>
+    <td><a href="https://scholia.toolforge.org/Q114158430">Computational investigation of potent inhibitors against SARS-CoV-2 2′-O-methyltransferase (nsp16): Structure-based pharmacophore modeling, molecular docking, molecular dynamics simulations and binding free energy calculations</a> (<a href="http://www.wikidata.org/entity/Q114158430">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.JMGM.2022.108306">10.1016/J.JMGM.2022.108306</a></td>
+  </tr>
+  <tr>
+    <td>2022-09-01</td>
+    <td><a href="https://scholia.toolforge.org/Q120690888">Frequent occurrence of mutations in nsp3 and nsp4 of SARS-CoV-2, presumably caused by the inhaled asthma drug ciclesonide</a> (<a href="http://www.wikidata.org/entity/Q120690888">edit</a>)</td>
+    <td><a href="https://doi.org/10.1093/PNASNEXUS/PGAC197">10.1093/PNASNEXUS/PGAC197</a></td>
+  </tr>
+  <tr>
+    <td>2022-08-18</td>
+    <td><a href="https://scholia.toolforge.org/Q114044507">In silico identification of novel SARS-CoV-2 main protease and non-structural protein 13 (nsp13) inhibitors through consensus docking and free binding energy calculations.</a> (<a href="http://www.wikidata.org/entity/Q114044507">edit</a>)</td>
+    <td><a href="https://doi.org/10.2174/1386207325666220818141112">10.2174/1386207325666220818141112</a></td>
+  </tr>
+  <tr>
+    <td>2022-05-27</td>
+    <td><a href="https://scholia.toolforge.org/Q112563426">The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and x-ray diffraction at room temperature</a> (<a href="http://www.wikidata.org/entity/Q112563426">edit</a>)</td>
+    <td><a href="https://doi.org/10.1126/SCIADV.ABO5083">10.1126/SCIADV.ABO5083</a></td>
+  </tr>
+  <tr>
+    <td>2022-05-26</td>
+    <td><a href="https://scholia.toolforge.org/Q112276333">Parsing the role of NSP1 in SARS-CoV-2 infection</a> (<a href="http://www.wikidata.org/entity/Q112276333">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2022-05-20</td>
+    <td><a href="https://scholia.toolforge.org/Q112565980">Refolding of lid subdomain of SARS-CoV-2 nsp14 upon nsp10 interaction releases exonuclease activity</a> (<a href="http://www.wikidata.org/entity/Q112565980">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.STR.2022.04.014">10.1016/J.STR.2022.04.014</a></td>
+  </tr>
+  <tr>
     <td>2022-05-12</td>
     <td><a href="https://scholia.toolforge.org/Q112039584">The role of NSP6 in the biogenesis of the SARS-CoV-2 replication organelle</a> (<a href="http://www.wikidata.org/entity/Q112039584">edit</a>)</td>
     <td><a href="https://doi.org/10.1038/S41586-022-04835-6">10.1038/S41586-022-04835-6</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-11</td>
-    <td><a href="https://scholia.toolforge.org/Q112052324">SARS-CoV-2 Variants of Concern Hijack IFITM2 for Efficient Replication in Human Lung Cells</a> (<a href="http://www.wikidata.org/entity/Q112052324">edit</a>)</td>
-    <td><a href="https://doi.org/10.1128/JVI.00594-22">10.1128/JVI.00594-22</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-09</td>
-    <td><a href="https://scholia.toolforge.org/Q112052653">A glucose-like metabolite deficient in diabetes inhibits cellular entry of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q112052653">edit</a>)</td>
-    <td><a href="https://doi.org/10.1038/S42255-022-00567-Z">10.1038/S42255-022-00567-Z</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-08</td>
-    <td><a href="https://scholia.toolforge.org/Q112052687">ADAM10 and ADAM17 promote SARS‐CoV‐2 cell entry and spike protein‐mediated lung cell fusion</a> (<a href="http://www.wikidata.org/entity/Q112052687">edit</a>)</td>
-    <td><a href="https://doi.org/10.15252/EMBR.202154305">10.15252/EMBR.202154305</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112039554">Recognition and Cleavage of Human tRNA Methyltransferase TRMT1 by the SARS‐CoV‐2 Main Protease</a> (<a href="http://www.wikidata.org/entity/Q112039554">edit</a>)</td>
-    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R4632">10.1096/FASEBJ.2022.36.S1.R4632</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112039629">Variation in ORF3a Protein of SARS‐CoV‐2 Decreases The Severity of Host Cell Damage</a> (<a href="http://www.wikidata.org/entity/Q112039629">edit</a>)</td>
-    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R4149">10.1096/FASEBJ.2022.36.S1.R4149</a></td>
-  </tr>
-  <tr>
-    <td>2022-05-01</td>
-    <td><a href="https://scholia.toolforge.org/Q112039705">The Effect of Glycosylation Modulators on the Trafficking and Interaction of Spike Protein S1 Subunit and Angiotensin‐Converting Enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q112039705">edit</a>)</td>
-    <td><a href="https://doi.org/10.1096/FASEBJ.2022.36.S1.R3340">10.1096/FASEBJ.2022.36.S1.R3340</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2Proteins.code.html">sparql/litSARSCoV2Proteins.rq</a></td></tr>
 </table>
@@ -339,7 +339,7 @@ Lo que nos dice:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td>24063</td>
+    <td>24131</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -616,14 +616,14 @@ Donde están los recuentos:
     <td>98</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
+    <td>74</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89457519">nucleoprotein [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89457519">edit</a>)</td>
     <td>70</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87917581">Papain-like proteinase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917581">edit</a>)</td>
-    <td>68</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -633,22 +633,22 @@ Donde están los recuentos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q87917582">non-structural protein 5 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917582">edit</a>)</td>
+    <td>59</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
     <td>57</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90042395">RNA-directed RNA polymerase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042395">edit</a>)</td>
-    <td>52</td>
+    <td>57</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q90038952">Host translation inhibitor nsp1 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038952">edit</a>)</td>
-    <td>49</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87917572">Non-structural protein 10 [SARS CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917572">edit</a>)</td>
-    <td>47</td>
+    <td>51</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -656,8 +656,23 @@ Donde están los recuentos:
     <td>46</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917580">non-structural protein 16 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
+    <td>45</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90042407">Non-structural protein 14 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042407">edit</a>)</td>
+    <td>43</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88365896">Protein 3a [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q88365896">edit</a>)</td>
+    <td>41</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90042799">Helicase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042799">edit</a>)</td>
     <td>41</td>
   </tr>
   <tr>
@@ -667,23 +682,8 @@ Donde están los recuentos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90042407">Non-structural protein 14 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042407">edit</a>)</td>
-    <td>35</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87917580">non-structural protein 16 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917580">edit</a>)</td>
-    <td>34</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88655710">envelope protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88655710">edit</a>)</td>
     <td>34</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90042799">Helicase [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90042799">edit</a>)</td>
-    <td>33</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
@@ -694,6 +694,16 @@ Donde están los recuentos:
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
     <td>30</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90038963">Non-structural protein 7 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038963">edit</a>)</td>
+    <td>26</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -707,8 +717,8 @@ Donde están los recuentos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q87917579">non-structural protein 15 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q87917579">edit</a>)</td>
-    <td>22</td>
+    <td><a href="https://scholia.toolforge.org/Q97926844">Non-structural protein nsp8 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q97926844">edit</a>)</td>
+    <td>25</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -722,22 +732,17 @@ Donde están los recuentos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90038963">Non-structural protein 7 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038963">edit</a>)</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q97926844">Non-structural protein nsp8 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q97926844">edit</a>)</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q88658500">Protein 7a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88658500">edit</a>)</td>
     <td>19</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89562023">host translation inhibitor nsp1 [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89562023">edit</a>)</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q89686805">Non-structural protein 9 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89686805">edit</a>)</td>
     <td>17</td>
   </tr>
   <tr>
@@ -757,8 +762,8 @@ Donde están los recuentos:
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q89686805">Non-structural protein 9 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89686805">edit</a>)</td>
-    <td>14</td>
+    <td><a href="https://scholia.toolforge.org/Q88656943">non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
+    <td>12</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
@@ -786,13 +791,13 @@ Donde están los recuentos:
     <td>10</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88656943">non-structural protein 6 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88656943">edit</a>)</td>
-    <td>10</td>
-  </tr>
-  <tr>
     <td><a href="https://scholia.toolforge.org/Q278567">SARS coronavirus</a> (<a href="http://www.wikidata.org/entity/Q278567">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89656966">helicase [SARS-Cov]</a> (<a href="http://www.wikidata.org/entity/Q89656966">edit</a>)</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q90038956">Non-structural protein 4 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038956">edit</a>)</td>
     <td>9</td>
   </tr>
   <tr>
@@ -818,11 +823,6 @@ Donde están los recuentos:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q89227548">ORF10 protein [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q89227548">edit</a>)</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q82069695">SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q90038956">Non-structural protein 4 [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q90038956">edit</a>)</td>
     <td>8</td>
   </tr>
   <tr>

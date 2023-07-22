@@ -18,6 +18,17 @@ This gives these 10 papers:
 
 <out limit="10">litSARSCoV2</out>
 
+### about the SARS-CoV-2 variants
+
+Specific virus variants are getting particular interest, and we can find the articles about
+those variants too:
+
+<sparql>litSARSCoV2Variants</sparql>
+
+This gives:
+
+<iframe>litSARSCoV2Variants</iframe>
+
 ### about SARS-CoV-2 genes
 
 We can also query for articles about the genes. It breaks down like this:

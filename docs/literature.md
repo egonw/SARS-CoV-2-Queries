@@ -78,6 +78,33 @@ This gives these 10 papers:
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/litSARSCoV2.code.html">sparql/litSARSCoV2.rq</a></td></tr>
 </table>
 
+### about the SARS-CoV-2 variants
+
+Specific virus variants are getting particular interest, and we can find the articles about
+those variants too:
+
+**SPARQL** [sparql/litSARSCoV2Variants.rq](sparql/litSARSCoV2Variants.code.html) ([run](https://query.wikidata.org/embed.html#%23defaultView%3ABarChart%0ASELECT%20%3Fvariant%20%3FvariantLabel%20%28COUNT%28%3Fwork%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP31%20wd%3AQ104450895%20.%0A%20%20%3Fwork%20wdt%3AP921%20%3Fvariant%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fvariant%20%3FvariantLabel%0A%20%20ORDER%20BY%20ASC%28%3FvariantLabel%29%0A), [edit](https://query.wikidata.org/#%23defaultView%3ABarChart%0ASELECT%20%3Fvariant%20%3FvariantLabel%20%28COUNT%28%3Fwork%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP31%20wd%3AQ104450895%20.%0A%20%20%3Fwork%20wdt%3AP921%20%3Fvariant%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fvariant%20%3FvariantLabel%0A%20%20ORDER%20BY%20ASC%28%3FvariantLabel%29%0A))
+
+```sparql
+#defaultView:BarChart
+SELECT ?variant ?variantLabel (COUNT(?work) AS ?count) WHERE {
+  ?variant wdt:P31 wd:Q104450895 .
+  ?work wdt:P921 ?variant .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+} GROUP BY ?variant ?variantLabel
+  ORDER BY ASC(?variantLabel)
+```
+
+This gives:
+
+<iframe
+  style="width: 95%; height: 50vh; border: none;"
+  src="https://query.wikidata.org/embed.html#%23defaultView%3ABarChart%0ASELECT%20%3Fvariant%20%3FvariantLabel%20%28COUNT%28%3Fwork%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fvariant%20wdt%3AP31%20wd%3AQ104450895%20.%0A%20%20%3Fwork%20wdt%3AP921%20%3Fvariant%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fvariant%20%3FvariantLabel%0A%20%20ORDER%20BY%20ASC%28%3FvariantLabel%29%0A"
+
+  referrerpolicy="origin"
+  sandbox="allow-scripts allow-same-origin allow-popups" >
+</iframe>
+
 ### about SARS-CoV-2 genes
 
 We can also query for articles about the genes. It breaks down like this:

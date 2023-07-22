@@ -99,8 +99,9 @@ To cite one of the translations:
 8.4. [Drug repurposing](solution.md#drug-repurposing) <br />
 9. [Literature](literature.md) <br />
 9.1. [about SARS-CoV-2](literature.md#about-sars-cov-2) <br />
-9.1.1. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
-9.1.2. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
+9.1.1. [about the SARS-CoV-2 variants](literature.md#about-the-sars-cov-2-variants) <br />
+9.1.2. [about SARS-CoV-2 genes](literature.md#about-sars-cov-2-genes) <br />
+9.1.3. [about SARS-CoV-2 proteins](literature.md#about-sars-cov-2-proteins) <br />
 9.2. [about coronaviruses](literature.md#about-coronaviruses) <br />
 9.2.1. [about human coronaviruses](literature.md#about-human-coronaviruses) <br />
 

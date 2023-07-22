@@ -1,0 +1,7 @@
+#defaultView:BarChart
+SELECT ?variant ?variantLabel (COUNT(?work) AS ?count) WHERE {
+  ?variant wdt:P31 wd:Q104450895 .
+  ?work wdt:P921 ?variant .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,en". }
+} GROUP BY ?variant ?variantLabel
+  ORDER BY ASC(?variantLabel)

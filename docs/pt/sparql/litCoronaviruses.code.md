@@ -20,6 +20,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2024-08-28</td>
+    <td><a href="https://scholia.toolforge.org/Q130044669">Recent evolutionary origin and localized diversity hotspots of mammalian coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q130044669">edit</a>)</td>
+    <td><a href="https://doi.org/10.7554/ELIFE.91745.3">10.7554/ELIFE.91745.3</a></td>
+  </tr>
+  <tr>
     <td>2022-08-05</td>
     <td><a href="https://scholia.toolforge.org/Q99522133">A history of coronaviruses</a> (<a href="http://www.wikidata.org/entity/Q99522133">edit</a>)</td>
     <td><a href="https://doi.org/10.15347/WJM/2022.005">10.15347/WJM/2022.005</a></td>
@@ -163,6 +168,11 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td>2017-11-14</td>
     <td><a href="https://scholia.toolforge.org/Q41933450">Protective Humoral Immunity in the CNS Requires Peripheral CD19-Dependent Germinal Center Formation Following Coronavirus Encephalomyelitis.</a> (<a href="http://www.wikidata.org/entity/Q41933450">edit</a>)</td>
     <td><a href="https://doi.org/10.1128/JVI.01352-17">10.1128/JVI.01352-17</a></td>
+  </tr>
+  <tr>
+    <td>2016-02-06</td>
+    <td><a href="https://scholia.toolforge.org/Q28075580">Coronaviruses and the human airway: a universal system for virus-host interaction studies</a> (<a href="http://www.wikidata.org/entity/Q28075580">edit</a>)</td>
+    <td><a href="https://doi.org/10.1186/S12985-016-0479-5">10.1186/S12985-016-0479-5</a></td>
   </tr>
   <tr>
     <td>2014-08-15</td>

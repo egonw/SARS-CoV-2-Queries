@@ -18,6 +18,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
     <td><b>ncbi</b></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q104450895">variants of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q104450895">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q104857014">RmYN02</a> (<a href="http://www.wikidata.org/entity/Q104857014">edit</a>)</td>
     <td></td>
   </tr>
@@ -95,6 +99,10 @@ SELECT ?virus ?virusLabel ?ncbi WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q116167183">Alphacoronavirus WA1087</a> (<a href="http://www.wikidata.org/entity/Q116167183">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q123562955">TyRo-CoV-162275</a> (<a href="http://www.wikidata.org/entity/Q123562955">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

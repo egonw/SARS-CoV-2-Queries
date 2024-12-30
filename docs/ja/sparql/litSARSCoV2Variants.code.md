@@ -37,7 +37,7 @@ SELECT ?variant ?variantLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104376647">SARS-CoV-2 Alpha variant</a> (<a href="http://www.wikidata.org/entity/Q104376647">edit</a>)</td>
-    <td>70</td>
+    <td>87</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104400171">SARS-CoV-2 Beta variant</a> (<a href="http://www.wikidata.org/entity/Q104400171">edit</a>)</td>
@@ -69,6 +69,10 @@ SELECT ?variant ?variantLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q110101454">SARS-CoV-2 Lineage AY.4.2</a> (<a href="http://www.wikidata.org/entity/Q110101454">edit</a>)</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q109747616">SARS-CoV-2 Lineage B.1.1.519</a> (<a href="http://www.wikidata.org/entity/Q109747616">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

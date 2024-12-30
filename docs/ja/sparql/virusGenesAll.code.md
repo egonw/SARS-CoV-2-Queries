@@ -229,7 +229,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q4902157">MERSコロナウイルス</a> (<a href="http://www.wikidata.org/entity/Q4902157">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88173012">spike protein</a> (<a href="http://www.wikidata.org/entity/Q88173012">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88173012">スパイクタンパク質</a> (<a href="http://www.wikidata.org/entity/Q88173012">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/14254594">14254594</a></td>
   </tr>
   <tr>
@@ -349,7 +349,7 @@ SELECT ?virus ?virusLabel ?gene ?geneLabel ?ncbigene WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q8351095">ヒトコロナウイルスNL63</a> (<a href="http://www.wikidata.org/entity/Q8351095">edit</a>)</td>
-    <td><a href="https://scholia.toolforge.org/Q88176251">spike protein</a> (<a href="http://www.wikidata.org/entity/Q88176251">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88176251">スパイクタンパク質</a> (<a href="http://www.wikidata.org/entity/Q88176251">edit</a>)</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/gene/2943499">2943499</a></td>
   </tr>
   <tr>

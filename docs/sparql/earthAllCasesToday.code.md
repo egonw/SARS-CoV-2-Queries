@@ -13,10 +13,6 @@ SELECT ?numberOfCases  WHERE {
 ### Output
 <table>
   <tr>
-    <td><b>numberOfCases</b></td>
-  </tr>
-  <tr>
-    <td>312173462</td>
   </tr>
 </table>
 ## Code examples

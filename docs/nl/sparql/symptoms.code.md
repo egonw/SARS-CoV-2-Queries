@@ -99,6 +99,12 @@ SELECT ?symptom ?symptomLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3245488">nasal congestion</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3339235">neurologische aandoening</a> (<a href="http://www.wikidata.org/entity/Q3339235">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q112159554">thromboinflammation</a> (<a href="http://www.wikidata.org/entity/Q112159554">edit</a>)</td>
+  </tr>
 </table>
 ## Broncode voorbeelden
 ### curl

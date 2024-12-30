@@ -23,6 +23,10 @@ WHERE {
 
 
 ### Resultaten
+<table>
+  <tr>
+  </tr>
+</table>
 ## Broncode voorbeelden
 ### curl
 ```shell

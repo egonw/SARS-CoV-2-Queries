@@ -129,6 +129,12 @@ Listing these symptoms:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3245488">nasal congestion</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3339235">neurological disorder</a> (<a href="http://www.wikidata.org/entity/Q3339235">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q112159554">thromboinflammation</a> (<a href="http://www.wikidata.org/entity/Q112159554">edit</a>)</td>
+  </tr>
 </table>
 
 ## Effects
@@ -176,7 +182,7 @@ This lists these effects:
     <td><a href="https://scholia.toolforge.org/Q93629491">pediatric multisystem inflammatory syndrome</a> (<a href="http://www.wikidata.org/entity/Q93629491">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q100732653">long COVID</a> (<a href="http://www.wikidata.org/entity/Q100732653">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100732653">long covid</a> (<a href="http://www.wikidata.org/entity/Q100732653">edit</a>)</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q104778232">COVID-19 mortality</a> (<a href="http://www.wikidata.org/entity/Q104778232">edit</a>)</td>

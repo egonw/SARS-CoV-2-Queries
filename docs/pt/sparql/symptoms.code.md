@@ -99,6 +99,12 @@ SELECT ?symptom ?symptomLabel WHERE {
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3245488">congestão nasal</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3339235">distúrbio neurológico</a> (<a href="http://www.wikidata.org/entity/Q3339235">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q112159554">thromboinflammation</a> (<a href="http://www.wikidata.org/entity/Q112159554">edit</a>)</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

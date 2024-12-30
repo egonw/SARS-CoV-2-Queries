@@ -131,6 +131,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q15889608">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q15889608">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q17149812">Janus kinase inhibitors</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
     <td>2</td>
   </tr>
@@ -144,10 +148,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q2450337">interferão beta-1a</a> (<a href="http://www.wikidata.org/entity/Q2450337">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27106392">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -219,7 +219,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q27126379">sildenafil citrate</a> (<a href="http://www.wikidata.org/entity/Q27126379">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q27126379">citrato de sildenafil</a> (<a href="http://www.wikidata.org/entity/Q27126379">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -239,7 +239,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q326224">Colchicina</a> (<a href="http://www.wikidata.org/entity/Q326224">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q326224">colchicina</a> (<a href="http://www.wikidata.org/entity/Q326224">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>
@@ -303,7 +303,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">Tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td>1</td>
   </tr>
 </table>

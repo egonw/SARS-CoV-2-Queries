@@ -37,11 +37,32 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://doi.org/10.3390/ANTIOX12030559">10.3390/ANTIOX12030559</a></td>
   </tr>
   <tr>
+    <td>2022-04-05</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q4688789">AFM</a> (<a href="http://www.wikidata.org/entity/Q4688789">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q127788901">A tethered ligand assay to probe SARS-CoV-2:ACE2 interactions</a> (<a href="http://www.wikidata.org/entity/Q127788901">edit</a>)</td>
+    <td><a href="https://doi.org/10.1073/PNAS.2114397119">10.1073/PNAS.2114397119</a></td>
+  </tr>
+  <tr>
     <td>2022-02-21</td>
     <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q14907768">HLA-E</a> (<a href="http://www.wikidata.org/entity/Q14907768">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q111086082">SARS-CoV-2 Nsp13 encodes for an HLA-E-stabilizing peptide that abrogates inhibition of NKG2A-expressing NK cells</a> (<a href="http://www.wikidata.org/entity/Q111086082">edit</a>)</td>
     <td><a href="https://doi.org/10.1016/J.CELREP.2022.110503">10.1016/J.CELREP.2022.110503</a></td>
+  </tr>
+  <tr>
+    <td>2022-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21116057">interleukin 6 receptor</a> (<a href="http://www.wikidata.org/entity/Q21116057">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q125770791">Beneficial of adding Tocilizumab to standard care in critical forms of Covid-19 pneumonia: Study on paired series.</a> (<a href="http://www.wikidata.org/entity/Q125770791">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2022-01-01</td>
+    <td><a href="https://scholia.toolforge.org/Q82069695">SARSコロナウイルス2</a> (<a href="http://www.wikidata.org/entity/Q82069695">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q412889">インターロイキン-6</a> (<a href="http://www.wikidata.org/entity/Q412889">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q125770791">Beneficial of adding Tocilizumab to standard care in critical forms of Covid-19 pneumonia: Study on paired series.</a> (<a href="http://www.wikidata.org/entity/Q125770791">edit</a>)</td>
+    <td></td>
   </tr>
   <tr>
     <td>2021-10-01</td>
@@ -168,6 +189,27 @@ ORDER BY DESC(?date) ?doi ?virus ?gene
     <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
     <td><a href="https://scholia.toolforge.org/Q98191474">The D614G mutation in the SARS-CoV2 Spike protein increases infectivity in an ACE2 receptor dependent manner</a> (<a href="http://www.wikidata.org/entity/Q98191474">edit</a>)</td>
     <td><a href="https://doi.org/10.1101/2020.07.21.214932">10.1101/2020.07.21.214932</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q104450895">SARSコロナウイルス2の変異株</a> (<a href="http://www.wikidata.org/entity/Q104450895">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q21126599">II型膜貫通型セリンプロテアーゼ</a> (<a href="http://www.wikidata.org/entity/Q21126599">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q104450895">SARSコロナウイルス2の変異株</a> (<a href="http://www.wikidata.org/entity/Q104450895">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q301630">angiotensin I converting enzyme 2</a> (<a href="http://www.wikidata.org/entity/Q301630">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
+  </tr>
+  <tr>
+    <td>2020-07-21</td>
+    <td><a href="https://scholia.toolforge.org/Q104450895">SARSコロナウイルス2の変異株</a> (<a href="http://www.wikidata.org/entity/Q104450895">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q581324">フーリン</a> (<a href="http://www.wikidata.org/entity/Q581324">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97638457">ACE2, TMPRSS2, and Furin variants and SARS-CoV-2 infection in Madrid, Spain</a> (<a href="http://www.wikidata.org/entity/Q97638457">edit</a>)</td>
+    <td><a href="https://doi.org/10.1002/JMV.26319">10.1002/JMV.26319</a></td>
   </tr>
   <tr>
     <td>2020-07-21</td>

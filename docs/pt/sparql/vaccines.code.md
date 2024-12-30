@@ -78,6 +78,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?announcement WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q106265257">Sanofi–GSK COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q106265257">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q106309712">BBV154</a> (<a href="http://www.wikidata.org/entity/Q106309712">edit</a>)</td>
     <td></td>
   </tr>
@@ -206,6 +210,10 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?announcement WHERE {
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q124341960">ArVac Cecilia Grierson</a> (<a href="http://www.wikidata.org/entity/Q124341960">edit</a>)</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q87775025">mRNA-1273 vaccine</a> (<a href="http://www.wikidata.org/entity/Q87775025">edit</a>)</td>
     <td></td>
   </tr>
@@ -242,7 +250,7 @@ SELECT DISTINCT ?vaccine ?vaccineLabel ?announcement WHERE {
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q97154240">tozinameran</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q97154240">Pfizer–BioNTech COVID-19 vaccine</a> (<a href="http://www.wikidata.org/entity/Q97154240">edit</a>)</td>
     <td></td>
   </tr>
   <tr>

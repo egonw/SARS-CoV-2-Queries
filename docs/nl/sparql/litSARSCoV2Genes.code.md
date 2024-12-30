@@ -21,9 +21,39 @@ SELECT (MAX(?dates) as ?date) ?work ?workLabel ?doi WHERE {
     <td><b>doi</b></td>
   </tr>
   <tr>
+    <td>2022-05-17</td>
+    <td><a href="https://scholia.toolforge.org/Q112566256">Spectral and theoretical study of SARS-CoV-2 ORF10 protein interaction with endogenous and exogenous macroheterocyclic compounds</a> (<a href="http://www.wikidata.org/entity/Q112566256">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.SAA.2022.121403">10.1016/J.SAA.2022.121403</a></td>
+  </tr>
+  <tr>
+    <td>2022-03-15</td>
+    <td><a href="https://scholia.toolforge.org/Q120816882">The importance of accessory protein variants in the pathogenicity of SARS-CoV-2</a> (<a href="http://www.wikidata.org/entity/Q120816882">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.ABB.2022.109124">10.1016/J.ABB.2022.109124</a></td>
+  </tr>
+  <tr>
+    <td>2021-12-02</td>
+    <td><a href="https://scholia.toolforge.org/Q112712597">Emergence of unique SARS-CoV-2 ORF10 variants and their impact on protein structure and function</a> (<a href="http://www.wikidata.org/entity/Q112712597">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.IJBIOMAC.2021.11.151">10.1016/J.IJBIOMAC.2021.11.151</a></td>
+  </tr>
+  <tr>
+    <td>2021-06-01</td>
+    <td><a href="https://scholia.toolforge.org/Q106447854">Conflicting and ambiguous names of overlapping ORFs in the SARS-CoV-2 genome: A homology-based resolution</a> (<a href="http://www.wikidata.org/entity/Q106447854">edit</a>)</td>
+    <td><a href="https://doi.org/10.1016/J.VIROL.2021.02.013">10.1016/J.VIROL.2021.02.013</a></td>
+  </tr>
+  <tr>
+    <td>2021-01-05</td>
+    <td><a href="https://scholia.toolforge.org/Q104745911">Characterization of SARS-CoV-2 ORF6 deletion variants detected in a nosocomial cluster during routine genomic surveillance, Lyon, France</a> (<a href="http://www.wikidata.org/entity/Q104745911">edit</a>)</td>
+    <td><a href="https://doi.org/10.1080/22221751.2021.1872351">10.1080/22221751.2021.1872351</a></td>
+  </tr>
+  <tr>
     <td>2021-01-01</td>
     <td><a href="https://scholia.toolforge.org/Q108503531">SARS-CoV-2 Accessory Protein ORF7b Mediates Tumor Necrosis Factor-α-Induced Apoptosis in Cells</a> (<a href="http://www.wikidata.org/entity/Q108503531">edit</a>)</td>
     <td><a href="https://doi.org/10.3389/FMICB.2021.654709">10.3389/FMICB.2021.654709</a></td>
+  </tr>
+  <tr>
+    <td>2020-10-01</td>
+    <td><a href="https://scholia.toolforge.org/Q100404793">Dynamically evolving novel overlapping gene as a factor in the SARS-CoV-2 pandemic</a> (<a href="http://www.wikidata.org/entity/Q100404793">edit</a>)</td>
+    <td><a href="https://doi.org/10.7554/ELIFE.59633">10.7554/ELIFE.59633</a></td>
   </tr>
   <tr>
     <td>2020-08-18</td>

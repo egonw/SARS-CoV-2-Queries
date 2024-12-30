@@ -8,14 +8,14 @@
     "@type": "Organization",
     "name": "GitHub"
   },
-  "copyrightYear": "2023",
+  "copyrightYear": "2024",
   "discussionUrl": "https://github.com/egonw/SARS-CoV-2-Queries/issues"
 }
 </script>
 
 # Wikidata Queries around the SARS-CoV-2 virus and pandemic
 
-© 2020-2023 Addshore, Daniel Mietchen, Egon Willighagen
+© 2020-2024 Addshore, Daniel Mietchen, Egon Willighagen
 
 [![DOI](https://zenodo.org/badge/247777238.svg)](https://zenodo.org/badge/latestdoi/247777238)
 

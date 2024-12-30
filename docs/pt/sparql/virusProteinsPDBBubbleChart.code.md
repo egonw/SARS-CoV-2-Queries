@@ -51,7 +51,7 @@ SELECT ?protein ?proteinLabel (COUNT(?pdb) AS ?count) WHERE {
     <td>830</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a [SARS-CoV-2]</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q88200603">Viroporin 3a</a> (<a href="http://www.wikidata.org/entity/Q88200603">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>

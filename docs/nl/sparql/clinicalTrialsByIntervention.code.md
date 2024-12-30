@@ -131,6 +131,10 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>2</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q15889608">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q15889608">edit</a>)</td>
+    <td>2</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q17149812">Janus kinase inhibitors</a> (<a href="http://www.wikidata.org/entity/Q17149812">edit</a>)</td>
     <td>2</td>
   </tr>
@@ -144,10 +148,6 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q2450337">interferon bèta-1a</a> (<a href="http://www.wikidata.org/entity/Q2450337">edit</a>)</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://scholia.toolforge.org/Q27106392">dexamethasone acetate</a> (<a href="http://www.wikidata.org/entity/Q27106392">edit</a>)</td>
     <td>2</td>
   </tr>
   <tr>
@@ -239,7 +239,7 @@ SELECT ?intervention ?interventionLabel (COUNT(?trial) AS ?trials) WHERE {
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://scholia.toolforge.org/Q326224">Colchicine</a> (<a href="http://www.wikidata.org/entity/Q326224">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q326224">colchicine</a> (<a href="http://www.wikidata.org/entity/Q326224">edit</a>)</td>
     <td>1</td>
   </tr>
   <tr>

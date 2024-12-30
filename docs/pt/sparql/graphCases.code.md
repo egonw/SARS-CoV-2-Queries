@@ -23,6 +23,10 @@ WHERE {
 
 
 ### Output
+<table>
+  <tr>
+  </tr>
+</table>
 ## Code examples
 ### curl
 ```shell

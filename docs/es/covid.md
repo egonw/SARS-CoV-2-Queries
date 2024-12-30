@@ -132,6 +132,12 @@ Listado de estos síntomas:
   <tr>
     <td><a href="https://scholia.toolforge.org/Q3245488">congestion nasal</a> (<a href="http://www.wikidata.org/entity/Q3245488">edit</a>)</td>
   </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q3339235">trastorno neurológico</a> (<a href="http://www.wikidata.org/entity/Q3339235">edit</a>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholia.toolforge.org/Q112159554">thromboinflammation</a> (<a href="http://www.wikidata.org/entity/Q112159554">edit</a>)</td>
+  </tr>
 </table>
 
 <a name="sec:ensayos"></a>

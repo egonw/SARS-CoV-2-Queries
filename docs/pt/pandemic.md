@@ -19,10 +19,6 @@ O que nos dá (até o momento que o documento foi gerado):
 
 <table>
   <tr>
-    <td><b>numberOfCases</b></td>
-  </tr>
-  <tr>
-    <td>312173462</td>
   </tr>
 </table>
 

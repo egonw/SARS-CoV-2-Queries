@@ -368,6 +368,9 @@ SELECT ?facet ?facetLabel WHERE {
     <td><a href="https://scholia.toolforge.org/Q109309949">timeline of the COVID-19 pandemic in November 2021</a> (<a href="http://www.wikidata.org/entity/Q109309949">edit</a>)</td>
   </tr>
   <tr>
+    <td><a href="https://scholia.toolforge.org/Q109450222">Q109450222</a> (<a href="http://www.wikidata.org/entity/Q109450222">edit</a>)</td>
+  </tr>
+  <tr>
     <td><a href="https://scholia.toolforge.org/Q109502125">Q109502125</a> (<a href="http://www.wikidata.org/entity/Q109502125">edit</a>)</td>
   </tr>
   <tr>

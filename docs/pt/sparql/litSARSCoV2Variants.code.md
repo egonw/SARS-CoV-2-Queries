@@ -121,7 +121,7 @@ SELECT ?variant ?variantLabel (COUNT(?work) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q109739412">SARS-CoV-2 Omicron variant</a> (<a href="http://www.wikidata.org/entity/Q109739412">edit</a>)</td>
-    <td>58</td>
+    <td>60</td>
   </tr>
   <tr>
     <td><a href="https://scholia.toolforge.org/Q107055212">SARS-CoV-2 Zeta variant</a> (<a href="http://www.wikidata.org/entity/Q107055212">edit</a>)</td>
